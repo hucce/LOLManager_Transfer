@@ -1,0 +1,14 @@
+﻿ID,Name,Dec
+1000,Gold Recruitment,Recruit 1 random player with a combined stat above 81.
+1001,Gold Package,Recruit 5 random players with a combined stat above 81.
+1002,Player recruitment,Recruit 1 random player.
+1003,Silver Recruitment,Recruit 1 random player with a combined stat above 76.
+1004,Gold Recruitment,Recruit 1 random player with a combined stat above 81.
+1005,Platinum Recruitment,Recruit 1 random player with a combined GPA of 84 or higher.
+1006,Basic Package,Recruit 5 random players.
+1007,Silver Package,Recruit 5 random players with a combined stat above 76.
+1008,Gold Package,Recruit 5 random players with a combined stat above 81.
+1009,Platinum Package,Recruit 5 random players with a combined GPA of 84 or higher.
+1010,Previous season Recruitment,One random player from the 18-20SUM season is recruited. (Not including limitation)
+1011,Previous season package,5 random players from the 18-20SUM season are recruited. (Not including limitation)
+1012,Change team name,Change your team name.

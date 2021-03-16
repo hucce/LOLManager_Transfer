@@ -58,8 +58,8 @@ def createFolder(directory):
         print ('Error: Creating directory. ' +  directory)
  
 def Convert(loadList, notReplaceList, language, languageFull):
-    notFile = False
     for loadFile in loadList:
+        notFile = False
         #데이터 불러오기
         read = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
         for notRe in notReplaceList:
@@ -114,5 +114,6 @@ notReplaceList = ['Team', 'Player']
 readLanDF = pd.read_csv('./LanguageList.csv', encoding = 'utf-8')
 languageList = ['ja', 'zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
 
-for lan in range(0, len(languageList)):
+max = len(languageList)
+for lan in range(0, 1):
     Convert(loadList, notReplaceList, languageList[lan], readLanDF['Language'][lan])
