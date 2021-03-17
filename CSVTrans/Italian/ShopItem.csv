@@ -1,0 +1,14 @@
+﻿ID,Name,Dec
+1000,Reclutamento d'oro,Recluta 1 giocatore casuale con una stat combinata sopra 81.
+1001,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
+1002,Reclutamento del giocatore,Recluta 1 giocatore a caso.
+1003,Reclutamento d'argento,Recluta 1 giocatore a caso con una statistica combinata sopra il 76.
+1004,Reclutamento d'oro,Recluta 1 giocatore casuale con una stat combinata sopra 81.
+1005,Reclutamento di platino.,Recluta 1 giocatore a caso con un GPA combinato di 84 o superiore.
+1006,Pacchetto di base,Recluta 5 giocatori casuali.
+1007,Pacchetto d'argento,Recluta 5 giocatori casuali con una stat combinata sopra il 76.
+1008,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
+1009,Pacchetto Platinum.,Recluta 5 giocatori casuali con un GPA combinato di 84 o superiore.
+1010,Reclutamento della stagione precedente,Un giocatore casuale della stagione 18-20sum è reclutato.
+1011,Pacchetto di stagione precedente, (Non incluso la limitazione)
+1012,Cambia il nome del team.,5 giocatori casuali della stagione 18-20sum sono reclutati.

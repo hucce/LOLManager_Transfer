@@ -1,0 +1,14 @@
+﻿ID,Name,Dec
+1000,Recrutement d'or,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 81.
+1001,Colis d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
+1002,Recrutement du joueur,Recruter 1 joueur aléatoire.
+1003,Recrutement d'argent,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 76.
+1004,Recrutement d'or,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 81.
+1005,Recrutement en platine,Recruter 1 joueur aléatoire avec une GPA combinée de 84 ou plus.
+1006,Paquet de base,Recruter 5 joueurs aléatoires.
+1007,Paquet d'argent,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 76.
+1008,Colis d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
+1009,Paquet Platinum,Recruter 5 joueurs aléatoires avec une GPA combinée de 84 ou plus.
+1010,Recrutement de la saison précédente,Un joueur aléatoire de la saison de 18-20sums est recruté.
+1011,Paquet de la saison précédente, (Non compris la limitation)
+1012,Changer le nom de l'équipe,5 joueurs aléatoires de la saison 18-20SUM sont recrutés.

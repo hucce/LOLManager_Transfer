@@ -1,0 +1,14 @@
+﻿ID,Name,Dec
+1000,Recrutamento de ouro,Recrute 1 jogador aleatório com um estatuto combinado acima de 81.
+1001,Pacote de ouro,Recrute 5 jogadores aleatórios com um estatuto combinado acima de 81.
+1002,Recrutamento de jogadores,Recrute 1 jogador aleatório.
+1003,Recrutamento de prata,Recrute 1 jogador aleatório com um estatuto combinado acima de 76.
+1004,Recrutamento de ouro,Recrute 1 jogador aleatório com um estatuto combinado acima de 81.
+1005,Recrutamento de platina,Recrute 1 jogador aleatório com um GPA combinado de 84 ou superior.
+1006,Pacote básico,Recrute 5 jogadores aleatórios.
+1007,Pacote de prata,Recrute 5 jogadores aleatórios com um estatuto combinado acima de 76.
+1008,Pacote de ouro,Recrute 5 jogadores aleatórios com um estatuto combinado acima de 81.
+1009,Pacote de platina,Recrute 5 jogadores aleatórios com um GPA combinado de 84 ou superior.
+1010,Recrutamento de estação anterior,Um jogador aleatório da temporada de 18 a 20Sum é recrutado.
+1011,Pacote de temporada anterior, (Não incluindo limitação)
+1012,Alterar o nome da equipe,5 jogadores aleatórios da temporada de 18 a 20Sum são recrutados.

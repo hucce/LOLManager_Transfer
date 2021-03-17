@@ -1,14 +1,14 @@
 ﻿ID,Name,Dec
-1000,Gold Recruitment,Recruit 1 random player with a combined stat above 81.
-1001,Gold Package,Recruit 5 random players with a combined stat above 81.
-1002,Player recruitment,Recruit 1 random player.
-1003,Silver Recruitment,Recruit 1 random player with a combined stat above 76.
-1004,Gold Recruitment,Recruit 1 random player with a combined stat above 81.
-1005,Platinum Recruitment,Recruit 1 random player with a combined GPA of 84 or higher.
-1006,Basic Package,Recruit 5 random players.
-1007,Silver Package,Recruit 5 random players with a combined stat above 76.
-1008,Gold Package,Recruit 5 random players with a combined stat above 81.
-1009,Platinum Package,Recruit 5 random players with a combined GPA of 84 or higher.
-1010,Previous season Recruitment,One random player from the 18-20SUM season is recruited. (Not including limitation)
-1011,Previous season package,5 random players from the 18-20SUM season are recruited. (Not including limitation)
-1012,Change team name,Change your team name.
+1000,ゴールドリクルートメント,81を超える合計STATを持つ1ランダムプレーヤーをリクルートします。
+1001,金パッケージ,81以上の統合されたSTATを持つ5つのランダムプレーヤーをリクルートします。
+1002,プレイヤー募集,ランダムプレーヤーをリクルートします。
+1003,銀の募集,76を超える合計STATを持つ1ランダムなプレーヤーをリクルートします。
+1004,ゴールドリクルートメント,81を超える合計STATを持つ1ランダムプレーヤーをリクルートします。
+1005,プラチナ採用,84以上の組み合わせGPAを使用して1ランダムプレーヤーをリクルートします。
+1006,基本パッケージ,4人のランダムプレイヤーをリクルートします。
+1007,銀パッケージ,76を超える合計統合を持つ4つのランダムプレーヤーをリクルートします。
+1008,金パッケージ,81以上の統合されたSTATを持つ5つのランダムプレーヤーをリクルートします。
+1009,プラチナパッケージ,84以上の組み合わせGPAを使用して5つのランダムプレーヤーをリクルートします。
+1010,以前のシーズンの募集,18-20サムシーズンからの1つのランダムプレーヤーが募集されます。
+1011,前のシーズンパッケージ, （制限を含まない）
+1012,チームの名前を変更してください,18-20サムシーズンからのランダムプレイヤーは募集されています。

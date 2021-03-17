@@ -21,7 +21,7 @@ def DFinText(baseDF, textCol, txtList):
             txtList.append(txt)
             txt = ''
 
-def LoadGoogle(baseDF, language, txt, col, startIndex):
+def LoadGoogle(baseDF, language, txt, col):
     driver = webdriver.Chrome('./chromedriver')
 
     #기본 구글 번역 url 설정
@@ -32,7 +32,7 @@ def LoadGoogle(baseDF, language, txt, col, startIndex):
     time.sleep(0.5)
     input_box = driver.find_element_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[1]/span/span/div/textarea')
     input_box.send_keys(txt)
-    time.sleep(2)
+    time.sleep(2.5)
     result = ''
     try:
         result = driver.find_element_by_css_selector("#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb.BLojaf > div.dePhmb > div > div.J0lOec > span.VIiyi").text
@@ -44,11 +44,15 @@ def LoadGoogle(baseDF, language, txt, col, startIndex):
     
     resultSplit = result.split('\n')
 
+    global startIndex
+    _index = startIndex
+
     for txt in resultSplit:
-        baseDF[col][startIndex] = txt
-        startIndex += 1
+        baseDF[col][_index] = txt
+        _index += 1
 
     driver.close()
+    startIndex = _index
 
 def createFolder(directory):
     try:
@@ -74,12 +78,13 @@ def Convert(loadList, notReplaceList, language, languageFull):
                     if dfCol in col:
                         txtList = []
                         DFinText(read, col, txtList)
+                        global startIndex
                         startIndex = 0
                         for txt in txtList:
-                            LoadGoogle(read, 'ja', txt, col, startIndex)
+                            LoadGoogle(read, language, txt, col)
 
         # 폴더가 없으면 만듦
-        createFolder('/' + languageFull)
+        createFolder('./' + languageFull)
         read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
         print(languageFull + ' ' + loadFile)
 
@@ -97,13 +102,40 @@ def ConvertLanguage():
         time.sleep(0.5)
         input_box = driver.find_element_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[1]/span/span/div/textarea')
         input_box.send_keys(readLanDF['Language'][lan])
-        time.sleep(2)
-        result = driver.find_element_by_css_selector("#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb > div.dePhmb > div > div.J0lOec > span.VIiyi > span > span").text
+        time.sleep(2.5)
+        result = ''
+        try:
+            result = driver.find_element_by_css_selector("#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb.BLojaf > div.dePhmb > div > div.J0lOec > span.VIiyi").text
+        except:
+            try:
+                result = driver.find_element_by_css_selector("#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb > div.dePhmb > div > div.J0lOec > span.VIiyi > span > span").text
+            except:
+                print("결과를 제대로 크롤링 못했음")
+        
         readLanDF['Convert'][lan] = result
 
         driver.close()
 
     readLanDF.to_csv('./languageConvert.csv', mode='w', index=False, encoding='utf-8-sig')
+
+def ConvertTest(loadFile, language, languageFull):
+    read = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
+    #Name, Dec
+    colList = ['Name', 'Dec']
+    for col in colList:
+        for dfCol in read.columns:
+            if dfCol in col:
+                txtList = []
+                DFinText(read, col, txtList)
+                global startIndex
+                startIndex = 0
+                for txt in txtList:
+                    LoadGoogle(read, language, txt, col)
+
+    # 폴더가 없으면 만듦
+    createFolder('./' + languageFull)
+    read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+    print(languageFull + ' ' + loadFile)
 
 #불러올 데이터들
 loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
@@ -115,5 +147,5 @@ readLanDF = pd.read_csv('./LanguageList.csv', encoding = 'utf-8')
 languageList = ['ja', 'zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
 
 max = len(languageList)
-for lan in range(0, 1):
+for lan in range(0, max):
     Convert(loadList, notReplaceList, languageList[lan], readLanDF['Language'][lan])

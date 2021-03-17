@@ -1,0 +1,189 @@
+﻿ID,Dec
+11000,Pasukan anda memenangi liga dengan bimbingan yang hebat! Mari kita bersiaplah untuk memenangi Kejohanan Dunia.
+11001,"Walaupun ia tidak menang, ia melakukan pekerjaan yang hebat. Mandi salji dilakukan di juara dunia!"
+11002,"Ia bukan kejohanan. Walau bagaimanapun, kami berjaya memajukan kejuaraan dunia!"
+11003,Ia bukan kejohanan. Tetapi ia adalah kedudukan yang baik untuk cuba memenangi musim depan.
+11004,"Yang paling teruk dielakkan, tetapi ia bukan kedudukan yang baik. Untuk ranking yang lebih tinggi} Saya fikir ia memerlukan penyelenggaraan."
+11005,Kami menamatkan musim di kedudukan yang paling teruk. Bagi peminat yang menyokong kami} Mari kita pergi lebih jauh untuk musim depan.
+11006,Pasukan itu memenangi Kejohanan Dunia dengan bimbingan yang hebat! Pemain dan peminat meraikan perintah hebat anda. Tahniah.
+11007,"Ia tidak menang, tetapi ia melakukan pekerjaan yang hebat. Mari kita cuba memenangi kejuaraan dunia musim depan!"
+11008,"Malangnya, ia adalah gred yang hebat. Mari kita meningkatkan kuasa kita musim depan dan cuba untuk memenangi juara dunia yang akan datang."
+11009,"Anda telah berjaya memasuki kejohanan itu. Musim depan, mari kita menuju ke kejohanan yang lebih tinggi."
+11010,"Malangnya, kejohanan itu gagal. Malangnya, mari kita maju ke Kejohanan Dunia musim depan dan bertujuan untuk kejuaraan."
+20000,Pameran / operasi baris
+20001,Seimbang
+20002,TeamFight.
+20003,Custom.
+21000,Ia adalah strategi untuk menggulung bola salji berdasarkan pertempuran garis yang kuat. {{-It sesuai apabila anda mempunyai pertempuran garis yang kuat. {-You boleh kembali ke satu tembakan apabila anda mempunyai tamparan yang lemah.
+21001,LINEUP} Hanta} Operasi Main permainan dengan cara yang seimbang. {{-Ini sesuai apabila keupayaan pemain walaupun.
+21002,Ini strategi yang bertujuan untuk satu tembakan melalui satu pukulan. {{-It sesuai apabila pasukan mempunyai keupayaan satu-tembakan yang kuat. {
+21003,Ini strategi anda.
+22000,Pusat permainan
+22001,Pusat ganking
+22002,Urutan utama
+23000,Pilih keupayaan untuk menjadi pusat permainan. Statistik pasukan akan meningkat. Sebaliknya} Selebihnya jatuh kuasa.
+23001,The Jungler memutuskan garisan untuk Gankinging.
+23002,Tetapkan kedudukan yang memberi tumpuan kepada operasi. Perintah utama akan meningkatkan kadar operasi pasukan.
+24000,Seimbang
+24001,Baris
+24002,TeamFight.
+24003,Operasi
+24004,Seimbang
+24005,Teratas
+24006,MID.
+24007,Bawah
+24008,Teratas
+24009,Jungle.
+24010,MID.
+24011,Iklan
+24012,Sokongan
+25000,Serang
+25001,Seimbang
+25002,Kapal tangki
+25003,Serang
+25004,Seimbang
+25005,Kapal tangki
+25006,Serang
+25007,Seimbang
+25008,Penyokong
+25009,Serang
+25010,Seimbang
+25011,Utiliti
+25012,Serang
+25013,Seimbang
+25014,Kapal tangki
+26000,Sangat tekan lawan selaras. Ia juga mengambil kawalan terhadap operasi melalui perpecahan. {{▲ Stats Operasi meningkat. {{-Points diperoleh atau hilang pada peningkatan garisan. {{▼ hanta stat merendahkan.
+26001,Tangki Tawaran Asas.
+26002,Pengaruh dikurangkan dalam pertempuran talian. Walau bagaimanapun} Dia lebih kuat di Hanta. {{▲ keupayaan Hanta meningkat. {{-Points diperoleh atau hilang pada baris diturunkan. {{▼ operasi stat diturunkan.
+26003,Ganking menjadi kuat. Walau bagaimanapun} terdapat risiko kegagalan ganking yang tinggi. {{▲ Stats Line meningkat. {{
+26004,Tangki Tawaran Asas.
+26005,Keupayaan Ganking diturunkan. Walau bagaimanapun} keupayaan memukul meningkat. {{▲ keupayaan memukul meningkat. {{▼ keupayaan barisan turun.
+26006,Sangat tekan lawan selaras. Ia juga mengambil kawalan terhadap operasi melalui perpecahan. {{▲ Stats Operasi meningkat. {{-Points diperoleh atau hilang pada peningkatan garisan. {{▼ hanta stat merendahkan.
+26007,Juara nuker asas.
+26008,Matlamatnya adalah untuk meningkatkan keupayaan satu Dil. {{▲ satu stat yang meningkat.
+26009,Hari-hari awal adalah kuat. Walau bagaimanapun} kerana masa berlalu} ia menjadi lemah. {{▲ line-up sehingga 20 minit pertama} keupayaan Hanta meningkat. {{▼ keupayaan Hanta berkurangan dari separuh kedua.
+26010,Juara asas satu perjanjian.
+26011,Memberi tumpuan kepada membantu pasukan daripada peranan Carrie. {{▲ statistik operasi naik. {{▼ Lines stats turun.
+26012,Perjuangan baris berkuasa. Walau bagaimanapun} ia berbahaya untuk beroperasi dengan kesihatan yang rendah. {{▲ Stats-up stats meningkat. {{-Points diperoleh atau hilang dari peningkatan operasi.
+26013,Juara penyokong asas.
+26014,Lemah dalam talian. Walau bagaimanapun} ia kuat di Hanta. {{▲ hanta stat meningkat. {{▼ Lines Stat diturunkan.
+30000,"Jika anda tidak boleh log masuk ke Google, anda tidak boleh bermain Multiplayer. Sila log masuk Google."
+30001,Terdapat akhir permainan yang tidak normal semasa perlawanan terakhir. Permainan itu dilucuthakkan.
+30002,Tahniah! Anda dinaikkan pangkat ke peringkat seterusnya!
+30003,Anda telah diturunkan kerana kekalahan yang berterusan.
+30004,Mendaftar masuk
+30005,Ada masalah. Sebab untuk isu:
+30006,Sambungan internet telah hilang. Apabila anda mempunyai sambungan Internet} anda akan disambung semula secara automatik.
+30007,Internet telah diputuskan semasa perlawanan pelbagai. {Jika anda klik OK} anda akan keluar dari stadium.
+30008,Terdapat masalah mencari lawan anda. {Tekan OK untuk keluar dari stadium.
+30009,Permainan ini tidak terkini. Anda perlu mengemaskini ke versi terkini untuk memainkan perlawanan. {{Tekan butang di bawah untuk menyemak versi lagi} atau pergi ke halaman kemas kini.
+30010,Memeriksa
+30011,Ia bukan versi terkini.
+30012,Minit
+30013,Anda telah dilaporkan sebagai pemain cheat dan tidak boleh bermain permainan multiplayer. {{Sila email {hucce@gmail.com untuk sebarang pertanyaan.
+30014,Anda didaftarkan sebagai pemain cheat.
+30015,Memeriksa pelayan multiplay. Sila tunggu sehingga masa pemeriksaan selesai
+30016,Tidak dapat memuatkan senarai. Sila log masuk Google di Multiplay.
+31000,Terima kasih kerana bermain permainan. Ulasan anda adalah bantuan yang hebat untuk pemaju. Anda akan menerima 300 intipati sebagai ganjaran.
+32000,Terima kasih kerana menonton iklan. Klik OK untuk menerima ganjaran tontonan anda.
+32001,Iklan melangkau anda mesti menonton iklan ke akhir untuk menerima ganjaran.
+32002,Gagal mengambil iklan Sila semak sambungan internet anda.
+36000,Skor liga
+36001,M.
+36002,W.
+36003,L.
+36004,Sejarah
+36005,Teratas
+36006,Keputusan perlawanan.
+36007,Menerima
+36008,Lengkap
+36009,Tidak lengkap
+36010,Pautan
+36011,Musim
+33000,Menaik taraf hanya mungkin sehingga tahap 10.
+33001,Kejayaan
+33002,Kegagalan
+33003,Kebarangkalian kejayaan
+33004,Beza
+33005,Adakah anda mahu melangkau tutorial? Anda tidak boleh mendapatkan ganjaran dari tutorial.
+33006,Bahasa ini akan berubah apabila anda memulakan semula permainan.
+34000,Semak versi perkhidmatan Google Play
+34001,Log masuk Google Play lengkap
+34002,Log masuk pelayan selesai.
+34003,Awan Simpan Pengesahan Lengkap
+34004,Import data lengkap
+34005,Masalah cuba lagi
+34006,Ralat! Muatkan ke mod luar talian
+33007,Pusingan
+33008,Baris
+33009,TeamFight.
+33010,Operasi
+33011,Teratas
+33012,MID.
+33013,Bawah
+33014,Kekalahan yang hebat
+33015,Mengalahkan
+33016,Bearish
+33017,Pertentangan
+33018,Keunggulan
+33019,Kemenangan
+33020,Kemenangan hebat
+33021,Pasukan Jungler Ganking.
+33022,Hari
+33023,Ganjaran akhir musim
+33024,Rakan anda telah diminta.
+33025,Sudah sahabat
+33026,Adakah anda pasti mahu memadamkan rakan ini?
+33027,Strategi disalin
+33028,Jenis
+33029,Ban
+33030,Pengisytiharan
+33031,Bug / cadangan
+33032,Jemputan pengurus. Menjadi pengurus pasukan LOL.
+33033,Kedudukan akhir.
+33034,Ganjaran terakhir
+33035,Musim bermula
+33036,Musim baru telah bermula.
+33037,Hall of Fame Sumbangan
+33038,Rehat
+33039,Tidak cukup intipati
+37000,Tiada
+37001,Intipati
+37002,Pek
+37003,Pakej
+38000,Semua
+38001,Perak
+38002,Emas
+38003,Platinum.
+33040,Semua
+33041,Perak
+33042,Emas
+33043,Platinum.
+33044,Berlian
+33045,Challenger.
+33046,Master
+33047,Pengambilan pekerja
+33048,Pakej
+33049,Persembahan
+33050,Termasuk terhad
+33051,Hanya terhad
+33052,Swap
+33053,Tambah
+33054,Keluarkan
+33055,Jumlahnya
+33056,Statistik
+33057,gangsa
+33058,Sehingga naik taraf peringkat seterusnya
+33059,Pindah
+33060,Menerima
+33061,Pemain yang sama sudah berada di senarai permulaan.
+33062,Tiada data.
+33063,Data tidak normal.
+33064,Alasannya
+33065,Tarikh mula menghancurkan seterusnya
+33066,Ralat berlaku semasa membuat kejohanan. {{Sentuh cuba untuk membuat kejohanan baru.
+33067,Pelayan menerima data.
+33068,Data tidak diterima dengan betul.
+33069,Pembentangan pemain musim
+33070,Entri Kejohanan Dunia.
+33071,Pemain terpilih yang membuat kemunculan mereka dalam liga tahun ini dan berharap untuk masa depan. Ia hanya boleh diperolehi sebagai ganjaran musim.

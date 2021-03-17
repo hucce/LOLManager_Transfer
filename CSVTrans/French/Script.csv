@@ -1,0 +1,189 @@
+﻿ID,Dec
+11000,Votre équipe a remporté la ligue avec un grand coaching! Préparons-nous à remporter le championnat du monde.
+11001,"Bien que cela ne gagnait pas, cela fait un excellent travail. Le bain de neige se fait au champion du monde!"
+11002,"Ce n'était pas un championnat. Cependant, nous avons réussi à faire progresser au championnat du monde!"
+11003,Ce n'était pas un championnat. Mais c'est un bon classement pour tenter de gagner la saison prochaine.
+11004,"Le pire a été évité, mais ce n'était pas un bon classement. Pour un classement plus élevé}, je pense que cela nécessite une maintenance."
+11005,Nous avons terminé la saison dans la pire position. Pour les fans qui nous soutiennent} allons plus loin pour la saison prochaine.
+11006,L'équipe a remporté le championnat du monde avec un grand coaching! Les joueurs et les fans célèbrent votre super commande. Toutes nos félicitations.
+11007,"Cela n'a pas gagné, mais cela fait un excellent travail. Essayons de gagner le championnat du monde la saison prochaine!"
+11008,"Malheureusement, c'est une bonne note. Augmentons notre puissance la saison prochaine et essayons de gagner le prochain champion du monde."
+11009,"Vous avez participé avec succès au tournoi. Saison prochaine, dirigeons les tournois supérieurs."
+11010,"Malheureusement, le tournoi a échoué. Malheureusement, progressons au championnat du monde la saison prochaine et visez le championnat."
+20000,Exposition / fonctionnement en ligne
+20001,Équilibre
+20002,Combat d'équipe
+20003,Personnalisé
+21000,C'est une stratégie de rouler des boules de neige basées sur des batailles de ligne fortes. {{-Il convient lorsque vous avez une bataille de ligne forte. {-Vous pouvez être retourné à un coup lorsque vous avez un souffle faible.
+21001,LineUp} Hanta} Opération Jouez au jeu de manière équilibrée. {{-C'est approprié lorsque la capacité des joueurs est même.
+21002,C'est une stratégie qui vise un tir à travers un seul coup. {{-Il convient quand une équipe a une capacité unique à un coup. {
+21003,Ceci est votre stratégie.
+22000,Le centre du jeu
+22001,Le centre d'un ganking
+22002,Ordre principal
+23000,"Choisissez la capacité d'être le centre du jeu. Les statistiques de l'équipe augmenteront. Au lieu de cela, le reste de la puissance tombe."
+23001,La Jungler décide la ligne de gankinging.
+23002,Définissez une position qui se concentre sur les opérations. L'ordre principal augmentera la proportion de l'opération d'équipe.
+24000,Équilibre
+24001,Ligne
+24002,Combat d'équipe
+24003,Opération
+24004,Équilibre
+24005,Sommet
+24006,Milieu
+24007,Bas
+24008,Sommet
+24009,Jungle
+24010,Milieu
+24011,UN D
+24012,Soutien
+25000,Attaque
+25001,Équilibré
+25002,Pétrolier
+25003,Attaque
+25004,Équilibré
+25005,Pétrolier
+25006,Attaque
+25007,Équilibré
+25008,Supporter
+25009,Attaque
+25010,Équilibré
+25011,Utilitaire
+25012,Attaque
+25013,Équilibré
+25014,Pétrolier
+26000,Appuyez fortement sur l'adversaire en ligne. Il prend également le contrôle de l'opération à travers la scission. {{▲ Les statistiques d'exploitation augmentent. {{Points gagnés ou perdus sur l'augmentation de la ligne. {{▼ Hanta State Bowers.
+26001,Tank de la transaction de base.
+26002,"L'influence est réduite dans les batailles de ligne. Cependant, il est plus fort à Hanta. {{▲ La capacité de Hanta est augmentée. {{Points gagnés ou perdus à la ligne sont abaissés. {{▼ L'opération de fonctionnement est abaissée."
+26003,"La ganking devient puissante. Cependant,} il y a un risque élevé d'échec de ganking. {{▲ Stats de ligne augmente. {{"
+26004,Tank de la transaction de base.
+26005,La capacité de ganking est abaissée. Cependant} la capacité de frappe augmente. {{▲ La capacité de frappe augmente. {{▼ La capacité de la gamme diminue.
+26006,Appuyez fortement sur l'adversaire en ligne. Il prend également le contrôle de l'opération à travers la scission. {{▲ Les statistiques d'exploitation augmentent. {{Points gagnés ou perdus sur l'augmentation de la ligne. {{▼ Hanta State Bowers.
+26007,Champ de base de Nuker.
+26008,L'objectif est d'améliorer la capacité de l'un dil. {{▲ une statistique de DIL augmente.
+26009,"Les premiers jours sont puissants. Cependant,} au fil du temps} il devient plus faible. {{▲ Line-up jusqu'à 20 minutes} Hanta Capacité augmente. {{▼ la capacité de Hanta diminue de la seconde moitié."
+26010,Champs de base uniques.
+26011,Se concentrer sur l'aide de l'équipe plutôt que du rôle de Carrie. {{▲ Les statistiques opérationnelles montent. {{▼ Les statistiques de lignes descendent.
+26012,"La lutte de ligne est puissante. Cependant, il est dangereux de fonctionner avec une faible santé. {{▲ Les statistiques de ligne augmentent. {{Points gagnés ou perdus de l'opération augmentent."
+26013,Champ Champs de Basporter.
+26014,Faible en ligne. Cependant} il est fort à Hanta. {{▲ stat Hanta est augmenté. {{▼ lignes stat est abaissée.
+30000,"Si vous ne pouvez pas vous connecter à Google, vous ne pouvez pas jouer à MultiLayer. Veuillez vous connecter à Google."
+30001,Il y avait une fin anormale du jeu lors du dernier Multi match. Le jeu a été confisqué.
+30002,Toutes nos félicitations! Vous êtes promu au niveau suivant!
+30003,Vous avez été rétrogradé en raison d'une défaite constante.
+30004,Connectez-vous
+30005,Il ya un problème. Raison de la question:
+30006,"La connexion Internet a été perdue. Lorsque vous avez une connexion Internet}, vous serez automatiquement reconnecté."
+30007,"Internet a été déconnecté pendant la multiplication multiple. {Si vous cliquez sur OK}, vous quitterez le stade."
+30008,Il y avait un problème à trouver votre adversaire. {Appuyez sur OK pour quitter le stade.
+30009,Le jeu n'est pas à jour. Vous devez mettre à jour la dernière version pour jouer le match. {{Appuyez sur le bouton ci-dessous pour vérifier la version à nouveau} ou accédez à la page de mise à jour.
+30010,Vérification
+30011,Ce n'est pas la dernière version.
+30012,Minute
+30013,Vous avez été signalé comme un joueur de triche et que vous ne pouvez pas jouer à des jeux multijoueurs. {{Veuillez envoyer un email {HUCCE@gmail.com pour toute question.
+30014,Vous êtes enregistré comme un joueur de triche.
+30015,Vérification du serveur multiplay. Veuillez patienter jusqu'à ce que l'heure de vérification soit terminée
+30016,Impossible de charger la liste. Veuillez vous connecter à Google en multiplay.
+31000,Merci de jouer au jeu. Votre avis est une aide précieuse pour le développeur. Vous recevrez 300 essences comme une récompense.
+32000,Merci d'avoir regardé l'annonce. Cliquez sur OK pour recevoir votre récompense de visualisation.
+32001,AD est sauté pour que vous deviez regarder l'annonce jusqu'au bout pour recevoir la récompense.
+32002,Échec de l'exploitation de la publicité Veuillez consulter votre connexion Internet.
+36000,Score de la ligue
+36001,M
+36002,W
+36003,L
+36004,Histoire
+36005,Sommet
+36006,Résultats des correspondances
+36007,Recevoir
+36008,Compléter
+36009,Incomplet
+36010,Lien
+36011,Saison
+33000,La mise à niveau n'est possible qu'au niveau 10.
+33001,Succès
+33002,Échec
+33003,Probabilité de succès
+33004,Différence
+33005,Voulez-vous sauter le tutoriel? Vous ne pouvez pas obtenir les récompenses du tutoriel.
+33006,La langue va changer lorsque vous redémarrez le jeu.
+34000,Vérification de la version de service Google Play
+34001,Google Play Login complet
+34002,Connexion au serveur terminé
+34003,Cloud sauvegarder la confirmation complète
+34004,Importation de données complète
+34005,Problème réessaye
+34006,Erreur! Charge au mode hors ligne
+33007,Rond
+33008,Ligne
+33009,Combat d'équipe
+33010,Opération
+33011,Sommet
+33012,Milieu
+33013,Bas
+33014,Grande défaite
+33015,Défaite
+33016,Baissier
+33017,Contention
+33018,Supériorité
+33019,La victoire
+33020,Grande victoire
+33021,Team Jungler ganking.
+33022,Jour
+33023,Récompense de fin de saison
+33024,Votre ami a déjà été demandé.
+33025,Déjà ami
+33026,Êtes-vous sûr de vouloir supprimer cet ami?
+33027,Stratégie copiée
+33028,Genre
+33029,Interdire
+33030,Déclaration
+33031,Bug / Suggestions
+33032,Invitation gestionnaire. Devenir gestionnaire d'équipe lol.
+33033,Note finale
+33034,La récompense finale
+33035,Début de saison
+33036,Une nouvelle saison a commencé.
+33037,Contribution de la salle de renommée
+33038,Se reposer
+33039,Pas assez d'essence
+37000,Aucun
+37001,Essence
+37002,Pack
+37003,Paquet
+38000,Tout
+38001,Argent
+38002,Or
+38003,Platine
+33040,Tout
+33041,Argent
+33042,Or
+33043,Platine
+33044,diamant
+33045,Challenger
+33046,Maître
+33047,Recrutement
+33048,Paquet
+33049,Présentation
+33050,Y compris limité
+33051,Seulement limité
+33052,Échanger
+33053,Ajouter
+33054,Supprimer
+33055,Total
+33056,Statistiques
+33057,bronze
+33058,Jusqu'à la prochaine mise à niveau
+33059,Bouge toi
+33060,Recevoir
+33061,Le même joueur est déjà sur la liste de départ.
+33062,Il n'y a pas de données.
+33063,Les données sont anormales.
+33064,Raison
+33065,Suivant Date de début d'écrasement
+33066,Une erreur s'est produite lors de la création d'un tournoi. {{Touchez TEAPTER pour créer un nouveau tournoi.
+33067,Le serveur reçoit des données.
+33068,Les données n'ont pas été reçues correctement.
+33069,Présentation du joueur de saison
+33070,Entrée de championnat du monde
+33071,Joueurs sélectionnés qui ont fait leurs débuts dans la ligue cette année et attendent avec impatience l'avenir. Il ne peut être obtenu que comme une récompense de saison.
