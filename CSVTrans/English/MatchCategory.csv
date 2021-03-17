@@ -1,9 +1,12 @@
-﻿teamID,Name,Dec
-1000000,18K,Defeat all the KR League teams in the 18 season.
-1000001,19SK,Defeat all the KR League teams in the 19 spring season.
-1000002,19MK,Defeat all the KR League teams in the 19 summer season.
-1000003,19RANK,Defeat all 19 Multi Match Season Top10 teams.
-1000004,20SK,Defeat all the KR League teams in the 20 spring season.
-1000005,20SE,Defeat all the EU League teams in the 20 spring season.
-1000006,20SN,Defeat all the NA League teams in the 20 spring season.
-1000007,20RANK,Defeat all 20 Multi Match Season Top10 teams.
+﻿teamID,Dec
+1000000,Defeat all the KR League teams in the 18 season.
+1000001,Defeat all the KR League teams in the 19 spring season.
+1000002,Defeat all the KR League teams in the 19 summer season.
+1000003,Defeat all 19 Multi Match Season Top10 teams.
+1000004,Defeat all the KR League teams in the 20 spring season.
+1000005,Defeat all the EU League teams in the 20 spring season.
+1000006,Defeat all the NA League teams in the 20 spring season.
+1000007,Defeat all the KR League teams in the 20 summer season.
+1000008,Defeat all the EU League teams in the 20 summer season.
+1000009,Defeat all the NA League teams in the 20 summer season.
+1000010,Defeat all 20 Multi Match Season Top10 teams.
