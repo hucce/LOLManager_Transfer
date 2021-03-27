@@ -107,11 +107,11 @@
 33004,Differenza
 33005,Vuoi saltare il tutorial? Non puoi ottenere i premi dal tutorial.
 33006,La lingua cambierà quando si riavvia il gioco.
-34000,Verifica della versione del servizio di Google Play
+34000,Verifica della versione di servizio di Google Play
 34001,Google Play Login completo
 34002,Login del server completato
 34003,Cloud Salva conferma Completa
-34004,Importazione dei dati Completa.
+34004,Importazione dei dati Completa
 34005,Problema Riprova
 34006,Errore! Carica alla modalità offline
 33007,Il giro
@@ -149,7 +149,7 @@
 33039,Non abbastanza essenza
 37000,Nessuna
 37001,Essenza
-37002,Confezione
+37002,Pacchetto
 37003,Pacchetto
 38000,Tutti
 38001,Argento
@@ -187,3 +187,4 @@
 33069,Presentazione del giocatore di stagione
 33070,Entry del campionato del mondo
 33071,I giocatori selezionati che hanno fatto il loro debutto in campionato quest'anno e attendo con ansia il futuro. Può essere ottenuto solo come ricompensa di stagione.
+33072,Vuoi fermare la partita automatica? {Gli articoli usati scompariranno.

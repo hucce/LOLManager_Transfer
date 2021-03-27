@@ -87,7 +87,7 @@
 31000,Cảm ơn bạn đã chơi trò chơi. Đánh giá của bạn là một trợ giúp tuyệt vời cho nhà phát triển. Bạn sẽ nhận được 300 bản chất như một phần thưởng.
 32000,Cảm ơn bạn đã xem quảng cáo. Nhấn OK để nhận phần thưởng xem của bạn.
 32001,"Quảng cáo bỏ qua, bạn phải xem quảng cáo đến cùng để nhận phần thưởng."
-32002,Không thể tìm nạp quảng cáo Vui lòng kiểm tra kết nối Internet của bạn.
+32002,Không thể tìm nạp quảng cáo Vui lòng kiểm tra kết nối internet của bạn.
 36000,ĐIỂM LEAGUE
 36001,M.
 36002,W
@@ -187,3 +187,4 @@
 33069,Trình bày cầu thủ mùa
 33070,Mục nhập vô địch thế giới
 33071,Những người chơi được chọn đã ra mắt trong giải đấu trong năm nay và mong muốn tương lai. Nó chỉ có thể được lấy là một phần thưởng mùa.
+33072,Bạn có muốn dừng trận đấu tự động không? {Các mục đã sử dụng sẽ biến mất.

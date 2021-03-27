@@ -27,13 +27,13 @@
 24000,Balance
 24001,Linie
 24002,Teamkampf
-24003,Operation
+24003,Betrieb
 24004,Balance
 24005,oben
 24006,Mitte
 24007,Unterseite
 24008,oben
-24009,Dschungel
+24009,Urwald
 24010,Mitte
 24011,ANZEIGE
 24012,Unterstützung
@@ -117,7 +117,7 @@
 33007,Runden
 33008,Linie
 33009,Teamkampf
-33010,Operation
+33010,Betrieb
 33011,oben
 33012,Mitte
 33013,Unterseite
@@ -151,11 +151,11 @@
 37001,Wesen
 37002,Pack
 37003,Paket
-38000,Alle
+38000,Alles
 38001,Silber
 38002,Gold
 38003,Platin
-33040,Alle
+33040,Alles
 33041,Silber
 33042,Gold
 33043,Platin
@@ -187,3 +187,4 @@
 33069,Saisonspielerpräsentation.
 33070,Weltmeisterschaftseinfahrt.
 33071,"Ausgewählte Spieler, die dieses Jahr in der Liga debütierten und sich auf die Zukunft freuen. Es kann nur als Saisonbelohnung erhalten werden."
+33072,Möchten Sie das Auto-Match stoppen? {Gebrauchte Elemente werden verschwinden.

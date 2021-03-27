@@ -5,7 +5,7 @@
 11003,Şampiyonluk değildi. Ama gelecek sezonu kazanmaya çalışmak için iyi bir sıralama.
 11004,"En kötüsü kaçınıldı, ama bu iyi bir sıralama değildi. Daha yüksek bir sıralama için} Bakıma ihtiyacı olduğunu düşünüyorum."
 11005,Sezonu en kötü durumda bitirdik. Bizi destekleyen fanlar için} Gelecek sezon için daha ileri gidelim.
-11006,"Ekip dünya şampiyonluğunu büyük koçlukla kazandı! Oyuncular ve hayranlar, harika komutunuzu kutlar. Tebrikler."
+11006,"Ekip dünya şampiyonluğunu büyük koçlukla kazandı! Oyuncular ve hayranlar, harika komutunu kutlar. Tebrikler."
 11007,"Kazanmadı, ama harika bir iş yaptı. Gelecek sezon dünya şampiyonasını kazanmaya çalışalım!"
 11008,"Ne yazık ki, bu harika bir not. Gelecek sezon gücümüzü artıralım ve bir sonraki Dünya Şampiyonu kazanmaya çalışalım."
 11009,"Turnuvaya başarıyla girdiniz. Gelecek sezon, daha yüksek turnuvalara gidelim."
@@ -57,13 +57,13 @@
 26002,"Etkisi, hat savaşlarında azalır. Ancak} Hanta'da daha güçlüdür. {{▲ HANTA yeteneği arttırıldı. {{Hatta kazanılan veya kaybolan noktalar indirildi. {{▼ işlem statü indirildi."
 26003,Gökte güçlü olur. Ancak} Ganking başarısızlığı riski yüksek. {{▲ Hat istatistikleri artar. {{
 26004,Temel anlaşma tankı.
-26005,Göking yeteneği düşürüldü. Ancak} isabet yeteneği artar. {{▲ isabet yeteneği artar. {{▼ dizinleme yeteneği azalır.
+26005,Gökleme yeteneği düşürüldü. Ancak} isabet yeteneği artar. {{▲ isabet yeteneği artar. {{▼ dizinleme yeteneği azalır.
 26006,"Rakibin doğrultusunda kuvvetle basın. Aynı zamanda, operasyonun kontrolünü kontrol eder. {{▲ Çalışma istatistikleri artar. {{Hattın üzerinde kazandığı veya kaybolduğu noktalar. {{▼ HANTA STAT düşer."
 26007,Temel Nuker Champ.
 26008,"Amaç, bir dilin kabiliyetini geliştirmektir. {{▲ One Dil'in statü artar."
 26009,İlk günler güçlüdür. Ancak} zaman geçtikçe} daha zayıf olur. {{▲ İlk 20 dakikaya kadar sıralamaya} Hanta yeteneği artar. {{▼ HANTA yeteneği ikinci yarıdan azalır.
 26010,Temel tek anlaşma şampiyonu.
-26011,Carrie'nin rolünden ziyade takıma yardım etmeye odaklanıyor. {{▲ Operasyonel istatistikler yükseldi. {{▼ satırlar istatistikleri aşağı iniyor.
+26011,Carrie'nin rolünden ziyade takıma yardım etmeye odaklanıyor. {{▲ Operasyonel istatistikler yükseldi. {{▼ satırlar istatistikleri aşağı iner.
 26012,Hat kavgası güçlüdür. Ancak} Düşük sağlık ile çalışmak tehlikelidir. {{▲ Line-up istatistikleri artar. {{- Operasyondan kazanılan veya kaybedilen puanlar.
 26013,Temel destekçisi şampiyonu.
 26014,Doğrultusunda zayıf. Ancak} Hanta'da güçlü. {{▲ HANTA STAT arttırıldı. {{▼ satırlar statü indirildi.
@@ -187,3 +187,4 @@
 33069,Sezon Oyuncu Sunumu
 33070,Dünya Şampiyonası Girişi
 33071,Bu yıl ligde ilk başlamalarını yapan seçilmiş oyuncular ve geleceği dört gözle bekliyorlar. Sadece bir sezon ödülü olarak elde edilebilir.
+33072,Otomatik eşleşmeyi durdurmak ister misiniz? {Kullanılan eşyalar kaybolur.

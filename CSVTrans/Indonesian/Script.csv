@@ -85,7 +85,7 @@
 30015,Memeriksa server multiplay. Harap tunggu sampai waktu periksa selesai
 30016,Tidak dapat memuat daftar. Silakan masuk Google dalam multiplay.
 31000,Terima kasih telah bermain game. Ulasan Anda sangat membantu bagi pengembang. Anda akan menerima 300 esensi sebagai hadiah.
-32000,Terima kasih telah menonton iklan. Klik OK untuk menerima hadiah menonton Anda.
+32000,Terima kasih telah menonton iklan. Klik OK untuk menerima hadiah tampilan Anda.
 32001,AD dilewati Anda harus menonton iklan sampai akhir untuk menerima hadiah.
 32002,"Gagal mengambil iklan, periksa koneksi internet Anda."
 36000,Skor Liga
@@ -103,7 +103,7 @@
 33000,Upgrade hanya dimungkinkan hingga level 10.
 33001,Keberhasilan
 33002,Kegagalan
-33003,Probabilitas kesuksesan
+33003,Probabilitas kesuksesan.
 33004,Perbedaan
 33005,Apakah Anda ingin melewati tutorial? Anda tidak bisa mendapatkan hadiah dari tutorial.
 33006,Bahasa akan berubah ketika Anda me-restart permainan.
@@ -187,3 +187,4 @@
 33069,Presentasi Pemain Musim.
 33070,Entri Kejuaraan Dunia
 33071,Pemain terpilih yang melakukan debut mereka di liga tahun ini dan menantikan masa depan. Itu hanya dapat diperoleh sebagai hadiah musim.
+33072,Apakah Anda ingin menghentikan pertandingan otomatis? {Item bekas akan hilang.

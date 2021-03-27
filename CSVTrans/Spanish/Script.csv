@@ -114,7 +114,7 @@
 34004,Importación de datos completa
 34005,Problema reintentar
 34006,¡Error! Carga para desactivar el modo
-33007,Redondo
+33007,Ronda
 33008,Línea
 33009,Pelea de equipo
 33010,Operación
@@ -151,11 +151,11 @@
 37001,Esencia
 37002,Paquete
 37003,Paquete
-38000,Todos
+38000,Todo
 38001,Plata
 38002,Oro
 38003,Platino
-33040,Todos
+33040,Todo
 33041,Plata
 33042,Oro
 33043,Platino
@@ -174,7 +174,7 @@
 33056,Estadísticas
 33057,bronce
 33058,Hasta la próxima actualización de rango
-33059,Moverse
+33059,Muevete
 33060,Recibir
 33061,El mismo jugador ya está en la lista de inicio.
 33062,No hay datos.
@@ -187,3 +187,4 @@
 33069,Presentación del jugador de temporada
 33070,Entrada del Campeonato Mundial
 33071,Los jugadores seleccionados que hicieron su debut en la liga este año y esperamos el futuro. Solo se puede obtener como recompensa de temporada.
+33072,¿Quieres detener el partido automático? {Los artículos usados desaparecerán.

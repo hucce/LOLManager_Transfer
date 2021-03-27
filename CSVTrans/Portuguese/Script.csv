@@ -29,14 +29,14 @@
 24002,TeamFight.
 24003,Operação
 24004,Equilíbrio
-24005,Topo
+24005,Principal
 24006,Meados de
-24007,Fundo
-24008,Topo
+24007,Inferior
+24008,Principal
 24009,Selva
 24010,Meados de
 24011,DE ANÚNCIOS
-24012,"Apoio, suporte"
+24012,Apoiar
 25000,Ataque
 25001,Equilibrado
 25002,Petroleiro
@@ -93,16 +93,16 @@
 36002,C
 36003,eu
 36004,História
-36005,Topo
+36005,Principal
 36006,Resultados de correspondência
 36007,Receber
 36008,Completo
 36009,Incompleto
-36010,Ligação
+36010,Link
 36011,Estação
 33000,A atualização só é possível até o nível 10.
 33001,Sucesso
-33002,Fracasso
+33002,Falha
 33003,Probabilidade de sucesso
 33004,Diferença
 33005,Você quer pular o tutorial? Você não pode obter as recompensas do tutorial.
@@ -111,16 +111,16 @@
 34001,Login do Google Play completo
 34002,Login do servidor concluído
 34003,Nuvem Salvar Confirmação Completo
-34004,Importação de dados completa
+34004,Importação de dados completa.
 34005,Tentativa de problema
 34006,Erro! Carregar para o modo offline
 33007,Redondo
 33008,Linha
 33009,TeamFight.
 33010,Operação
-33011,Topo
+33011,Principal
 33012,Meados de
-33013,Fundo
+33013,Inferior
 33014,Grande derrota
 33015,Derrota
 33016,Grosseiro
@@ -141,21 +141,21 @@
 33031,Bug / sugestões
 33032,Convite do gerente. Torne-se um gerente de equipe lol.
 33033,Classificação final
-33034,A recompensa final
+33034,A recompensa final.
 33035,Início da temporada
 33036,Uma nova temporada começou.
 33037,Contribuição do Hall of Fame
-33038,Resto
+33038,Descanso
 33039,Essência não suficiente
 37000,Nenhum
 37001,Essência
 37002,Pacote
 37003,Pacote
-38000,Todo
+38000,Tudo
 38001,Prata
 38002,Ouro
 38003,Platina
-33040,Todo
+33040,Tudo
 33041,Prata
 33042,Ouro
 33043,Platina
@@ -167,14 +167,14 @@
 33049,Apresentação
 33050,Incluindo limitado
 33051,Apenas limitado
-33052,Trocar
+33052,Troca
 33053,Adicionar
-33054,Retirar
+33054,Remover
 33055,Total
 33056,Estatísticas
 33057,bronze
 33058,Até a próxima atualização da classificação
-33059,Jogada
+33059,Mover
 33060,Receber
 33061,O mesmo jogador já está na lista inicial.
 33062,Não há dados.
@@ -187,3 +187,4 @@
 33069,Apresentação do jogador da estação
 33070,Entrada do Campeonato Mundial
 33071,Jogadores selecionados que fizeram sua estréia na liga este ano e esperamos o futuro. Só pode ser obtido como uma recompensa da temporada.
+33072,Você quer parar a partida automática? {Itens usados desaparecerão.
