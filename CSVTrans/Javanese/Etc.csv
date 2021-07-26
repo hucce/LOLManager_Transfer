@@ -70,7 +70,7 @@
 1068,새로고침시간,Refresh wektu
 1069,대전정보,Informasi match
 1070,대전찾기,Panelusuran match
-1071,선수,Pemain
+1071,선수,Pamuter
 1072,감독,Manager
 1073,로그인,Login
 1074,확인,Konfirmasi
@@ -93,7 +93,7 @@
 1091,업데이트하러 가기,Pindhah menyang nganyari
 1092,다시확인,Priksa maneh
 1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,Gagal mbukak info tim. {Nyoba maneh
-1094,이곳을 눌러 찾을 팀이름 입력,Tutul ing kene kanggo ngetik jeneng tim kanggo golek
+1094,이곳을 눌러 찾을 팀이름 입력,Tutul ing kene kanggo ngetik jeneng tim kanggo nemokake
 1095,밴플레이어,Larangan pamuter
 1096,전달,Relay
 1097,전송,Kirimi
@@ -196,7 +196,7 @@
 1203,팀정보,Info Tim
 1204,다음경기,Cocog sabanjure
 1205,팀 능력,Stats tim
-1206,선수 능력,Stats pamuter
+1206,선수 능력,Stats Player
 1207,<시즌보상선수>,<Mear Pahlawan Main
 1208,추가경험치,Nambah exp
 1209,경기 자동,Match otomatis
@@ -209,3 +209,5 @@
 1216,추가경험치,Addexp
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Ganjaran mung bisa ditampa kanthi musim 10 utawa luwih.
 1218,언어설정,Basa Seding
+1219,리셋,Ngreset
+1220,재시작,Urip maneh

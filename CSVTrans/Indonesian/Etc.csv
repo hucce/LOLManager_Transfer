@@ -10,7 +10,7 @@
 1008,정수,Esensi
 1009,저장날짜,HEMAT TANGGAL
 1010,결정,Keputusan
-1011,경기,Pertandingan
+1011,경기,Cocok
 1012,리그,Liga
 1013,전략,Strategi
 1014,선수{관리,Player {Management.
@@ -27,7 +27,7 @@
 1025,이름,Nama
 1026,종합,Total
 1027,일정,Kalender
-1028,상대팀,Tim lawan.
+1028,상대팀,Tim lawan
 1029,총합,Total
 1030,결과,Hasil
 1031,승리,Kemenangan
@@ -35,13 +35,13 @@
 1033,간편,Sederhana
 1034,지침,Pedoman.
 1035,픽밴,Pilih larangan
-1036,설정,Set
+1036,설정,Mengatur
 1037,설명,Penjelasan
 1038,라인,Garis
-1039,타입,Tipe
+1039,타입,Jenis
 1040,등급,Peringkat
 1041,강화,Memperkuat
-1042,재조합,Rekombinasi.
+1042,재조합,Rekombinasi
 1043,팀케미,Tim Chemie.
 1044,선발 선수,Memulai pemain
 1045,후보 선수,Sub pemain
@@ -58,12 +58,12 @@
 1056,5번 보시면 200정수를 추가로 드립니다.,Jika Anda terlihat 5 kali} Anda akan menerima 200 kaki tambahan.
 1057,골드 영입,Rekrutmen Emas.
 1058,실버 선수,Pemain perak
-1059,시청,Menonton
+1059,시청,Jam tangan
 1060,플레,Platinum
 1061,골드,Emas
 1062,선수명단,Daftar Pemain
 1063,가격,Harga
-1064,추천,Sarankan
+1064,추천,Menyarankan
 1065,구입,Membeli
 1066,탑 랭킹,Peringkat Atas
 1067,내 순위,Pangkat saya
@@ -73,21 +73,21 @@
 1071,선수,Pemain
 1072,감독,Pengelola
 1073,로그인,Gabung
-1074,확인,Konfirmasi
+1074,확인,Mengonfirmasi
 1075,일일,Hari
 1076,업적,Prestasi
 1077,기타,Dll
 1078,보상,Penghargaan
-1079,공지사항,Memperhatikan
-1080,계속,Terus
+1079,공지사항,Melihat
+1080,계속,Melanjutkan
 1081,이곳을 눌러 입력,Tekan di sini untuk masuk
 1082,최종순위,Peringkat akhir.
 1083,시즌 보상:,Hadiah Musim:
-1084,스킵,Melewatkan
-1085,예,Iya
+1084,스킵,Melewati
+1085,예,ya
 1086,아니오,Tidak
 1087,터치 하면 게임 시작,Sentuh untuk memulai permainan
-1088,평점,Kelas
+1088,평점,Nilai
 1089,경기진행,Pertandingan berlangsung
 1090,버전확인,Periksa versi
 1091,업데이트하러 가기,Buka Perbarui
@@ -96,14 +96,14 @@
 1094,이곳을 눌러 찾을 팀이름 입력,Ketuk di sini untuk memasukkan nama tim untuk menemukan
 1095,밴플레이어,Ban pemain
 1096,전달,Menyampaikan
-1097,전송,Kirim
+1097,전송,Mengirim
 1098,문의하기,Hubungi kami
 1099,버그/건의,Bug / saran.
 1100,게임 종료,Keluar permainan
 1101,초대링크,Tautan Undangan
 1102,모의경기,Simulasi Match.
-1103,전략복사,Salin Strategis
-1104,신고,Melaporkan
+1103,전략복사,Salinan strategis
+1104,신고,Laporan
 1105,<이벤트>,<Event>
 1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,Acara Ekspres Sponsor! {{Lihat iklan yang disponsori sekarang untuk mendapatkan hadiah tambahan + 50%.
 1107,영입시장으로 가기,Pergi ke pasar rekrutmen
@@ -115,21 +115,21 @@
 1113,이벤트,Peristiwa
 1114,포인트,Titik
 1115,친구요청,Permintaan pertemanan
-1116,친구추가,Tambah teman
+1116,친구추가,Menambah teman
 1117,친구 목록,Daftar teman
-1118,찾기,Temukan
+1118,찾기,Menemukan
 1119,아니요,Tidak
 1120,멀티대전정보,Info multimatch
-1121,친구 추가,Tambah teman
+1121,친구 추가,Menambah teman
 1122,라인전{운영,Line {Operasi
 1123,밸런스,Seimbang
-1124,커스텀,Adat
-1125,탑,Puncak
-1126,정글,Puncak
+1124,커스텀,Kebiasaan
+1125,탑,Atas
+1126,정글,Atas
 1127,미드,Hutan
 1128,원딜,Pertengahan
 1129,서폿,IKLAN
-1130,중심,Pusat
+1130,중심,Tengah
 1131,갱킹,Ganking
 1132,메인오더,Pesanan utama.
 1133,한정,Terbatas
@@ -140,7 +140,7 @@
 1138,내용,Isi
 1139,첨부,Lampiran
 1140,쪽지 목록,Daftar Pesan
-1141,받는이:,Untuk:
+1141,받는이:,Ke:
 1142,첨부종류:,Jenis lampiran:
 1143,상세:,Detail:
 1144,전송 비용:,Biaya transmisi:
@@ -154,7 +154,7 @@
 1152,실버,Perak
 1153,브론즈,Perunggu
 1154,<시즌 보상정보>,<Informasi Hadiah Musim>
-1155,시즌 보상정보,Informasi Hadiah Musim.
+1155,시즌 보상정보,Informasi Hadiah Musim
 1156,등급상승 보상,Upgrade kelas hadiah
 1157,명예의 전당 헌액,Kontribusi Hall of Fame
 1158,시즌보상카드 증정,Kartu Hadiah Musim.
@@ -171,7 +171,7 @@
 1169,모든팀에게 승리 시,Kemenangan untuk semua tim
 1170,상세보기,Melihat rincian
 1171,연습{경기,Praktik {Match.
-1172,대전,Pertandingan
+1172,대전,Cocok
 1173,멀티 시즌성적,Hasil multi musim
 1174,새로운 시즌 시작,Mulai musim baru
 1175,평균 선수 종합:,Total Pemain AVG:
@@ -209,3 +209,5 @@
 1216,추가경험치,Addexp.
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Hadiah hanya dapat diterima pada musim 10 atau lebih.
 1218,언어설정,SETING BAHASA
+1219,리셋,Mengatur ulang
+1220,재시작,Menyalakan ulang

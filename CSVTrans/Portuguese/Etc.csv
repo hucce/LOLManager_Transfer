@@ -6,22 +6,22 @@
 1004,불러오는 중 /{구글 로그인,Carregando / {Google Entrar
 1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,"<Atenção> {{{existe mais de um dado. Por favor, selecione os dados para carregar. {Dados não selecionados serão excluídos."
 1006,팀이름,Nome do time
-1007,라운드,Redondo
+1007,라운드,Arredondar
 1008,정수,Essência
 1009,저장날짜,Salvar data
 1010,결정,Decisão
-1011,경기,Jogo
+1011,경기,Partida
 1012,리그,Liga
 1013,전략,Estratégia
 1014,선수{관리,Jogador {gerenciamento
-1015,영입{시장,Recrutamento {Market
+1015,영입{시장,Recrutamento {Market.
 1016,멀티{대전,Multi {Match.
 1017,계정,Conta
 1018,순위,Classificação
 1019,승,C
 1020,패,eu
 1021,라인전,Linha
-1022,한타,TeamFight.
+1022,한타,Teamfight.
 1023,운영,Operação
 1024,포지션,Posição
 1025,이름,Nome
@@ -49,7 +49,7 @@
 1047,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),Team Chemie (▲ 2) {ano Chemie (▲ 1) {tipo Chemie (▲ 1) {liga Chemie (▲ 1)
 1048,케미스트리,Química
 1049,재조합 선수,Jogador recombinante.
-1050,제거,Retirar
+1050,제거,Remover
 1051,강화 선수,Player de reforço
 1052,재료 선수,Jogador de coisas
 1053,성공확률:,Chance de sucesso:
@@ -78,7 +78,7 @@
 1076,업적,Realizações
 1077,기타,Etc.
 1078,보상,Recompensa
-1079,공지사항,Aviso prévio
+1079,공지사항,Perceber
 1080,계속,Continuar
 1081,이곳을 눌러 입력,Pressione aqui para entrar
 1082,최종순위,Classificação final
@@ -87,7 +87,7 @@
 1085,예,sim
 1086,아니오,Não
 1087,터치 하면 게임 시작,Toque para iniciar o jogo
-1088,평점,Grau
+1088,평점,Nota
 1089,경기진행,Combinar o progresso
 1090,버전확인,Verifique a versão.
 1091,업데이트하러 가기,Vá para atualizar.
@@ -113,11 +113,11 @@
 1111,답변을 받으실 메일을 적어주세요.,"Por favor, escreva um email para responder."
 1112,(언어 변경 시 재시작 필요),(Requer reinício ao alterar a linguagem)
 1113,이벤트,Evento
-1114,포인트,Ponto
+1114,포인트,Apontar
 1115,친구요청,Pedido de amizade
 1116,친구추가,Adicionar amigo
 1117,친구 목록,Lista de amigos
-1118,찾기,Achar
+1118,찾기,Encontrar
 1119,아니요,Não
 1120,멀티대전정보,Informação multimatch
 1121,친구 추가,Adicionar amigo
@@ -138,7 +138,7 @@
 1136,당신의 팀이름을 정해주세요{(최대 5글자),"Por favor, especifique o nome da sua equipe {(até 5 caracteres)"
 1137,보낸이,A partir de
 1138,내용,Conteúdo
-1139,첨부,Acessório
+1139,첨부,Anexo
 1140,쪽지 목록,Lista de mensagens.
 1141,받는이:,Para:
 1142,첨부종류:,Tipo de fixação:
@@ -158,25 +158,25 @@
 1156,등급상승 보상,Recompensa de atualização de classe.
 1157,명예의 전당 헌액,Contribuição do Hall of Fame
 1158,시즌보상카드 증정,Cartão de recompensa da temporada
-1159,다이아 패키지,Pacote de Diamond
+1159,다이아 패키지,Pacote de Diamond.
 1160,플레티넘 패키지,Pacote de platina
 1161,골드 패키지,Pacote de ouro
 1162,실버 패키지,Pacote de prata
 1163,모든선수 패키지,O pacote de todos os jogadores
 1164,다이아 영입,Recrutamento de diamante
-1165,첼린저 영입,Recrutamento de Challenger
+1165,첼린저 영입,Recrutamento de Challenger.
 1166,모든한정포함 첼린저 영입,Recrutamento de limite de todos
 1167,보낸날짜,Data enviada
 1168,보상정보,Recompensas informações
 1169,모든팀에게 승리 시,Vitória a todas as equipes
 1170,상세보기,Ver detalhes
-1171,연습{경기,Prática {jogo
-1172,대전,Jogo
+1171,연습{경기,Prática {jogo.
+1172,대전,Partida
 1173,멀티 시즌성적,Multi temporada resulta
 1174,새로운 시즌 시작,Início da nova temporada
 1175,평균 선수 종합:,Total do Jogador do AVG:
 1176,이곳을 눌러{선수 이름 입력,Pressione aqui para {nome do jogador Enter
-1177,시즌,Estação
+1177,시즌,Temporada
 1178,영입정보,Informações de Recrutamento
 1179,검색,Seque
 1180,난이도,Dificuldade
@@ -193,7 +193,7 @@
 1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"※ Se você não prosseguir para o torneio final, você não será recompensado."
 1201,랭크,Classificação
 1202,격전,A paixão súbita
-1203,팀정보,Informações da equipe
+1203,팀정보,Informações da equipe.
 1204,다음경기,Próxima partida
 1205,팀 능력,Estatísticas da equipe.
 1206,선수 능력,Estatísticas do jogador.
@@ -209,3 +209,5 @@
 1216,추가경험치,AddExp.
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ As recompensas só podem ser recebidas pela época 10 ou mais.
 1218,언어설정,Configuração de idioma.
+1219,리셋,Redefinir
+1220,재시작,Reinício

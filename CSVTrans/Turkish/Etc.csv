@@ -1,7 +1,7 @@
 ﻿ID,Korean,Dec
 1000,효과음,Ses efekti
 1001,배경음,Arka plan sesi
-1002,언어,Dil
+1002,언어,Dilim
 1003,만든이: 허민구{연락: huccce@gmail.com,Oluşturan: Heo min-gu {İletişim: huccce@gmail.com
 1004,불러오는 중 /{구글 로그인,/ {Google giriş yap
 1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<DİKKAT> {{Birden fazla veri var. Lütfen yüklenecek verileri seçin. {Seçilmemiş veri silinecek.
@@ -20,11 +20,11 @@
 1018,순위,Rütbe
 1019,승,W
 1020,패,L
-1021,라인전,Hat
+1021,라인전,Astar
 1022,한타,Teamfight
 1023,운영,Operasyon
-1024,포지션,Durum
-1025,이름,İsim vermek
+1024,포지션,Konum
+1025,이름,İsim
 1026,종합,Toplam
 1027,일정,Takvim
 1028,상대팀,Karşı takım
@@ -37,7 +37,7 @@
 1035,픽밴,Yasaklamak
 1036,설정,Ayarlamak
 1037,설명,Açıklama
-1038,라인,Hat
+1038,라인,Astar
 1039,타입,Tip
 1040,등급,Değerlendirme
 1041,강화,Güçlendirmek
@@ -63,7 +63,7 @@
 1061,골드,Altın
 1062,선수명단,Oyuncu listesi
 1063,가격,Fiyat
-1064,추천,Önermek
+1064,추천,Tavsiye etmek
 1065,구입,Satın almak
 1066,탑 랭킹,Üst rütbe
 1067,내 순위,Benim rütbem
@@ -72,22 +72,22 @@
 1070,대전찾기,Maç araması
 1071,선수,oyuncu
 1072,감독,Yönetici
-1073,로그인,Oturum aç
+1073,로그인,Giriş yapmak
 1074,확인,Onaylamak
 1075,일일,Gün
 1076,업적,Başarılar
 1077,기타,Vb
 1078,보상,Ödül
 1079,공지사항,Farkına varmak
-1080,계속,Devam et
+1080,계속,Devam etmek
 1081,이곳을 눌러 입력,Girmek için buraya basın
 1082,최종순위,Son derece
 1083,시즌 보상:,Sezon Ödül:
 1084,스킵,Atlamak
 1085,예,Evet
-1086,아니오,Hayır
+1086,아니오,Numara
 1087,터치 하면 게임 시작,Oyuna başlamak için dokunun
-1088,평점,Sınıf
+1088,평점,Seviye
 1089,경기진행,İlerleme eşleştir
 1090,버전확인,Verici kontrol edin
 1091,업데이트하러 가기,Güncelleme yapmak
@@ -118,14 +118,14 @@
 1116,친구추가,Arkadaş Ekle
 1117,친구 목록,Arkadaş listesi
 1118,찾기,Bulmak
-1119,아니요,Hayır
+1119,아니요,Numara
 1120,멀티대전정보,Multimatch bilgi
 1121,친구 추가,Arkadaş Ekle
 1122,라인전{운영,Satır {operasyon
 1123,밸런스,Dengeli
-1124,커스텀,Özel
-1125,탑,Üst
-1126,정글,Üst
+1124,커스텀,Gelenek
+1125,탑,Tepe
+1126,정글,Tepe
 1127,미드,Orman
 1128,원딜,Orta
 1129,서폿,Reklam
@@ -136,11 +136,11 @@
 1134,레벨,Lv
 1135,팀,Takım
 1136,당신의 팀이름을 정해주세요{(최대 5글자),Lütfen takım adınızı belirtin {(5 karaktere kadar)
-1137,보낸이,Dan
+1137,보낸이,İtibaren
 1138,내용,İçerik
-1139,첨부,Ek dosya
+1139,첨부,Ek
 1140,쪽지 목록,Mesaj Listesi
-1141,받는이:,İçin:
+1141,받는이:,NS:
 1142,첨부종류:,Ek tipi:
 1143,상세:,Detay:
 1144,전송 비용:,İletim Maliyet:
@@ -192,7 +192,7 @@
 1199,재시도,Yeniden denemek
 1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"※ Son turnuvaya geçmezseniz, ödüllendirilmeyeceksiniz."
 1201,랭크,Rütbe
-1202,격전,Ezme
+1202,격전,Ezmek
 1203,팀정보,Takım Bilgisi
 1204,다음경기,Sıradaki karşılaşma
 1205,팀 능력,Takım istatistikleri
@@ -200,12 +200,14 @@
 1207,<시즌보상선수>,<Sezon ödül oyunu>
 1208,추가경험치,Exp ekle
 1209,경기 자동,Oto maçı
-1210,아이템,Eşya
+1210,아이템,Kalem
 1211,사용중인 아이템,Kullanımdaki öğeler
 1212,경기 아이템,Eşleşme eşyaları
 1213,사용,Kullanmak
-1214,개수,Miktar
+1214,개수,Saymak
 1215,자동,Oto
 1216,추가경험치,Eklemek
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Ödüller sadece 10 sezon 10 veya daha fazla tarafından alınabilir.
 1218,언어설정,Dil Kurulumu
+1219,리셋,Sıfırla
+1220,재시작,Yeniden başlatmak

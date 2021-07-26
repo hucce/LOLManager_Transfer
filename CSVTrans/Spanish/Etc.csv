@@ -78,7 +78,7 @@
 1076,업적,Logros
 1077,기타,Etc.
 1078,보상,Recompensa
-1079,공지사항,Aviso
+1079,공지사항,aviso
 1080,계속,Continuar
 1081,이곳을 눌러 입력,Presiona aquí para entrar
 1082,최종순위,Rango final
@@ -140,7 +140,7 @@
 1138,내용,Contenido
 1139,첨부,Adjunto archivo
 1140,쪽지 목록,Lista de mensajes
-1141,받는이:,A:
+1141,받는이:,Para:
 1142,첨부종류:,Tipo de fijación:
 1143,상세:,Detalle:
 1144,전송 비용:,Costo de transmisión:
@@ -203,9 +203,11 @@
 1210,아이템,Artículo
 1211,사용중인 아이템,Artículos en uso
 1212,경기 아이템,Partidos de artículos
-1213,사용,Usar
+1213,사용,Utilizar
 1214,개수,Contar
 1215,자동,Auto
 1216,추가경험치,Adjunta
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Las recompensas solo pueden ser recibidas por la temporada 10 o más.
 1218,언어설정,Conjunto de idiomas
+1219,리셋,Reiniciar
+1220,재시작,Reiniciar

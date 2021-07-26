@@ -22,7 +22,7 @@
 1020,패,L.
 1021,라인전,Linie
 1022,한타,Teamkampf
-1023,운영,Operation
+1023,운영,Betrieb
 1024,포지션,Position
 1025,이름,Name
 1026,종합,Gesamt
@@ -31,14 +31,14 @@
 1029,총합,Gesamt
 1030,결과,Ergebnis
 1031,승리,Sieg
-1032,패배,Niederlage
+1032,패배,Verlust
 1033,간편,Einfach
 1034,지침,Richtlinie
 1035,픽밴,Pick-Ban
-1036,설정,einstellen
+1036,설정,Satz
 1037,설명,Erläuterung
 1038,라인,Linie
-1039,타입,Art
+1039,타입,Typ
 1040,등급,Nennen
 1041,강화,Verstärken
 1042,재조합,Rekombination
@@ -58,13 +58,13 @@
 1056,5번 보시면 200정수를 추가로 드립니다.,Wenn Sie 5-mal aussehen} erhalten Sie weitere 200 GESSENCE.
 1057,골드 영입,Goldrekrutierung.
 1058,실버 선수,Silberspieler
-1059,시청,Sehen
+1059,시청,Betrachten
 1060,플레,Platin
 1061,골드,Gold
 1062,선수명단,Spielerliste
 1063,가격,Preis
 1064,추천,Empfehlen
-1065,구입,Kaufen
+1065,구입,Besorgen
 1066,탑 랭킹,Top-Rang
 1067,내 순위,Mein Rang
 1068,새로고침시간,Zeitzeit aktualisieren
@@ -73,25 +73,25 @@
 1071,선수,Spieler
 1072,감독,Manager
 1073,로그인,Anmeldung
-1074,확인,Bestätigen
+1074,확인,Bestätigen Sie
 1075,일일,Tag
 1076,업적,Erfolge
-1077,기타,Usw
-1078,보상,Belohnung
-1079,공지사항,Beachten
-1080,계속,Fortsetzen
+1077,기타,Etc
+1078,보상,Belohnen
+1079,공지사항,Notiz
+1080,계속,Weitermachen
 1081,이곳을 눌러 입력,"Drücken Sie hier, um einzugeben"
 1082,최종순위,Endgültiger Rang
 1083,시즌 보상:,Saisonbelohnung:
 1084,스킵,Überspringen
-1085,예,Ja
+1085,예,Jawohl
 1086,아니오,Nein
 1087,터치 하면 게임 시작,"Berühren Sie, um das Spiel zu starten"
 1088,평점,Klasse
 1089,경기진행,Fortschritt anpassen
 1090,버전확인,Überprüfen Sie die Version.
 1091,업데이트하러 가기,Zum Update gehen
-1092,다시확인,Nochmal Überprüfen
+1092,다시확인,erneut überprüfen
 1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,Fehler beim Laden der Teaminformationen nicht. {Versuchen Sie es erneut
 1094,이곳을 눌러 찾을 팀이름 입력,"Tippen Sie hier auf, um den Teamnamen einzugeben, um zu finden"
 1095,밴플레이어,Banspieler
@@ -103,7 +103,7 @@
 1101,초대링크,Einladungslink.
 1102,모의경기,Simulationsmatch.
 1103,전략복사,Strategische Kopie.
-1104,신고,Bericht
+1104,신고,Prüfbericht
 1105,<이벤트>,<Veranstaltung>
 1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,"Sponsor's Express-Event! {{{Che check out the gespeicherte Anzeigen nun, um eine zusätzliche Belohnung von + 50% zu erhalten."
 1107,영입시장으로 가기,Gehen Sie zum Recruitment Market
@@ -114,7 +114,7 @@
 1112,(언어 변경 시 재시작 필요),"(Erfordert, wenn die Sprache wiederholt)"
 1113,이벤트,Veranstaltung
 1114,포인트,Punkt
-1115,친구요청,Freundschaftsanfrage
+1115,친구요청,Frage von einem Freund
 1116,친구추가,Freund hinzufügen
 1117,친구 목록,Freundesliste
 1118,찾기,Finden
@@ -124,8 +124,8 @@
 1122,라인전{운영,Linie {Operation.
 1123,밸런스,Ausgewogen
 1124,커스텀,Benutzerdefiniert
-1125,탑,oben
-1126,정글,oben
+1125,탑,Oberteil
+1126,정글,Oberteil
 1127,미드,Dschungel
 1128,원딜,Mitte
 1129,서폿,ANZEIGE
@@ -134,9 +134,9 @@
 1132,메인오더,Hauptauftrag
 1133,한정,Begrenzt
 1134,레벨,Lv
-1135,팀,Mannschaft
+1135,팀,Team
 1136,당신의 팀이름을 정해주세요{(최대 5글자),Bitte geben Sie Ihren Teamnamen an {(bis zu 5 Zeichen) an
-1137,보낸이,Von
+1137,보낸이,Aus
 1138,내용,Inhalt
 1139,첨부,Anhang
 1140,쪽지 목록,Nachrichtenliste
@@ -192,7 +192,7 @@
 1199,재시도,Wiederholen
 1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"※ Wenn Sie nicht mit dem letzten Turnier fortfahren, werden Sie nicht belohnt."
 1201,랭크,Rang
-1202,격전,Zerquetschen
+1202,격전,Zerkleinern
 1203,팀정보,Teaminfo.
 1204,다음경기,Nächstes Spiel
 1205,팀 능력,Teamstatistiken
@@ -204,8 +204,10 @@
 1211,사용중인 아이템,Gebrauchsgegenstände.
 1212,경기 아이템,Spielelemente
 1213,사용,Benutzen
-1214,개수,Anzahl
+1214,개수,Zählen
 1215,자동,Auto
 1216,추가경험치,ADDEXP.
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Belohnungen können nur bis Saison 10 oder mehr empfangen werden.
 1218,언어설정,Spracheinstellung
+1219,리셋,Zurücksetzen
+1220,재시작,Neu starten
