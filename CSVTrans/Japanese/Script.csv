@@ -1,190 +1,193 @@
 ﻿ID,Dec
-11000,あなたのチームは素晴らしいコーチングでリーグを獲得しました！世界選手権を獲得する準備をしましょう。
-11001,勝ちませんでしたが、素晴らしい仕事をしました。雪の入浴は世界チャンピオンで行われます！
-11002,それはチャンピオンシップではありませんでした。しかし、私たちは世界選手権に進むことに成功しました！
-11003,それはチャンピオンシップではありませんでした。しかし、それは来シーズンに勝つことを試みるのは良いランクです。
-11004,最悪の事態は避けられましたが、それは良いランキングではありませんでした。より高いランキング}私はそれがメンテナンスが必要だと思います。
-11005,私たちは最悪の地位でシーズンを終えました。私たちをサポートしているファンのために、次のシーズンのためにさらに行きましょう。
-11006,チームは素晴らしいコーチングで世界選手権を獲得しました！プレイヤーとファンはあなたの素晴らしいコマンドを祝います。おめでとう。
-11007,それは勝ちませんでしたが、それは素晴らしい仕事でした。来シーズンに勝利しよう！
-11008,残念ながら、それは素晴らしい成績です。次のシーズンを増やして、次の世界チャンピオンに勝つことを試みましょう。
-11009,あなたはトーナメントに正常に入力されました。来シーズン、より高いトーナメントに向かいましょう。
-11010,残念ながら、トーナメントは失敗しました。残念ながら、来シーズンの世界選手権に進み、チャンピオンシップを目指しましょう。
-20000,線展示会/営業
-20001,残高
-20002,チームファイト
-20003,カスタム
-21000,それは強い線の戦いに基づいてスノーボールをロールする戦略です。 {{-itはあなたが強い線の戦いを持っているときに適しています。あなたが弱い打撃を受けたとき、{-youは一方のショットに戻すことができます。
-21001,操作のバランスのとれた方法でゲームを再生します。 {{ - これはプレーヤーの能力がさえも適しています。
-21002,それは1ショットを通してショットを狙う戦略です。 {{-itはチームが強いワンショット能力を持っているときに適しています。 {
-21003,これはあなたの戦略です。
-22000,ゲームの中心
-22001,ガーキングの中心
-22002,メインオーダー
-23000,ゲームの中心になる能力を選択してください。チームの統計が増えます。その代わりに}残りの電源が入っています。
-23001,ジャングラーは、ゲインキングのための行を決定します。
-23002,操作に焦点を当てた位置を設定します。主な順序はチーム操作の割合を増やすでしょう。
-24000,残高
-24001,ライン
-24002,チームファイト
-24003,操作
-24004,残高
-24005,上
-24006,中々
-24007,bottom
-24008,上
-24009,密林
-24010,中々
-24011,広告
-24012,サポート
-25000,攻撃
-25001,バランス
-25002,タンカー
-25003,攻撃
-25004,バランス
-25005,タンカー
-25006,攻撃
-25007,バランス
-25008,サポーター
-25009,攻撃
-25010,バランス
-25011,有用性
-25012,攻撃
-25013,バランス
-25014,タンカー
-26000,相手を並んで強く押します。また、分割による操作を制御します。 {{▲操作統計が増加する。 {{{ - ライン上の増加または失われたポイント。 {{{▼ハンタスタートは低下します。
-26001,ベーシックディールタンク。
-26002,影響を伸ばして影響を与えます。しかし彼はハンタでより強いです。 {√Hanta能力が向上します。 {{ - ラインで獲得または失われたポイントが低下する。 {{▼操作STATが低下する。
-26003,ゲインキングは強力になります。しかし、障害が発生する危険性が高いです。 {{▲線統計が増加する。 {{{{
-26004,ベーシックディールタンク。
-26005,Gapking能力が低下する。しかし、打撃力が増加します。 {{▲打撃能力は増加します。 {{{▼ラインアップ能力が下がります。
-26006,相手を並んで強く押します。また、分割による操作を制御します。 {{▲操作統計が増加する。 {{{ - ライン上の増加または失われたポイント。 {{{▼ハンタスタートは低下します。
-26007,基本的なナッカーチャンピオン。
-26008,目標は、1倍のDIRの能力を向上させることです。 {{▲1つのDilの統計量が増加する。
-26009,初期の頃は強力です。しかし、時間が経つにつれて}それは弱くなります。 Hanta能力が上がる{{▲} {{▼ハンタ能力は後半から減少します。
-26010,基本的なワンディールシャン。
-26011,キャリーの役割ではなくチームを支援することに焦点を当てています。 {{✓運用統計が上がる。 {{▼行統計統計が降ります。
-26012,線の戦いは強力です。しかし、低い健康で動作するのは危険です。 {{▲ラインアップ統計が増加します。 {{{ - 稼働ポイントの増加から増加する。
-26013,基本サポーターチャンピオン。
-26014,並んで弱い。しかしハンタでは強いです。 {{▲ハンタステータスが増加する。 {{▼行統計が低下する。
-30000,Googleにログインできない場合は、マルチプレイヤーを再生できません。 Googleにログインしてください。
-30001,最後のマルチマッチの間にゲームの異常終了がありました。ゲームは没収されました。
-30002,おめでとう！あなたは次のレベルに昇格しています！
-30003,あなたは絶え間ない敗北のために降格されました。
-30004,サインイン
-30005,問題があります。問題の理由：
-30006,インターネット接続が失われました。インターネット接続がある場合は、自動的に再接続されます。
-30007,マルチマッチ中にインターネットが切断されました。 {OKをクリックするとスタジアムが終了します。
-30008,あなたの対戦相手を見つけるのに問題がありました。 {OKを押してスタジアムを終了します。
-30009,ゲームは最新のものではありません。試合を再生するには、最新バージョンに更新する必要があります。 {{{下のボタンを押してバージョンをもう一度確認するか、更新ページに移動します。
-30010,チェック
-30011,最新版ではありません。
-30012,分
-30013,あなたはチートプレーヤーとして報告されており、マルチプレイヤーゲームをプレイすることはできません。{{{{hucce@gmail.comに電子メールを送ってください。
-30014,あなたはチートプレーヤーとして登録されています。
-30015,マルチプレイサーバーのチェック小切手時間が終わるまで待ってください
-30016,リストをロードできません。 GoogleでGoogleでログインしてください。
-31000,ゲームをしてくれてありがとう。あなたのレビューは開発者にとって大きな助けです。あなたは300の本質を報酬として受け取るでしょう。
-32000,広告を見てくれてありがとう。 [OK]をクリックして表示報酬を受け取ります。
-32001,広告をスキップしたあなたは報酬を受け取るために広告を終わりに見なければなりません。
-32002,ADの取得に失敗しましたインターネット接続を確認してください。
-36000,リーグスコア
-36001,m
-36002,w
-36003,l
-36004,歴史
-36005,上
-36006,結果を一致させる
-36007,届ける
-36008,コンプリート
-36009,不完全な
-36010,リンク
-36011,シーズン
-33000,アップグレードはレベル10までのみ可能です。
-33001,成功
-33002,失敗
-33003,成功の可能性
-33004,差
-33005,チュートリアルをスキップしますか？チュートリアルから報酬を得ることはできません。
-33006,ゲームを再起動すると言語が変わります。
-34000,Google Playサービスのバージョンチェック
-34001,Google Playログイン完了
-34002,サーバーログイン完了
-34003,クラウド保存確認完了
-34004,データインポートの完了
-34005,問題の再試行
-34006,エラー！オフラインモードへの負荷
-33007,円形
-33008,ライン
-33009,チームファイト
-33010,操作
-33011,上
-33012,中々
-33013,bottom
-33014,大敗北
-33015,敗北
-33016,弱気な
-33017,cont cont
-33018,優位性
-33019,勝利
-33020,勝利
-33021,チームジャングラーガーキング。
-33022,日
-33023,シーズンエンド報酬
-33024,あなたの友人はすでに要求されています。
-33025,すでに友達
-33026,あなたはあなたがこの友達を削除したいと思いますか？
-33027,コピーされた戦略
-33028,種類
-33029,禁止
-33030,宣言
-33031,バグ/提案
-33032,マネージャーの招待状LOLチームマネージャになる。
-33033,最終評価
-33034,最終報酬
-33035,シーズンスタート
-33036,新しいシーズンが始まりました。
-33037,殿堂の貢献
-33038,残り
-33039,不足していない
-37000,無し
-37001,エッセンス
-37002,パック
-37003,パッケージ
-38000,すべて
-38001,銀
-38002,ゴールド
-38003,白金
-33040,すべて
-33041,銀
-33042,ゴールド
-33043,白金
-33044,ダイヤモンド
-33045,挑戦者
-33046,主人
-33047,勧誘
-33048,パッケージ
-33049,プレゼンテーション
-33050,限られたものを含む
-33051,限られただけです
-33052,スワップ
-33053,追加
-33054,削除する
-33055,合計
-33056,統計
-33057,ブロンズ
-33058,次のランクのアップグレードまで
-33059,動く
-33060,届ける
-33061,同じプレイヤーがすでに開始リストにあります。
-33062,データーがない。
-33063,データは異常です。
-33064,理由
-33065,次のクラッシュ開始日
-33066,トーナメントの作成中にエラーが発生しました。{{{{{{{{touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touch touchを作成します。
-33067,サーバーはデータを受信しています。
-33068,データが正しく受信されませんでした。
-33069,シーズンプレイヤープレゼンテーション
-33070,世界選手権エントリー
-33071,今年のリーグでデビューをして、将来を楽しみにしている選ばれた選手。シーズンの報酬としてのみ入手できます。
-33072,自動試合を停止しますか？{使用品目が消えます。
+11000,
+11001,
+11002,"It wasn't a championship. However, we succeeded in advancing to the World Championship!"
+11003,It wasn't a championship. But it's a good ranking to try to win next season.
+11004,"The worst was avoided, but it was not a good ranking. For a higher ranking} I think it needs maintenance."
+11005,We ended the season in the worst position. For the fans who support us} Let’s go further for the next season.
+11006,The team won the World Championship with great coaching! Players and fans celebrate your great command. Congratulations.
+11007,"It didn't win, but it did a great job. Let's try to win the World Championship next season!"
+11008,"Unfortunately, it's a great grade. Let's increase our power next season and try to win the next World Champion."
+11009,"You have successfully entered the tournament. Next season, let's head for higher tournaments."
+11010,"Unfortunately, the tournament failed. Unfortunately, let's advance to the World Championship next season and aim for the championship."
+20000,Line exhibition / Operation
+20001,Balance
+20002,TeamFight
+20003,Custom
+21000,It is a strategy to roll snowballs based on strong line battles. {{-It is suitable when you have a strong line battle. {-You can be reverted to one shot when you have a weak blow.
+21001,Lineup} Hanta} Operation Play the game in a balanced way. {{-This is suitable when the players' ability is even.
+21002,It's a strategy that aims for one shot through a single shot. {{-It is suitable when a team has a strong one-shot ability. {
+21003,This is your strategy.
+22000,The center of the game
+22001,The center of a ganking
+22002,Main order
+23000,Choose the ability to be the center of the game. The team's stats will increase. Instead} the rest of the power falls.
+23001,The jungler decides the line for gankinging.
+23002,Set a position that focuses on operations. The main order will increase the proportion of team operation.
+24000,Balance
+24001,Line
+24002,TeamFight
+24003,Operation
+24004,Balance
+24005,Top
+24006,Mid
+24007,Bottom
+24008,Top
+24009,Jungle
+24010,Mid
+24011,AD
+24012,Support
+25000,Attack
+25001,Balanced
+25002,Tanker
+25003,Attack
+25004,Balanced
+25005,Tanker
+25006,Attack
+25007,Balanced
+25008,Supporter
+25009,Attack
+25010,Balanced
+25011,Utility
+25012,Attack
+25013,Balanced
+25014,Tanker
+26000,Strongly press the opponent in line. It also takes control of the operation through the split. {{▲ Operation stats increase. {{-Points gained or lost on the line increase. {{▼ Hanta stat lowers.
+26001,Basic deal tank.
+26002,Influence is reduced in line battles. However} he is stronger at Hanta. {{▲ Hanta ability is increased. {{-Points gained or lost at the line are lowered. {{▼ Operation stat is lowered.
+26003,The ganking becomes powerful. However} there is a high risk of ganking failure. {{▲ Line stats increase. {{
+26004,Basic deal tank.
+26005,ganking ability is lowered. However} the hitting ability increases. {{▲ The hitting ability increases. {{▼ The lineup ability goes down.
+26006,Strongly press the opponent in line. It also takes control of the operation through the split. {{▲ Operation stats increase. {{-Points gained or lost on the line increase. {{▼ Hanta stat lowers.
+26007,Basic nuker champ.
+26008,The goal is to improve the ability of the One Dil. {{▲ One Dil's stat increases.
+26009,The early days are powerful. However} as time goes by} it gets weaker. {{▲ Line-up until the first 20 minutes} Hanta ability increases. {{▼ Hanta ability decreases from the second half.
+26010,Basic one-deal champ.
+26011,Focusing on helping the team rather than Carrie's role. {{▲ Operational stats go up. {{▼ Lines stats go down.
+26012,Line fight is powerful. However} it is dangerous to operate with low health. {{▲ Line-up stats increase. {{-Points gained or lost from operation increase.
+26013,Basic supporter champ.
+26014,Weak in line. However} it is strong in Hanta. {{▲ Hanta stat is increased. {{▼ Lines stat is lowered.
+30000,If you can not log in to Google you can not play multiplayer. Please login Google.
+30001,There was an abnormal end of the game during the last multi match. The game was forfeited.
+30002,Congratulations! You are promoted to the next level!
+30003,You have been demoted due to constant defeat.
+30004,Signing in
+30005,There's a problem. Reason for issue:
+30006,The internet connection has been lost. When you have an internet connection} you will be automatically reconnected.
+30007,The internet was disconnected during the multi match. {If you click OK} you will exit the stadium.
+30008,There was a problem finding your opponent. {Press OK to exit the stadium.
+30009,The game is not up to date. You need to update to the latest version to play the match. {{Press the button below to check the version again} or go to the update page.
+30010,Checking
+30011,It is not the latest version.
+30012,Minute
+30013,You have been reported as a cheat player and cannot play multiplayer games.{{Please email {hucce@gmail.com for any questions.
+30014,You are registered as a cheat player.
+30015,Checking for multiplay server. Please wait until the check time is over
+30016,Unable to load the list. Please login Google in Multiplay.
+31000,Thank you for playing the game. Your review is a great help for the developer. You will receive 300 Essence as a reward.
+32000,Thank you for watching the ad. Click OK to receive your viewing reward.
+32001,Ad skipped You must watch the ad to the end to receive the reward.
+32002,Failed to fetch ad Please check your internet connection.
+36000,League score
+36001,M
+36002,W
+36003,L
+36004,History
+36005,Top
+36006,Match Results
+36007,Receive
+36008,Complete
+36009,Incomplete
+36010,Link
+36011,Season
+33000,Upgrading is only possible up to level 10.
+33001,Success
+33002,Failure
+33003,Probability of success
+33004,Difference
+33005,Do you want to skip the tutorial? You can't get the rewards from the tutorial.
+33006,The language will change when you restart the game.
+34000,Google Play Service Version Check
+34001,Google Play Login Complete
+34002,Server login completed
+34003,Cloud save confirmation complete
+34004,Data import complete
+34005,Problem retry
+34006,Error! Load to offline mode
+33007,Round
+33008,Line
+33009,TeamFight
+33010,Operation
+33011,Top
+33012,Mid
+33013,Bottom
+33014,Great Defeat
+33015,Defeat
+33016,Bearish
+33017,Contention
+33018,Superiority
+33019,Victory
+33020,Great victory
+33021,team jungler ganking.
+33022,Day
+33023,Season End Reward
+33024,Your friend has already been requested.
+33025,Already friend
+33026,Are you sure you want to delete this friend?
+33027,Copied strategy
+33028,Kinds
+33029,Ban
+33030,Declaration
+33031,Bug / Suggestions
+33032,Manager invitation. Become a LOL team manager.
+33033,Final Rating
+33034,The final reward
+33035,Season start
+33036,A new season has begun.
+33037,Hall of Fame contribution
+33038,Rest
+33039,Not enough essence
+37000,None
+37001,Essence
+37002,Pack
+37003,Package
+38000,All
+38001,Silver
+38002,Gold
+38003,Platinum
+33040,All
+33041,Silver
+33042,Gold
+33043,Platinum
+33044,Diamond
+33045,Challenger
+33046,Master
+33047,Recruitment
+33048,Package
+33049,Presentation
+33050,Including limited
+33051,Only limited
+33052,Swap
+33053,Add
+33054,Remove
+33055,Total
+33056,Stats
+33057,bronze
+33058,Until next rank upgrade
+33059,Move
+33060,Receive
+33061,The same player is already on the starting list.
+33062,There is no data.
+33063,Data is abnormal.
+33064,Reason
+33065,Next Crush Start Date
+33066,An error occurred while creating a tournament.{{Touch Retry to create a new tournament.
+33067,The server is receiving data.
+33068,Data was not received properly.
+33069,Season player presentation
+33070,World Championship entry
+33071,Selected players who made their debut in the league this year and look forward to the future. It can only be obtained as a season reward.
+33072,Do you want to stop the auto match?{Used items will disappear.
+33073,Are you sure you want to reset your account?{Save data will be deleted and the game will restart.
+33074,The same coach is already in the entry.
+33075,Are you sure you want to delete the coach? You can get 30 Essence.

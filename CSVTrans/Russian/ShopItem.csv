@@ -1,14 +1,15 @@
 ﻿ID,Name,Dec
-1000,Золотой рекрутинг,Набор 1 случайного игрока с комбинированным статен выше 81.
-1001,Золотая пакет,Набор 5 случайных игроков с комбинированным статен выше 81.
-1002,Рекрут игрока,Набор 1 случайных игроков.
-1003,Серебряный набор,Набор 1 Random Player с комбинированным статен старше 76.
-1004,Золотой рекрутинг,Набор 1 случайного игрока с комбинированным статен выше 81.
-1005,Platinum Recuritment,Набор 1 случайного игрока с комбинированным средством GPA 84 или выше.
-1006,Базовый пакет,Набор 5 случайных игроков.
-1007,Серебряная пакет,Набор 5 случайных игроков с комбинированным статом выше 76.
-1008,Золотая пакет,Набор 5 случайных игроков с комбинированным статен выше 81.
-1009,Platinum Package,Набор 5 случайных игроков с комбинированным GPA 84 или выше.
-1010,Предыдущий сезон найма,Один случайный игрок из сезона 18-20 мсм набран.
-1011,Предыдущий сезон пакет, (Не включая ограничение)
-1012,Изменить название команды,5 Случайных игроков из сезона 18-20 мСум набраны.
+1000,,
+1001,Gold Package,Recruit 5 random players with a combined stat above 81.
+1002,Player recruitment,Recruit 1 random player.
+1003,Silver Recruitment,Recruit 1 random player with a combined stat above 76.
+1004,Gold Recruitment,Recruit 1 random player with a combined stat above 81.
+1005,Platinum Recruitment,Recruit 1 random player with a combined GPA of 84 or higher.
+1006,Basic Package,Recruit 5 random players.
+1007,Silver Package,Recruit 5 random players with a combined stat above 76.
+1008,Gold Package,Recruit 5 random players with a combined stat above 81.
+1009,Platinum Package,Recruit 5 random players with a combined GPA of 84 or higher.
+1010,Previous season Recruitment,One random player from the 18-20SUM season is recruited. (Not including limitation)
+1011,Previous season package,5 random players from the 18-20SUM season are recruited. (Not including limitation)
+1012,Coach Recruitment,Recruit 1 random Coach.
+1013,Change team name,Change your team name.

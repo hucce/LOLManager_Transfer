@@ -1,190 +1,193 @@
 ﻿ID,Dec
-11000,¡Tu equipo ganó la liga con un gran coaching! Vamos a prepararnos para ganar el Campeonato Mundial.
-11001,"Aunque no ganó, hizo un gran trabajo. ¡El baño de nieve está hecho en el campeón del mundo!"
-11002,"No fue un campeonato. Sin embargo, logramos avanzar al campeonato mundial!"
-11003,No fue un campeonato. Pero es un buen rango para tratar de ganar la próxima temporada.
-11004,"Se evitó lo peor, pero no fue un buen ranking. Para un ranking superior} creo que necesita mantenimiento."
-11005,Terminamos la temporada en la peor posición. Para los fanáticos que nos apoyan} vamos más lejos para la próxima temporada.
-11006,¡El equipo ganó el campeonato mundial con un gran coaching! Los jugadores y los fanáticos celebran tu gran comando. Felicidades.
-11007,"No ganó, pero hizo un gran trabajo. ¡Tratemos de ganar el campeonato mundial la próxima temporada!"
-11008,"Desafortunadamente, es un gran grado. Aumentemos nuestro poder la próxima temporada y tratemos de ganar el próximo campeón del mundo."
-11009,"Has ingresado con éxito el torneo. La próxima temporada, vamos a la cabeza para torneos más altos."
-11010,"Desafortunadamente, el torneo falló. Desafortunadamente, avancemos al campeonato mundial la próxima temporada y apuntamos al campeonato."
-20000,Línea Exposición / Operación
-20001,Equilibrio
-20002,Pelea de equipo
-20003,Personalizado
-21000,"Es una estrategia para rodar bolas de nieve basadas en batallas de línea fuertes. {{-It es adecuado cuando tienes una batalla de línea fuerte. {, Puede ser revertido a un disparo cuando tenga un golpe débil."
-21001,"Lineup} Hanta} Operación Juega al juego de una manera equilibrada. {{, Esto es adecuado cuando la habilidad de los jugadores es incluso."
-21002,Es una estrategia que apunta a un disparo a través de un solo disparo. {{-It es adecuado cuando un equipo tiene una fuerte habilidad de un disparo. {
-21003,Esta es tu estrategia.
-22000,El centro del juego
-22001,El centro de un ganking
-22002,Orden principal
-23000,Elige la capacidad de ser el centro del juego. Las estadísticas del equipo aumentarán. En cambio} el resto de la potencia cae.
-23001,El jungler decide la línea para gankinging.
-23002,Establecer una posición que se centre en las operaciones. El orden principal aumentará la proporción de la operación del equipo.
-24000,Equilibrio
-24001,Línea
-24002,Pelea de equipo
-24003,Operación
-24004,Equilibrio
-24005,Cima
-24006,Medio
-24007,Fondo
-24008,Cima
-24009,Selva
+11000,
+11001,Gracias por ver el anuncio. Haga clic en Aceptar para recibir su recompensa de visualización.
+11002,AD saltado Debe ver el anuncio hasta el final para recibir la recompensa.
+11003,Error al buscar el anuncio por favor revise su conexión a Internet.
+11004,Puntuación de la liga
+11005,METRO
+11006,W
+11007,L
+11008,Historia
+11009,Cima
+11010,Resultados de coincidencia
+20000,Recibir
+20001,Completo
+20002,Incompleto
+20003,Enlace
+21000,Temporada
+21001,La actualización solo es posible hasta el nivel 10.
+21002,Éxito
+21003,Falla
+22000,Probabilidad de éxito
+22001,Diferencia
+22002,¿Quieres omitir el tutorial? No puedes obtener las recompensas del tutorial.
+23000,El idioma cambiará cuando reinicies el juego.
+23001,Cheque de versión de servicio de Google Play
+23002,Inicio de sesión de Google Play
+24000,Inicio de sesión del servidor completado
+24001,Cloud Guardar confirmación completa
+24002,Importación de datos completa
+24003,Problema reintentar
+24004,¡Error! Carga para desactivar el modo
+24005,Ronda
+24006,Línea
+24007,Pelea de equipo
+24008,Operación
+24009,Cima
 24010,Medio
-24011,ANUNCIO
-24012,Apoyo
-25000,Ataque
-25001,Equilibrado
-25002,Petrolero
-25003,Ataque
-25004,Equilibrado
-25005,Petrolero
-25006,Ataque
-25007,Equilibrado
-25008,Seguidor
-25009,Ataque
-25010,Equilibrado
-25011,Utilidad
-25012,Ataque
-25013,Equilibrado
-25014,Petrolero
-26000,Muy presiona al oponente en línea. También toma el control de la operación a través de la división. {{▲ Aumento de las estadísticas de operación. {{-Points ganado o perdido en el aumento de la línea. {{▼ HANTA Stat baja.
-26001,Tanque de trato básico.
-26002,La influencia se reduce en las batallas de línea. Sin embargo} es más fuerte en Hanta. {{▲ la capacidad de Hanta se incrementa. {{-Pouls ganados o perdidos en la línea se reducen. {{▼ Operación está baja.
-26003,El ganking se vuelve poderoso. Sin embargo} hay un alto riesgo de fracaso de ganking. {{▲ Las estadísticas de línea aumentan. {{
-26004,Tanque de trato básico.
-26005,La capacidad de ganking se baja. Sin embargo} la habilidad de golpe aumenta. {{▲ la capacidad de éxito aumenta. {{▼ La capacidad de alineación baja.
-26006,Muy presiona al oponente en línea. También toma el control de la operación a través de la división. {{▲ Aumento de las estadísticas de operación. {{-Points ganado o perdido en el aumento de la línea. {{▼ HANTA Stat baja.
-26007,Champ Nuker básico.
-26008,El objetivo es mejorar la capacidad de la ONE DIL. {{▲ AUMENTA DE UNA DIL'S AUMENTA.
-26009,Los primeros días son poderosos. Sin embargo} a medida que pasa el tiempo) se debilita. {{▲ alineación hasta los primeros 20 minutos} HANTA HABILIDAD AUMENTA. {{▼ HANTA HABILIDAD disminuye de la segunda mitad.
-26010,Campeón básico de una sola oferta.
-26011,Centrándose en ayudar al equipo en lugar de el papel de Carrie. {{▲ Las estadísticas operativas suben. {{▼ Las estadísticas de las líneas bajan.
-26012,La lucha de línea es poderosa. Sin embargo} es peligroso operar con baja salud. {{▲ Aumento de las estadísticas de alineación. {{-Points ganados o perdidos del aumento de la operación.
-26013,Campeón de apoyo básico.
-26014,Débil en la línea. Sin embargo} es fuerte en Hanta. {{▲ HANTA STAT se incrementa. {{▼ se baja las líneas estadísticas.
-30000,"Si no puede iniciar sesión en Google, no puede reproducir multijugador. Por favor, inicie sesión en Google."
-30001,Hubo un final anormal del juego durante el último Multi Match. El juego se perdió.
-30002,¡Felicidades! ¡Eres promovido al siguiente nivel!
-30003,Has sido degradado debido a la derrota constante.
-30004,Iniciando sesión
-30005,Hay un problema. Razón del problema:
-30006,La conexión a internet se ha perdido. Cuando tenga una conexión a internet} se volverá a conectar automáticamente.
-30007,Internet se desconectó durante el Multi Match. {Si hace clic en Aceptar} saldrá del estadio.
-30008,Hubo un problema para encontrar a tu oponente. {Presione OK para salir del estadio.
-30009,El juego no está actualizado. Debe actualizar a la última versión para reproducir el partido. {{Presione el botón de abajo para verificar la versión nuevamente} o vaya a la página de actualización.
-30010,Comprobación
-30011,No es la última versión.
-30012,Minuto
-30013,"Ha sido reportado como un jugador de trucos y no puede jugar juegos multijugador. {{Por favor, envíe un correo electrónico a {HUCCE@gmail.com para cualquier pregunta."
-30014,Estás registrado como jugador de trucos.
-30015,"Comprobando el servidor multiplay. Por favor, espere hasta que termine la hora de cheque."
-30016,"No se puede cargar la lista. Por favor, inicie sesión en Google en multiplay."
-31000,Gracias por jugar el juego. Su revisión es una gran ayuda para el desarrollador. Recibirás 300 esencia como recompensa.
-32000,Gracias por ver el anuncio. Haga clic en Aceptar para recibir su recompensa de visualización.
-32001,AD saltado Debe ver el anuncio hasta el final para recibir la recompensa.
-32002,Error al buscar el anuncio por favor revise su conexión a Internet.
-36000,Puntuación de la liga
-36001,METRO
-36002,W
-36003,L
-36004,Historia
-36005,Cima
-36006,Resultados de coincidencia
-36007,Recibir
-36008,Completo
-36009,Incompleto
-36010,Enlace
-36011,Temporada
-33000,La actualización solo es posible hasta el nivel 10.
-33001,Éxito
-33002,Falla
-33003,Probabilidad de éxito
-33004,Diferencia
-33005,¿Quieres omitir el tutorial? No puedes obtener las recompensas del tutorial.
-33006,El idioma cambiará cuando reinicies el juego.
-34000,Cheque de versión de servicio de Google Play
-34001,Inicio de sesión de Google Play
-34002,Inicio de sesión del servidor completado
-34003,Cloud Guardar confirmación completa
-34004,Importación de datos completa
-34005,Problema reintentar
-34006,¡Error! Carga para desactivar el modo
-33007,Ronda
-33008,Línea
-33009,Pelea de equipo
-33010,Operación
-33011,Cima
-33012,Medio
-33013,Fondo
-33014,Gran derrota
-33015,Fracaso
-33016,Osuno
-33017,Contención
-33018,Superioridad
-33019,Victoria
-33020,Gran victoria
-33021,Equipo Jungler Ganking.
-33022,Día
-33023,Recompensa final de temporada
-33024,Tu amigo ya ha sido solicitado.
-33025,Ya amigo
-33026,¿Estás seguro de que quieres eliminar a este amigo?
-33027,Estrategia copiada
-33028,Tipos
-33029,Prohibición
-33030,Declaración
-33031,ERROR / SUGERENCIAS
-33032,Invitación del gerente. Convertirse en un gerente de equipo LOL.
-33033,Calificación final
-33034,La recompensa final
-33035,Inicio de la temporada
-33036,Una nueva temporada ha comenzado.
-33037,Contribución del Salón de la Fama
-33038,Descanso
-33039,No hay suficiente esencia
-37000,Ninguno
-37001,Esencia
-37002,Paquete
-37003,Paquete
-38000,Todo
-38001,Plata
-38002,Oro
-38003,Platino
-33040,Todo
-33041,Plata
-33042,Oro
-33043,Platino
-33044,Diamante
-33045,Desafiador
-33046,Maestría
-33047,Reclutamiento
-33048,Paquete
-33049,Presentación
-33050,Incluyendo limitado
-33051,Solo limitado
-33052,Intercambio
-33053,Agregar
-33054,Eliminar
+24011,Fondo
+24012,Gran derrota
+25000,Fracaso
+25001,Osuno
+25002,Contención
+25003,Superioridad
+25004,Victoria
+25005,Gran victoria
+25006,Equipo Jungler Ganking.
+25007,Día
+25008,Recompensa final de temporada
+25009,Tu amigo ya ha sido solicitado.
+25010,Ya amigo
+25011,¿Estás seguro de que quieres eliminar a este amigo?
+25012,Estrategia copiada
+25013,Tipos
+25014,Prohibición
+26000,Declaración
+26001,ERROR / SUGERENCIAS
+26002,Invitación del gerente. Convertirse en un gerente de equipo LOL.
+26003,Calificación final
+26004,La recompensa final
+26005,Inicio de la temporada
+26006,Una nueva temporada ha comenzado.
+26007,Contribución del Salón de la Fama
+26008,Descansar
+26009,No hay suficiente esencia
+26010,Ninguno
+26011,Esencia
+26012,Paquete
+26013,Paquete
+26014,Todos
+30000,Plata
+30001,Oro
+30002,Platino
+30003,Todos
+30004,Plata
+30005,Oro
+30006,Platino
+30007,Diamante
+30008,Desafiador
+30009,Maestría
+30010,Reclutamiento
+30011,Paquete
+30012,Presentación
+30013,Incluyendo limitado
+30014,Solo limitado
+30015,Intercambio
+30016,Agregar
+31000,Eliminar
+32000,Total
+32001,Estadísticas
+32002,bronce
+36000,Hasta la próxima actualización de rango
+36001,Moverse
+36002,Recibir
+36003,El mismo jugador ya está en la lista de inicio.
+36004,No hay datos.
+36005,Los datos son anormales.
+36006,Razón
+36007,Fecha de inicio de la próxima aplastamiento
+36008,Se produjo un error al crear un torneo. {{Toque Reintentar para crear un nuevo torneo.
+36009,El servidor está recibiendo datos.
+36010,Los datos no fueron recibidos correctamente.
+36011,Presentación del jugador de temporada
+33000,Entrada del Campeonato Mundial
+33001,Los jugadores seleccionados que hicieron su debut en la liga este año y esperamos el futuro. Solo se puede obtener como recompensa de temporada.
+33002,¿Quieres detener el partido automático? {Los artículos usados desaparecerán.
+33003,¿Está seguro de que desea restablecer su cuenta? {Guardar datos se eliminará y el juego se reiniciará.
+33004,El mismo entrenador ya está en la entrada.
+33005,¿Estás seguro de que quieres eliminar al entrenador? Puedes conseguir 30 esencia.
+33006,The language will change when you restart the game.
+34000,Google Play Service Version Check
+34001,Google Play Login Complete
+34002,Server login completed
+34003,Cloud save confirmation complete
+34004,Data import complete
+34005,Problem retry
+34006,Error! Load to offline mode
+33007,Round
+33008,Line
+33009,TeamFight
+33010,Operation
+33011,Top
+33012,Mid
+33013,Bottom
+33014,Great Defeat
+33015,Defeat
+33016,Bearish
+33017,Contention
+33018,Superiority
+33019,Victory
+33020,Great victory
+33021,team jungler ganking.
+33022,Day
+33023,Season End Reward
+33024,Your friend has already been requested.
+33025,Already friend
+33026,Are you sure you want to delete this friend?
+33027,Copied strategy
+33028,Kinds
+33029,Ban
+33030,Declaration
+33031,Bug / Suggestions
+33032,Manager invitation. Become a LOL team manager.
+33033,Final Rating
+33034,The final reward
+33035,Season start
+33036,A new season has begun.
+33037,Hall of Fame contribution
+33038,Rest
+33039,Not enough essence
+37000,None
+37001,Essence
+37002,Pack
+37003,Package
+38000,All
+38001,Silver
+38002,Gold
+38003,Platinum
+33040,All
+33041,Silver
+33042,Gold
+33043,Platinum
+33044,Diamond
+33045,Challenger
+33046,Master
+33047,Recruitment
+33048,Package
+33049,Presentation
+33050,Including limited
+33051,Only limited
+33052,Swap
+33053,Add
+33054,Remove
 33055,Total
-33056,Estadísticas
-33057,bronce
-33058,Hasta la próxima actualización de rango
-33059,Muevete
-33060,Recibir
-33061,El mismo jugador ya está en la lista de inicio.
-33062,No hay datos.
-33063,Los datos son anormales.
-33064,Razón
-33065,Fecha de inicio de la próxima aplastamiento
-33066,Se produjo un error al crear un torneo. {{Toque Reintentar para crear un nuevo torneo.
-33067,El servidor está recibiendo datos.
-33068,Los datos no fueron recibidos correctamente.
-33069,Presentación del jugador de temporada
-33070,Entrada del Campeonato Mundial
-33071,Los jugadores seleccionados que hicieron su debut en la liga este año y esperamos el futuro. Solo se puede obtener como recompensa de temporada.
-33072,¿Quieres detener el partido automático? {Los artículos usados desaparecerán.
+33056,Stats
+33057,bronze
+33058,Until next rank upgrade
+33059,Move
+33060,Receive
+33061,The same player is already on the starting list.
+33062,There is no data.
+33063,Data is abnormal.
+33064,Reason
+33065,Next Crush Start Date
+33066,An error occurred while creating a tournament.{{Touch Retry to create a new tournament.
+33067,The server is receiving data.
+33068,Data was not received properly.
+33069,Season player presentation
+33070,World Championship entry
+33071,Selected players who made their debut in the league this year and look forward to the future. It can only be obtained as a season reward.
+33072,Do you want to stop the auto match?{Used items will disappear.
+33073,Are you sure you want to reset your account?{Save data will be deleted and the game will restart.
+33074,The same coach is already in the entry.
+33075,Are you sure you want to delete the coach? You can get 30 Essence.

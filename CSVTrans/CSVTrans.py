@@ -139,9 +139,9 @@ def ConvertTest(loadFile, language, languageFull):
 
 #불러올 데이터들
 #loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
-loadList = ['Etc', 'Notice', 'Player']
+loadList = ['Notice']
 #replaceList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Script', 'ShopItem', 'Tutorial']
-notReplaceList = ['Team', 'Player']
+notReplaceList = ['Team', 'Player', 'Coach']
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
 #Japanese, Simplified Chinese, Traditional Chinese, Vietnamese, German, Russian, Spanish, Arabic, Italian, Malay, Thai, Turkish, French, Indonesian, Javanese, Bengali, Hindi, Portuguese
 readLanDF = pd.read_csv('./LanguageList.csv', encoding = 'utf-8')

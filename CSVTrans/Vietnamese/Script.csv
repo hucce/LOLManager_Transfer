@@ -29,10 +29,10 @@
 24002,Đội bóng.
 24003,Hoạt động
 24004,Thăng bằng
-24005,Hàng đầu
+24005,Đứng đầu
 24006,Giữa cùng
 24007,Đáy
-24008,Hàng đầu
+24008,Đứng đầu
 24009,Rừng nhiệt đới
 24010,Giữa cùng
 24011,Quảng cáo
@@ -48,7 +48,7 @@
 25008,Hỗ trợ
 25009,Tấn công
 25010,Cân bằng
-25011,Tiện ích
+25011,Tính thiết thực
 25012,Tấn công
 25013,Cân bằng
 25014,Tàu chở dầu
@@ -85,106 +85,109 @@
 30015,Kiểm tra máy chủ nhiều người. Vui lòng đợi cho đến khi thời gian kiểm tra kết thúc
 30016,Không thể tải danh sách. Vui lòng đăng nhập Google vào nhiều người.
 31000,Cảm ơn bạn đã chơi trò chơi. Đánh giá của bạn là một trợ giúp tuyệt vời cho nhà phát triển. Bạn sẽ nhận được 300 bản chất như một phần thưởng.
-32000,Cảm ơn bạn đã xem quảng cáo. Nhấn OK để nhận phần thưởng xem của bạn.
-32001,"Quảng cáo bỏ qua, bạn phải xem quảng cáo đến cùng để nhận phần thưởng."
-32002,Không thể tìm nạp quảng cáo Vui lòng kiểm tra kết nối internet của bạn.
-36000,ĐIỂM LEAGUE
-36001,M.
+32000,
+32001,Ad skipped You must watch the ad to the end to receive the reward.
+32002,Failed to fetch ad Please check your internet connection.
+36000,League score
+36001,M
 36002,W
-36003,Như l
-36004,Lịch sử
-36005,Hàng đầu
-36006,Kết quả trận đấu
-36007,Nhận được
-36008,Hoàn thành
-36009,chưa hoàn thiện
-36010,Liên kết
-36011,Mùa
-33000,Nâng cấp chỉ có thể lên đến cấp 10.
-33001,Sự thành công
-33002,Sự thất bại
-33003,Xác suất thành công
-33004,Sự khác biệt
-33005,Bạn có muốn bỏ qua hướng dẫn? Bạn không thể có được phần thưởng từ hướng dẫn.
-33006,Ngôn ngữ sẽ thay đổi khi bạn khởi động lại trò chơi.
-34000,Kiểm tra phiên bản dịch vụ Google Play
-34001,Google Play Đăng nhập Hoàn tất
-34002,Đăng nhập máy chủ hoàn tất
-34003,Đám mây tiết kiệm xác nhận hoàn thành
-34004,Dữ liệu nhập đầy đủ
-34005,Vấn đề thử lại.
-34006,Lỗi! Tải đến chế độ ngoại tuyến
-33007,Tròn
-33008,Hàng
-33009,Đội bóng.
-33010,Hoạt động
-33011,Hàng đầu
-33012,Giữa cùng
-33013,Đáy
-33014,Thất bại lớn
-33015,Đánh bại
-33016,BEARISH.
-33017,Tranh chấp
-33018,Ưu việt
-33019,Chiến thắng
-33020,Chiến thắng vĩ đại
-33021,Đội Jungler gank.
-33022,ngày
-33023,Phần thưởng cuối mùa
-33024,Bạn của bạn đã được yêu cầu.
-33025,Đã có bạn bè
-33026,Bạn có chắc chắn muốn xóa người bạn này?
-33027,Chiến lược sao chép
-33028,Các loại
-33029,Lệnh cấm
-33030,Tờ khai
-33031,Bug / Gợi ý
-33032,Lời mời quản lý. Trở thành người quản lý đội LOL.
-33033,Đánh giá cuối cùng
-33034,Phần thưởng cuối cùng
-33035,Mùa bắt đầu
-33036,Một mùa giải mới đã bắt đầu.
-33037,Đại hội đóng góp
-33038,Nghỉ ngơi
-33039,Không đủ tinh chất
-37000,không ai
-37001,Bản chất
-37002,Đóng gói
-37003,Gói.
-38000,Tất cả
-38001,Bạc
-38002,Vàng
-38003,Bạch kim.
-33040,Tất cả
-33041,Bạc
-33042,Vàng
-33043,Bạch kim.
-33044,Kim cương
-33045,Challenger.
-33046,Bậc thầy
-33047,Tuyển dụng
-33048,Gói.
-33049,Thuyết trình
-33050,Bao gồm cả hạn chế
-33051,Chỉ có giới hạn.
-33052,Trao đổi
-33053,Thêm vào
-33054,Tẩy
-33055,Toàn bộ
-33056,Số liệu thống kê
-33057,Đồng.
-33058,Cho đến khi nâng cấp thứ hạng tiếp theo
-33059,Di chuyển.
-33060,Nhận được
-33061,Cùng một người chơi đã có trong danh sách bắt đầu.
-33062,Không có dữ liệu.
-33063,Dữ liệu là bất thường.
-33064,Lý do
-33065,Ngày bắt đầu lòng tiếp theo
-33066,Đã xảy ra lỗi trong khi tạo một giải đấu. {{Cảm ứng thử lại để tạo một giải đấu mới.
-33067,Máy chủ đang nhận dữ liệu.
-33068,Dữ liệu không được nhận đúng.
-33069,Trình bày cầu thủ mùa
-33070,Mục nhập vô địch thế giới
-33071,Những người chơi được chọn đã ra mắt trong giải đấu trong năm nay và mong muốn tương lai. Nó chỉ có thể được lấy là một phần thưởng mùa.
-33072,Bạn có muốn dừng trận đấu tự động không? {Các mục đã sử dụng sẽ biến mất.
+36003,L
+36004,History
+36005,Top
+36006,Match Results
+36007,Receive
+36008,Complete
+36009,Incomplete
+36010,Link
+36011,Season
+33000,Upgrading is only possible up to level 10.
+33001,Success
+33002,Failure
+33003,Probability of success
+33004,Difference
+33005,Do you want to skip the tutorial? You can't get the rewards from the tutorial.
+33006,The language will change when you restart the game.
+34000,Google Play Service Version Check
+34001,Google Play Login Complete
+34002,Server login completed
+34003,Cloud save confirmation complete
+34004,Data import complete
+34005,Problem retry
+34006,Error! Load to offline mode
+33007,Round
+33008,Line
+33009,TeamFight
+33010,Operation
+33011,Top
+33012,Mid
+33013,Bottom
+33014,Great Defeat
+33015,Defeat
+33016,Bearish
+33017,Contention
+33018,Superiority
+33019,Victory
+33020,Great victory
+33021,team jungler ganking.
+33022,Day
+33023,Season End Reward
+33024,Your friend has already been requested.
+33025,Already friend
+33026,Are you sure you want to delete this friend?
+33027,Copied strategy
+33028,Kinds
+33029,Ban
+33030,Declaration
+33031,Bug / Suggestions
+33032,Manager invitation. Become a LOL team manager.
+33033,Final Rating
+33034,The final reward
+33035,Season start
+33036,A new season has begun.
+33037,Hall of Fame contribution
+33038,Rest
+33039,Not enough essence
+37000,None
+37001,Essence
+37002,Pack
+37003,Package
+38000,All
+38001,Silver
+38002,Gold
+38003,Platinum
+33040,All
+33041,Silver
+33042,Gold
+33043,Platinum
+33044,Diamond
+33045,Challenger
+33046,Master
+33047,Recruitment
+33048,Package
+33049,Presentation
+33050,Including limited
+33051,Only limited
+33052,Swap
+33053,Add
+33054,Remove
+33055,Total
+33056,Stats
+33057,bronze
+33058,Until next rank upgrade
+33059,Move
+33060,Receive
+33061,The same player is already on the starting list.
+33062,There is no data.
+33063,Data is abnormal.
+33064,Reason
+33065,Next Crush Start Date
+33066,An error occurred while creating a tournament.{{Touch Retry to create a new tournament.
+33067,The server is receiving data.
+33068,Data was not received properly.
+33069,Season player presentation
+33070,World Championship entry
+33071,Selected players who made their debut in the league this year and look forward to the future. It can only be obtained as a season reward.
+33072,Do you want to stop the auto match?{Used items will disappear.
+33073,Are you sure you want to reset your account?{Save data will be deleted and the game will restart.
+33074,The same coach is already in the entry.
+33075,Are you sure you want to delete the coach? You can get 30 Essence.

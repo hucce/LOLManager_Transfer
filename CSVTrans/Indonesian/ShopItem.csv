@@ -1,9 +1,9 @@
 ﻿ID,Name,Dec
-1000,Rekrutmen Emas.,Rekrut 1 pemain acak dengan stat gabungan di atas 81.
+1000,Rekrutmen Emas,Rekrut 1 pemain acak dengan stat gabungan di atas 81.
 1001,Paket Emas,Rekrut 5 pemain acak dengan stat gabungan di atas 81.
 1002,Rekrutmen Pemain,Rekrut 1 pemain acak.
 1003,Perak perak.,Rekrut 1 pemain acak dengan stat gabungan di atas 76.
-1004,Rekrutmen Emas.,Rekrut 1 pemain acak dengan stat gabungan di atas 81.
+1004,Rekrutmen Emas,Rekrut 1 pemain acak dengan stat gabungan di atas 81.
 1005,Rekrutmen Platinum,Rekrut 1 pemain acak dengan IPK gabungan 84 atau lebih tinggi.
 1006,Paket dasar,Merekrut 5 pemain acak.
 1007,Paket perak,Rekrut 5 pemain acak dengan stat gabungan di atas 76.
@@ -11,4 +11,5 @@
 1009,Paket Platinum,Rekrut 5 pemain acak dengan IPK gabungan 84 atau lebih tinggi.
 1010,Rekrutmen musim sebelumnya,Satu pemain acak dari musim 18-20sum direkrut.
 1011,Paket musim sebelumnya, (Tidak termasuk batasan)
-1012,Ubah nama tim,5 pemain acak dari musim 18-20sum direkrut.
+1012,Rekrutmen Pelatih.,5 pemain acak dari musim 18-20sum direkrut.
+1013,Ubah nama tim, (Tidak termasuk batasan)

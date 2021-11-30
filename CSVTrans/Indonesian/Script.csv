@@ -13,7 +13,7 @@
 20000,Pameran / Operasi Line
 20001,Keseimbangan
 20002,Pertarungan tim
-20003,Adat
+20003,Kebiasaan
 21000,Ini adalah strategi untuk menggulung bola salju berdasarkan pertempuran garis kuat. {{-Ini cocok ketika Anda memiliki pertempuran garis yang kuat. {-Anda dapat dikembalikan ke satu tembakan ketika Anda memiliki pukulan lemah.
 21001,Lineup} Operasi Hanta} Mainkan game dengan cara yang seimbang. {{-Ini cocok ketika kemampuan pemain bahkan.
 21002,Ini adalah strategi yang bertujuan untuk satu tembakan melalui satu tembakan. {{-Ini cocok ketika sebuah tim memiliki kemampuan satu tembakan yang kuat. {
@@ -29,14 +29,14 @@
 24002,Pertarungan tim
 24003,Operasi
 24004,Keseimbangan
-24005,Puncak
+24005,Atas
 24006,Pertengahan
 24007,Bawah
-24008,Puncak
+24008,Atas
 24009,Hutan
 24010,Pertengahan
 24011,IKLAN
-24012,Dukung
+24012,Mendukung
 25000,Menyerang
 25001,Seimbang
 25002,Truk tangki
@@ -48,7 +48,7 @@
 25008,Pendukung
 25009,Menyerang
 25010,Seimbang
-25011,Utilitas
+25011,Kegunaan
 25012,Menyerang
 25013,Seimbang
 25014,Truk tangki
@@ -85,25 +85,25 @@
 30015,Memeriksa server multiplay. Harap tunggu sampai waktu periksa selesai
 30016,Tidak dapat memuat daftar. Silakan masuk Google dalam multiplay.
 31000,Terima kasih telah bermain game. Ulasan Anda sangat membantu bagi pengembang. Anda akan menerima 300 esensi sebagai hadiah.
-32000,Terima kasih telah menonton iklan. Klik OK untuk menerima hadiah tampilan Anda.
+32000,Terima kasih telah menonton iklan. Klik OK untuk menerima hadiah menonton Anda.
 32001,AD dilewati Anda harus menonton iklan sampai akhir untuk menerima hadiah.
 32002,"Gagal mengambil iklan, periksa koneksi internet Anda."
 36000,Skor Liga
-36001,M.
+36001,M
 36002,W.
 36003,L.
 36004,Sejarah
-36005,Puncak
+36005,Atas
 36006,Hasil pertandingan
 36007,Menerima
-36008,Lengkap
+36008,Menyelesaikan
 36009,Tidak lengkap
 36010,Tautan
 36011,Musim
 33000,Upgrade hanya dimungkinkan hingga level 10.
-33001,Keberhasilan
+33001,Kesuksesan
 33002,Kegagalan
-33003,Probabilitas kesuksesan.
+33003,Probabilitas kesuksesan
 33004,Perbedaan
 33005,Apakah Anda ingin melewati tutorial? Anda tidak bisa mendapatkan hadiah dari tutorial.
 33006,Bahasa akan berubah ketika Anda me-restart permainan.
@@ -118,7 +118,7 @@
 33008,Garis
 33009,Pertarungan tim
 33010,Operasi
-33011,Puncak
+33011,Atas
 33012,Pertengahan
 33013,Bawah
 33014,Kekalahan besar
@@ -145,12 +145,12 @@
 33035,Mulai musim
 33036,Musim baru telah dimulai.
 33037,Kontribusi Hall of Fame
-33038,Beristirahat
+33038,Istirahat
 33039,Tidak cukup esensi
 37000,Tidak ada
 37001,Esensi
-37002,Pak
-37003,Paket
+37002,Mengemas
+37003,Kemasan
 38000,Semua
 38001,Perak
 38002,Emas
@@ -163,7 +163,7 @@
 33045,Penantang
 33046,Menguasai
 33047,Pengerahan
-33048,Paket
+33048,Kemasan
 33049,Presentasi
 33050,Termasuk terbatas
 33051,Hanya terbatas
@@ -188,3 +188,6 @@
 33070,Entri Kejuaraan Dunia
 33071,Pemain terpilih yang melakukan debut mereka di liga tahun ini dan menantikan masa depan. Itu hanya dapat diperoleh sebagai hadiah musim.
 33072,Apakah Anda ingin menghentikan pertandingan otomatis? {Item bekas akan hilang.
+33073,Anda yakin ingin mengatur ulang akun Anda? {Simpan data akan dihapus dan permainan akan restart.
+33074,Pelatih yang sama sudah masuk.
+33075,Apakah Anda yakin ingin menghapus pelatih? Anda bisa mendapatkan 30 esensi.

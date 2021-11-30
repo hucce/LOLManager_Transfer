@@ -5,7 +5,7 @@
 11003,Şampiyonluk değildi. Ama gelecek sezonu kazanmaya çalışmak için iyi bir sıralama.
 11004,"En kötüsü kaçınıldı, ama bu iyi bir sıralama değildi. Daha yüksek bir sıralama için} Bakıma ihtiyacı olduğunu düşünüyorum."
 11005,Sezonu en kötü durumda bitirdik. Bizi destekleyen fanlar için} Gelecek sezon için daha ileri gidelim.
-11006,"Ekip dünya şampiyonluğunu büyük koçlukla kazandı! Oyuncular ve hayranlar, harika komutunu kutlar. Tebrikler."
+11006,"Ekip dünya şampiyonluğunu büyük koçlukla kazandı! Oyuncular ve hayranlar, harika komutunuzu kutlar. Tebrikler."
 11007,"Kazanmadı, ama harika bir iş yaptı. Gelecek sezon dünya şampiyonasını kazanmaya çalışalım!"
 11008,"Ne yazık ki, bu harika bir not. Gelecek sezon gücümüzü artıralım ve bir sonraki Dünya Şampiyonu kazanmaya çalışalım."
 11009,"Turnuvaya başarıyla girdiniz. Gelecek sezon, daha yüksek turnuvalara gidelim."
@@ -13,7 +13,7 @@
 20000,Hat Sergisi / Çalıştırma
 20001,Denge
 20002,Teamfight
-20003,Özel
+20003,Gelenek
 21000,Güçlü çizgi savaşlarına dayanarak kartoplarını yuvarlamak bir stratejidir. {{- Güçlü bir çizgi savaşınız olduğunda uygundur. {- Zayıf bir darbeniz olduğunda bir atışa geri dönebilirsiniz.
 21001,Lineup} HANTA} Operasyon Oyunu dengeli bir şekilde oynatın. {{- Oyuncuların yetenekleri bile olsa da uygundur.
 21002,Tek bir atıştan bir vuruşu amaçlayan bir stratejidir. {{- Bir takımın güçlü bir vuruş kabiliyetine sahip olduğunda uygundur. {
@@ -29,10 +29,10 @@
 24002,Teamfight
 24003,Operasyon
 24004,Denge
-24005,Üst
+24005,Tepe
 24006,Orta
 24007,Alt
-24008,Üst
+24008,Tepe
 24009,Orman
 24010,Orta
 24011,Reklam
@@ -63,7 +63,7 @@
 26008,"Amaç, bir dilin kabiliyetini geliştirmektir. {{▲ One Dil'in statü artar."
 26009,İlk günler güçlüdür. Ancak} zaman geçtikçe} daha zayıf olur. {{▲ İlk 20 dakikaya kadar sıralamaya} Hanta yeteneği artar. {{▼ HANTA yeteneği ikinci yarıdan azalır.
 26010,Temel tek anlaşma şampiyonu.
-26011,Carrie'nin rolünden ziyade takıma yardım etmeye odaklanıyor. {{▲ Operasyonel istatistikler yükseldi. {{▼ satırlar istatistikleri aşağı iner.
+26011,Carrie'nin rolünden ziyade takıma yardım etmeye odaklanıyor. {{▲ Operasyonel istatistikler yükseldi. {{▼ satırlar istatistikleri aşağı iniyor.
 26012,Hat kavgası güçlüdür. Ancak} Düşük sağlık ile çalışmak tehlikelidir. {{▲ Line-up istatistikleri artar. {{- Operasyondan kazanılan veya kaybedilen puanlar.
 26013,Temel destekçisi şampiyonu.
 26014,Doğrultusunda zayıf. Ancak} Hanta'da güçlü. {{▲ HANTA STAT arttırıldı. {{▼ satırlar statü indirildi.
@@ -89,20 +89,20 @@
 32001,"AD atladı, ödülü almak için reklamı sonuna kadar izlemelisiniz."
 32002,Reklam alınamadı Lütfen internet bağlantınızı kontrol edin.
 36000,Lig skoru
-36001,M
+36001,m
 36002,W
 36003,L
 36004,Tarih
-36005,Üst
+36005,Tepe
 36006,Sonuçları maç
-36007,Teslim almak
+36007,Almak
 36008,Tamamlayınız
 36009,Tamamlanmamış
-36010,Link
+36010,Bağlantı
 36011,Mevsim
 33000,Yükseltme sadece 10 seviyeye kadar mümkündür.
 33001,Başarı
-33002,Başarısızlık
+33002,Arıza
 33003,Başarı olasılığı
 33004,Fark
 33005,Öğreticiyi atlamak ister misin? Ödülleri öğreticiden alamazsınız.
@@ -118,11 +118,11 @@
 33008,Hat
 33009,Teamfight
 33010,Operasyon
-33011,Üst
+33011,Tepe
 33012,Orta
 33013,Alt
 33014,Büyük yenilgi
-33015,Yenilgi
+33015,Yenmek
 33016,Düşüş
 33017,Çekişme
 33018,Üstünlük
@@ -145,17 +145,17 @@
 33035,Sezon başlangıcı
 33036,Yeni bir sezon başladı.
 33037,Şöhret Katkısı Salonu
-33038,Dinlenme
+33038,Dinlenmek
 33039,Yeterli değil
-37000,Yok
+37000,Hiçbiri
 37001,Öz
-37002,Paketi
+37002,Ambalaj
 37003,Paket
-38000,Herşey
+38000,Tüm
 38001,Gümüş
 38002,Altın
 38003,Platin
-33040,Herşey
+33040,Tüm
 33041,Gümüş
 33042,Altın
 33043,Platin
@@ -175,7 +175,7 @@
 33057,bronz
 33058,Bir sonraki rütbe yükseltme kadar
 33059,Hareket
-33060,Teslim almak
+33060,Almak
 33061,Aynı oyuncu zaten başlangıç listesinde.
 33062,Veri yok.
 33063,Veriler anormaldir.
@@ -188,3 +188,6 @@
 33070,Dünya Şampiyonası Girişi
 33071,Bu yıl ligde ilk başlamalarını yapan seçilmiş oyuncular ve geleceği dört gözle bekliyorlar. Sadece bir sezon ödülü olarak elde edilebilir.
 33072,Otomatik eşleşmeyi durdurmak ister misiniz? {Kullanılan eşyalar kaybolur.
+33073,Hesabınızı sıfırlamak istediğinizden emin misiniz? {Verileri kaydetme silinir ve oyun yeniden başlatılır.
+33074,Aynı koç zaten girişte.
+33075,Koçu silmek istediğinize emin misiniz? 30 özü alabilirsiniz.

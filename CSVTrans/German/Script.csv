@@ -11,7 +11,7 @@
 11009,"Sie haben erfolgreich das Turnier eingegeben. Nächste Saison, lass uns auf höhere Turniere gehen."
 11010,Leider ist das Turnier fehlgeschlagen. Lassen Sie uns leider in der nächsten Saison zur Weltmeisterschaft vorrücken und auf die Meisterschaft zielen.
 20000,Linie Ausstellung / Betrieb
-20001,Balance
+20001,Gleichgewicht
 20002,Teamkampf
 20003,Benutzerdefiniert
 21000,"Es ist eine Strategie, Schneebälle auf Basis starker Linienkämpfe zu rollen. {{-It ist geeignet, wenn Sie einen starken Schlacht haben. {-You kann zu einem Schuss zurückgekehrt werden, wenn Sie einen schwachen Schlag haben."
@@ -24,15 +24,15 @@
 23000,"Wählen Sie die Fähigkeit, das Zentrum des Spiels zu sein. Die Statistiken des Teams werden zunehmen. Stattdessen} der Rest der Macht fällt."
 23001,Der Jungler entscheidet über die Linie zum Ranken.
 23002,"Stellen Sie eine Position ein, die sich auf den Betrieb konzentriert. Die Hauptauftrag wird den Anteil des Teambetriebs erhöhen."
-24000,Balance
-24001,Linie
+24000,Gleichgewicht
+24001,Leitung
 24002,Teamkampf
 24003,Betrieb
-24004,Balance
-24005,oben
+24004,Gleichgewicht
+24005,Oberteil
 24006,Mitte
 24007,Unterseite
-24008,oben
+24008,Oberteil
 24009,Urwald
 24010,Mitte
 24011,ANZEIGE
@@ -48,7 +48,7 @@
 25008,Fan
 25009,Attacke
 25010,Ausgewogen
-25011,Nützlichkeit
+25011,Dienstprogramm
 25012,Attacke
 25013,Ausgewogen
 25014,Tanker
@@ -89,20 +89,20 @@
 32001,"Ad übersprungen Sie müssen die Anzeige ansehen, um die Belohnung zu erhalten."
 32002,Anzeigen konnte nicht abgerufen werden Bitte überprüfen Sie Ihre Internetverbindung.
 36000,Liga-Score.
-36001,M.
+36001,m
 36002,W.
 36003,L.
 36004,Geschichte
-36005,oben
+36005,Oberteil
 36006,Ergebnisse der Ergebnisse.
 36007,Erhalten
-36008,Komplett
+36008,Vollständig
 36009,Unvollständig
 36010,Verknüpfung
 36011,Jahreszeit
 33000,Das Upgrade ist nur bis Ebene 10 möglich.
 33001,Erfolg
-33002,Fehler
+33002,Versagen
 33003,Erfolgswahrscheinlichkeit
 33004,Unterschied
 33005,Möchten Sie das Tutorial überspringen? Sie können die Belohnungen nicht vom Tutorial bekommen.
@@ -113,16 +113,16 @@
 34003,Cloud Speichern Sie die Bestätigung vollständig
 34004,Datenimport vollständig.
 34005,Problem erneut
-34006,Error! Laden Sie den Offline-Modus aus
+34006,Fehler! Laden Sie den Offline-Modus aus
 33007,Runden
-33008,Linie
+33008,Leitung
 33009,Teamkampf
 33010,Betrieb
-33011,oben
+33011,Oberteil
 33012,Mitte
 33013,Unterseite
 33014,Große Niederlage
-33015,Niederlage
+33015,Verlust
 33016,Bärish
 33017,Streit
 33018,Überlegenheit
@@ -151,11 +151,11 @@
 37001,Wesen
 37002,Pack
 37003,Paket
-38000,Alles
+38000,Alle
 38001,Silber
 38002,Gold
 38003,Platin
-33040,Alles
+33040,Alle
 33041,Silber
 33042,Gold
 33043,Platin
@@ -167,7 +167,7 @@
 33049,Präsentation
 33050,Einschließlich limitiert.
 33051,Nur begrenzt
-33052,Tauschen
+33052,Wechsel
 33053,Hinzufügen
 33054,Entfernen
 33055,Gesamt
@@ -187,4 +187,7 @@
 33069,Saisonspielerpräsentation.
 33070,Weltmeisterschaftseinfahrt.
 33071,"Ausgewählte Spieler, die dieses Jahr in der Liga debütierten und sich auf die Zukunft freuen. Es kann nur als Saisonbelohnung erhalten werden."
-33072,Möchten Sie das Auto-Match stoppen? {Gebrauchte Elemente werden verschwinden.
+33072,Möchten Sie das Auto-Match stoppen? {Gebrauchte Elemente verschwinden.
+33073,"Sind Sie sicher, dass Sie Ihr Konto zurücksetzen möchten? {Speichern von Daten werden gelöscht und das Spiel wird neu gestartet."
+33074,Derselbe Trainer ist bereits im Eintrag.
+33075,Möchten Sie den Trainer sicher löschen? Sie können 30 Essenz bekommen.

@@ -29,14 +29,14 @@
 24002,Combat d'équipe
 24003,Opération
 24004,Équilibre
-24005,Haut
+24005,Sommet
 24006,Milieu
 24007,Bas
-24008,Haut
+24008,Sommet
 24009,Jungle
 24010,Milieu
 24011,UN D
-24012,Support
+24012,Soutien
 25000,Attaque
 25001,Équilibré
 25002,Pétrolier
@@ -55,7 +55,7 @@
 26000,Appuyez fortement sur l'adversaire en ligne. Il prend également le contrôle de l'opération à travers la scission. {{▲ Les statistiques d'exploitation augmentent. {{Points gagnés ou perdus sur l'augmentation de la ligne. {{▼ Hanta State Bowers.
 26001,Tank de la transaction de base.
 26002,"L'influence est réduite dans les batailles de ligne. Cependant, il est plus fort à Hanta. {{▲ La capacité de Hanta est augmentée. {{Points gagnés ou perdus à la ligne sont abaissés. {{▼ L'opération de fonctionnement est abaissée."
-26003,"La ganking devient puissant. Cependant,} il y a un risque élevé d'échec de ganking. {{▲ Stats de ligne augmente. {{"
+26003,"La ganking devient puissante. Cependant,} il y a un risque élevé d'échec de ganking. {{▲ Stats de ligne augmente. {{"
 26004,Tank de la transaction de base.
 26005,La capacité de ganking est abaissée. Cependant} la capacité de frappe augmente. {{▲ La capacité de frappe augmente. {{▼ La capacité de la gamme diminue.
 26006,Appuyez fortement sur l'adversaire en ligne. Il prend également le contrôle de l'opération à travers la scission. {{▲ Les statistiques d'exploitation augmentent. {{Points gagnés ou perdus sur l'augmentation de la ligne. {{▼ Hanta State Bowers.
@@ -66,7 +66,7 @@
 26011,Se concentrer sur l'aide de l'équipe plutôt que du rôle de Carrie. {{▲ Les statistiques opérationnelles montent. {{▼ Les statistiques de lignes descendent.
 26012,"La lutte de ligne est puissante. Cependant, il est dangereux de fonctionner avec une faible santé. {{▲ Les statistiques de ligne augmentent. {{Points gagnés ou perdus de l'opération augmentent."
 26013,Champ Champs de Basporter.
-26014,Faible en ligne. Cependant} il est fort à Hanta. {{▲ stat Hanta est augmenté. {{▼ lignes stat est abaissée.
+26014,Faible en ligne. Cependant} il est fort à Hanta. {{▲ stat Hanta est augmenté. {{▼ lignes stat est abaissé.
 30000,"Si vous ne pouvez pas vous connecter à Google, vous ne pouvez pas jouer à MultiLayer. Veuillez vous connecter à Google."
 30001,Il y avait une fin anormale du jeu lors du dernier Multi match. Le jeu a été confisqué.
 30002,Toutes nos félicitations! Vous êtes promu au niveau suivant!
@@ -90,15 +90,15 @@
 32002,Échec de l'exploitation de la publicité Veuillez consulter votre connexion Internet.
 36000,Score de la ligue
 36001,M
-36002,W
+36002,À
 36003,L
-36004,L'histoire
-36005,Haut
+36004,Histoire
+36005,Sommet
 36006,Résultats des correspondances
 36007,Recevoir
 36008,Compléter
 36009,Incomplet
-36010,Lien
+36010,Relier
 36011,Saison
 33000,La mise à niveau n'est possible qu'au niveau 10.
 33001,Succès
@@ -118,7 +118,7 @@
 33008,Ligne
 33009,Combat d'équipe
 33010,Opération
-33011,Haut
+33011,Sommet
 33012,Milieu
 33013,Bas
 33014,Grande défaite
@@ -145,17 +145,17 @@
 33035,Début de saison
 33036,Une nouvelle saison a commencé.
 33037,Contribution de la salle de renommée
-33038,Du repos
+33038,Se reposer
 33039,Pas assez d'essence
 37000,Rien
 37001,Essence
 37002,Pack
 37003,Emballer
-38000,Tout
+38000,Tous
 38001,Argent
 38002,Or
 38003,Platine
-33040,Tout
+33040,Tous
 33041,Argent
 33042,Or
 33043,Platine
@@ -174,7 +174,7 @@
 33056,Statistiques
 33057,bronze
 33058,Jusqu'à la prochaine mise à niveau
-33059,Bouge toi
+33059,Se déplacer
 33060,Recevoir
 33061,Le même joueur est déjà sur la liste de départ.
 33062,Il n'y a pas de données.
@@ -188,3 +188,6 @@
 33070,Entrée de championnat du monde
 33071,Joueurs sélectionnés qui ont fait leurs débuts dans la ligue cette année et attendent avec impatience l'avenir. Il ne peut être obtenu que comme une récompense de saison.
 33072,Voulez-vous arrêter la correspondance automatique? {Les articles d'occasion disparaîtront.
+33073,Êtes-vous sûr de vouloir réinitialiser votre compte? {Enregistrer les données seront supprimés et le jeu redémarrera.
+33074,Le même coach est déjà à l'entrée.
+33075,Êtes-vous sûr de vouloir supprimer l'entraîneur? Vous pouvez obtenir 30 essences.

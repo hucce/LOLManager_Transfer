@@ -11,9 +11,9 @@
 11009,"Hai inserito con successo il torneo. La prossima stagione, andiamo per tornei più alti."
 11010,"Sfortunatamente, il torneo fallì. Sfortunatamente, avanzando al campionato del mondo la prossima stagione e mirano per il campionato."
 20000,Mostra / funzionamento della linea
-20001,Equilibrio
+20001,Bilancia
 20002,Combattimento a squadre
-20003,Abitudine
+20003,Costume
 21000,È una strategia per rotolare palle di neve basata su battaglie di linea forti. {{-It è adatto quando hai una forte battaglia della linea. {- Puoi essere rivertito a un colpo quando hai un colpo debole.
 21001,LINEUP} HANTA} Operazione Gioca al gioco in modo equilibrato. {{-Questo è adatto quando l'abilità dei giocatori è pari.
 21002,È una strategia che mira a un colpo attraverso un singolo colpo. {{-It è adatto quando una squadra ha una forte capacità di un colpo. {
@@ -24,11 +24,11 @@
 23000,Scegli la capacità di essere il centro del gioco. Le statistiche del team aumentano. Invece} il resto del potere cade.
 23001,Il Jungler decide la linea per la gancellatura.
 23002,Imposta una posizione che si concentra sulle operazioni. L'ordine principale aumenterà la proporzione dell'operazione di squadra.
-24000,Equilibrio
+24000,Bilancia
 24001,Linea
 24002,Combattimento a squadre
 24003,Operazione
-24004,Equilibrio
+24004,Bilancia
 24005,Superiore
 24006,Medio
 24007,Parte inferiore
@@ -89,7 +89,7 @@
 32001,Annuncio saltato È necessario guardare l'annuncio alla fine per ricevere la ricompensa.
 32002,Impossibile recuperare l'annuncio per favore controlla la tua connessione Internet.
 36000,Punteggio della lega
-36001,M.
+36001,m
 36002,W.
 36003,L.
 36004,Storia
@@ -111,7 +111,7 @@
 34001,Google Play Login completo
 34002,Login del server completato
 34003,Cloud Salva conferma Completa
-34004,Importazione dei dati Completa
+34004,Importazione dei dati Completa.
 34005,Problema Riprova
 34006,Errore! Carica alla modalità offline
 33007,Il giro
@@ -147,16 +147,16 @@
 33037,Contributo della sala di fama
 33038,riposo
 33039,Non abbastanza essenza
-37000,Nessuna
+37000,Nessuno
 37001,Essenza
 37002,Pacchetto
 37003,Pacchetto
-38000,Tutti
-38001,Argento
+38000,Tutto
+38001,D'argento
 38002,Oro
 38003,Platino
-33040,Tutti
-33041,Argento
+33040,Tutto
+33041,D'argento
 33042,Oro
 33043,Platino
 33044,Diamante
@@ -167,14 +167,14 @@
 33049,Presentazione
 33050,Incluso limitato.
 33051,Solo limitato
-33052,Scambiare
-33053,Inserisci
+33052,Scambio
+33053,Aggiungere
 33054,Rimuovere
 33055,Totale
 33056,Statistiche
 33057,bronzo
 33058,Fino all'aggiornamento del prossimo grado
-33059,Mossa
+33059,Spostare
 33060,Ricevere
 33061,Lo stesso giocatore è già nella lista di partenza.
 33062,Non ci sono dati.
@@ -188,3 +188,6 @@
 33070,Entry del campionato del mondo
 33071,I giocatori selezionati che hanno fatto il loro debutto in campionato quest'anno e attendo con ansia il futuro. Può essere ottenuto solo come ricompensa di stagione.
 33072,Vuoi fermare la partita automatica? {Gli articoli usati scompariranno.
+33073,Sei sicuro di voler resettare il tuo account? {Salva dati verrà cancellato e il gioco verrà riavviato.
+33074,Lo stesso allenatore è già nella voce.
+33075,Sei sicuro di voler cancellare l'allenatore? Puoi ottenere 30 essenze.
