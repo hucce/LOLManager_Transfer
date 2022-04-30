@@ -1,15 +1,17 @@
 ﻿ID,Name,Dec
-1000,Reclutamiento de oro,Recluta 1 jugador aleatorio con una estadística combinada de arriba 81.
-1001,Paquete de oro,Recluta 5 jugadores al azar con una estadística combinada de arriba 81.
-1002,Reclutamiento del jugador,Recluta 1 jugador al azar.
-1003,Reclutamiento de plata,Recluta 1 jugador aleatorio con una estadística combinada de arriba 76.
-1004,Reclutamiento de oro,Recluta 1 jugador aleatorio con una estadística combinada de arriba 81.
-1005,Reclutamiento de platino,Recluta 1 jugador aleatorio con un GPA combinado de 84 o superior.
-1006,Paquete básico,Recluta 5 jugadores al azar.
-1007,Paquete de plata,Recluta 5 jugadores al azar con una estadística combinada de arriba a 76.
-1008,Paquete de oro,Recluta 5 jugadores al azar con una estadística combinada de arriba 81.
-1009,Paquete de platino,Recluta 5 jugadores aleatorios con un GPA combinado de 84 o más.
-1010,Reclutamiento de la temporada anterior,Se recluta un jugador aleatorio de la temporada 18-20sum.
-1011,Paquete de temporada anterior, (Sin incluir la limitación)
-1012,Reclutamiento de entrenadores,Se reclutan 5 jugadores al azar de la temporada 18-20.
-1013,Cambiar el nombre del equipo, (Sin incluir la limitación)
+1000,Rekrutmen Emas,Rekrut 1 pemain acak dengan stat gabungan di atas 81.
+1001,Paket Emas,Rekrut 5 pemain acak dengan stat gabungan di atas 81.
+1002,Rekrutmen Pemain,Merekrut 1 pemain acak.
+1003,Perekrutan perak,Rekrut 1 pemain acak dengan stat gabungan di atas 76.
+1004,Rekrutmen Emas,Rekrut 1 pemain acak dengan stat gabungan di atas 81.
+1005,Rekrutmen Platinum,Rekrut 1 pemain acak dengan IPK gabungan 84 atau lebih tinggi.
+1006,Paket dasar,Merekrut 5 pemain acak.
+1007,Paket perak,Rekrut 5 pemain acak dengan stat gabungan di atas 76.
+1008,Paket Emas,Rekrut 5 pemain acak dengan stat gabungan di atas 81.
+1009,Paket Platinum,Rekrut 5 pemain acak dengan IPK gabungan 84 atau lebih tinggi.
+1010,2021eason Recruitment.,Rekrut 1 pemain acak dari musim 21spr-21sum.
+1011,Paket 2021eason, (Tidak termasuk batasan)
+1012,Rekrutmen musim sebelumnya,Rekrut 5 pemain acak dari musim 21spr-21sum.
+1013,Paket musim sebelumnya, (Tidak termasuk batasan)
+1014,Rekrutmen Pelatih,Satu pemain acak dari musim 18-20sum direkrut.
+1015,Ubah nama tim, (Tidak termasuk batasan)

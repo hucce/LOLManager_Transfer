@@ -1,15 +1,17 @@
 ﻿ID,Name,Dec
-1000,金招聘,招聘1个随机播放器，其中包含一个上方的统计数据。
-1001,金套餐,招募5个随机玩家，其中包含在81上方的统计数据。
-1002,球员招聘,招募1个随机播放器。
-1003,银招聘,招聘1个随机播放器，其中76个组合的统计数据。
-1004,金招聘,招聘1个随机播放器，其中包含一个上方的统计数据。
-1005,铂金招聘,招募1名随机播放器，其GPA为84或更高。
-1006,基本套餐,招募5名随机球员。
-1007,银包,招募5名随机玩家，其中76岁以上的统计数据。
-1008,金套餐,招募5个随机玩家，其中包含在81上方的统计数据。
-1009,白金包装,招募5名随机球员，综合GPA为84或更高。
-1010,以前的季节招募,招募了18-20岁季节的一个随机播放器。
-1011,前赛季包装, （不包括限制）
-1012,教练招聘,招募了来自18-20岁季节的5个随机球员。
-1013,改变团队名称, （不包括限制）
+1000,Reclutamento d'oro.,Recluta 1 giocatore a caso con una statistica combinata superiore a 81.
+1001,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
+1002,Reclutamento del giocatore,Recluta 1 giocatore a caso.
+1003,Reclutamento d'argento,Recluta 1 giocatore a caso con una stat combinata sopra il 76.
+1004,Reclutamento d'oro.,Recluta 1 giocatore a caso con una statistica combinata superiore a 81.
+1005,Reclutamento del platino.,Recluta 1 giocatore a caso con un GPA combinato di 84 o superiore.
+1006,Pacchetto base.,Recluta 5 giocatori casuali.
+1007,Pacchetto d'argento,Recluta 5 giocatori casuali con una stat combinata sopra il 76.
+1008,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
+1009,Pacchetto Platinum.,Recluta 5 giocatori casuali con un GPA combinato di 84 o superiore.
+1010,Reclutamento 2021season.,Recluta 1 giocatore a caso dalla stagione 21spr-21sum.
+1011,Pacchetto 2021season., (Non inclusa la limitazione)
+1012,Reclutamento della stagione precedente,Recluta 5 giocatore casuale dalla stagione 21spr-21sum.
+1013,Pacchetto di stagione precedente, (Non inclusa la limitazione)
+1014,Reclutamento di allenatore,È reclutato un giocatore casuale della stagione 18-20sum.
+1015,Cambia il nome del team., (Non inclusa la limitazione)

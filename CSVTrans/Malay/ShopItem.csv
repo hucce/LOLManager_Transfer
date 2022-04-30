@@ -1,15 +1,17 @@
 ﻿ID,Name,Dec
-1000,Recruitment Gold.,Rekrut 1 pemain rawak dengan statistik gabungan di atas 81.
-1001,Pakej Emas.,Rekrut 5 pemain rawak dengan stat yang digabungkan di atas 81.
-1002,Pengambilan pemain.,Rekrut 1 pemain rawak.
-1003,Perak Recruitment.,Rekrut 1 pemain rawak dengan statistik gabungan di atas 76.
-1004,Recruitment Gold.,Rekrut 1 pemain rawak dengan statistik gabungan di atas 81.
-1005,Platinum Recruitment.,Rekrut 1 pemain rawak dengan gabungan GPA 84 atau lebih tinggi.
-1006,Pakej Asas,Rekrut 5 pemain rawak.
-1007,Pakej perak,Rekrut 5 pemain rawak dengan statistik gabungan di atas 76.
-1008,Pakej Emas.,Rekrut 5 pemain rawak dengan stat yang digabungkan di atas 81.
-1009,Pakej Platinum.,Rekrut 5 pemain rawak dengan gabungan GPA 84 atau lebih tinggi.
-1010,Perekrutan musim sebelumnya.,Seorang pemain rawak dari musim 18-20sum direkrut.
-1011,Pakej musim terdahulu, (Tidak termasuk had)
-1012,Pengambilan jurulatih.,5 pemain rawak dari musim 18-20sum direkrut.
-1013,Tukar nama pasukan, (Tidak termasuk had)
+1000,गोल्ड भर्ती,81 से ऊपर एक संयुक्त स्टेट के साथ भर्ती 1 यादृच्छिक खिलाड़ी।
+1001,गोल्ड पैकेज,81 से ऊपर एक संयुक्त स्टेट के साथ 5 यादृच्छिक खिलाड़ियों की भर्ती।
+1002,खिलाड़ी भर्ती,भर्ती 1 यादृच्छिक खिलाड़ी।
+1003,सिल्वर भर्ती,76 से ऊपर एक संयुक्त आंकड़े के साथ 1 यादृच्छिक खिलाड़ी भर्ती।
+1004,गोल्ड भर्ती,81 से ऊपर एक संयुक्त स्टेट के साथ भर्ती 1 यादृच्छिक खिलाड़ी।
+1005,प्लैटिनम भर्ती,84 या उच्चतर के संयुक्त जीपीए के साथ 1 यादृच्छिक खिलाड़ी भर्ती।
+1006,बुनियादी पैकेज,भर्ती 5 यादृच्छिक खिलाड़ी।
+1007,रजत पैकेज,76 से ऊपर एक संयुक्त आंकड़े के साथ 5 यादृच्छिक खिलाड़ियों की भर्ती।
+1008,गोल्ड पैकेज,81 से ऊपर एक संयुक्त स्टेट के साथ 5 यादृच्छिक खिलाड़ियों की भर्ती।
+1009,प्लैटिनम पैकेज,84 या उच्चतर के संयुक्त जीपीए के साथ 5 यादृच्छिक खिलाड़ियों की भर्ती करें।
+1010,2021Season भर्ती,21SPR-21sum सीजन से 1 यादृच्छिक खिलाड़ी भर्ती।
+1011,2021season पैकेज, (सीमा सहित)
+1012,पिछला सीजन भर्ती,21SPR-21sum सीजन से 5 यादृच्छिक खिलाड़ी भर्ती।
+1013,पिछला सीजन पैकेज, (सीमा सहित)
+1014,कोच भर्ती,18-20sum सीजन से एक यादृच्छिक खिलाड़ी भर्ती किया गया है।
+1015,टीम का नाम बदलें, (सीमा सहित)

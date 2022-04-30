@@ -1,213 +1,217 @@
 ﻿ID,Korean,Dec
-1000,효과음,聲音效果
-1001,배경음,背景聲音
-1002,언어,語
-1003,만든이: 허민구{연락: huccce@gmail.com,創建：Heo Min-GU {聯繫人：huccce@gmail.com
-1004,불러오는 중 /{구글 로그인,加載/ {Google登錄
-1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<注意> {{{有多個數據。請選擇要加載的數據。 {未選中的數據將被刪除。
-1006,팀이름,隊名
-1007,라운드,圓形的
-1008,정수,本質
-1009,저장날짜,保存日期
-1010,결정,決定
-1011,경기,匹配
-1012,리그,聯盟
-1013,전략,戰略
-1014,선수{관리,球員{管理層
-1015,영입{시장,招聘{Market.
-1016,멀티{대전,多{匹配
-1017,계정,帳戶
-1018,순위,秩
+1000,효과음,Kesan bunyi
+1001,배경음,Bunyi latar belakang
+1002,언어,Bahasa.
+1003,만든이: 허민구{연락: huccce@gmail.com,Dicipta oleh: Heo Min-gu {Hubungi: huCcce@gmail.com
+1004,불러오는 중 /{구글 로그인,Memuat / {Masuk Google masuk
+1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<Perhatian> {{Terdapat lebih daripada satu data. Sila pilih data untuk memuatkan. {Data yang tidak dipilih akan dipadamkan.
+1006,팀이름,Nama kumpulan
+1007,라운드,Pusingan
+1008,정수,Intipati
+1009,저장날짜,Simpan tarikh
+1010,결정,Keputusan
+1011,경기,Perlawanan
+1012,리그,Liga
+1013,전략,Strategi
+1014,선수{관리,Pemain {pengurusan
+1015,영입{시장,Pengambilan {pasar.
+1016,멀티{대전,Multi {match.
+1017,계정,Akaun
+1018,순위,Pangkat
 1019,승,W.
 1020,패,L.
-1021,라인전,線
-1022,한타,團隊
-1023,운영,手術
-1024,포지션,位置
-1025,이름,名稱
-1026,종합,全部的
-1027,일정,日曆
-1028,상대팀,對立的團隊
-1029,총합,全部的
-1030,결과,結果
-1031,승리,勝利
-1032,패배,打敗
-1033,간편,簡單的
-1034,지침,指導
-1035,픽밴,挑選禁令
-1036,설정,放
-1037,설명,解釋
-1038,라인,線
-1039,타입,類型
-1040,등급,評分
-1041,강화,加強
-1042,재조합,重組
-1043,팀케미,團隊化學
-1044,선발 선수,開始玩家
-1045,후보 선수,借助者
-1046,레벨 포인트,水平點
-1047,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),團隊化學（▲2）{年化學（▲1）{型化學（▲1）{聯盟化學（▲1）
-1048,케미스트리,化學
-1049,재조합 선수,重組玩家
-1050,제거,消除
-1051,강화 선수,加固玩家
-1052,재료 선수,摘要玩家
-1053,성공확률:,成功機會：
-1054,영입시장,招聘市場
-1055,스폰서 광고를 보고 원하는 보상을 받으세요.,觀看贊助廣告以獲得獎勵。
-1056,5번 보시면 200정수를 추가로 드립니다.,如果你看5次}你將收到額外的200名次。
-1057,골드 영입,金招聘
-1058,실버 선수,銀球員
-1059,시청,手錶
-1060,플레,鉑
-1061,골드,金子
-1062,선수명단,玩家名單
-1063,가격,價錢
-1064,추천,推薦
-1065,구입,買
-1066,탑 랭킹,惡作劇
-1067,내 순위,我的隊伍
-1068,새로고침시간,刷新時間
-1069,대전정보,匹配信息
-1070,대전찾기,匹配搜索
-1071,선수,播放器
-1072,감독,經理
-1073,로그인,登錄
-1074,확인,確認
-1075,일일,天
-1076,업적,成就
-1077,기타,等等
-1078,보상,報酬
-1079,공지사항,注意
-1080,계속,繼續
-1081,이곳을 눌러 입력,按此處進入
-1082,최종순위,最終排名
-1083,시즌 보상:,季節獎勵：
-1084,스킵,跳過
-1085,예,是的
-1086,아니오,不
-1087,터치 하면 게임 시작,觸摸開始遊戲
-1088,평점,年級
-1089,경기진행,匹配進步
-1090,버전확인,檢查版本
-1091,업데이트하러 가기,去更新
-1092,다시확인,再檢查一遍
-1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,無法加載團隊信息。{再試一次
-1094,이곳을 눌러 찾을 팀이름 입력,點按此處以輸入團隊名稱以查找
-1095,밴플레이어,禁止球員
-1096,전달,中繼
-1097,전송,發送
-1098,문의하기,聯繫我們
-1099,버그/건의,錯誤/建議
-1100,게임 종료,出口遊戲
-1101,초대링크,邀請鏈接
-1102,모의경기,仿真比賽
-1103,전략복사,戰略副本
-1104,신고,報告
-1105,<이벤트>,<Event>
-1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,贊助商的快遞活動！ {{簽出贊助商ADS，以獲得額外的+ 50％的獎勵。
-1107,영입시장으로 가기,去招聘市場
-1108,<리뷰 이벤트>,<審查活動>
-1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,謝謝你玩遊戲。 {{這對開發人員來說是一個很大的幫助。您將獲得300個本質作為獎勵。
-1110,리뷰하러 가기,去點評
-1111,답변을 받으실 메일을 적어주세요.,請寫電子郵件以回答。
-1112,(언어 변경 시 재시작 필요),（需要在更改語言時重新啟動）
-1113,이벤트,事件
-1114,포인트,觀點
-1115,친구요청,好友請求
-1116,친구추가,添加好友
-1117,친구 목록,好友列表
-1118,찾기,尋找
-1119,아니요,不
-1120,멀티대전정보,多污染信息
-1121,친구 추가,添加好友
-1122,라인전{운영,線{操作
-1123,밸런스,均衡
-1124,커스텀,風俗
-1125,탑,最佳
-1126,정글,最佳
-1127,미드,叢林
-1128,원딜,中
-1129,서폿,廣告
-1130,중심,中心
-1131,갱킹,g
-1132,메인오더,主要訂單
-1133,한정,有限的
+1021,라인전,Baris
+1022,한타,TeamFight.
+1023,운영,Operasi
+1024,포지션,Kedudukannya
+1025,이름,Nama
+1026,종합,Jumlahnya
+1027,일정,Kalendar
+1028,상대팀,Pasukan lawan
+1029,총합,Jumlahnya
+1030,결과,Hasilnya
+1031,승리,Kemenangan
+1032,패배,Mengalahkan
+1033,간편,Mudah
+1034,지침,Garis panduan
+1035,픽밴,Pilih Ban
+1036,설정,Ditetapkan
+1037,설명,Penjelasan
+1038,라인,Baris
+1039,타입,Type.
+1040,등급,Penarafan
+1041,강화,Mengukuhkan
+1042,재조합,Rekombinasi
+1043,팀케미,Pasukan Chemie.
+1044,선발 선수,Memulakan pemain
+1045,후보 선수,Sub pemain
+1046,레벨 포인트,Tahap tahap
+1047,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),Pasukan Chemie (▲ 2) {Tahun Chemie (▲ 1) {Type Chemie (▲ 1) {League Chemie (▲ 1)
+1048,케미스트리,Kimia.
+1049,재조합 선수,Pemain rekombinan
+1050,제거,Keluarkan
+1051,강화 선수,Pemain Penguatkuasaan
+1052,재료 선수,Pemain barangan
+1053,성공확률:,Peluang kejayaan:
+1054,영입시장,Pasaran perekrutan
+1055,스폰서 광고를 보고 원하는 보상을 받으세요.,Menonton iklan yang ditaja untuk mendapatkan ganjaran.
+1056,5번 보시면 200정수를 추가로 드립니다.,Sekiranya anda melihat 5 kali} anda akan menerima tambahan 200.
+1057,골드 영입,Recruitment Emas.
+1058,실버 선수,Pemain perak
+1059,시청,Menonton
+1060,플레,Platinum.
+1061,골드,Emas
+1062,선수명단,Senarai pemain
+1063,가격,Harga
+1064,추천,Mengesyorkan
+1065,구입,Beli
+1066,탑 랭킹,Pangkat teratas.
+1067,내 순위,Pangkat saya.
+1068,새로고침시간,Menyegarkan masa
+1069,대전정보,Maklumat sepadan
+1070,대전찾기,Carian sepadan.
+1071,선수,Pemain
+1072,감독,Pengurus
+1073,로그인,Log masuk
+1074,확인,Sahkan
+1075,일일,Hari
+1076,업적,Pencapaian
+1077,기타,Dan lain-lain
+1078,보상,Ganjaran
+1079,공지사항,Notis
+1080,계속,Teruskan
+1081,이곳을 눌러 입력,Tekan di sini untuk masuk
+1082,최종순위,Kedudukan terakhir.
+1083,시즌 보상:,Ganjaran Musim:
+1084,스킵,Langkau
+1085,예,Ya
+1086,아니오,Tidak
+1087,터치 하면 게임 시작,Sentuh untuk memulakan permainan
+1088,평점,Gred
+1089,경기진행,Perlawanan perlawanan
+1090,버전확인,Semak versi
+1091,업데이트하러 가기,Pergi ke kemas kini
+1092,다시확인,Semak lagi
+1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,Gagal memuat maklumat pasukan. {Cuba lagi
+1094,이곳을 눌러 찾을 팀이름 입력,Ketik di sini untuk memasukkan nama pasukan untuk mencari
+1095,밴플레이어,Pemain larangan
+1096,전달,Relay
+1097,전송,Hantar
+1098,문의하기,Hubungi Kami
+1099,버그/건의,Bug / cadangan
+1100,게임 종료,Keluar permainan
+1101,초대링크,Pautan jemputan
+1102,모의경기,Perlawanan simulasi
+1103,전략복사,Salinan strategik
+1104,신고,Melaporkan
+1105,<이벤트>,<Acara>
+1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,Acara Express Sponsor! {{Lihat iklan yang ditaja sekarang untuk mendapatkan tambahan + 50% ganjaran.
+1107,영입시장으로 가기,Pergi ke pasaran perekrutan
+1108,<리뷰 이벤트>,<Semak acara>
+1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,Terima kasih kerana bermain permainan ini. {{Ini adalah bantuan yang hebat untuk pemaju. Anda akan menerima 300 intipati sebagai ganjaran.
+1110,리뷰하러 가기,Pergi ke semakan
+1111,답변을 받으실 메일을 적어주세요.,Sila tulis e-mel untuk menjawab.
+1112,(언어 변경 시 재시작 필요),(Memerlukan restart apabila menukar bahasa)
+1113,이벤트,Acara
+1114,포인트,Titik
+1115,친구요청,Permintaan rakan
+1116,친구추가,Menambah rakan
+1117,친구 목록,Senarai rakan
+1118,찾기,Cari
+1119,아니요,Tidak
+1120,멀티대전정보,Maklumat multimatch.
+1121,친구 추가,Menambah rakan
+1122,라인전{운영,Garis {operasi.
+1123,밸런스,Seimbang
+1124,커스텀,Custom.
+1125,탑,Teratas
+1126,정글,Teratas
+1127,미드,Jungle.
+1128,원딜,MID.
+1129,서폿,Iklan
+1130,중심,Pusat
+1131,갱킹,Ganking.
+1132,메인오더,Urutan utama
+1133,한정,Terhad
 1134,레벨,Lv.
-1135,팀,團隊
-1136,당신의 팀이름을 정해주세요{(최대 5글자),請指定您的團隊名稱{（最多5個字符）
-1137,보낸이,從
-1138,내용,內容
-1139,첨부,附件
-1140,쪽지 목록,消息列表
-1141,받는이:,到：
-1142,첨부종류:,附件類型：
-1143,상세:,細節：
-1144,전송 비용:,傳輸成本：
-1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),（物品價格+基本費100 + 5％的附加物品價格）
-1146,쪽지보내기,發送一個消息
-1147,첼린저,挑戰者
-1148,마스터,掌握
-1149,다이아,鑽石
-1150,플레티넘,鉑
-1151,골드,金子
-1152,실버,銀
-1153,브론즈,青銅
-1154,<시즌 보상정보>,<季節獎勵信息>
-1155,시즌 보상정보,季節獎勵信息
-1156,등급상승 보상,課堂升級獎勵
-1157,명예의 전당 헌액,名人堂貢獻
-1158,시즌보상카드 증정,季節獎勵卡
-1159,다이아 패키지,鑽石套餐
-1160,플레티넘 패키지,白金包裝
-1161,골드 패키지,金套餐
-1162,실버 패키지,銀包
-1163,모든선수 패키지,所有球員套餐
-1164,다이아 영입,鑽石招募
-1165,첼린저 영입,挑戰者招聘
-1166,모든한정포함 첼린저 영입,全部包括限額招募
-1167,보낸날짜,發送日期
-1168,보상정보,獎勵信息
-1169,모든팀에게 승리 시,勝利對所有球隊
-1170,상세보기,查看詳情
-1171,연습{경기,練習{匹配
-1172,대전,匹配
-1173,멀티 시즌성적,多季度結果
-1174,새로운 시즌 시작,新賽季開始
-1175,평균 선수 종합:,AVG播放器總計：
-1176,이곳을 눌러{선수 이름 입력,按此處按到{播放器名稱輸入
-1177,시즌,季節
-1178,영입정보,招聘信息
-1179,검색,s
-1180,난이도,困難
-1181,대표팀,著名的團隊
-1191,새로운 리그 시작,新聯盟開始
-1192,<선수 등급 정보>,<玩家率信息>
-1193,토너먼트,比賽
-1194,우승,冠軍
-1195,승자조,贏家的括號
-1196,패자조,失敗者的braket.
-1197,시즌보상정보,季節獎勵信息
-1198,격전보상정보,粉碎獎勵信息
-1199,재시도,重試
-1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,※如果您不進行最終錦標賽，則不會得到獎勵。
-1201,랭크,秩
-1202,격전,壓碎
-1203,팀정보,團隊信息
-1204,다음경기,下一場比賽
-1205,팀 능력,團隊統計數據
-1206,선수 능력,球員統計數據
-1207,<시즌보상선수>,<季節獎勵玩家>
-1208,추가경험치,添加Exp.
-1209,경기 자동,自動匹配
-1210,아이템,物品
-1211,사용중인 아이템,使用項目
-1212,경기 아이템,匹配項目
-1213,사용,採用
-1214,개수,數數
-1215,자동,汽車
-1216,추가경험치,addexp.
-1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※獎勵只能在10季或更長時間接收。
-1218,언어설정,語言設置
-1219,리셋,重置
-1220,재시작,重啟
+1135,팀,Pasukan
+1136,당신의 팀이름을 정해주세요{(최대 5글자),Sila nyatakan nama pasukan anda {(sehingga 5 aksara)
+1137,보낸이,Dari
+1138,내용,Kandungan
+1139,첨부,Lampiran
+1140,쪽지 목록,Senarai mesej
+1141,받는이:,Kepada:
+1142,첨부종류:,Jenis Lampiran:
+1143,상세:,Perincian:
+1144,전송 비용:,Kos penghantaran:
+1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Harga Item + Bayaran Asas 100 + 5% daripada harga item yang dilampirkan)
+1146,쪽지보내기,Hantar satu mesej
+1147,첼린저,Challenger.
+1148,마스터,Master
+1149,다이아,Berlian
+1150,플레티넘,Platinum.
+1151,골드,Emas
+1152,실버,Perak
+1153,브론즈,Gangsa
+1154,<시즌 보상정보>,<Musim Maklumat Ganjaran>
+1155,시즌 보상정보,Maklumat Ganjaran Musim
+1156,등급상승 보상,Ganjaran menaik taraf kelas
+1157,명예의 전당 헌액,Hall of Fame Sumbangan
+1158,시즌보상카드 증정,Kad Ganjaran Musim
+1159,다이아 패키지,Pakej Diamond
+1160,플레티넘 패키지,Pakej Platinum.
+1161,골드 패키지,Pakej Emas.
+1162,실버 패키지,Pakej perak
+1163,모든선수 패키지,Semua Pakej Pemain
+1164,다이아 영입,Pengambilan Diamond.
+1165,첼린저 영입,Pengambilan Challenger.
+1166,모든한정포함 첼린저 영입,Semua-termasuk pengambilan had
+1167,보낸날짜,Tarikh dihantar
+1168,보상정보,Maklumat Ganjaran
+1169,모든팀에게 승리 시,Kemenangan kepada semua pasukan
+1170,상세보기,Lihat butiran
+1171,연습{경기,Amalan {Match.
+1172,대전,Perlawanan
+1173,멀티 시즌성적,Keputusan pelbagai musim
+1174,새로운 시즌 시작,Musim baru bermula
+1175,평균 선수 종합:,Jumlah Pemain AVG:
+1176,이곳을 눌러{선수 이름 입력,Tekan di sini untuk {Nama Pemain masuk
+1177,시즌,Musim
+1178,영입정보,Maklumat Perekrutan
+1179,검색,Seach.
+1180,난이도,Kesukaran
+1181,대표팀,Pasukan terkenal
+1191,새로운 리그 시작,New League bermula
+1192,<선수 등급 정보>,<Maklumat Kadar Player>
+1193,토너먼트,Kejohanan
+1194,우승,Juara
+1195,승자조,Bracket Pemenang
+1196,패자조,Braket Loser.
+1197,시즌보상정보,Maklumat Ganjaran Musim
+1198,격전보상정보,Maklumat Ganjaran Crush.
+1199,재시도,Mencuba semula
+1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"※ Jika anda tidak meneruskan ke kejohanan terakhir, anda tidak akan diberi ganjaran."
+1201,랭크,Pangkat
+1202,격전,Hancur
+1203,팀정보,Maklumat pasukan
+1204,다음경기,Perlawanan seterusnya
+1205,팀 능력,Statistik pasukan
+1206,선수 능력,Statistik pemain
+1207,<시즌보상선수>,<Pemain Ganjaran Musim>
+1208,추가경험치,Tambah Exp.
+1209,경기 자동,Perlawanan Auto.
+1210,아이템,Item
+1211,사용중인 아이템,Item yang digunakan
+1212,경기 아이템,Match Items.
+1213,사용,Gunakan
+1214,개수,Mengira
+1215,자동,Auto.
+1216,추가경험치,Addexp.
+1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Ganjaran hanya boleh diterima pada musim 10 atau lebih.
+1218,언어설정,Bahasa Seting.
+1219,리셋,Reset semula
+1220,재시작,Reboot
+1221,코치,Jurulatih
+1222,추가,Tambah
+1223,후보,Sub.
+1224,새게임,Permainan baru

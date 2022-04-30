@@ -1,15 +1,17 @@
 ﻿ID,Name,Dec
-1000,การสรรหาทองคำ,รับสมัคร 1 ผู้เล่นแบบสุ่มพร้อมสถิติแบบรวมที่อยู่เหนือ 81
-1001,แพคเกจทองคำ,รับสมัครผู้เล่นแบบสุ่ม 5 คนที่มีสถิติแบบรวมที่อยู่เหนือ 81
-1002,การสรรหาผู้เล่น,รับสมัคร 1 ผู้เล่นแบบสุ่ม
-1003,การสรรหาเงิน,รับสมัคร 1 ผู้เล่นแบบสุ่มพร้อมสถิติแบบรวมที่สูงกว่า 76
-1004,การสรรหาทองคำ,รับสมัคร 1 ผู้เล่นแบบสุ่มพร้อมสถิติแบบรวมที่อยู่เหนือ 81
-1005,การสรรหาแพลทินัม,รับสมัครผู้เล่นแบบสุ่ม 1 เครื่องพร้อมเกรดเฉลี่ยรวม 84 หรือสูงกว่า
-1006,แพคเกจพื้นฐาน,รับสมัคร 5 ผู้เล่นสุ่ม
-1007,แพคเกจเงิน,รับสมัครผู้เล่นแบบสุ่ม 5 คนที่มีสถิติแบบรวมอยู่เหนือ 76
-1008,แพคเกจทองคำ,รับสมัครผู้เล่นแบบสุ่ม 5 คนที่มีสถิติแบบรวมที่อยู่เหนือ 81
-1009,แพคเกจแพลทินัม,รับสมัคร 5 ผู้เล่นสุ่มที่มีเกรดเฉลี่ยรวม 84 หรือสูงกว่า
-1010,ฤดูกาลที่ผ่านมาการสรรหา,ผู้เล่นสุ่มหนึ่งคนจากฤดูกาล 18-20sum ได้รับการคัดเลือก
-1011,แพ็คเกจฤดูกาลก่อนหน้า, (ไม่รวมถึงข้อ จำกัด )
-1012,การรับสมัครโค้ช,5 ผู้เล่นสุ่มจากฤดูกาล 18-20sum ได้รับการคัดเลือก
-1013,เปลี่ยนชื่อทีม, (ไม่รวมถึงข้อ จำกัด )
+1000,Recrutamento de ouro,Recrute 1 jogador aleatório com um estatuto combinado acima de 81.
+1001,Pacote de ouro,Recrute 5 jogadores aleatórios com um estatuto combinado acima de 81.
+1002,Recrutamento de jogadores,Recrute 1 jogador aleatório.
+1003,Recrutamento de prata,Recrute 1 jogador aleatório com um estatuto combinado acima de 76.
+1004,Recrutamento de ouro,Recrute 1 jogador aleatório com um estatuto combinado acima de 81.
+1005,Recrutamento de platina,Recrute 1 jogador aleatório com um GPA combinado de 84 ou superior.
+1006,Pacote básico,Recrute 5 jogadores aleatórios.
+1007,Pacote de prata,Recrute 5 jogadores aleatórios com um estatuto combinado acima de 76.
+1008,Pacote de ouro,Recrute 5 jogadores aleatórios com um estatuto combinado acima de 81.
+1009,Pacote de platina,Recrute 5 jogadores aleatórios com um GPA combinado de 84 ou superior.
+1010,2021 recrutamento de estaasta,Recrute 1 jogador aleatório da temporada 21sum.
+1011,Pacote 2021season, (Não incluindo limitação)
+1012,Recrutamento de estação anterior,Recrute 5 jogador aleatório da temporada 21sum.
+1013,Pacote de temporada anterior, (Não incluindo limitação)
+1014,Recrutamento de treinador,Um jogador aleatório da temporada de 18-20sum é recrutado.
+1015,Alterar o nome da equipe, (Não incluindo limitação)

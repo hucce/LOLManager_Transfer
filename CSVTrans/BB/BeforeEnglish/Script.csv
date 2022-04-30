@@ -1,0 +1,193 @@
+﻿ID,Dec
+11000,Your team won the league with great coaching! Let's prepare to win the World Championship.
+11001,"Although it didn't win, it did a great job. Snow bathing is done in World Champion!"
+11002,"It wasn't a championship. However, we succeeded in advancing to the World Championship!"
+11003,It wasn't a championship. But it's a good ranking to try to win next season.
+11004,"The worst was avoided, but it was not a good ranking. For a higher ranking} I think it needs maintenance."
+11005,We ended the season in the worst position. For the fans who support us} Let’s go further for the next season.
+11006,The team won the World Championship with great coaching! Players and fans celebrate your great command. Congratulations.
+11007,"It didn't win, but it did a great job. Let's try to win the World Championship next season!"
+11008,"Unfortunately, it's a great grade. Let's increase our power next season and try to win the next World Champion."
+11009,"You have successfully entered the tournament. Next season, let's head for higher tournaments."
+11010,"Unfortunately, the tournament failed. Unfortunately, let's advance to the World Championship next season and aim for the championship."
+20000,Line exhibition / Operation
+20001,Balance
+20002,TeamFight
+20003,Custom
+21000,It is a strategy to roll snowballs based on strong line battles. {{-It is suitable when you have a strong line battle. {-You can be reverted to one shot when you have a weak blow.
+21001,Lineup} Hanta} Operation Play the game in a balanced way. {{-This is suitable when the players' ability is even.
+21002,It's a strategy that aims for one shot through a single shot. {{-It is suitable when a team has a strong one-shot ability. {
+21003,This is your strategy.
+22000,The center of the game
+22001,The center of a ganking
+22002,Main order
+23000,Choose the ability to be the center of the game. The team's stats will increase. Instead} the rest of the power falls.
+23001,The jungler decides the line for gankinging.
+23002,Set a position that focuses on operations. The main order will increase the proportion of team operation.
+24000,Balance
+24001,Line
+24002,TeamFight
+24003,Operation
+24004,Balance
+24005,Top
+24006,Mid
+24007,Bottom
+24008,Top
+24009,Jungle
+24010,Mid
+24011,AD
+24012,Support
+25000,Attack
+25001,Balanced
+25002,Tanker
+25003,Attack
+25004,Balanced
+25005,Tanker
+25006,Attack
+25007,Balanced
+25008,Supporter
+25009,Attack
+25010,Balanced
+25011,Utility
+25012,Attack
+25013,Balanced
+25014,Tanker
+26000,Strongly press the opponent in line. It also takes control of the operation through the split. {{▲ Operation stats increase. {{-Points gained or lost on the line increase. {{▼ Hanta stat lowers.
+26001,Basic deal tank.
+26002,Influence is reduced in line battles. However} he is stronger at Hanta. {{▲ Hanta ability is increased. {{-Points gained or lost at the line are lowered. {{▼ Operation stat is lowered.
+26003,The ganking becomes powerful. However} there is a high risk of ganking failure. {{▲ Line stats increase. {{
+26004,Basic deal tank.
+26005,ganking ability is lowered. However} the hitting ability increases. {{▲ The hitting ability increases. {{▼ The lineup ability goes down.
+26006,Strongly press the opponent in line. It also takes control of the operation through the split. {{▲ Operation stats increase. {{-Points gained or lost on the line increase. {{▼ Hanta stat lowers.
+26007,Basic nuker champ.
+26008,The goal is to improve the ability of the One Dil. {{▲ One Dil's stat increases.
+26009,The early days are powerful. However} as time goes by} it gets weaker. {{▲ Line-up until the first 20 minutes} Hanta ability increases. {{▼ Hanta ability decreases from the second half.
+26010,Basic one-deal champ.
+26011,Focusing on helping the team rather than Carrie's role. {{▲ Operational stats go up. {{▼ Lines stats go down.
+26012,Line fight is powerful. However} it is dangerous to operate with low health. {{▲ Line-up stats increase. {{-Points gained or lost from operation increase.
+26013,Basic supporter champ.
+26014,Weak in line. However} it is strong in Hanta. {{▲ Hanta stat is increased. {{▼ Lines stat is lowered.
+30000,If you can not log in to Google you can not play multiplayer. Please login Google.
+30001,There was an abnormal end of the game during the last multi match. The game was forfeited.
+30002,Congratulations! You are promoted to the next level!
+30003,You have been demoted due to constant defeat.
+30004,Signing in
+30005,There's a problem. Reason for issue:
+30006,The internet connection has been lost. When you have an internet connection} you will be automatically reconnected.
+30007,The internet was disconnected during the multi match. {If you click OK} you will exit the stadium.
+30008,There was a problem finding your opponent. {Press OK to exit the stadium.
+30009,The game is not up to date. You need to update to the latest version to play the match. {{Press the button below to check the version again} or go to the update page.
+30010,Checking
+30011,It is not the latest version.
+30012,Minute
+30013,You have been reported as a cheat player and cannot play multiplayer games.{{Please email {hucce@gmail.com for any questions.
+30014,You are registered as a cheat player.
+30015,Checking for multiplay server. Please wait until the check time is over
+30016,Unable to load the list. Please login Google in Multiplay.
+31000,Thank you for playing the game. Your review is a great help for the developer. You will receive 300 Essence as a reward.
+32000,Thank you for watching the ad. Click OK to receive your viewing reward.
+32001,Ad skipped You must watch the ad to the end to receive the reward.
+32002,Failed to fetch ad Please check your internet connection.
+36000,League score
+36001,M
+36002,W
+36003,L
+36004,History
+36005,Top
+36006,Match Results
+36007,Receive
+36008,Complete
+36009,Incomplete
+36010,Link
+36011,Season
+33000,Upgrading is only possible up to level 10.
+33001,Success
+33002,Failure
+33003,Probability of success
+33004,Difference
+33005,Do you want to skip the tutorial? You can't get the rewards from the tutorial.
+33006,The language will change when you restart the game.
+34000,Google Play Service Version Check
+34001,Google Play Login Complete
+34002,Server login completed
+34003,Cloud save confirmation complete
+34004,Data import complete
+34005,Problem retry
+34006,Error! Load to offline mode
+33007,Round
+33008,Line
+33009,TeamFight
+33010,Operation
+33011,Top
+33012,Mid
+33013,Bottom
+33014,Great Defeat
+33015,Defeat
+33016,Bearish
+33017,Contention
+33018,Superiority
+33019,Victory
+33020,Great victory
+33021,team jungler ganking.
+33022,Day
+33023,Season End Reward
+33024,Your friend has already been requested.
+33025,Already friend
+33026,Are you sure you want to delete this friend?
+33027,Copied strategy
+33028,Kinds
+33029,Ban
+33030,Declaration
+33031,Bug / Suggestions
+33032,Manager invitation. Become a LOL team manager.
+33033,Final Rating
+33034,The final reward
+33035,Season start
+33036,A new season has begun.
+33037,Hall of Fame contribution
+33038,Rest
+33039,Not enough essence
+37000,None
+37001,Essence
+37002,Pack
+37003,Package
+38000,All
+38001,Silver
+38002,Gold
+38003,Platinum
+33040,All
+33041,Silver
+33042,Gold
+33043,Platinum
+33044,Diamond
+33045,Challenger
+33046,Master
+33047,Recruitment
+33048,Package
+33049,Presentation
+33050,Including limited
+33051,Only limited
+33052,Swap
+33053,Add
+33054,Remove
+33055,Total
+33056,Stats
+33057,bronze
+33058,Until next rank upgrade
+33059,Move
+33060,Receive
+33061,The same player is already on the starting list.
+33062,There is no data.
+33063,Data is abnormal.
+33064,Reason
+33065,Next Crush Start Date
+33066,An error occurred while creating a tournament.{{Touch Retry to create a new tournament.
+33067,The server is receiving data.
+33068,Data was not received properly.
+33069,Season player presentation
+33070,World Championship entry
+33071,Selected players who made their debut in the league this year and look forward to the future. It can only be obtained as a season reward.
+33072,Do you want to stop the auto match?{Used items will disappear.
+33073,Are you sure you want to reset your account?{Save data will be deleted and the game will restart.
+33074,The same coach is already in the entry.
+33075,Are you sure you want to delete the coach? You can get 30 Essence.

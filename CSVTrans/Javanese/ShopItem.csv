@@ -4,12 +4,14 @@
 1002,Rekrutmen Pemain,Recruit 1 pamuter acak.
 1003,Recruitment perak,Recruit 1 pamuter acak kanthi stat gabungan ing ndhuwur 76.
 1004,Recruitment Emas,Recruit 1 pamuter acak kanthi stat gabungan ing ndhuwur 81.
-1005,Recruitment platinum,Recruit 1 Pamuter acak kanthi GPA gabungan 84 utawa luwih.
+1005,Recruitment platinum,Recruit 1 pamuter acak kanthi GPA gabungan 84 utawa luwih.
 1006,Paket dhasar,Recruit 5 pemain acak.
 1007,Paket perak,Recruit 5 pemain acak kanthi stat gabungan ing ndhuwur 76.
 1008,Paket Emas,Recruit 5 pemain acak kanthi stat gabungan ing ndhuwur 81.
 1009,Paket Platinum,Recruit 5 pemain acak kanthi GPA gabungan 84 utawa luwih.
-1010,Rekrutmen Musim Sadurunge,Siji pemain acak wiwit taun 18-20sum direkrut.
-1011,Paket Musim Sadurunge, (Ora kalebu watesan)
-1012,Recruitment pelatih,5 pemain acak saka musim 18-20sum direkrut.
-1013,Ganti Jeneng Tim, (Ora kalebu watesan)
+1010,2021season Recruitment,Recruit 1 pamuter acak saka musim 20spr-20Sum.
+1011,2021season paket, (Ora kalebu watesan)
+1012,Rekrutmen Musim Sadurunge,Recruit 5 pamuter acak saka musim 20spr-20Sum.
+1013,Paket Musim Sadurunge, (Ora kalebu watesan)
+1014,Rekrutmen pelatih,Siji pemain acak wiwit taun 18-20sum direkrut.
+1015,Ganti Jeneng Tim, (Ora kalebu watesan)

@@ -1,15 +1,17 @@
 ﻿ID,Name,Dec
 1000,Recrutement d'or,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 81.
-1001,Colis d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
+1001,Forfait d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
 1002,Recrutement du joueur,Recruter 1 joueur aléatoire.
 1003,Recrutement d'argent,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 76.
 1004,Recrutement d'or,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 81.
 1005,Recrutement en platine,Recruter 1 joueur aléatoire avec une GPA combinée de 84 ou plus.
 1006,Paquet de base,Recruter 5 joueurs aléatoires.
 1007,Paquet d'argent,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 76.
-1008,Colis d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
-1009,Paquet Platinum,Recruter 5 joueurs aléatoires avec une GPA combinée de 84 ou plus.
-1010,Recrutement de la saison précédente,Un joueur aléatoire de la saison de 18-20sums est recruté.
-1011,Paquet de la saison précédente, (Non compris la limitation)
-1012,Recrutement de l'entraîneur,5 joueurs aléatoires de la saison 18-20SUM sont recrutés.
-1013,Changer le nom de l'équipe, (Non compris la limitation)
+1008,Forfait d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
+1009,Forfait Platinum,Recruter 5 joueurs aléatoires avec une GPA combinée de 84 ou plus.
+1010,2021Vous recrutement,Recruter 1 joueur aléatoire de la saison 20PR-20PR-20PR.
+1011,Forfait 2021Sason, (Non inclure la limitation)
+1012,Recrutement de la saison précédente,Recruter 5 joueurs aléatoires de la saison 20PR-20SPR.
+1013,Forfait de la saison précédente, (Non inclure la limitation)
+1014,Recrutement de l'entraîneur,Un joueur aléatoire de la saison de 18-20sum est recruté.
+1015,Changer le nom de l'équipe, (Non inclure la limitation)

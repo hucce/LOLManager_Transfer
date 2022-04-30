@@ -1,15 +1,17 @@
 ﻿ID,Name,Dec
 1000,Altın işe alım,81'in üzerinde bir kombine stat ile 1 rastgele oyuncu işe alın.
-1001,Altın paketi,81'in üzerinde bir kombine stat ile 5 rastgele oyuncu işe alın.
+1001,Altın paketi,81'in üzerinde birleştirilmiş bir stat ile 5 rastgele oyuncu işe alın.
 1002,Oyuncu işe alım,1 rastgele oyuncu işe alın.
-1003,Gümüş işe alım,76'nın üzerinde bir kombine stat ile 1 rastgele oyuncu işe alın.
+1003,Gümüş işe alım,76'nın üzerinde birleştirilmiş bir stat ile 1 rastgele oyuncu işe alın.
 1004,Altın işe alım,81'in üzerinde bir kombine stat ile 1 rastgele oyuncu işe alın.
 1005,Platin alımı,84 veya daha yüksek bir GPA ile 1 rastgele oyuncu işe alın.
 1006,Temel paket,5 rastgele oyuncu işe alın.
 1007,Gümüş paket,76'nın üzerinde bir kombine stat ile 5 rastgele oyuncu işe alın.
-1008,Altın paketi,81'in üzerinde bir kombine stat ile 5 rastgele oyuncu işe alın.
-1009,Platin paketi,84 veya daha yüksek bir Kombine GPA ile 5 rastgele oyuncu işe alın.
-1010,Önceki sezon alımı,18-20 sum sezonundan bir rastgele oyuncu işe alındı.
-1011,Önceki sezon paketi, (Sınırlama dahil değil)
-1012,Antrenör işe alım,18-20 sum sezonundan 5 rastgele oyuncu işe alınır.
-1013,Takım adını değiştir, (Sınırlama dahil değil)
+1008,Altın paketi,81'in üzerinde birleştirilmiş bir stat ile 5 rastgele oyuncu işe alın.
+1009,Platin paketi,84 veya daha yüksek bir GPA ile 5 rastgele oyuncu işe alın.
+1010,2021Season İşe Alım,20spr-20 Sum sezonundan 1 rastgele oyuncu işe alın.
+1011,2021Season Paketi, (Sınırlama dahil değil)
+1012,Önceki sezon alımı,20spr-20 sum sezonundan 5 rastgele oyuncu işe alın.
+1013,Önceki sezon paketi, (Sınırlama dahil değil)
+1014,Antrenör işe alım,18-20 sum sezonundan bir rastgele oyuncu işe alınır.
+1015,Takım adını değiştir, (Sınırlama dahil değil)

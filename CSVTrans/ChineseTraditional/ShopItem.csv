@@ -1,15 +1,17 @@
 ﻿ID,Name,Dec
-1000,金招聘,
-1001,金套餐,Recruit 5 random players with a combined stat above 81.
-1002,球員招聘,Recruit 1 random player.
-1003,銀招聘,Recruit 1 random player with a combined stat above 76.
-1004,金招聘,Recruit 1 random player with a combined stat above 81.
-1005,鉑金招聘,Recruit 1 random player with a combined GPA of 84 or higher.
-1006,基本套餐,Recruit 5 random players.
-1007,銀包,Recruit 5 random players with a combined stat above 76.
-1008,金套餐,Recruit 5 random players with a combined stat above 81.
-1009,白金包裝,Recruit 5 random players with a combined GPA of 84 or higher.
-1010,以前的季節招募,One random player from the 18-20SUM season is recruited. (Not including limitation)
-1011,前賽季包裝,5 random players from the 18-20SUM season are recruited. (Not including limitation)
-1012,教練招聘,Recruit 1 random Coach.
-1013,改變團隊名稱,Change your team name.
+1000,Recruitment Emas.,Rekrut 1 pemain rawak dengan stat yang digabungkan di atas 81.
+1001,Pakej Emas.,Rekrut 5 pemain rawak dengan stat yang digabungkan di atas 81.
+1002,Pengambilan pemain.,Rekrut 1 pemain rawak.
+1003,Perak Recruitment.,Rekrut 1 pemain rawak dengan statistik gabungan di atas 76.
+1004,Recruitment Emas.,Rekrut 1 pemain rawak dengan stat yang digabungkan di atas 81.
+1005,Platinum Recruitment.,Rekrut 1 pemain rawak dengan gabungan GPA 84 atau lebih tinggi.
+1006,Pakej Asas,Rekrut 5 pemain rawak.
+1007,Pakej perak,Rekrut 5 pemain rawak dengan statistik gabungan di atas 76.
+1008,Pakej Emas.,Rekrut 5 pemain rawak dengan stat yang digabungkan di atas 81.
+1009,Pakej Platinum.,Rekrut 5 pemain rawak dengan GPA gabungan 84 atau lebih tinggi.
+1010,Pengambilan 2021Season.,Rekrut 1 pemain rawak dari musim 21SPR-21SUM.
+1011,2021Season Package., (Tidak termasuk had)
+1012,Perekrutan musim sebelumnya.,Rekrut 5 pemain rawak dari musim 21SPR-21SUM.
+1013,Pakej musim terdahulu, (Tidak termasuk had)
+1014,Pengambilan jurulatih.,Seorang pemain rawak dari musim 18-20sum direkrut.
+1015,Tukar nama pasukan, (Tidak termasuk had)

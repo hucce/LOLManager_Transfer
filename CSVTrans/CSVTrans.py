@@ -1,4 +1,7 @@
 from asyncore import read
+from pickle import FALSE
+from tabnanny import check
+from tkinter.tix import Tree
 #from selectors import EpollSelector
 import pandas as pd
 import numpy as np
@@ -16,12 +19,14 @@ from bs4 import BeautifulSoup as bs
 
 def DFinText(baseDF, textCol, txtList):
     txt = ''
+    check = 0
     for i in baseDF.index:
         #세로, 가로
         txt += baseDF[textCol][i] + '\n'
-        if len(txt) >= 4900 or len(baseDF) == i+1:
+        if len(txt) >= 4900 or len(baseDF) == check+1:
             txtList.append(txt)
             txt = ''
+        check += 1
 
 def LoadGoogle(baseDF, language, txt, col):
     driver = webdriver.Chrome('./chromedriver')
@@ -46,15 +51,11 @@ def LoadGoogle(baseDF, language, txt, col):
     
     resultSplit = result.split('\n')
 
-    global startIndex
-    _index = startIndex
-
     for txt in resultSplit:
-        baseDF[col][_index] = txt
-        _index += 1
+        for dfIndex in baseDF.index:
+            baseDF.at[dfIndex, col] = txt
 
     driver.close()
-    startIndex = _index
 
 def createFolder(directory):
     try:
@@ -65,57 +66,53 @@ def createFolder(directory):
  
 def Convert(loadList, notReplaceList, language, languageFull):
     for loadFile in loadList:
-        notFile = False
-        #데이터 불러오기
-        read = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
-        current_read = read
+        checkNot = False
+        for notRe in notReplaceList:
+            if loadFile == notRe:
+                checkNot = True
+        
+        # 그냥 하는게 아닌경우 중복 체크를 하고
+        if checkNot == False:
+            #데이터 불러오기
+            originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
+            current_read = originRead
 
-        checkDiff = False
-        # 파일이 있어야 비교
-        if os.path.isfile('./Before/English/' + loadFile + '.csv'):
-            before_read = pd.read_csv('./BeforeEnglish/' + loadFile + '.csv', encoding = 'utf-8')
-            # 전꺼랑 비교
-            read = GetDifferences(current_read, before_read)
-            if len(read) > 0:
-                checkDiff = True
+            # 파일이 있어야 비교
+            if os.path.isfile('./BeforeEnglish/' + loadFile + '.csv'):
+                before_read = pd.read_csv('./BeforeEnglish/' + loadFile + '.csv', encoding = 'utf-8')
+                # 전꺼랑 비교
+                read = GetDifferences(current_read, before_read)
+                if len(read) > 0:
+                    colList = ['Name', 'Dec']
+                    for col in colList:
+                        for dfCol in read.columns:
+                            # column 확인
+                            if col in dfCol:
+                                # 있다면
+                                txtList = []
+                                DFinText(read, col, txtList)
+                                for txt in txtList:
+                                    LoadGoogle(read, language, txt, col)
 
-        # 바뀐 부분이 있어야 바꾸죠.
-        if checkDiff == True:
-            for notRe in notReplaceList:
-                if loadFile in notRe:
-                    notFile = True
-                    break
-            if notFile == False:
-                #Name, Dec
-                colList = ['Name', 'Dec']
-                for col in colList:
-                    for dfCol in read.columns:
-                        if dfCol in col:
-                            txtList = []
-                            DFinText(read, col, txtList)
-                            global startIndex
-                            startIndex = 0
-                            for txt in txtList:
-                                LoadGoogle(read, language, txt, col)
-
-            # 이제 바뀐 애들 것에서 기존꺼를 확인해서 내용을 바꾼다.
-            colList = ['Name', 'Dec']
-            for i in range(0, len(read)):
-                _id = read.at[i, 'ID']
-                _index = current_read.index[(current_read['ID'] == _id)].tolist()[0]
-                for col in colList:
-                    for dfCol in read.columns:
-                        if dfCol in col:
-                            current_read[col][_index] = read.at(i, col)
-                            break
-
-            # 폴더가 없으면 만듦
+                    # 이제 바뀐 애들 것에서 기존꺼를 확인해서 내용을 바꾼다.
+                    languageRead = pd.read_csv('./'+ languageFull +'/' + loadFile + '.csv', encoding = 'utf-8')
+                    setColList = ['ID', 'Name', 'Dec']
+                    for _index in read.index:
+                        for col in setColList:
+                            for dfCol in languageRead.columns:
+                                if col in dfCol:
+                                    languageRead.at[_index, dfCol] = read.at[_index, col]
+                                    break
+                    # 저장한다
+                    createFolder('./' + languageFull)
+                    languageRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+        else:
+            # 그냥 저장함
+            originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
             createFolder('./' + languageFull)
-            read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+            originRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
 
-            createFolder('./Before/' + languageFull)
-            read.to_csv('./Before/'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
-            print(languageFull + ' ' + loadFile)
+        print(languageFull + ' ' + loadFile)
 
 def ConvertLanguage():
     readLanDF = pd.read_csv('./language.csv', encoding = 'utf-8')
@@ -154,14 +151,21 @@ def GetDifferences(df1, df2):
 
 #불러올 데이터들
 #loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
-loadList = ['Etc']
+loadList = ['AccountBox', 'Etc', 'MatchCategory', 'Coach', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
+loadList = ['Notice']
 notReplaceList = ['Team', 'Player', 'Coach']
+
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
 #Japanese, Simplified Chinese, Traditional Chinese, Vietnamese, German, Russian, Spanish, Arabic, Italian, Malay, Thai, Turkish, French, Indonesian, Javanese, Bengali, Hindi, Portuguese
 readLanDF = pd.read_csv('./LanguageList.csv', encoding = 'utf-8')
 languageList = ['ja', 'zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
-languageList = ['ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
 
-max = len(languageList)
-for lan in range(0, max):
+for lan in range(0, len(languageList)):
     Convert(loadList, notReplaceList, languageList[lan], readLanDF['Language'][lan])
+
+for loadFile in loadList:
+    originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
+    # 비포로
+    originRead.to_csv('./BeforeEnglish/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+
+

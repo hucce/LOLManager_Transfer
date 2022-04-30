@@ -1,15 +1,17 @@
 ﻿ID,Name,Dec
-1000,Reclutamento d'oro,Recluta 1 giocatore casuale con una stat combinata sopra 81.
-1001,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
-1002,Reclutamento del giocatore,Recluta 1 giocatore a caso.
-1003,Reclutamento d'argento,Recluta 1 giocatore a caso con una statistica combinata sopra il 76.
-1004,Reclutamento d'oro,Recluta 1 giocatore casuale con una stat combinata sopra 81.
-1005,Reclutamento di platino.,Recluta 1 giocatore a caso con un GPA combinato di 84 o superiore.
-1006,Pacchetto di base,Recluta 5 giocatori casuali.
-1007,Pacchetto d'argento,Recluta 5 giocatori casuali con una stat combinata sopra il 76.
-1008,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
-1009,Pacchetto Platinum.,Recluta 5 giocatori casuali con un GPA combinato di 84 o superiore.
-1010,Reclutamento della stagione precedente,Un giocatore casuale della stagione 18-20sum è reclutato.
-1011,Pacchetto di stagione precedente, (Non incluso la limitazione)
-1012,Reclutamento di allenatore,5 giocatori casuali della stagione 18-20sum sono reclutati.
-1013,Cambia il nome del team., (Non incluso la limitazione)
+1000,স্বর্ণ নিয়োগ,81 এর উপরে একটি যৌথ স্ট্যাট সহ 1 র্যান্ডম প্লেয়ার নিয়োগ করুন।
+1001,গোল্ড প্যাকেজ,81 এর উপরে একটি মিলিত স্ট্যাট সহ 5 র্যান্ডম খেলোয়াড় নিয়োগ।
+1002,প্লেয়ার নিয়োগ,1 র্যান্ডম প্লেয়ার নিয়োগ।
+1003,সিলভার নিয়োগ,76 এর উপরে একটি মিলিত স্ট্যাট সহ 1 র্যান্ডম প্লেয়ার নিয়োগ করুন।
+1004,স্বর্ণ নিয়োগ,81 এর উপরে একটি যৌথ স্ট্যাট সহ 1 র্যান্ডম প্লেয়ার নিয়োগ করুন।
+1005,প্ল্যাটিনাম নিয়োগ,84 বা তার বেশি একটি মিলিত জিপিএ সহ 1 র্যান্ডম প্লেয়ার নিয়োগ করুন।
+1006,বেসিক প্যাকেজ,5 র্যান্ডম খেলোয়াড় নিয়োগ।
+1007,সিলভার প্যাকেজ,76 এর উপরে একটি যৌথ স্ট্যাট সহ 5 র্যান্ডম খেলোয়াড় নিয়োগ করুন।
+1008,গোল্ড প্যাকেজ,81 এর উপরে একটি মিলিত স্ট্যাট সহ 5 র্যান্ডম খেলোয়াড় নিয়োগ।
+1009,প্ল্যাটিনাম প্যাকেজ,84 বা তার বেশি একটি মিলিত জিপিএ সহ 5 টি র্যান্ডম খেলোয়াড় নিয়োগ করুন।
+1010,2021 সেনসেন নিয়োগ,21spr-21sum ঋতু থেকে 1 র্যান্ডম প্লেয়ার নিয়োগ।
+1011,2021 সেনসেস প্যাকেজ, (সীমাবদ্ধতা সহ নয়)
+1012,পূর্ববর্তী ঋতু নিয়োগ,21spr-21sum ঋতু থেকে 5 র্যান্ডম প্লেয়ার নিয়োগ।
+1013,পূর্ববর্তী ঋতু প্যাকেজ, (সীমাবদ্ধতা সহ নয়)
+1014,কোচ নিয়োগ,18-20sum ঋতু থেকে একটি র্যান্ডম প্লেয়ার নিয়োগ করা হয়।
+1015,টিম নাম পরিবর্তন করুন, (সীমাবদ্ধতা সহ নয়)
