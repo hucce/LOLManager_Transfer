@@ -13,6 +13,7 @@ import requests
 
 #브라우저 제어
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 #페이지 로드
 from selenium.webdriver.support.ui import WebDriverWait
 from bs4 import BeautifulSoup as bs
@@ -37,15 +38,15 @@ def LoadGoogle(baseDF, language, txt, col):
     driver.get(base_url)
 
     time.sleep(1)
-    input_box = driver.find_element_by_xpath('/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[1]/span/span/div/textarea')
+    input_box = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[1]/span/span/div/textarea')
     input_box.send_keys(txt)
     time.sleep(2.5)
     result = ''
     try:
-        result = driver.find_element_by_css_selector("#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb.BLojaf > div.dePhmb > div > div.J0lOec > span.VIiyi").text
+        result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb.BLojaf > div.dePhmb > div > div.J0lOec > span.VIiyi").text
     except:
         try:
-            result = driver.find_element_by_css_selector("#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb > div.dePhmb > div > div.J0lOec > span.VIiyi > span > span").text
+            result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb > div.dePhmb > div > div.J0lOec > span.VIiyi > span > span").text
         except:
             print("결과를 제대로 크롤링 못했음")
     
@@ -126,15 +127,15 @@ def ConvertLanguage():
         driver.get(base_url)
 
         time.sleep(0.5)
-        input_box = driver.find_element_by_xpath('//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[1]/span/span/div/textarea')
+        input_box = driver.find_element(By.XPATH, '//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[1]/span/span/div/textarea')
         input_box.send_keys(readLanDF['Language'][lan])
         time.sleep(2.5)
         result = ''
         try:
-            result = driver.find_element_by_css_selector("#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb.BLojaf > div.dePhmb > div > div.J0lOec > span.VIiyi").text
+            result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb.BLojaf > div.dePhmb > div > div.J0lOec > span.VIiyi").text
         except:
             try:
-                result = driver.find_element_by_css_selector("#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb > div.dePhmb > div > div.J0lOec > span.VIiyi > span > span").text
+                result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb > div.dePhmb > div > div.J0lOec > span.VIiyi > span > span").text
             except:
                 print("결과를 제대로 크롤링 못했음")
         
@@ -152,7 +153,6 @@ def GetDifferences(df1, df2):
 #불러올 데이터들
 #loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
 loadList = ['AccountBox', 'Etc', 'MatchCategory', 'Coach', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
-loadList = ['Notice']
 notReplaceList = ['Team', 'Player', 'Coach']
 
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
@@ -167,5 +167,3 @@ for loadFile in loadList:
     originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
     # 비포로
     originRead.to_csv('./BeforeEnglish/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
-
-
