@@ -83,6 +83,7 @@ def Convert(loadList, notReplaceList, language, languageFull):
                 before_read = pd.read_csv('./BeforeEnglish/' + loadFile + '.csv', encoding = 'utf-8')
                 # 전꺼랑 비교
                 read = GetDifferences(current_read, before_read)
+                read = read.drop_duplicates(subset='ID', keep='last')
                 if len(read) > 0:
                     colList = ['Name', 'Dec']
                     for col in colList:
@@ -90,6 +91,7 @@ def Convert(loadList, notReplaceList, language, languageFull):
                             # column 확인
                             if col in dfCol:
                                 # 있다면
+                                # 바뀐 내용중에서 최신 내용만 가져온다.
                                 txtList = []
                                 DFinText(read, col, txtList)
                                 for txt in txtList:
