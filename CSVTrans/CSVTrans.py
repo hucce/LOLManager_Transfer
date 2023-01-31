@@ -40,21 +40,21 @@ def LoadGoogle(baseDF, language, txt, col):
     time.sleep(1)
     input_box = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[1]/span/span/div/textarea')
     input_box.send_keys(txt)
-    time.sleep(2.5)
+    time.sleep(3)
     result = ''
+
     try:
-        result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb.BLojaf > div.dePhmb > div > div.J0lOec > span.VIiyi").text
+        result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span").text
     except:
-        try:
-            result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.P6w8m.BDJ8fb > div.dePhmb > div > div.J0lOec > span.VIiyi > span > span").text
-        except:
-            print("결과를 제대로 크롤링 못했음")
-    
+        print("결과를 제대로 크롤링 못했음")
+
     resultSplit = result.split('\n')
 
-    for txt in resultSplit:
-        for dfIndex in baseDF.index:
+    for dfIndex in baseDF.index:
+        for txt in resultSplit:
             baseDF.at[dfIndex, col] = txt
+            resultSplit.remove(txt)
+            break
 
     driver.close()
 
@@ -161,6 +161,7 @@ notReplaceList = ['Team', 'Player', 'Coach']
 #Japanese, Simplified Chinese, Traditional Chinese, Vietnamese, German, Russian, Spanish, Arabic, Italian, Malay, Thai, Turkish, French, Indonesian, Javanese, Bengali, Hindi, Portuguese
 readLanDF = pd.read_csv('./LanguageList.csv', encoding = 'utf-8')
 languageList = ['ja', 'zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
+languageList = ['zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
 
 for lan in range(0, len(languageList)):
     Convert(loadList, notReplaceList, languageList[lan], readLanDF['Language'][lan])

@@ -1,17 +1,25 @@
 ﻿ID,Name,Dec
-1000,Altın işe alım,81'in üzerinde bir kombine stat ile 1 rastgele oyuncu işe alın.
-1001,Altın paketi,81'in üzerinde birleştirilmiş bir stat ile 5 rastgele oyuncu işe alın.
-1002,Oyuncu işe alım,1 rastgele oyuncu işe alın.
-1003,Gümüş işe alım,76'nın üzerinde birleştirilmiş bir stat ile 1 rastgele oyuncu işe alın.
-1004,Altın işe alım,81'in üzerinde bir kombine stat ile 1 rastgele oyuncu işe alın.
-1005,Platin alımı,84 veya daha yüksek bir GPA ile 1 rastgele oyuncu işe alın.
-1006,Temel paket,5 rastgele oyuncu işe alın.
-1007,Gümüş paket,76'nın üzerinde bir kombine stat ile 5 rastgele oyuncu işe alın.
-1008,Altın paketi,81'in üzerinde birleştirilmiş bir stat ile 5 rastgele oyuncu işe alın.
-1009,Platin paketi,84 veya daha yüksek bir GPA ile 5 rastgele oyuncu işe alın.
-1010,2021Season İşe Alım,21spr-21sum sezonundan 1 rastgele oyuncu işe alın.
-1011,2021Season Paketi, (Sınırlama dahil değil)
-1012,Önceki sezon alımı,21spr-21sum sezonundan 5 rastgele oyuncu işe alın.
-1013,Önceki sezon paketi, (Sınırlama dahil değil)
-1014,Antrenör işe alım,18-20 sum sezonundan bir rastgele oyuncu işe alınır.
-1015,Takım adını değiştir, (Sınırlama dahil değil)
+1000.0,Altın işe alım,81'in üzerinde bir kombine stat ile 1 rastgele oyuncu işe alın.
+1001.0,Altın paketi,81'in üzerinde birleştirilmiş bir stat ile 5 rastgele oyuncu işe alın.
+1002.0,Oyuncu işe alım,1 rastgele oyuncu işe alın.
+1003.0,Gümüş işe alım,76'nın üzerinde birleştirilmiş bir stat ile 1 rastgele oyuncu işe alın.
+1004.0,Altın işe alım,81'in üzerinde bir kombine stat ile 1 rastgele oyuncu işe alın.
+1005.0,Platin alımı,84 veya daha yüksek bir GPA ile 1 rastgele oyuncu işe alın.
+1006.0,Temel paket,5 rastgele oyuncu işe alın.
+1007.0,Gümüş paket,76'nın üzerinde bir kombine stat ile 5 rastgele oyuncu işe alın.
+1008.0,Altın paketi,81'in üzerinde birleştirilmiş bir stat ile 5 rastgele oyuncu işe alın.
+1009.0,Platin paketi,84 veya daha yüksek bir GPA ile 5 rastgele oyuncu işe alın.
+1010.0,2021Season İşe Alım,21spr-21sum sezonundan 1 rastgele oyuncu işe alın.
+1011.0,2021Season Paketi, (Sınırlama dahil değil)
+1012.0,Önceki sezon alımı,21spr-21sum sezonundan 5 rastgele oyuncu işe alın.
+1013.0,Önceki sezon paketi, (Sınırlama dahil değil)
+1014.0,Предыдущий сезон набор,5 случайных игроков из сезона 18-20Sum набраны.
+1015.0,Пакет предыдущего сезона, (Не включая ограничение)
+1016.0,Набор тренеров,Один случайный игрок из сезона 18-20Sum набирается.
+1017.0,Изменить название команды, (Не включая ограничение)
+1016.0,Den Teamnamen ändern,Ändern Sie Ihren Teamnamen.
+1017.0,Den Teamnamen ändern,Ändern Sie Ihren Teamnamen.
+1012.0,Ubah nama tim,Ubah nama tim Anda.
+1013.0,Ubah nama tim,Ubah nama tim Anda.
+1012.0,Предыдущий сезон набор,Один случайный игрок из сезона 18-20Sum набирается.
+1013.0,Пакет предыдущего сезона, (Не включая ограничение)

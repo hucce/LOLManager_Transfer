@@ -1,17 +1,25 @@
 ﻿ID,Name,Dec
-1000,Recrutement d'or,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 81.
-1001,Forfait d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
-1002,Recrutement du joueur,Recruter 1 joueur aléatoire.
-1003,Recrutement d'argent,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 76.
-1004,Recrutement d'or,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 81.
-1005,Recrutement en platine,Recruter 1 joueur aléatoire avec une GPA combinée de 84 ou plus.
-1006,Paquet de base,Recruter 5 joueurs aléatoires.
-1007,Paquet d'argent,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 76.
-1008,Forfait d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
-1009,Forfait Platinum,Recruter 5 joueurs aléatoires avec une GPA combinée de 84 ou plus.
-1010,2021Vous recrutement,Recruter 1 joueur aléatoire de la saison 21SPR-21SPR.
-1011,Forfait 2021Sason, (Non inclure la limitation)
-1012,Recrutement de la saison précédente,Recruter 5 joueurs au hasard de la saison 21SPR-21SUM.
-1013,Forfait de la saison précédente, (Non inclure la limitation)
-1014,Recrutement de l'entraîneur,Un joueur aléatoire de la saison de 18-20sum est recruté.
-1015,Changer le nom de l'équipe, (Non inclure la limitation)
+1000.0,Recrutement d'or,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 81.
+1001.0,Forfait d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
+1002.0,Recrutement du joueur,Recruter 1 joueur aléatoire.
+1003.0,Recrutement d'argent,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 76.
+1004.0,Recrutement d'or,Recruter 1 joueur aléatoire avec une statistique combinée supérieure à 81.
+1005.0,Recrutement en platine,Recruter 1 joueur aléatoire avec une GPA combinée de 84 ou plus.
+1006.0,Paquet de base,Recruter 5 joueurs aléatoires.
+1007.0,Paquet d'argent,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 76.
+1008.0,Forfait d'or,Recruter 5 joueurs aléatoires avec une statistique combinée supérieure à 81.
+1009.0,Forfait Platinum,Recruter 5 joueurs aléatoires avec une GPA combinée de 84 ou plus.
+1010.0,2021Vous recrutement,Recruter 1 joueur aléatoire de la saison 21SPR-21SPR.
+1011.0,Forfait 2021Sason, (Non inclure la limitation)
+1012.0,Recrutement de la saison précédente,Recruter 5 joueurs au hasard de la saison 21SPR-21SUM.
+1013.0,Forfait de la saison précédente, (Non inclure la limitation)
+1014.0,Reclutamiento de la temporada anterior,Se reclutan 5 jugadores al azar de la temporada de 18-20 suma.
+1015.0,Paquete de temporada anterior, (Sin incluir limitación)
+1016.0,Reclutamiento de entrenadores,Se recluta un jugador al azar de la temporada de 18-20 años.
+1017.0,Cambiar el nombre del equipo, (Sin incluir limitación)
+1016.0,Изменить название команды,Измените название вашей команды.
+1017.0,Изменить название команды,Измените название вашей команды.
+1012.0,,
+1013.0,,
+1012.0,Reclutamiento de la temporada anterior,Se recluta un jugador al azar de la temporada de 18-20 años.
+1013.0,Paquete de temporada anterior, (Sin incluir limitación)

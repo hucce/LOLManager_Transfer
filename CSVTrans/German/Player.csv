@@ -652,54 +652,176 @@
 21702,Faker,T1
 21703,Gumayusi,T1
 21704,Keria,T1
-12121,kingen,DRX
-12122,Pyosik,DRX
-12123,Zeka,DRX
-12124,Deft,DRX
-12125,BeryL,DRX
-12131,Nuguri,DWG KIA
-12132,Canyon,DWG KIA
-12133,ShowMaker,DWG KIA
-12134,deokdam,DWG KIA
-12135,Kellin,DWG KIA
-12141,Morgan,Fredit BRION
-12142,UmTi,Fredit BRION
-12143,Lava,Fredit BRION
-12144,Hena,Fredit BRION
-12145,Delight,Fredit BRION
-12151,Doran,Gen.G eSports
-12152,Peanut,Gen.G eSports
-12153,Chovy,Gen.G eSports
-12154,Ruler,Gen.G eSports
-12155,Lehends,Gen.G eSports
-12161,DuDu,Hanwha Life eSports
-12162,OnFleek,Hanwha Life eSports
-12163,Karis,Hanwha Life eSports
-12164,SamD,Hanwha Life eSports
-12165,Vsta,Hanwha Life eSports
-12171,Rascal,KT Rolster
-12172,Cuzz,KT Rolster
-12173,Aria,KT Rolster
-12174,Life,KT Rolster
-12175,Aiming,KT Rolster
-12181,Kiin,Kwangdong Freecs
-12182,Ellim,Kwangdong Freecs
-12183,FATE,Kwangdong Freecs
-12184,Teddy,Kwangdong Freecs
-12185,Hoit,Kwangdong Freecs
-12186,Moham,Kwangdong Freecs
-12191,Dove,Liiv SANDBOX
-12192,Croco,Liiv SANDBOX
-12193,Clozer,Liiv SANDBOX
-12194,Prince,Liiv SANDBOX
-12195,Kael,Liiv SANDBOX
-12201,Canna,Nongshim RedForce
-12202,Dread,Nongshim RedForce
-12203,Bdd,Nongshim RedForce
-12204,Ghost,Nongshim RedForce
-12205,Effort,Nongshim RedForce
-12211,Zeus,T1
-12212,Oner,T1
-12213,Faker,T1
-12214,Gumayusi,T1
-12215,Keria,T1
+12200,kingen,DRX
+12201,Pyosik,DRX
+12202,Zeka,DRX
+12203,Deft,DRX
+12204,BeryL,DRX
+12210,Nuguri,DWG KIA
+12211,Canyon,DWG KIA
+12212,ShowMaker,DWG KIA
+12213,deokdam,DWG KIA
+12214,Kellin,DWG KIA
+12220,Morgan,BRION
+12221,UmTi,BRION
+12222,Lava,BRION
+12223,Hena,BRION
+12224,Delight,BRION
+12230,Doran,GenG
+12231,Peanut,GenG
+12232,Chovy,GenG
+12233,Ruler,GenG
+12234,Lehends,GenG
+12240,DuDu,Hanwha
+12241,OnFleek,Hanwha
+12242,Karis,Hanwha
+12243,SamD,Hanwha
+12244,Vsta,Hanwha
+12250,Rascal,KT Rolster
+12251,Cuzz,KT Rolster
+12252,Aria,KT Rolster
+12253,Aiming,KT Rolster
+12254,Life,KT Rolster
+12260,Kiin,Freecs
+12261,Ellim,Freecs
+12262,FATE,Freecs
+12263,Teddy,Freecs
+12264,Hoit,Freecs
+12265,Moham,Freecs
+12270,Dove,Liiv SANDBOX
+12271,Croco,Liiv SANDBOX
+12272,Clozer,Liiv SANDBOX
+12273,Prince,Liiv SANDBOX
+12274,Kael,Liiv SANDBOX
+12280,Canna,NS RedForce
+12281,Dread,NS RedForce
+12282,Bdd,NS RedForce
+12283,Ghost,NS RedForce
+12284,Effort,NS RedForce
+12290,Zeus,T1
+12291,Oner,T1
+12292,Faker,T1
+12293,Gumayusi,T1
+12294,Keria,T1
+21800,Doran,GenG
+21801,Peanut,GenG
+21802,Chovy,GenG
+21803,Ruler,GenG
+21804,Lehends,GenG
+21900,Doran,GenG
+21901,Peanut,GenG
+21902,Chovy,GenG
+21903,Ruler,GenG
+21904,Lehends,GenG
+21905,Zeus,T1
+21906,Oner,T1
+21907,Faker,T1
+21908,Gumayusi,T1
+21909,Keria,T1
+21910,Nuguri,DWG KIA
+21911,Canyon,DWG KIA
+21912,ShowMaker,DWG KIA
+21913,deokdam,DWG KIA
+21914,Kellin,DWG KIA
+21915,kingen,DRX
+21916,Pyosik,DRX
+21917,Zeka,DRX
+21918,Deft,DRX
+21919,BeryL,DRX
+22000,Doran,GenG
+22001,Peanut,GenG
+22002,Chovy,GenG
+22003,Ruler,GenG
+22004,Lehends,GenG
+22005,Zeus,T1
+22006,Oner,T1
+22007,Faker,T1
+22008,Gumayusi,T1
+22009,Keria,T1
+22010,kingen,DRX
+22011,Pyosik,DRX
+22012,Zeka,DRX
+22013,Deft,DRX
+22014,BeryL,DRX
+23000,kingen,DRX
+23001,Pyosik,DRX
+23002,Zeka,DRX
+23003,Deft,DRX
+23004,BeryL,DRX
+22000,Doran,GenG
+22001,Peanut,GenG
+22002,Chovy,GenG
+22003,Ruler,GenG
+22004,Lehends,GenG
+22005,Zeus,T1
+22006,Oner,T1
+22007,Faker,T1
+22008,Gumayusi,T1
+22009,Keria,T1
+22010,kingen,DRX
+22011,Pyosik,DRX
+22012,Zeka,DRX
+22013,Deft,DRX
+22014,BeryL,DRX
+23001,kingen,DRX
+23002,Pyosik,DRX
+23003,Zeka,DRX
+23004,Deft,DRX
+23005,BeryL,DRX
+12500,Morgan,BRION
+12501,UmTi,BRION
+12502,Karis,BRION
+12503,Hena,BRION
+12504,Effort,BRION
+12510,Canna,DK
+12511,Canyon,DK
+12512,ShowMaker,DK
+12513,Deft,DK
+12514,Kellin,DK
+12520,Rascal,DRX
+12521,Croco,DRX
+12522,FATE,DRX
+12523,deokdam,DRX
+12524,BeryL,DRX
+12530,Doran,GenG
+12531,Peanut,GenG
+12532,Chovy,GenG
+12533,Peyz,GenG
+12534,Delight,GenG
+12540,kingen,Hanwha
+12541,Clid,Hanwha
+12542,Zeka,Hanwha
+12543,Viper,Hanwha
+12544,Life,Hanwha
+12550,Kiin,KT
+12551,Cuzz,KT
+12552,Bdd,KT
+12553,Aiming,KT
+12554,Lehends,KT
+12560,DuDu,Freecs
+12561,YoungJae,Freecs
+12562,Bulldog,Freecs
+12563,Taeyoon,Freecs
+12564,Moham,Freecs
+12565,Jun,Freecs
+12570,Burdol,SANDBOX
+12571,Willer,SANDBOX
+12572,Clozer,SANDBOX
+12573,Envyy,SANDBOX
+12574,Kael,SANDBOX
+12580,DnDn,NS RedForce
+12581,Sylvie,NS RedForce
+12582,FIESTA,NS RedForce
+12583,Vital,NS RedForce
+12584,Peter,NS RedForce
+12590,Zeus,T1
+12591,Oner,T1
+12592,Faker,T1
+12593,Gumayusi,T1
+12594,Keria,T1
+23100,kingen,Hanwha
+23101,Clid,Hanwha
+23102,Zeka,Hanwha
+23103,Viper,Hanwha
+23104,Life,Hanwha
+30004,Peyz,GenG

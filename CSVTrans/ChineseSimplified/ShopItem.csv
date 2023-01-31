@@ -1,17 +1,25 @@
 ﻿ID,Name,Dec
-1000,Reclutamento d'oro.,Recluta 1 giocatore a caso con una statistica combinata superiore a 81.
-1001,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
-1002,Reclutamento del giocatore,Recluta 1 giocatore a caso.
-1003,Reclutamento d'argento,Recluta 1 giocatore a caso con una stat combinata sopra il 76.
-1004,Reclutamento d'oro.,Recluta 1 giocatore a caso con una statistica combinata superiore a 81.
-1005,Reclutamento del platino.,Recluta 1 giocatore a caso con un GPA combinato di 84 o superiore.
-1006,Pacchetto base.,Recluta 5 giocatori casuali.
-1007,Pacchetto d'argento,Recluta 5 giocatori casuali con una stat combinata sopra il 76.
-1008,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
-1009,Pacchetto Platinum.,Recluta 5 giocatori casuali con un GPA combinato di 84 o superiore.
-1010,Reclutamento 2021season.,Recluta 1 giocatore a caso dalla stagione 21spr-21sum.
-1011,Pacchetto 2021season., (Non inclusa la limitazione)
-1012,Reclutamento della stagione precedente,Recluta 5 giocatore casuale dalla stagione 21spr-21sum.
-1013,Pacchetto di stagione precedente, (Non inclusa la limitazione)
-1014,Reclutamento di allenatore,È reclutato un giocatore casuale della stagione 18-20sum.
-1015,Cambia il nome del team., (Non inclusa la limitazione)
+1000.0,Reclutamento d'oro.,Recluta 1 giocatore a caso con una statistica combinata superiore a 81.
+1001.0,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
+1002.0,Reclutamento del giocatore,Recluta 1 giocatore a caso.
+1003.0,Reclutamento d'argento,Recluta 1 giocatore a caso con una stat combinata sopra il 76.
+1004.0,Reclutamento d'oro.,Recluta 1 giocatore a caso con una statistica combinata superiore a 81.
+1005.0,Reclutamento del platino.,Recluta 1 giocatore a caso con un GPA combinato di 84 o superiore.
+1006.0,Pacchetto base.,Recluta 5 giocatori casuali.
+1007.0,Pacchetto d'argento,Recluta 5 giocatori casuali con una stat combinata sopra il 76.
+1008.0,Pacchetto oro,Recluta 5 giocatori casuali con una stat combinata sopra 81.
+1009.0,Pacchetto Platinum.,Recluta 5 giocatori casuali con un GPA combinato di 84 o superiore.
+1010.0,Reclutamento 2021season.,Recluta 1 giocatore a caso dalla stagione 21spr-21sum.
+1011.0,Pacchetto 2021season., (Non inclusa la limitazione)
+1012.0,Reclutamento della stagione precedente,Recluta 5 giocatore casuale dalla stagione 21spr-21sum.
+1013.0,Pacchetto di stagione precedente, (Non inclusa la limitazione)
+1014.0,上賽季招募,招募了5名來自18-20賽季的隨機球員。
+1015.0,上一季, （不包括限制）
+1016.0,教練招聘,招募了18至20個賽季的一名隨機球員。
+1017.0,更改團隊名稱, （不包括限制）
+1016.0,更改团队名称,更改您的团队名称。
+1017.0,更改团队名称,更改您的团队名称。
+1012.0,,เปลี่ยนชื่อทีมของคุณ
+1013.0,,เปลี่ยนชื่อทีมของคุณ
+1012.0,上賽季招募,招募了18至20個賽季的一名隨機球員。
+1013.0,上一季, （不包括限制）
