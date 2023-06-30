@@ -17,6 +17,7 @@ from selenium.webdriver.common.by import By
 #페이지 로드
 from selenium.webdriver.support.ui import WebDriverWait
 from bs4 import BeautifulSoup as bs
+from selenium.webdriver.chrome.service import Service
 
 def DFinText(baseDF, textCol, txtList):
     txt = ''
@@ -30,7 +31,8 @@ def DFinText(baseDF, textCol, txtList):
         check += 1
 
 def LoadGoogle(baseDF, language, txt, col):
-    driver = webdriver.Chrome('./chromedriver')
+    service = Service(executable_path='./chromedriver')
+    driver = webdriver.Chrome(service=service)
 
     #기본 구글 번역 url 설정
     loadUrl = 'https://translate.google.com/?hl=ko&sl=auto&tl=[lan]&op=translate'
@@ -65,13 +67,10 @@ def createFolder(directory):
     except OSError:
         print ('Error: Creating directory. ' +  directory)
  
-def Convert(loadList, notReplaceList, language, languageFull):
+def Convert(loadList, language, languageFull):
     for loadFile in loadList:
         checkNot = False
-        for notRe in notReplaceList:
-            if loadFile == notRe:
-                checkNot = True
-        
+
         # 그냥 하는게 아닌경우 중복 체크를 하고
         if checkNot == False:
             #데이터 불러오기
@@ -154,17 +153,16 @@ def GetDifferences(df1, df2):
 
 #불러올 데이터들
 #loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
-loadList = ['AccountBox', 'Etc', 'MatchCategory', 'Coach', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
-notReplaceList = ['Team', 'Player', 'Coach']
+loadList = ['AccountBox', 'Etc', 'MatchCategory', 'Coach', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team']
+#notReplaceList = ['Team', 'Player', 'Coach', 'Store']
 
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
 #Japanese, Simplified Chinese, Traditional Chinese, Vietnamese, German, Russian, Spanish, Arabic, Italian, Malay, Thai, Turkish, French, Indonesian, Javanese, Bengali, Hindi, Portuguese
 readLanDF = pd.read_csv('./LanguageList.csv', encoding = 'utf-8')
 languageList = ['ja', 'zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
-languageList = ['zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
 
 for lan in range(0, len(languageList)):
-    Convert(loadList, notReplaceList, languageList[lan], readLanDF['Language'][lan])
+    Convert(loadList, languageList[lan], readLanDF['Language'][lan])
 
 for loadFile in loadList:
     originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
