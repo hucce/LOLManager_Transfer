@@ -17,7 +17,13 @@ from selenium.webdriver.common.by import By
 #페이지 로드
 from selenium.webdriver.support.ui import WebDriverWait
 from bs4 import BeautifulSoup as bs
+from selenium.webdriver import Chrome
+
 from selenium.webdriver.chrome.service import Service
+from selenium import webdriver
+from selenium.webdriver import Chrome
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver import ChromeService, ChromeOptions
 
 def DFinText(baseDF, textCol, txtList):
     txt = ''
@@ -31,8 +37,15 @@ def DFinText(baseDF, textCol, txtList):
         check += 1
 
 def LoadGoogle(baseDF, language, txt, col):
-    service = Service(executable_path='./chromedriver')
-    driver = webdriver.Chrome(service=service)
+    options = ChromeOptions()
+    options.add_argument('--headless')
+
+    service = ChromeService(ChromeDriverManager().install())
+
+    with Chrome(options=options, service=service) as driver:
+        print(service.path) # this is where the driver is located
+
+    driver = webdriver.Chrome()
 
     #기본 구글 번역 url 설정
     loadUrl = 'https://translate.google.com/?hl=ko&sl=auto&tl=[lan]&op=translate'
@@ -46,7 +59,9 @@ def LoadGoogle(baseDF, language, txt, col):
     result = ''
 
     try:
-        result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span").text
+        #result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span").text
+        result = driver.find_element(By.XPATH, '//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[2]/div/div[8]/div/div[1]/span[1]/span/span').text
+        
     except:
         print("결과를 제대로 크롤링 못했음")
 
@@ -153,7 +168,7 @@ def GetDifferences(df1, df2):
 
 #불러올 데이터들
 #loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team', 'Store']
-loadList = ['AccountBox', 'Etc', 'MatchCategory', 'Coach', 'MatchItem', 'Notice', 'Player', 'Script', 'ShopItem', 'Tutorial', 'Team']
+loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Script', 'ShopItem', 'Tutorial']
 #notReplaceList = ['Team', 'Player', 'Coach', 'Store']
 
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
