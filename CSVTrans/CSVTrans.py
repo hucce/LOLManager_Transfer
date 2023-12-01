@@ -60,7 +60,7 @@ def LoadGoogle(baseDF, language, txt, col):
 
     try:
         #result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span").text
-        result = driver.find_element(By.XPATH, '//*[@id="yDmH0d"]/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[2]/div/div[8]/div/div[1]/span[1]/span/span').text
+        result = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[2]/div/div[7]/div/div[1]/span[1]').text
         
     except:
         print("결과를 제대로 크롤링 못했음")
@@ -95,10 +95,17 @@ def Convert(loadList, language, languageFull):
             # 파일이 있어야 비교
             if os.path.isfile('./BeforeEnglish/' + loadFile + '.csv'):
                 before_read = pd.read_csv('./BeforeEnglish/' + loadFile + '.csv', encoding = 'utf-8')
-                # 전꺼랑 비교
-                read = GetDifferences(current_read, before_read)
-                read = read.drop_duplicates(subset='ID', keep='last')
-                if len(read) > 0:
+                
+                # 중복 체크
+                df = pd.concat([current_read, before_read]).reset_index(drop=True)
+                idx = [diff[0] for diff in df.groupby(list(df.columns)).groups.values() if len(diff) == 1]
+                
+                if len(idx) > 0:
+                    # 전꺼랑 비교
+                    read = pd.concat([current_read, before_read])
+                    # 중복 삭제
+                    read = read.drop_duplicates(subset='ID')
+                    
                     colList = ['Name', 'Dec']
                     for col in colList:
                         for dfCol in read.columns:
