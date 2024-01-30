@@ -1,0 +1,21 @@
+﻿ID,Name,Dec
+1000.0,Perekrutan Emas,Merekrut 1 pemain acak dengan stat gabungan di atas 81.
+1001.0,Paket emas,Merekrut 5 pemain acak dengan stat gabungan di atas 81.
+1002.0,Perekrutan pemain,Merekrut 1 pemain acak.
+1003.0,Perekrutan perak,Merekrut 1 pemain acak dengan stat gabungan di atas 76.
+1004.0,Perekrutan Emas,Merekrut 1 pemain acak dengan stat gabungan di atas 81.
+1005.0,Perekrutan Platinum,Merekrut 1 pemain acak dengan IPK gabungan 84 atau lebih tinggi.
+1006.0,Paket Dasar,Merekrut 5 pemain acak.
+1007.0,Paket perak,Merekrut 5 pemain acak dengan stat gabungan di atas 76.
+1008.0,Paket emas,Merekrut 5 pemain acak dengan stat gabungan di atas 81.
+1009.0,Paket Platinum,Merekrut 5 pemain acak dengan IPK gabungan 84 atau lebih tinggi.
+1010.0,Rekrutmen 2021Season,Merekrut 1 pemain acak dari musim 21SPR-21SUM.
+1011.0,Paket 2021Season, (Tidak termasuk batasan)
+1012.0,Rekrutmen 2022Season,Rekrut 5 pemain acak dari musim 21SPR-21SUM.
+1013.0,Paket 2022Season, (Tidak termasuk batasan)
+1014.0,2023 perekrutan musim,Rekrut 1 pemain acak dari musim 22SPR-22SUM.
+1015.0,Paket 2023Season, (Tidak termasuk batasan)
+1016.0,Perekrutan musim sebelumnya,Rekrut 5 pemain acak dari musim 22SPR-22SUM.
+1017.0,Paket musim sebelumnya, (Tidak termasuk batasan)
+1018.0,Perekrutan Pelatih,Rekrut 1 pemain acak dari musim 23SPR-23SUM.
+1019.0,Ubah nama tim, (Tidak termasuk batasan)

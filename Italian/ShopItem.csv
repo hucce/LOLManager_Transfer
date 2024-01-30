@@ -1,0 +1,25 @@
+﻿ID,Name,Dec
+1000.0,Reclutamento d'oro,Recluta 1 giocatore casuale con una statistica combinata superiore a 81.
+1001.0,Pacchetto d'oro,Recluta 5 giocatori casuali con una statistica combinata superiore a 81.
+1002.0,Reclutamento dei giocatori,Recluta 1 giocatore casuale.
+1003.0,Reclutamento d'argento,Recluta 1 giocatore casuale con una statistica combinata sopra 76.
+1004.0,Reclutamento d'oro,Recluta 1 giocatore casuale con una statistica combinata superiore a 81.
+1005.0,Reclutamento in platino,Recluta 1 giocatore casuale con un GPA combinato di 84 o superiore.
+1006.0,Pacchetto di base,Recluta 5 giocatori casuali.
+1007.0,Pacchetto d'argento,Recluta 5 giocatori casuali con una statistica combinata sopra 76.
+1008.0,Pacchetto d'oro,Recluta 5 giocatori casuali con una statistica combinata superiore a 81.
+1009.0,Pacchetto platino,Recluta 5 giocatori casuali con un GPA combinato di 84 o superiore.
+1010.0,2021 reclutamento di stagione,Recluta 1 giocatore casuale della stagione 21SPR-21.
+1011.0,Pacchetto di stagione 2021, (Escluso la limitazione)
+1012.0,2022 reclutamento di stagione,Recluta 5 giocatore casuale della stagione 21SPR-21.
+1013.0,Pacchetto 2022Sase, (Escluso la limitazione)
+1014.0,2023 reclutamento di stagione,Recluta 1 giocatore casuale della stagione 22SPR-22Sum.
+1015.0,Pacchetto 2023 season, (Escluso la limitazione)
+1016.0,Reclutamento della stagione precedente,Recluta 5 giocatore casuale della stagione 22SPR-22Sum.
+1017.0,Pacchetto di stagione precedente, (Escluso la limitazione)
+1018.0,Reclutamento di coach,Recluta 1 giocatore casuale della stagione 23SPR-23Sum.
+1019.0,Cambia il nome della squadra, (Escluso la limitazione)
+1012.0,Alterar o nome da equipe,Mude o nome da sua equipe.
+1013.0,Alterar o nome da equipe,Mude o nome da sua equipe.
+1012.0,Pengambilan musim sebelumnya,Satu pemain rawak dari musim 18-20sum direkrut.
+1013.0,Pakej musim sebelumnya, (Tidak termasuk batasan)

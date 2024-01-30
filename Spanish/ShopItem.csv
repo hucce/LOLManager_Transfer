@@ -1,0 +1,25 @@
+﻿ID,Name,Dec
+1000.0,Reclutamiento de oro,Reclutar 1 jugador aleatorio con una estadística combinada por encima de 81.
+1001.0,Paquete de oro,Reclutar 5 jugadores aleatorios con una estadística combinada por encima de 81.
+1002.0,Reclutamiento de jugadores,Reclutar 1 jugador al azar.
+1003.0,Reclutamiento de plata,Reclutar 1 jugador aleatorio con una estadística combinada por encima de 76.
+1004.0,Reclutamiento de oro,Reclutar 1 jugador aleatorio con una estadística combinada por encima de 81.
+1005.0,Reclutamiento de platino,Reclutar 1 jugador aleatorio con un GPA combinado de 84 o más.
+1006.0,Paquete básico,Reclutar 5 jugadores al azar.
+1007.0,Paquete de plata,Reclutar 5 jugadores aleatorios con una estadística combinada por encima de 76.
+1008.0,Paquete de oro,Reclutar 5 jugadores aleatorios con una estadística combinada por encima de 81.
+1009.0,Paquete de platino,Reclutar 5 jugadores aleatorios con un GPA combinado de 84 o más.
+1010.0,Reclutamiento de la temporada 2021,Recluta 1 jugador aleatorio de la temporada 21SPR-21-suma.
+1011.0,Paquete de temporada 2021, (Sin incluir limitación)
+1012.0,Reclutamiento de la temporada 2022,Recluta 5 jugador al azar de la temporada 21SPR-21-suma.
+1013.0,Paquete de temporada 2022, (Sin incluir limitación)
+1014.0,Reclutamiento de la temporada 2023,Recluta 1 jugador aleatorio de la temporada 22SPR-22-Sum.
+1015.0,Paquete de temporada 2023, (Sin incluir limitación)
+1016.0,Reclutamiento de la temporada anterior,Reclutar 5 jugador al azar de la temporada 22SPR-22-Sum.
+1017.0,Paquete de temporada anterior, (Sin incluir limitación)
+1018.0,Reclutamiento de entrenadores,Reclutar 1 jugador aleatorio de la temporada 23SPR-23Sum.
+1019.0,Cambiar el nombre del equipo, (Sin incluir limitación)
+1012.0,দলের নাম পরিবর্তন করুন,আপনার দলের নাম পরিবর্তন করুন।
+1013.0,দলের নাম পরিবর্তন করুন,আপনার দলের নাম পরিবর্তন করুন।
+1012.0,توظيف الموسم السابق,تم تجنيد لاعب عشوائي واحد من موسم 18-20SUM.
+1013.0,حزمة الموسم السابق, (لا بما في ذلك القيود)

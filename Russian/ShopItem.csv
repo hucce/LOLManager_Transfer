@@ -1,0 +1,25 @@
+﻿ID,Name,Dec
+1000.0,,Рекрут 1 случайный игрок с комбинированной статистикой выше 81.
+1001.0,Gold Package,Найдите 5 случайных игроков с комбинированной статистикой выше 81.
+1002.0,Player Recruitment,Набор 1 случайный игрок.
+1003.0,Silver Recruitment,Рекрут 1 случайный игрок с комбинированной статистикой выше 76.
+1004.0,Gold Recruitment,Рекрут 1 случайный игрок с комбинированной статистикой выше 81.
+1005.0,Platinum Recruitment,Найдите 1 случайный игрок с комбинированным средним баллом 84 или выше.
+1006.0,Basic Package,Нанять 5 случайных игроков.
+1007.0,Silver Package,Найдите 5 случайных игроков с комбинированной статистикой выше 76.
+1008.0,Gold Package,Найдите 5 случайных игроков с комбинированной статистикой выше 81.
+1009.0,Platinum Package,Найдите 5 случайных игроков с комбинированным GPA 84 или выше.
+1010.0,2021Season Recruitment,Рекрут 1 случайный игрок из сезона 21SPR-21SUM.
+1011.0,2021Season Package, (Не включая ограничение)
+1012.0,2022Season Recruitment,Найдите 5 случайного игрока из сезона 21SPR-21SUM.
+1013.0,2022Season Package, (Не включая ограничение)
+1014.0,2023Season Recruitment,Набор 1 случайный игрок из сезона 22SPR-22SUM.
+1015.0,2023Season Package, (Не включая ограничение)
+1016.0,Previous season Recruitment,Найдите 5 случайного игрока из сезона 22SPR-22SUM.
+1017.0,Previous season package, (Не включая ограничение)
+1018.0,Coach Recruitment,Рекрут 1 случайный игрок из сезона 23SPR-23SUM.
+1019.0,Change team name, (Не включая ограничение)
+1012.0,,
+1013.0,,
+1012.0,Reclutamiento de la temporada anterior,Se recluta un jugador al azar de la temporada de 18-20 años.
+1013.0,Paquete de temporada anterior, (Sin incluir limitación)
