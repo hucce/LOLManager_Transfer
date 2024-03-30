@@ -52,18 +52,21 @@ def LoadGoogle(baseDF, language, txt, col):
     base_url = loadUrl.replace('[lan]', language)
     driver.get(base_url)
 
-    time.sleep(1)
-    input_box = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[1]/span/span/div/textarea')
-    input_box.send_keys(txt)
     time.sleep(3)
+    input_box = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[1]/span/span/div/textarea')
+    input_box.send_keys(txt)
+    time.sleep(5)
     result = ''
 
-    try:
-        #result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span").text
-        result = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[3]/c-wiz[2]/div/div[7]/div/div[1]/span[1]').text
-        
-    except:
-        print("결과를 제대로 크롤링 못했음")
+    while(True):
+        try:
+            #result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span").text
+            result = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[2]/div/div[6]/div/div[1]/span[1]')
+            result = result.text
+            break
+            
+        except:
+            print("결과를 제대로 크롤링 못했음")
 
     resultSplit = result.split('\n')
 
@@ -97,35 +100,31 @@ def Convert(loadList, language, languageFull):
                 before_read = pd.read_csv('./BeforeEnglish/' + loadFile + '.csv', encoding = 'utf-8')
                 
                 # 중복 체크
-                df = pd.concat([current_read, before_read]).reset_index(drop=True)
-                idx = [diff[0] for diff in df.groupby(list(df.columns)).groups.values() if len(diff) == 1]
-                
-                if len(idx) > 0:
-                    # 전꺼랑 비교
-                    read = pd.concat([current_read, before_read])
-                    # 중복 삭제
-                    read = read.drop_duplicates(subset='ID')
-                    
+                result = pd.concat([current_read, before_read]).drop_duplicates(keep=False)
+                result = result[~result.index.duplicated(keep='first')]
+
+                # 중복을 뺐는데도 남아 있는 내용이 있다면
+                if result.empty == False:
                     colList = ['Name', 'Dec']
                     for col in colList:
-                        for dfCol in read.columns:
+                        for dfCol in result.columns:
                             # column 확인
                             if col in dfCol:
                                 # 있다면
                                 # 바뀐 내용중에서 최신 내용만 가져온다.
                                 txtList = []
-                                DFinText(read, col, txtList)
+                                DFinText(result, col, txtList)
                                 for txt in txtList:
-                                    LoadGoogle(read, language, txt, col)
+                                    LoadGoogle(result, language, txt, col)
 
                     # 이제 바뀐 애들 것에서 기존꺼를 확인해서 내용을 바꾼다.
                     languageRead = pd.read_csv('./'+ languageFull +'/' + loadFile + '.csv', encoding = 'utf-8')
                     setColList = ['ID', 'Name', 'Dec']
-                    for _index in read.index:
+                    for _index in result.index:
                         for col in setColList:
                             for dfCol in languageRead.columns:
                                 if col in dfCol:
-                                    languageRead.at[_index, dfCol] = read.at[_index, col]
+                                    languageRead.at[_index, dfCol] = result.at[_index, col]
                                     break
                     # 저장한다
                     createFolder('./' + languageFull)
