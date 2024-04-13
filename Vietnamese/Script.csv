@@ -1,193 +1,193 @@
 ﻿ID,Dec
-11000,Đội của bạn đã giành giải đấu với huấn luyện tuyệt vời! Hãy chuẩn bị để giành chức vô địch thế giới.
-11001,"Mặc dù nó không thắng, nhưng nó đã làm một công việc tuyệt vời. Tắm tuyết được thực hiện trong nhà vô địch thế giới!"
-11002,"Đó không phải là một chức vô địch. Tuy nhiên, chúng tôi đã thành công trong việc tiến lên vô địch thế giới!"
-11003,Đó không phải là một chức vô địch. Nhưng đó là một thứ hạng tốt để cố gắng giành chiến thắng vào mùa giải tới.
-11004,"Điều tồi tệ nhất đã tránh được, nhưng nó không phải là một thứ hạng tốt. Cho một thứ hạng cao hơn} Tôi nghĩ rằng nó cần bảo trì."
-11005,Chúng tôi đã kết thúc mùa giải ở vị trí tồi tệ nhất. Đối với những người hâm mộ hỗ trợ chúng tôi} hãy đi xa hơn cho mùa giải tới.
-11006,Đội đã giành chức vô địch thế giới với huấn luyện tuyệt vời! Người chơi và người hâm mộ kỷ niệm lệnh tuyệt vời của bạn. Xin chúc mừng.
-11007,"Nó không thắng, nhưng nó đã làm một công việc tuyệt vời. Hãy cố gắng giành chức vô địch thế giới mùa tới!"
-11008,"Thật không may, đó là một lớp tuyệt vời. Hãy tăng sức mạnh của chúng tôi vào mùa giải tới và cố gắng giành chức vô địch thế giới tiếp theo."
-11009,"Bạn đã tham gia thành công giải đấu. Mùa tới, hãy đứng đầu cho các giải đấu cao hơn."
-11010,"Thật không may, giải đấu thất bại. Thật không may, hãy tiến lên Giải vô địch thế giới mùa tới và nhắm đến chức vô địch."
-20000,Triển lãm / vận hành hàng
-20001,Thăng bằng
-20002,Đội bóng.
-20003,Tập quán
-21000,Đó là một chiến lược để lăn những quả cầu tuyết dựa trên các trận chiến mạnh mẽ. {{-It phù hợp khi bạn có một trận chiến mạnh mẽ. {-Bạn có thể được quay trở lại một phát bắn khi bạn có một cú đánh yếu.
-21001,Lineup} Hoạt động Hanta} Chơi trò chơi một cách cân bằng. {{-Đây là phù hợp khi khả năng của người chơi là chẵn.
-21002,Đó là một chiến lược nhằm mục đích cho một phát bắn qua một lần bắn. {{-It là phù hợp khi một đội có khả năng một lần mạnh mẽ. Đồn là
-21003,Đây là chiến lược của bạn.
-22000,Trung tâm của trò chơi
-22001,Trung tâm của một gank
-22002,ĐẶT HÀNG CHÍNH
-23000,Chọn khả năng trở thành trung tâm của trò chơi. Số liệu thống kê của nhóm sẽ tăng lên. Thay vào đó} phần còn lại của sức mạnh rơi.
-23001,Jungler quyết định dòng để ganking.
-23002,Đặt một vị trí tập trung vào các hoạt động. Đơn hàng chính sẽ tăng tỷ lệ hoạt động của nhóm.
-24000,Thăng bằng
-24001,Hàng
-24002,Đội bóng.
-24003,Hoạt động
-24004,Thăng bằng
-24005,Đứng đầu
-24006,Giữa cùng
-24007,Đáy
-24008,Đứng đầu
-24009,Rừng nhiệt đới
-24010,Giữa cùng
-24011,Quảng cáo
-24012,Ủng hộ
-25000,Tấn công
-25001,Cân bằng
-25002,Tàu chở dầu
-25003,Tấn công
-25004,Cân bằng
-25005,Tàu chở dầu
-25006,Tấn công
-25007,Cân bằng
-25008,Hỗ trợ
-25009,Tấn công
-25010,Cân bằng
-25011,Tính thiết thực
-25012,Tấn công
-25013,Cân bằng
-25014,Tàu chở dầu
-26000,Nhấn mạnh đối thủ xếp hàng. Nó cũng kiểm soát các hoạt động thông qua sự phân chia. {{▲ Thước đo Tăng. {{-Points đạt hoặc mất trên dòng tăng. {{Hanta stat lowers.
-26001,Xe tăng giao dịch cơ bản.
-26002,Ảnh hưởng là giảm trong các trận chiến dòng. Tuy nhiên} anh mạnh hơn ở Hanta. {{Khả năng Hanta được tăng lên. {{-Points đạt hoặc bị mất tại dòng được hạ xuống. {{Chỉ số chức năng hoạt động được hạ xuống.
-26003,Ganking trở nên mạnh mẽ. Tuy nhiên} có nguy cơ thất bại gank cao. {{▲ Tăng số liệu thống kê. {{
-26004,Xe tăng giao dịch cơ bản.
-26005,Khả năng gank được hạ xuống. Tuy nhiên} khả năng đánh tăng. {{▲ khả năng đánh tăng. {{Khả năng dòng đi xuống.
-26006,Nhấn mạnh đối thủ xếp hàng. Nó cũng kiểm soát các hoạt động thông qua sự phân chia. {{▲ Thước đo Tăng. {{-Points đạt hoặc mất trên dòng tăng. {{Hanta stat lowers.
-26007,Cơ bản Nuker Champ.
-26008,Mục tiêu là cải thiện khả năng của một DIL. {{▲ một chỉ số của một dl tăng lên.
-26009,Những ngày đầu là mạnh mẽ. Tuy nhiên} khi thời gian trôi qua} nó sẽ yếu hơn. {{Xếp hàng cho đến 20 phút đầu tiên} khả năng Hanta tăng lên. {{Khả năng HANTA giảm từ nửa sau.
-26010,CHAMP MỘT DEAL CHAMP.
-26011,Tập trung vào việc giúp đỡ đội thay vì vai trò của Carrie. {{▲ chỉ số hoạt động tăng lên. {{{Dòng thống kê Down Down.
-26012,Cuộc chiến trực tuyến là mạnh mẽ. Tuy nhiên} Thật nguy hiểm khi hoạt động với sức khỏe thấp. {{Tăng số liệu thống kê xếp hàng. {{-Points đạt hoặc mất từ hoạt động tăng.
-26013,Champ hỗ trợ cơ bản.
-26014,Yếu trong dòng. Tuy nhiên} nó mạnh mẽ ở Hanta. {{▲ Hanta Stat được tăng lên. {{{Lines stat được hạ xuống.
-30000,"Nếu bạn không thể đăng nhập vào Google, bạn không thể chơi nhiều người chơi. Vui lòng đăng nhập Google."
-30001,Có một kết thúc bất thường của trò chơi trong nhiều trận đấu cuối cùng. Trò chơi đã bị tịch thu.
-30002,Xin chúc mừng! Bạn được thăng chức lên cấp độ tiếp theo!
-30003,Bạn đã bị hạ cấp do thất bại liên tục.
-30004,Đang đăng nhập
-30005,Có vấn đề. Lý do cho vấn đề:
-30006,"Kết nối Internet đã bị mất. Khi bạn có kết nối internet}, bạn sẽ tự động được kết nối lại."
-30007,"Internet đã bị ngắt kết nối trong nhiều trận đấu. {Nếu bạn bấm OK}, bạn sẽ thoát khỏi sân vận động."
-30008,Có một vấn đề tìm đối thủ của bạn. {Nhấn OK để thoát khỏi sân vận động.
-30009,Trò chơi không cập nhật. Bạn cần cập nhật lên phiên bản mới nhất để chơi trận đấu. {{Nhấn nút bên dưới để kiểm tra lại phiên bản} hoặc đi đến trang cập nhật.
-30010,Kiểm tra
-30011,Nó không phải là phiên bản mới nhất.
-30012,Phút
-30013,Bạn đã được báo cáo là một người chơi gian lận và không thể chơi các trò chơi nhiều người chơi. {{Vui lòng gửi email cho adhucce @ gmail cho bất kỳ câu hỏi nào.
-30014,Bạn được đăng ký là một người chơi gian lận.
-30015,Kiểm tra máy chủ nhiều người. Vui lòng đợi cho đến khi thời gian kiểm tra kết thúc
-30016,Không thể tải danh sách. Vui lòng đăng nhập Google vào nhiều người.
-31000,Cảm ơn bạn đã chơi trò chơi. Đánh giá của bạn là một trợ giúp tuyệt vời cho nhà phát triển. Bạn sẽ nhận được 300 bản chất như một phần thưởng.
-32000,
-32001,Ad skipped You must watch the ad to the end to receive the reward.
-32002,Failed to fetch ad Please check your internet connection.
-36000,League score
-36001,M
-36002,W
-36003,L
-36004,History
-36005,Top
-36006,Match Results
-36007,Receive
-36008,Complete
-36009,Incomplete
-36010,Link
-36011,Season
-33000,Upgrading is only possible up to level 10.
-33001,Success
-33002,Failure
-33003,Probability of success
-33004,Difference
-33005,Do you want to skip the tutorial? You can't get the rewards from the tutorial.
-33006,The language will change when you restart the game.
-34000,Google Play Service Version Check
-34001,Google Play Login Complete
-34002,Server login completed
-34003,Cloud save confirmation complete
-34004,Data import complete
-34005,Problem retry
-34006,Error! Load to offline mode
-33007,Round
-33008,Line
-33009,TeamFight
-33010,Operation
-33011,Top
-33012,Mid
-33013,Bottom
-33014,Great Defeat
-33015,Defeat
-33016,Bearish
-33017,Contention
-33018,Superiority
-33019,Victory
-33020,Great victory
-33021,team jungler ganking.
-33022,Day
-33023,Season End Reward
-33024,Your friend has already been requested.
-33025,Already friend
-33026,Are you sure you want to delete this friend?
-33027,Copied strategy
-33028,Kinds
-33029,Ban
-33030,Declaration
-33031,Bug / Suggestions
-33032,Manager invitation. Become a LOL team manager.
-33033,Final Rating
-33034,The final reward
-33035,Season start
-33036,A new season has begun.
-33037,Hall of Fame contribution
-33038,Rest
-33039,Not enough essence
-37000,None
-37001,Essence
-37002,Pack
-37003,Package
-38000,All
-38001,Silver
-38002,Gold
-38003,Platinum
-33040,All
-33041,Silver
-33042,Gold
-33043,Platinum
-33044,Diamond
-33045,Challenger
-33046,Master
-33047,Recruitment
-33048,Package
-33049,Presentation
-33050,Including limited
-33051,Only limited
-33052,Swap
-33053,Add
-33054,Remove
-33055,Total
-33056,Stats
-33057,bronze
-33058,Until next rank upgrade
-33059,Move
-33060,Receive
-33061,The same player is already on the starting list.
-33062,There is no data.
-33063,Data is abnormal.
-33064,Reason
-33065,Next Crush Start Date
-33066,An error occurred while creating a tournament.{{Touch Retry to create a new tournament.
-33067,The server is receiving data.
-33068,Data was not received properly.
-33069,Season player presentation
-33070,World Championship entry
-33071,Selected players who made their debut in the league this year and look forward to the future. It can only be obtained as a season reward.
-33072,Do you want to stop the auto match?{Used items will disappear.
+11000,Đội của bạn đã thắng giải đấu với huấn luyện tuyệt vời! Hãy chuẩn bị giành chức vô địch thế giới. 
+11001,"}Mặc dù nó không thắng, nhưng nó đã làm một công việc tuyệt vời. Tắm tuyết được thực hiện trong Champion World Champion! {{}}}Đó không phải là một chức vô địch. Tuy nhiên, chúng tôi đã thành công trong việc tiến tới Giải vô địch thế giới! "
+11002,Đó không phải là một chức vô địch. Nhưng đó là một thứ hạng tốt để cố gắng giành chiến thắng trong mùa giải tới. 
+11003,"Điều tồi tệ nhất đã tránh được, nhưng nó không phải là một thứ hạng tốt. Đối với thứ hạng cao hơn} Tôi nghĩ rằng nó cần bảo trì. "
+11004,"Chúng tôi đã kết thúc mùa giải ở vị trí tồi tệ nhất. Đối với những người hâm mộ hỗ trợ chúng tôi}, hãy để Lôi đi xa hơn cho mùa giải tiếp theo. "
+11005,}Đội đã giành giải vô địch thế giới với huấn luyện tuyệt vời! Người chơi và người hâm mộ ăn mừng mệnh lệnh tuyệt vời của bạn. Chúc mừng.
+11006,"Nó không thắng, nhưng nó đã làm một công việc tuyệt vời. Hãy cố gắng giành chức vô địch thế giới mùa tới! "
+11007,"Thật không may, đó là một lớp tuyệt vời. Hãy tăng sức mạnh của chúng tôi trong mùa giải tới và cố gắng giành được nhà vô địch thế giới tiếp theo. "
+11008,"Bạn đã tham gia thành công giải đấu. Mùa tới, hãy hướng đến các giải đấu cao hơn. "
+11009,"Thật không may, giải đấu thất bại. Thật không may, hãy tiến tới Giải vô địch thế giới mùa tới và nhắm đến chức vô địch. "
+11010,Triển lãm dòng / Hoạt động 
+20000,Sự cân bằng
+20001,TeamFight 
+20002,Phong tục
+20003,Đó là một chiến lược để lăn những quả bóng tuyết dựa trên các trận chiến mạnh mẽ. {{-It phù hợp khi bạn có một trận chiến mạnh mẽ. {-Bạn có thể được hoàn nguyên thành một phát khi bạn có một cú đánh yếu. 
+21000,Đội hình} TeamFight} Hoạt động Chơi trò chơi một cách cân bằng. {{-This này phù hợp khi khả năng của người chơi là chẵn. 
+21001,Đó là một chiến lược nhằm mục đích cho một phát bắn qua một phát bắn. {{-It phù hợp khi một đội có khả năng một phát mạnh. {
+21002,Đây là chiến lược của bạn. 
+21003,Trung tâm của trò chơi 
+22000,Trung tâm của một lần mở 
+22001,Thứ tự chính 
+22002,Chọn khả năng trở thành trung tâm của trò chơi. Số liệu thống kê của đội sẽ tăng lên. Thay vào đó} phần còn lại của sức mạnh rơi. 
+23000,Jungler quyết định đường dây để mang đi. 
+23001,Đặt một vị trí tập trung vào các hoạt động. Thứ tự chính sẽ tăng tỷ lệ hoạt động nhóm. 
+23002,Sự cân bằng
+24000,Đường kẻ
+24001,TeamFight 
+24002,Hoạt động
+24003,Sự cân bằng
+24004,Đứng đầu
+24005,Mid 
+24006,Đáy
+24007,Đứng đầu
+24008,Rừng
+24009,Mid 
+24010,AD 
+24011,Ủng hộ
+24012,Tấn công
+25000,Cân bằng 
+25001,Tanker 
+25002,Tấn công
+25003,Cân bằng 
+25004,Tanker 
+25005,Tấn công
+25006,Cân bằng 
+25007,Người hỗ trợ 
+25008,Tấn công
+25009,Cân bằng 
+25010,Tính thiết thực
+25011,Tấn công
+25012,Cân bằng 
+25013,Tanker 
+25014,Nhấn mạnh đối thủ trong dòng. Nó cũng kiểm soát hoạt động thông qua việc chia tách. {{▲ Thống kê hoạt động tăng. {{-Points đạt được hoặc bị mất trên dòng tăng. {{▼ Teamfight Stat Lowers. 
+26000,Bể giao dịch cơ bản. 
+26001,Ảnh hưởng được giảm trong các trận chiến. Tuy nhiên} Anh ấy mạnh mẽ hơn ở Teamfight. {{▲ Teamfight khả năng được tăng lên. {{-Points đạt được hoặc bị mất ở dòng được hạ xuống. {{▼ Stat Stat được hạ xuống. 
+26002,Chân tran trở nên mạnh mẽ. Tuy nhiên} có nguy cơ thất bại cao. {{Tăng số liệu thống kê dòng. {{
+26003,Bể giao dịch cơ bản. 
+26004,Khả năng khai thác được hạ xuống. Tuy nhiên} Khả năng đánh tăng. {{Khả năng đánh tăng. {{▼ Khả năng dòng đi xuống. 
+26005,Nhấn mạnh đối thủ trong dòng. Nó cũng kiểm soát hoạt động thông qua việc chia tách. {{▲ Thống kê hoạt động tăng. {{-Points đạt được hoặc bị mất trên dòng tăng. {{▼ Teamfight Stat Lowers. 
+26006,Nuker Champ cơ bản. 
+26007,Mục tiêu là cải thiện khả năng của một DIL. {{▲ Một chỉ số của DIL tăng lên. 
+26008,Những ngày đầu là mạnh mẽ. Tuy nhiên} Khi thời gian trôi qua} nó trở nên yếu hơn. {{Dòng sản phẩm cho đến 20 phút đầu tiên} Khả năng đấu tranh tăng lên. {{▼ TeamFight khả năng giảm so với nửa thứ hai. 
+26009,Champ một điểm cơ bản. 
+26010,Tập trung vào việc giúp đỡ đội thay vì vai trò của Carrie. {{Số liệu thống kê hoạt động tăng lên. {{▼ Các số liệu thống kê đi xuống. 
+26011,Line Fight là mạnh mẽ. Tuy nhiên} Thật nguy hiểm khi hoạt động với sức khỏe thấp. {{Tăng số liệu thống kê dòng. {{-Points đạt được hoặc bị mất từ hoạt động tăng. 
+26012,Champ người hỗ trợ cơ bản. 
+26013,Yếu trong hàng. Tuy nhiên} Nó rất mạnh trong Đội. {{▲ TeamFight Stat được tăng lên. {{▼ Lines Stat được hạ xuống. 
+26014,"Nếu bạn không thể đăng nhập vào Google, bạn không thể chơi nhiều người chơi. Vui lòng đăng nhập Google. "
+30000,Có một kết thúc bất thường của trò chơi trong trận đấu nhiều lần cuối cùng. Trò chơi đã bị mất. 
+30001,Chúc mừng! Bạn được thăng cấp lên cấp độ tiếp theo! 
+30002,Bạn đã bị giáng chức do thất bại không đổi. 
+30003,Đang đăng nhập
+30004,Có vấn đề. Lý do cho vấn đề: 
+30005,"Kết nối Internet đã bị mất. Khi bạn có kết nối Internet}, bạn sẽ được tự động kết nối lại. "
+30006,"}Internet đã bị ngắt kết nối trong nhiều trận đấu. {Nếu bạn nhấp vào OK}, bạn sẽ thoát khỏi sân vận động. "
+30007,Có một vấn đề tìm kiếm đối thủ của bạn. {Nhấn OK để thoát sân vận động. 
+30008,Trò chơi không được cập nhật. Bạn cần cập nhật lên phiên bản mới nhất để chơi trận đấu. {{Nhấn nút bên dưới để kiểm tra VER
+30009,Kiểm tra 
+30010,Nó không phải là phiên bản mới nhất. 
+30011,Phút
+30012,Bạn đã được báo cáo là một trình phát gian lận và không thể chơi các trò chơi nhiều người chơi. {{Vui lòng gửi email {hucce@gmail cho bất kỳ câu hỏi nào.Bạn đã được đăng ký làm trình phát gian gian lận. 
+30013,Kiểm tra máy chủ nhiều người. Vui lòng đợi cho đến khi thời gian kiểm tra kết thúc 
+30014,Không thể tải danh sách. Vui lòng đăng nhập google trong phần lớn. 
+30015,Cảm ơn bạn đã chơi trò chơi. Đánh giá của bạn là một trợ giúp tuyệt vời cho nhà phát triển. Bạn sẽ nhận được 300 Essence dưới dạng phần thưởng. 
+30016,Cảm ơn bạn đã xem quảng cáo. Nhấp vào OK để nhận phần thưởng xem của bạn. 
+31000,Quảng cáo đã bỏ qua Bạn phải xem quảng cáo đến cuối để nhận phần thưởng. 
+32000,"}Không tìm nạp quảng cáo, vui lòng kiểm tra kết nối Internet của bạn. "
+32001,Điểm số giải đấu 
+32002,M 
+36000,W 
+36001,L 
+36002,Lịch sử
+36003,Đứng đầu
+36004,Khớp kết quả 
+36005,Nhận được
+36006,Hoàn thành
+36007,Chưa hoàn thiện
+36008,Liên kết 
+36009,Mùa
+36010,Nâng cấp chỉ có thể lên đến cấp 10. 
+36011,Thành công
+33000,Sự thất bại
+33001,Xác suất thành công 
+33002,Sự khác biệt
+33003,Bạn có muốn bỏ qua hướng dẫn? Bạn không thể nhận được phần thưởng từ hướng dẫn. 
+33004,Ngôn ngữ sẽ thay đổi khi bạn khởi động lại trò chơi. 
+33005,Phiên bản dịch vụ chơi google kiểm tra 
+33006,Google play đăng nhập hoàn chỉnh 
+34000,Đăng nhập máy chủ đã hoàn thành 
+34001,Đám mây lưu xác nhận hoàn thành 
+34002,Nhập dữ liệu Hoàn thành 
+34003,Vấn đề thử lại 
+34004,Lỗi! Tải sang chế độ ngoại tuyến 
+34005,Tròn
+34006,Đường kẻ
+33007,TeamFight 
+33008,Hoạt động
+33009,Đứng đầu
+33010,Mid 
+33011,Đáy
+33012,Thất bại lớn 
+33013,Đánh bại
+33014,Bearish 
+33015,Sự tranh chấp 
+33016,Superiority 
+33017,Chiến thắng
+33018,Chiến thắng vĩ đại
+33019,Team Jungler Perking. 
+33020,Ngày
+33021,Phần thưởng kết thúc mùa 
+33022,Bạn của bạn đã được yêu cầu. 
+33023,Đã bạn 
+33024,Bạn có chắc bạn muốn xóa người bạn này không? 
+33025,Chiến lược được sao chép 
+33026,Loại 
+33027,Lệnh cấm
+33028,Tuyên ngôn
+33029,Lỗi / Đề xuất 
+33030,Lời mời quản lý. Trở thành Trình quản lý nhóm LOL. 
+33031,Xếp hạng cuối cùng 
+33032,Phần thưởng cuối cùng 
+33033,Bắt đầu mùa 
+33034,Một mùa mới đã bắt đầu. 
+33035,Đóng góp Hall of Fame 
+33036,Nghỉ ngơi
+33037,Không đủ Essence 
+33038,nan 
+33039,Nước hoa
+37000,Đóng gói
+37001,Bưu kiện
+37002,Tất cả
+37003,Bạc
+38000,Vàng
+38001,Bạch kim 
+38002,Tất cả
+38003,Bạc
+33040,Vàng
+33041,Bạch kim 
+33042,Kim cương
+33043,Challenger 
+33044,Bậc thầy
+33045,Tuyển dụng 
+33046,Bưu kiện
+33047,Bài thuyết trình
+33048,Bao gồm giới hạn 
+33049,Chỉ giới hạn 
+33050,Tráo đổi
+33051,Thêm vào
+33052,Di dời
+33053,Tổng cộng
+33054,Số liệu thống kê 
+33055,Đồng 
+33056,Cho đến khi nâng cấp thứ hạng tiếp theo 
+33057,Di chuyển
+33058,Nhận được
+33059,Cùng một trình phát đã có trong danh sách bắt đầu. 
+33060,Không có dữ liệu.
+33061,Dữ liệu là bất thường. 
+33062,Lý do
+33063,Ngày bắt đầu nghiền tiếp theo 
+33064,Đã xảy ra lỗi trong khi tạo một giải đấu. {{Touch Retry để tạo một giải đấu mới.Máy chủ đang nhận dữ liệu. 
+33065,Dữ liệu không được nhận đúng. 
+33066,Trình bày trình phát mùa 
+33067,Mục nhập vô địch thế giới 
+33068,Những người chơi được chọn đã ra mắt trong giải đấu năm nay và mong chờ tương lai. Nó chỉ có thể được lấy dưới dạng phần thưởng mùa. 
+33069,Bạn có muốn dừng trận đấu tự động không? {Các mục đã sử dụng sẽ biến mất. 
+33070,Bạn có chắc bạn muốn đặt lại tài khoản của mình không? {Lưu dữ liệu sẽ bị xóa và trò chơi sẽ khởi động lại. 
+33071,Cùng một huấn luyện viên đã ở trong mục. 
+33072,Bạn có chắc là bạn muốn xóa huấn luyện viên? Bạn có thể nhận được 30 Essence. 
 33073,Are you sure you want to reset your account?{Save data will be deleted and the game will restart.
 33074,The same coach is already in the entry.
 33075,Are you sure you want to delete the coach? You can get 30 Essence.

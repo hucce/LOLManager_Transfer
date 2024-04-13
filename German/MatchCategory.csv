@@ -1,44 +1,44 @@
-﻿teamID,Dec
-1000000.0,Besiege alle KR -League -Teams in der 18 -Saison.
-1000001.0,Besiege alle KR -League -Teams in der 19. Frühjahrssaison.
-1000002.0,Besiege alle KR -League -Teams in der 19. Sommersaison.
-1000003.0,Besiege alle Multi -Spiele 19 -Saison -Top10 -Teams.
-1000004.0,Besiege alle KR -League -Teams in der 20. Frühjahrssaison.
-1000005.0,Besiege alle EU -League -Teams in der 20. Frühjahrssaison.
-1000006.0,Besiege alle Na -League -Teams in der 20. Frühjahrssaison.
-1000007.0,Besiege alle KR -League -Teams in der Sommersaison.
-1000008.0,Besiege alle EU -Liga -Teams in der 20. Sommersaison.
-1000009.0,Besiege alle NA League -Teams in der 20. Sommersaison.
-1000010.0,Besiege alle Multi -Spiele 20 -Saison -Top10 -Teams.
-1000011.0,Besiege alle KR -League -Teams in der 21. Frühjahrssaison.
-1000012.0,Besiege alle EU -League -Teams in der 21. Frühjahrssaison.
-1000013.0,Besiege alle Na -League -Teams in der 21. Frühjahrssaison.
-1000014.0,Besiege alle Multi-Match-21: 1-Saison-Top10-Teams.
-1000015.0,Besiege alle Multi-Match-21-2-Saison-Top10-Teams.
-1000016.0,Besiege alle CN -League -Teams in der 21. Frühjahrssaison.
-1000017.0,Besiege alle KR -League -Teams in der 21. Sommersaison.
-1000018.0,Besiege alle EU -Liga -Teams in der 21. Sommersaison.
-1000019.0,Besiege alle NA -League -Teams in der 21. Sommersaison.
-1000020.0,Besiege alle CN -League -Teams in der 21. Sommersaison.
-1000021.0,Besiege alle Multi-Match-21-3-Saison-Top10-Teams.
-1000022.0,Besiege alle Multi-Match-22: 1-Saison-Top10-Teams.
-1000023.0,Besiege alle KR -League -Teams in der 22. Frühjahrssaison.
-1000024.0,Besiege alle EU -League -Teams in der 22 Frühlingszeit.
-1000025.0,Besiege alle Na -League -Teams in der 22. Frühjahrssaison.
-1000026.0,Besiege alle Multi-Match-22-2-Saison-Top10-Teams.
-1000027.0,Besiege alle Multi-Match-22-3-Saison-Top10-Teams.
-1000028.0,Besiege alle Multi-Match-22-4-Saison-Top10-Teams.
-1000029.0,Besiege alle KR -League -Teams in der 22. Sommersaison.
-1000030.0,Besiege alle EU -League -Teams in der 22. Sommersaison.
-1000031.0,Besiege alle Na -League -Teams in der 22. Sommersaison.
-1000032.0,Besiege alle Multi-Match-23: 1-Saison-Top10-Teams.
-1000033.0,Besiege alle Multi-Match-23-2-Saison-Top10-Teams.
-1000034.0,Besiege alle KR -League -Teams in der 23er Frühlingszeit.
-1000035.0,Besiege alle EU -League -Teams in der 23. Frühjahrssaison.
-1000036.0,Besiege alle Na -League -Teams in der 23. Frühjahrssaison.
-1000037.0,Besiege alle Multi-Match-23-3-Saison-Top10-Teams.
-1000038.0,Besiege alle KR League -Teams in der 23. Sommersaison.
-1000039.0,Besiege alle EU -League -Teams in der 23. Sommersaison.
-1000040.0,Besiege alle NA League -Teams in der 23. Sommersaison.
-1000041.0,Besiege alle Multi-Match-23-4-Saison-Top10-Teams.
-1000042.0,Besiege alle Multi-Match-24-1-Saison-Top10-Teams.
+﻿ID,Dec
+1000000,Besiege alle KR -League -Teams in der 18 -Saison. 
+1000001,Besiege alle KR -League -Teams in der 19. Frühjahrssaison. 
+1000002,Besiege alle KR -League -Teams in der 19. Sommersaison. 
+1000003,Besiege aller Multi -Match 19 -Saison -Top10 -Teams. 
+1000004,Besiege alle KR -League -Teams in der 20. Frühjahrssaison. 
+1000005,Besiege alle EU -League -Teams in der 20. Frühjahrssaison. 
+1000006,Besiege alle Na -League -Teams in der 20. Frühjahrssaison. 
+1000007,Besiege alle KR -League -Teams in der 20. Sommersaison. 
+1000008,Besiege alle EU -Liga -Teams in der 20. Sommersaison. 
+1000009,Besiege alle Na -League -Teams in der 20. Sommersaison. 
+1000010,Besiege aller Multi -Match 20 -Saison -Top10 -Teams. 
+1000011,Besiege alle KR -League -Teams in der 21. Frühjahrssaison. 
+1000012,Besiege alle EU -League -Teams in der 21. Frühjahrssaison. 
+1000013,Besiege alle Na -League -Teams in der 21. Frühjahrssaison. 
+1000014,Besiege aller Multi-Match-21-1-Saison-Top10-Teams. 
+1000015,Besiege aller Multi-Match-21-2-Saison-Top10-Teams. 
+1000016,Besiege alle CN -League -Teams in der 21. Frühjahrssaison. 
+1000017,Besiege alle KR -League -Teams in der 21. Sommersaison. 
+1000018,Besiege alle EU -Liga -Teams in der 21. Sommersaison. 
+1000019,Besiege alle Na -League -Teams in der 21. Sommersaison. 
+1000020,Besiege alle CN -League -Teams in der 21. Sommersaison. 
+1000021,Besiege aller Multi-Match 21-3-Saison-Top10-Teams. 
+1000022,Besiege aller Multi-Match-22-1-Saison-Top10-Teams. 
+1000023,Besiege alle KR -League -Teams in der 22. Frühjahrssaison. 
+1000024,Besiege alle EU -League -Teams in der 22. Frühjahrssaison. 
+1000025,Besiege alle Na -League -Teams in der 22. Frühjahrssaison. 
+1000026,Besiege aller Multi-Match-22-2-Saison-Top10-Teams. 
+1000027,Besiege aller Multi-Match-22-3-Saison-Top10-Teams. 
+1000028,Besiege aller Multi-Match-22-4-Saison-Top10-Teams. 
+1000029,Besiege alle KR -League -Teams in der 22. Sommersaison. 
+1000030,Besiege alle EU -League -Teams in der 22. Sommersaison. 
+1000031,Besiege alle Na -League -Teams in der 22. Sommersaison. 
+1000032,Besiege aller Multi-Match 23-1 Saison Top10-Teams. 
+1000033,Besiege aller Multi-Match 23-2-Saison Top10-Teams. 
+1000034,Besiege alle KR -League -Teams in der 23. Frühjahrssaison. 
+1000035,Besiege alle EU -League -Teams in der 23. Frühjahrssaison. 
+1000036,Besiege alle Na -League -Teams in der 23. Frühjahrssaison. 
+1000037,Besiege aller Multi-Match 23-3-Saison Top10-Teams. 
+1000038,Besiege alle KR -League -Teams in der 23. Sommersaison. 
+1000039,Besiege alle EU -Liga -Teams in der 23. Sommersaison. 
+1000040,Besiege alle Na -League -Teams in der 23. Sommersaison. 
+1000041,Besiege aller Multi-Match 23-4-Saison Top10-Teams. 
+1000042,Besiege aller Multi-Match-24-1-Saison-Top10-Teams. 

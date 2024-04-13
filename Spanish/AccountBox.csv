@@ -1,33 +1,33 @@
 ﻿ID,Name,Dec
-1000,Recompensa de inicio de sesión diaria,Iniciar sesión hoy recompensa
-1001,3 recompensas diarias,Las 3 recompensas del partido de hoy
-1002,Apoyo,Puedes patrocinar al desarrollador a través de Twonation.
-1003,Revisar,Por favor revisa y le recompensaremos.
-1004,Tutorial completo,Tutorial completo
-1005,Logro de rango de plata,Lograr rango de plata multiplay
-1006,Logro de rango de oro,Lograr rango de oro multiplano
-1007,Logro de rango de platino,Lograr el rango de platino multiplay
-1008,Logro de rango de diamante,Lograr rango de diamante multiplano
-1009,Logro de rango maestro,Lograr rango maestro multiplano
-1010,Logro de Challenger,Lograr rango de retador multiplano
-1011,Campeón de la liga,Logrado en primer lugar en la liga
-1012,Medalla de plata,Se logró el segundo lugar en la liga.
-1013,Medalla de bronce,Tercer lugar logrado en la liga.
-1014,3 campeones,Lograr 3 títulos de liga
-1015,3 medallas de plata,Se logró el segundo lugar en tres leguas.
-1016,3 medallas de bronce,Logrado en tercer lugar en tres leguas.
-1017,5 campeones,Lograr 5 títulos de liga
-1018,5 medallas de plata,Lograr el segundo lugar en cinco leguas.
-1019,5 medallas de bronce,Lograr el tercer lugar en cinco leguas.
-1020,Primera Estación,Fecha límite de la primera temporada
-1021,Tercera temporada,Fecha límite de la tercera temporada
-1022,Quinta temporada,Fecha límite de la quinta temporada
-1023,Temporada décima,Plazo de la 10ª temporada
-1024,6 recompensas diarias,6 recompensas de partidos de hoy
-1025,Logro de rango de plata,Lograr rango de plata multiplay
-1026,Logro de rango de oro,Lograr rango de oro multiplano
-1027,Logro de rango de platino,Lograr el rango de platino multiplay
-1028,Logro de rango de diamante,Lograr rango de diamante multiplano
-1029,Logro de rango maestro,Lograr rango maestro multiplano
-1030,Logro de Challenger,Lograr rango de retador multiplano
-1031,Límite de partido diario,Número de partidos por día donde puedes obtener esencia.
+1000,Recompensa diaria de inicio de sesión ,Iniciar sesión hoy recompensa 
+1001,3 recompensas diarias ,Las 3 recompensas de coincidencias de hoy 
+1002,Apoyo,Puede patrocinar al desarrollador a través de la twonation. 
+1003,Revisar,Por favor revise y lo recompensaremos. 
+1004,Tutorial completo ,Tutorial completo 
+1005,Logro de rango de plata ,Lograr el rango de plata multiplicado 
+1006,Logro de rango de oro ,Alcanzar el rango de oro multiploque 
+1007,Logro de rango de platino ,Lograr el rango de platino multiplicado 
+1008,Logro de rango de diamante ,Alcanzar el rango de diamante multiplicado 
+1009,Logro de rango maestro ,Alcanzar el rango maestro multiploque 
+1010,Challenger Achievement ,Alcanzar el rango de retador multiplicado 
+1011,Campeón de la liga ,Logrado primer lugar en la liga 
+1012,Medalla de plata,Logrado el segundo lugar en la liga 
+1013,Medalla de bronce,Logró el tercer lugar en la liga 
+1014,3 campeones ,Lograr 3 títulos de liga 
+1015,3 medallas de plata ,Logrado el segundo lugar en tres leguas 
+1016,3 medallas de bronce ,Alcanzado el tercer lugar en tres ligas 
+1017,5 campeones ,Lograr 5 títulos de liga 
+1018,5 medallas de plata ,Lograr el segundo lugar en cinco leguas 
+1019,5 medallas de bronce ,Lograr el tercer lugar en cinco leguas 
+1020,Primera Estación,Fecha límite de primera temporada 
+1021,Tercera temporada,Fecha límite de la tercera temporada 
+1022,Quinta temporada ,Fecha límite de la quinta temporada 
+1023,Décima temporada ,Fecha límite de la décima temporada 
+1024,6 recompensas diarias ,Las 6 recompensas de coincidencia de hoy 
+1025,Logro de rango de plata ,Lograr el rango de plata multiplicado 
+1026,Logro de rango de oro ,Alcanzar el rango de oro multiploque 
+1027,Logro de rango de platino ,Lograr el rango de platino multiplicado 
+1028,Logro de rango de diamante ,Alcanzar el rango de diamante multiplicado 
+1029,Logro de rango maestro ,Alcanzar el rango maestro multiploque 
+1030,Challenger Achievement ,Alcanzar el rango de retador multiplicado 
+1031,Límite de coincidencia diaria ,Número de partidos por día donde puedes obtener esencia 

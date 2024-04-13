@@ -1,27 +1,21 @@
 ﻿ID,Name,Dec
-1000.0,金の募集,
-1001.0,ゴールドパッケージ,Recruit 5 random players with a combined stat above 81.
-1002.0,プレイヤーの募集,Recruit 1 random player.
-1003.0,銀の募集,Recruit 1 random player with a combined stat above 76.
-1004.0,金の募集,Recruit 1 random player with a combined stat above 81.
-1005.0,プラチナ募集,Recruit 1 random player with a combined GPA of 84 or higher.
-1006.0,基本パッケージ,Recruit 5 random players.
-1007.0,シルバーパッケージ,Recruit 5 random players with a combined stat above 76.
-1008.0,ゴールドパッケージ,Recruit 5 random players with a combined stat above 81.
-1009.0,プラチナパッケージ,Recruit 5 random players with a combined GPA of 84 or higher.
-1010.0,2021シーズン募集,Recruit 1 random player from the 21SPR-21SUM season. (Not including limitation)
-1011.0,2021シーズンパッケージ,Recruit 5 random player from the 21SPR-21SUM season. (Not including limitation)
-1012.0,2022シーズン募集,Recruit 1 random player from the 22SPR-22SUM season. (Not including limitation)
-1013.0,2022シーズンパッケージ,Recruit 5 random player from the 22SPR-22SUM season. (Not including limitation)
-1014.0,2023シーズン募集,Recruit 1 random player from the 23SPR-23SUM season. (Not including limitation)
-1015.0,2023シーズンパッケージ,Recruit 5 random player from the 23SPR-23SUM season. (Not including limitation)
-1016.0,前シーズンの募集,One random player from the 18-20SUM season is recruited. (Not including limitation)
-1017.0,前シーズンパッケージ,5 random players from the 18-20SUM season are recruited. (Not including limitation)
-1018.0,コーチの募集,Recruit 1 random Coach.
-1019.0,チーム名を変更します,Change your team name.
-1012.0,Tukar nama pasukan,Tukar nama pasukan anda.
-1013.0,Tukar nama pasukan,Tukar nama pasukan anda.
-1012.0,前シーズンの募集,18-20サムシーズンの1人のランダムプレーヤーが募集されます。
-1013.0,前シーズンパッケージ, （制限が含まれていません）
-1012.0,上赛季招募,招募了18至20个赛季的一名随机球员。
-1013.0,上一季, （不包括限制）
+1000,金の募集,81を超える統計統計を持つ1つのランダムプレーヤーを募集します。
+1001,ゴールドパッケージ,81を超える統計統計を持つ5人のランダムプレーヤーを募集します。
+1002,プレイヤーの募集,1ランダムなプレーヤーを募集します。
+1003,銀の募集,76を超える統計統計を持つ1つのランダムプレーヤーを募集します。
+1004,金の募集,81を超える統計統計を持つ1つのランダムプレーヤーを募集します。
+1005,プラチナ募集,84以上のGPAを合わせた1つのランダムプレーヤーを募集します。
+1006,基本パッケージ,5人のランダムプレーヤーを募集します。
+1007,シルバーパッケージ,76を超える統計統計を持つ5人のランダムプレーヤーを募集します。
+1008,ゴールドパッケージ,81を超える統計統計を持つ5人のランダムプレーヤーを募集します。
+1009,プラチナパッケージ,84以上のGPAを組み合わせた5人のランダムプレーヤーを募集します。
+1010,2021シーズン募集,21SPR-21Sumシーズンから1つのランダムプレーヤーを募集します。
+1011,2021シーズンパッケージ, （制限が含まれていません）
+1012,2022シーズン募集,21SPR-21Sumシーズンから5人のランダムプレーヤーを募集します。
+1013,2022シーズンパッケージ, （制限が含まれていません）
+1014,2023シーズン募集,22SPR-22Sumシーズンから1つのランダムプレーヤーを募集します。
+1015,2023シーズンパッケージ, （制限が含まれていません）
+1016,前シーズンの募集,22SPR-22Sumシーズンから5人のランダムプレーヤーを募集します。
+1017,前シーズンパッケージ, （制限が含まれていません）
+1018,コーチの募集,23SPR-23Sumシーズンから1つのランダムプレーヤーを募集します。
+1019,チーム名を変更します, （制限が含まれていません）

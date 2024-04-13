@@ -1,21 +1,21 @@
 ﻿ID,Name,Dec
-1000.0,,Merekrut 1 pemain rawak dengan statistik gabungan di atas 81.
-1001.0,Gold Package,Merekrut 5 pemain rawak dengan statistik gabungan di atas 81.
-1002.0,Player Recruitment,Merekrut 1 pemain rawak.
-1003.0,Silver Recruitment,Merekrut 1 pemain rawak dengan statistik gabungan di atas 76.
-1004.0,Gold Recruitment,Merekrut 1 pemain rawak dengan statistik gabungan di atas 81.
-1005.0,Platinum Recruitment,Merekrut 1 pemain rawak dengan gabungan IPK 84 atau lebih tinggi.
-1006.0,Basic Package,Merekrut 5 pemain rawak.
-1007.0,Silver Package,Merekrut 5 pemain rawak dengan statistik gabungan di atas 76.
-1008.0,Gold Package,Merekrut 5 pemain rawak dengan statistik gabungan di atas 81.
-1009.0,Platinum Package,Merekrut 5 pemain rawak dengan gabungan IPK 84 atau lebih tinggi.
-1010.0,2021Season Recruitment,Merekrut 1 pemain rawak dari musim 21SPR-21SUM.
-1011.0,2021Season Package, (Tidak termasuk batasan)
-1012.0,2022Season Recruitment,Merekrut 5 pemain rawak dari musim 21SPR-21SUM.
-1013.0,2022Season Package, (Tidak termasuk batasan)
-1014.0,2023Season Recruitment,Merekrut 1 pemain rawak dari musim 22SPR-22Sum.
-1015.0,2023Season Package, (Tidak termasuk batasan)
-1016.0,Previous season Recruitment,Merekrut 5 pemain rawak dari musim 22SPR-22Sum.
-1017.0,Previous season package, (Tidak termasuk batasan)
-1018.0,Coach Recruitment,Merekrut 1 pemain rawak dari musim 23SPR-23sum.
-1019.0,Change team name, (Tidak termasuk batasan)
+1000,Pengambilan Emas ,Merekrut 1 pemain rawak dengan statistik gabungan di atas 81. 
+1001,Pakej Emas ,Merekrut 5 pemain rawak dengan statistik gabungan di atas 81. 
+1002,Pengambilan Pemain ,Merekrut 1 pemain rawak. 
+1003,Pengambilan Perak ,Merekrut 1 pemain rawak dengan statistik gabungan di atas 76. 
+1004,Pengambilan Emas ,Merekrut 1 pemain rawak dengan statistik gabungan di atas 81. 
+1005,Pengambilan Platinum ,Merekrut 1 pemain rawak dengan gabungan IPK 84 atau lebih tinggi. 
+1006,Pakej Asas ,Merekrut 5 pemain rawak. 
+1007,Pakej Perak ,Merekrut 5 pemain rawak dengan statistik gabungan di atas 76. 
+1008,Pakej Emas ,Merekrut 5 pemain rawak dengan statistik gabungan di atas 81. 
+1009,Pakej Platinum ,Merekrut 5 pemain rawak dengan gabungan IPK 84 atau lebih tinggi. 
+1010,2021Season Recruitment ,Merekrut 1 pemain rawak dari musim 21SPR-21SUM. (Tidak termasuk batasan) 
+1011,Pakej 2021Season ,Merekrut 5 pemain rawak dari musim 21SPR-21SUM. (Tidak termasuk batasan) 
+1012,2022Season Recruitment ,Merekrut 1 pemain rawak dari musim 22SPR-22Sum. (Tidak termasuk batasan) 
+1013,Pakej 2022Season ,Merekrut 5 pemain rawak dari musim 22SPR-22Sum. (Tidak termasuk batasan) 
+1014,2023Season Recruitment ,Merekrut 1 pemain rawak dari musim 23SPR-23sum. (Tidak termasuk batasan) 
+1015,Pakej 2023Season ,Merekrut 5 pemain rawak dari musim 23SPR-23sum. (Tidak termasuk batasan) 
+1016,Pengambilan Musim Sebelumnya ,Satu pemain rawak dari musim 18-20sum direkrut. (Tidak termasuk batasan) 
+1017,Pakej Musim Sebelumnya ,5 pemain rawak dari musim 18-20sum direkrut. (Tidak termasuk batasan) 
+1018,Pengambilan Jurulatih ,Merekrut 1 jurulatih rawak. 
+1019,Tukar nama pasukan ,Tukar nama pasukan anda. 

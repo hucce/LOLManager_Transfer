@@ -1,21 +1,21 @@
 ﻿ID,Name,Dec
-1000.0,Altın işe alım,81'in üzerinde kombine stat ile 1 rastgele oyuncu işe alın.
-1001.0,Altın paketi,81'in üzerinde kombine stat ile 5 rastgele oyuncu işe alın.
-1002.0,Oyuncu alımı,1 rastgele oyuncu işe alın.
-1003.0,Gümüş işe alım,76'nın üzerinde kombine stat ile 1 rastgele oyuncu işe alın.
-1004.0,Altın işe alım,81'in üzerinde kombine stat ile 1 rastgele oyuncu işe alın.
-1005.0,Platin alımı,84 veya daha yüksek bir GPA ile 1 rastgele oyuncu işe alın.
-1006.0,Temel paket,5 rastgele oyuncu işe alın.
-1007.0,Gümüş paketi,76'nın üzerinde kombine stat ile 5 rastgele oyuncu işe alın.
-1008.0,Altın paketi,81'in üzerinde kombine stat ile 5 rastgele oyuncu işe alın.
-1009.0,Platin paketi,84 veya daha yüksek bir GPA ile 5 rastgele oyuncu işe alın.
-1010.0,2021season işe alım,21SPR-21Sum sezonundan 1 rastgele oyuncu işe alın.
-1011.0,2021season paketi, (Sınırlama dahil değil)
-1012.0,2022 Sezon İşe Alım,21SPR-21Sum sezonundan 5 rastgele oyuncu işe alın.
-1013.0,2022 SEZON PAKETİ, (Sınırlama dahil değil)
-1014.0,2023season işe alım,22SPR-22sum sezonundan 1 rastgele oyuncu işe alın.
-1015.0,2023season paketi, (Sınırlama dahil değil)
-1016.0,Önceki Sezon İşe Alım,22SPR-22sum sezonundan 5 rastgele oyuncu işe alın.
-1017.0,Önceki Sezon Paketi, (Sınırlama dahil değil)
-1018.0,Antrenör işe alım,23SPR-23Sum sezonundan 1 rastgele oyuncu işe alın.
-1019.0,Takım Adını Değiştir, (Sınırlama dahil değil)
+1000,Altın İşe Alım ,81'in üzerinde kombine stat ile 1 rastgele oynatıcıyı işe alın. 
+1001,Altın paketi ,81'in üzerinde kombine stat ile 5 rastgele oyuncu işe alın. 
+1002,Oyuncu işe alımı ,1 rastgele oyuncu işe alın. 
+1003,Gümüş işe alım ,76'nın üzerinde kombine stat ile 1 rastgele oynatıcıyı işe alın. 
+1004,Altın İşe Alım ,81'in üzerinde kombine stat ile 1 rastgele oynatıcıyı işe alın. 
+1005,Platinum Recruitment ,84 veya daha yüksek bir GPA ile 1 rastgele oyuncu işe alın. 
+1006,Temel paket,5 rastgele oyuncu işe alın. 
+1007,Gümüş Paket ,76'nın üzerinde kombine stat ile 5 rastgele oyuncu işe alın. 
+1008,Altın paketi ,81'in üzerinde kombine stat ile 5 rastgele oyuncu işe alın. 
+1009,Platinum paketi ,84 veya daha yüksek bir GPA ile 5 rastgele oyuncu işe alın. 
+1010,2021season işe alım ,21SPR-21Sum sezonundan 1 rastgele oyuncu işe alın. (Sınırlama dahil değil) 
+1011,2021season paketi ,21SPR-21Sum sezonundan 5 rastgele oyuncu işe alın. (Sınırlama dahil değil) 
+1012,2022season işe alım ,22SPR-22sum sezonundan 1 rastgele oyuncu işe alın. (Sınırlama dahil değil) 
+1013,2022season paketi ,22SPR-22sum sezonundan 5 rastgele oyuncu işe alın. (Sınırlama dahil değil) 
+1014,2023season işe alım ,23SPR-23Sum sezonundan 1 rastgele oyuncu işe alın. (Sınırlama dahil değil) 
+1015,2023season paketi ,23SPR-23Sum sezonundan 5 rastgele oyuncu işe alın. (Sınırlama dahil değil) 
+1016,Önceki sezon işe alım ,18-20sum sezonundan bir rastgele oyuncu işe alındı. (Sınırlama dahil değil) 
+1017,Önceki sezon paketi ,18-20'li sezondan 5 rastgele oyuncu işe alındı. (Sınırlama dahil değil) 
+1018,Koç işe alım ,1 rastgele koçu işe alın. 
+1019,Takım adını değiştir ,Takım adınızı değiştirin. 

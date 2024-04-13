@@ -1,21 +1,21 @@
 ﻿ID,Name,Dec
-1000.0,Recrutamento de ouro,Recrute 1 jogador aleatório com uma estatística combinada acima de 81.
-1001.0,Pacote de ouro,Recrute 5 jogadores aleatórios com uma estatística combinada acima de 81.
-1002.0,Recrutamento de jogadores,Recrute 1 jogador aleatório.
-1003.0,Recrutamento de prata,Recrute 1 jogador aleatório com uma estatística combinada acima de 76.
-1004.0,Recrutamento de ouro,Recrute 1 jogador aleatório com uma estatística combinada acima de 81.
-1005.0,Recrutamento de platina,Recrute 1 jogador aleatório com um GPA combinado de 84 ou superior.
-1006.0,Pacote básico,Recrute 5 jogadores aleatórios.
-1007.0,Pacote de prata,Recrute 5 jogadores aleatórios com uma estatística combinada acima de 76.
-1008.0,Pacote de ouro,Recrute 5 jogadores aleatórios com uma estatística combinada acima de 81.
-1009.0,Pacote de platina,Recrute 5 jogadores aleatórios com um GPA combinado de 84 ou superior.
-1010.0,2021 Recrutamento de temporada,Recrute 1 jogador aleatório da temporada 21SPR-21SUM.
-1011.0,2021 Pacote de temporada, (Não incluindo a limitação)
-1012.0,2022 Recrutamento de temporada,Recrute 5 jogadores aleatórios da temporada 21SPR-21SUM.
-1013.0,2022 Pacote de temporada, (Não incluindo a limitação)
-1014.0,2023 Recrutamento de temporada,Recrute 1 jogador aleatório da temporada 22SPR-22SUM.
-1015.0,2023 Pacote de temporada, (Não incluindo a limitação)
-1016.0,Recrutamento da temporada anterior,Recrute 5 jogadores aleatórios da temporada 22SPR-22SUM.
-1017.0,Pacote da temporada anterior, (Não incluindo a limitação)
-1018.0,Recrutamento de treinadores,Recrute 1 jogador aleatório da temporada 23SPR-23SUM.
-1019.0,Alterar o nome da equipe, (Não incluindo a limitação)
+1000,Recrutamento de ouro ,Recrute 1 jogador aleatório com uma estatística combinada acima de 81. 
+1001,Pacote de ouro ,Recrute 5 players aleatórios com uma estatística combinada acima de 81. 
+1002,Recrutamento de jogadores ,Recruta 1 jogador aleatório. 
+1003,Recrutamento de prata ,Recrute 1 jogador aleatório com uma estatística combinada acima de 76. 
+1004,Recrutamento de ouro ,Recrute 1 jogador aleatório com uma estatística combinada acima de 81. 
+1005,Platinum Recruitment ,Recrute 1 jogador aleatório com um GPA combinado de 84 ou superior. 
+1006,Pacote básico,Recrute 5 jogadores aleatórios. 
+1007,Pacote de prata ,Recrute 5 players aleatórios com uma estatística combinada acima de 76. 
+1008,Pacote de ouro ,Recrute 5 players aleatórios com uma estatística combinada acima de 81. 
+1009,Pacote Platinum ,Recrute 5 jogadores aleatórios com um GPA combinado de 84 ou superior. 
+1010,2021 Recrutamento de temporada ,Recrute 1 jogador aleatório da temporada 21SPR-21SUM. (Não incluindo limitação) 
+1011,2021 Pacote de temporada ,Recrute 5 jogadores aleatórios da temporada 21SPR-21SUM. (Não incluindo limitação) 
+1012,2022 Recrutamento de temporada ,Recrute 1 jogador aleatório da temporada 22SPR-22SUM. (Não incluindo limitação) 
+1013,2022 Pacote de temporada ,Recrute 5 jogadores aleatórios da temporada 22SPR-22SUM. (Não incluindo limitação) 
+1014,2023 Recrutamento de temporada ,Recrute 1 jogador aleatório da temporada 23SPR-23SUM. (Não incluindo limitação) 
+1015,2023 Pacote de temporada ,Recrute 5 jogadores aleatórios da temporada 23SPR-23SUM. (Não incluindo limitação) 
+1016,Recrutamento da temporada anterior ,Um jogador aleatório da temporada de 18 a 20 anos é recrutado. (Não incluindo limitação) 
+1017,Pacote da temporada anterior ,5 jogadores aleatórios da temporada de 18 a 20 anos são recrutados. (Não incluindo limitação) 
+1018,Recrutamento de treinadores ,Recruta 1 treinador aleatório. 
+1019,Alterar o nome da equipe ,Altere o nome da sua equipe. 

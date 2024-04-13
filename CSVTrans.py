@@ -30,7 +30,7 @@ def DFinText(baseDF, textCol, txtList):
     check = 0
     for i in baseDF.index:
         #세로, 가로
-        txt += str(baseDF[textCol][i]) + '|||\n\n'
+        txt += str(baseDF[textCol][i]) + '{{{}}}\n\n'
         if len(txt) >= 4900 or len(baseDF) == check+1:
             txtList.append(txt)
             txt = ''
@@ -66,15 +66,19 @@ def LoadGoogle(baseDF, startIndex, language, txt, col):
         except:
             time.sleep(0.1)
 
-    result = result.replace('\n\n', '')
-    resultSplit = result.split('|||')
+    result = result.replace('\n', '')
+    resultSplit = result.split('{{{}}}')
 
-    for index in range(startIndex, ((len(resultSplit)-1) + startIndex)):
+    max = len(resultSplit)
+    if resultSplit[max-1] == '':
+        max = max -1
+
+    for index in range(startIndex, (max + startIndex)):
         baseDF.at[index, col] = resultSplit[index - startIndex]
 
     driver.close()
 
-    return (len(resultSplit)-1) + startIndex
+    return max + startIndex
 
 def createFolder(directory):
     try:

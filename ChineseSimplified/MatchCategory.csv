@@ -1,44 +1,44 @@
-﻿teamID,Dec
-1000000.0,
-1000001.0,Defeat all the KR League teams in the 19 spring season.
-1000002.0,Defeat all the KR League teams in the 19 summer season.
-1000003.0,Defeat all Multi Match 19 Season Top10 teams.
-1000004.0,Defeat all the KR League teams in the 20 spring season.
-1000005.0,Defeat all the EU League teams in the 20 spring season.
-1000006.0,Defeat all the NA League teams in the 20 spring season.
-1000007.0,Defeat all the KR League teams in the 20 summer season.
-1000008.0,Defeat all the EU League teams in the 20 summer season.
-1000009.0,Defeat all the NA League teams in the 20 summer season.
-1000010.0,Defeat all Multi Match 20 Season Top10 teams.
-1000011.0,Defeat all the KR League teams in the 21 spring season.
-1000012.0,Defeat all the EU League teams in the 21 spring season.
-1000013.0,Defeat all the NA League teams in the 21 spring season.
-1000014.0,Defeat all Multi Match 21-1 Season Top10 teams.
-1000015.0,Defeat all Multi Match 21-2 Season Top10 teams.
-1000016.0,Defeat all the CN League teams in the 21 spring season.
-1000017.0,Defeat all the KR League teams in the 21 summer season.
-1000018.0,Defeat all the EU League teams in the 21 summer season.
-1000019.0,Defeat all the NA League teams in the 21 summer season.
-1000020.0,Defeat all the CN League teams in the 21 summer season.
-1000021.0,Defeat all Multi Match 21-3 Season Top10 teams.
-1000022.0,Defeat all Multi Match 22-1 Season Top10 teams.
-1000023.0,Defeat all the KR League teams in the 22 spring season.
-1000024.0,Defeat all the EU League teams in the 22 spring season.
-1000025.0,Defeat all the NA League teams in the 22 spring season.
-1000026.0,Defeat all Multi Match 22-2 Season Top10 teams.
-1000027.0,Defeat all Multi Match 22-3 Season Top10 teams.
-1000028.0,Defeat all Multi Match 22-4 Season Top10 teams.
-1000029.0,Defeat all the KR League teams in the 22 summer season.
-1000030.0,Defeat all the EU League teams in the 22 summer season.
-1000031.0,Defeat all the NA League teams in the 22 summer season.
-1000032.0,Defeat all Multi Match 23-1 Season Top10 teams.
-1000033.0,Defeat all Multi Match 23-2 Season Top10 teams.
-1000034.0,Defeat all the KR League teams in the 23 spring season.
-1000035.0,Defeat all the EU League teams in the 23 spring season.
-1000036.0,Defeat all the NA League teams in the 23 spring season.
-1000037.0,Defeat all Multi Match 23-3 Season Top10 teams.
-1000038.0,Defeat all the KR League teams in the 23 summer season.
-1000039.0,Defeat all the EU League teams in the 23 summer season.
-1000040.0,Defeat all the NA League teams in the 23 summer season.
-1000041.0,Defeat all Multi Match 23-4 Season Top10 teams.
-1000042.0,击败所有多场比赛24-1赛季Top10球队。
+﻿ID,Dec
+1000000,在18个赛季中击败所有KR联赛球队。
+1000001,在19个春季击败所有KR联赛球队。
+1000002,在19个夏季击败所有KR联赛球队。
+1000003,击败所有多场比赛19赛季Top10球队。
+1000004,在20个春季击败所有KR联赛球队。
+1000005,在20个春季击败所有欧盟联赛球队。
+1000006,在20个春季击败所有NA联赛球队。
+1000007,在20个夏季击败所有KR联赛球队。
+1000008,在20个夏季，击败了所有欧盟联赛球队。
+1000009,在20个夏季击败所有NA联赛球队。
+1000010,击败所有多场比赛20赛季Top10球队。
+1000011,在21个春季击败所有KR联赛球队。
+1000012,在21个春季击败所有欧盟联赛球队。
+1000013,在21个春季击败所有NA联赛球队。
+1000014,击败所有多场比赛21-1赛季Top10球队。
+1000015,击败所有多比赛21-2赛季Top10球队。
+1000016,在21个春季击败所有CN联赛球队。
+1000017,在21个夏季击败所有KR联赛球队。
+1000018,在21个夏季击败所有欧盟联赛球队。
+1000019,在21个夏季击败所有NA联赛球队。
+1000020,在21个夏季击败所有CN联赛球队。
+1000021,击败所有多场比赛21-3赛季Top10球队。
+1000022,击败所有多场比赛22-1赛季Top10球队。
+1000023,在22个春季击败所有KR联赛球队。
+1000024,在22个春季击败所有欧盟联赛球队。
+1000025,在22个春季击败所有NA联赛球队。
+1000026,击败所有多场比赛22-2赛季Top10球队。
+1000027,击败所有多场比赛22-3赛季Top10球队。
+1000028,击败所有多场比赛22-4赛季Top10球队。
+1000029,在22个夏季击败所有KR联赛球队。
+1000030,在22个夏季击败所有欧盟联赛球队。
+1000031,在22个夏季击败所有NA联赛球队。
+1000032,击败所有多场比赛23-1赛季Top10球队。
+1000033,击败所有多场比赛23-2赛季Top10球队。
+1000034,在23个春季击败所有KR联赛球队。
+1000035,在23个春季击败所有欧盟联赛球队。
+1000036,在23个春季击败所有NA联赛球队。
+1000037,击败所有多场比赛23-3赛季Top10球队。
+1000038,在23个夏季，打败了所有KR联赛球队。
+1000039,在23个夏季，打败了所有欧盟联赛球队。
+1000040,在23个夏季，打败了所有NA联赛球队。
+1000041,击败所有多场比赛23-4赛季Top10球队。
+1000042,击败所有多场比赛24-1赛季Top10球队。

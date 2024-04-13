@@ -1,193 +1,193 @@
 ﻿ID,Dec
-11000,Tim sampeyan menang liga kanthi pelatih sing apik! Ayo nyiyapake kanggo menang juara donya.
-11001,"Sanajan ora menang, nindakake tugas sing apik. Mandi salju wis rampung ing juara donya!"
-11002,"Iku dudu juara. Nanging, kita sukses kanggo maju menyang juara donya!"
-11003,Iku dudu juara. Nanging iki minangka peringkat apik kanggo nyoba menang musim sabanjure.
-11004,"Sing paling awon nyingkiri, nanging dudu peringkat sing apik. Kanggo peringkat sing luwih dhuwur} aku mikir pangopènan."
-11005,Kita mungkasi musim ing posisi sing paling ala. Kanggo para penggemar sing ndhukung kita} supaya luwih awal kanggo musim sabanjure.
-11006,Tim kasebut menang Kejuaraan Donya kanthi Coaching sing apik! Pemain lan penggemar ngrayakake prentah sing apik. Sugeng.
-11007,"Ora menang, nanging nindakake tugas sing apik. Ayo coba menang musim juara ing jagad iki!"
-11008,"Sayange, iku kelas sing apik. Ayo nambah kekuwatan sabanjure lan nyoba kanggo menang juara jagad sabanjure."
-11009,"Sampeyan wis sukses mlebu turnamen kasebut. Musim mbesuk, ayo tumuju turnamen sing luwih dhuwur."
-11010,"Sayange, turnamen kasebut gagal. Sayange, coba maju ing juara donya lan juara kanggo juara."
-20000,Pameran / Operasi Line
-20001,Balance
-20002,TeamFight
-20003,Custom
-21000,Iki minangka strategi kanggo muter bola salju adhedhasar pertempuran garis sing kuwat. {{-It cocog nalika sampeyan duwe perang sing kuwat. {You bisa dibalik menyang siji nembak nalika sampeyan duwe jotosan sing ringkih.
-21001,Operasi lineup} Hanta} main game kanthi cara sing seimbang. {{-Tis cocog nalika kemampuan pemain uga.
-21002,Iki minangka strategi sing tujuane kanggo dijupuk siji liwat nembak siji. {{-It cocog nalika tim duwe kemampuan nembak siji-sing kuwat. {
-21003,Iki strategi sampeyan.
-22000,Pusat game
-22001,Pusat ganking
-22002,Pesenan utama
-23000,Pilih kemampuan dadi pusat game. Statistik tim bakal saya tambah. Nanging} liyane saka kekuwatan tumiba.
-23001,Jungler mutusake baris kanggo ganking.
-23002,Setel posisi sing fokus ing operasi. Pesenan utama bakal nambah proporsi operasi tim.
-24000,Balance
-24001,Garis
-24002,TeamFight
-24003,Operasi
-24004,Balance
-24005,Ndhuwur
-24006,Mid
-24007,Ngisor
-24008,Ndhuwur
-24009,Alas
-24010,Mid
-24011,Iklan
-24012,Dhukungan
-25000,Serangan
-25001,Seimbang
-25002,Tanker
-25003,Serangan
-25004,Seimbang
-25005,Tanker
-25006,Serangan
-25007,Seimbang
-25008,Panyengkuyung
-25009,Serangan
-25010,Seimbang
-25011,Utilitas
-25012,Serangan
-25013,Seimbang
-25014,Tanker
-26000,Meksa banget mungsuh. Uga ngontrol operasi liwat pamisah. {{▲ Stats Operasi mundhak. {{-Points entuk utawa ilang ing Tambah. {{▼ HANTA STAT.
-26001,Tank Deal Dasar.
-26002,Pengaruhe dikurangi ing pertempuran line. Nanging} dheweke luwih kuat ing Hanta. {{▲ kemampuan hantu tambah. {{-Points entuk utawa ilang ing garis diturunake. {{▼ Operasi Stat diturunake.
-26003,Ganking dadi kuat. Nanging} Ana risiko gagal ganking. {{▲ Stats LINE Nambah. {{
-26004,Tank Deal Dasar.
-26005,Kemampuan Ganking diturunake. Nanging} nambah kemampuan ngengingi. {{▲ Kemampuan mundhak. {{▼ Kemampuan antrian mudhun.
-26006,Meksa banget mungsuh. Uga ngontrol operasi liwat pamisah. {{▲ Stats Operasi mundhak. {{-Points entuk utawa ilang ing Tambah. {{▼ HANTA STAT.
-26007,Dhasar juara napar.
-26008,Tujuane yaiku kanggo nambah kemampuan siji dilil. {{▲ siji stat munggah.
-26009,Dina-dina awal iku kuat. Nanging} kaya wis dadi luwih lemah. {{▲ LINE nganti 20 menit pisanan} Kaping pisanan nambah kemampuan hanta. {{▼ HANTA Kemampuan suda saka separo kapindho.
-26010,Juara dhasar siji.
-26011,Fokus kanggo mbantu tim tinimbang peran Carrie. {{▲ statistik operasional munggah. {{▼ LINES STAX mudhun.
-26012,"Perang line kuwasa. Nanging, mbebayani kanggo operate kanthi kesehatan sing kurang. {{▲ Stats line-up nambah. {{-Points entuk utawa ilang saka kenaikan operasi."
-26013,Juara dhukungan dhasar.
-26014,Lemah ing garis. Nanging} Kuwat ing Hanta. {{▲ HANTA STAT tambah. {{▼ baris stat diturunake.
-30000,"Yen sampeyan ora bisa mlebu menyang Google, sampeyan ora bisa muter bebarengan. Mangga login Google."
-30001,Ana mburi game sing ora normal sajrone pertandhingan pungkasan. Game kasebut dialami.
-30002,Sugeng! Sampeyan promosi menyang level sabanjure!
-30003,Sampeyan wis ditolak amarga kalah tetep.
-30004,Mlebu
-30005,Ana masalah. Alesan kanggo masalah:
-30006,"Sambungan internet wis ilang. Yen sampeyan duwe sambungan Internet}, sampeyan bakal nyambung maneh kanthi otomatis."
-30007,"Internet disopot sajrone pertandhingan multi. {Yen sampeyan klik OK}, sampeyan bakal metu stadion."
-30008,Ana masalah golek mungsuh sampeyan. {Pencet OK kanggo metu stadion.
-30009,Game ora nganti saiki. Sampeyan kudu nganyari versi paling anyar kanggo muter match. {{Pencet tombol ing ngisor iki kanggo mriksa versi maneh} utawa menyang kaca nganyari.
-30010,Priksa
-30011,Iku dudu versi paling anyar.
-30012,Menit
-30013,Sampeyan wis dilaporake minangka pamuter cheat lan ora bisa muter game bebarengan. {{Mangga email {hucce@gmail.com kanggo pitakon.
-30014,Sampeyan pangguna minangka pamuter ngapusi.
-30015,Priksa server multiplay. Enteni nganti wektu mriksa wis rampung
-30016,Ora bisa mbukak dhaptar. Mangga login Google ing Multiplay.
-31000,Matur nuwun kanggo muter game. Review sampeyan minangka pitulung gedhe kanggo pangembang. Sampeyan bakal nampa 300 intine minangka hadiah.
-32000,Matur nuwun kanggo nonton iklan kasebut. Klik OK kanggo nampa ganjaran sing dideleng.
-32001,Iklan ngliwati sampeyan kudu nonton iklan pungkasan kanggo nampa hadiah kasebut.
-32002,Gagal Fetch Ad Mangga priksa sambungan internet sampeyan.
-36000,Skor Liga
+11000,"Tim sampeyan menang liga kanthi coaching gedhe! Ayo nyiyapake kanggo menang juara donya. {{{{{{{{{{{{{{{{{{{{{{{{{{{{{}Sanajan ora menang, nindakake tugas sing apik. Siram salju wis rampung ing juara donya! {{{{{{{{{{{{{"
+11001,"Iku dudu juara. Nanging, kita sukses kanggo maju menyang juara donya! {{{{{{{{{{{{{})}Iku dudu juara. Nanging iku peringkat apik kanggo nyoba menang musim sabanjure. {{{{{{{{{{})}Sing paling awon nyingkiri, nanging dudu rangking sing apik. Kanggo peringkat sing luwih dhuwur} aku mikir pangopènan. {{{{{{{{{{})}Kita mungkasi musim kanthi posisi sing paling ala. Kanggo para penggemar sing ndhukung kita} Ayo luwih maju kanggo musim sabanjure. {{{{{{{{{{{{})}Tim kasebut menang Kejuaraan Donya kanthi Coaching sing apik! Pemain lan penggemar ngrayakake prentah sing apik. Sugeng. {{{"
+11002,"Ora menang, nanging nindakake tugas sing apik. Ayo coba menang ing juara donya musim sabanjure! {{{{{{{{{{{{{{{{})}Sayange, iku kelas sing apik. Ayo nambah kekuwatan sabanjure lan nyoba kanggo menang juara jagad sabanjure. {{{{{{{{{{{{{{}Sampeyan wis sukses mlebu turnamen kasebut. Musim sabanjure, ayo tumuju turnamen sing luwih dhuwur. {{{{{{{{{{{{{})}Sayange, turnamen kasebut gagal. Sayange, coba maju menyang musim juara donya lan tujuane juara. {{{{{{{{{{{{{{{})}Pameran / operasi garis "
+11003,Imbangan {{{{}Teamfight 
+11004,Custom {{{{{}Iki minangka strategi kanggo muter bola salju adhedhasar pertempuran garis sing kuwat. {{-It cocog nalika sampeyan duwe perang sing kuwat. {You bisa dibalik menyang siji nembak nalika sampeyan duwe jotosan sing ringkih. {{{{{{{{{{{{})}Operasi TeamFight} ing lineup} muter game kanthi cara sing seimbang. {{-TI apik nalika kemampuan pemain uga. {{{{{{{{{{})}Iki minangka strategi sing tujuane kanggo dijupuk siji liwat nembak siji. {{-It cocog nalika tim duwe kemampuan nembak siji-sing kuwat. {{
+11005,Iki strategi sampeyan. {{{{{{{{}Pusat game {{{{})}Tengah gank {{{
+11006,Tatanan utama {{{{{}Pilih kemampuan dadi pusat game. Statistik tim bakal tambah. Tinimbang leren lakune. {{{{{{{{{{{{{{{{{{})}Jungler mutusake baris kanggo ganking. {{{{{{{{{})}Setel posisi sing fokus ing operasi. Pesenan utama bakal nambah proporsi operasi tim. {{{{{{{{})}Imbangan {{{{}Line {{{{}Teamfight 
+11007,Operasi {{{{}Imbangan {{{{}Ndhuwur {{
+11008,Mid {
+11009,Ngisor {{{
+11010,Ndhuwur {{
+20000,Jungle {
+20001,Mid {
+20002,AD {
+20003,Nyokong
+21000,Serangan {
+21001,Imbangan 
+21002,Tanker {{{{}Serangan {
+21003,Imbangan 
+22000,Tanker {{{{}Serangan {
+22001,Imbangan 
+22002,Panyengkuyung {{
+23000,Serangan {
+23001,Imbangan 
+23002,Utilitas 
+24000,}}}}}}}}}}}}}}}}}Serangan {
+24001,Imbangan 
+24002,Tanker {{{{}Meksa kuwat ing lawan. Uga ngontrol operasi liwat pamisah. {{▲ Stats Operasi mundhak. {{-Points entuk utawa ilang ing Tambah. {{▼ TEMBANGAN STAT. {{{{{{{{{{{{{{{{{{{{{{{{{}Tank Deal Dasar. {{{{{{{})}Pengaruhe dikurangi ing pertempuran line. Nanging} Dheweke luwih kuwat ing TeamFight. {{▲ Kemampuan TeamFight tambah. {{-Points entuk utawa ilang ing baris diturunake. {{▼ Operasi Fitur diturunake. {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{})}Ganking dadi kuat. Nanging} Ana risiko gagal ganking. {{▲ Stats LINE Nambah. {
+24003,Tank Deal Dasar. {{{{{{{})}Kemampuan Ganking diturunake. Nanging} nambah kemampuan ngengingi. {{▲ Kemampuan nambah. {{▼ Kemampuan antrian mudhun. {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}Meksa kuwat ing lawan. Uga ngontrol operasi liwat pamisah. {{▲ Stats Operasi mundhak. {{-Points entuk utawa ilang ing Tambah. {{▼ TEMBANGAN STAT. {{{{{{{{{{{{{{{{{{{{{{{{{}Juara dhasar napar. {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}Tujuane yaiku nambah kemampuan siji dilil. {{▲ siji stat mundhak. {{{{{{{{{{{{})}Dina-dina wiwitan iku kuat. Nanging} kaya wis dadi luwih lemah. {{▲ LINE-UP nganti 20 menit pisanan} Kemampuan TeamFight mundhak. {{▼ Kemampuan TeamFight suda saka separo kapindho. {{{{{{{{{{{{
+24004,Basic one-deal champ.
+24005,"Fokus kanggo mbantu tim tinimbang peran Carrie. {{▲ statistik operasional munggah. {{▼ lines stats mudhun. {{{{{{{{{{{{{{{{{{{{{{{}Perang line kuwasa. Nanging, mbebayani kanggo operate kanthi kesehatan kurang. {{▲ Stats line-up nambah. {{-Points entuk utawa ilang saka kenaikan operasi. {{{{{{{{{{{})}Juara dhukungan dhasar. {{{{{{{{{{{{{{}Lemah ing garis. Nanging} kuat ing tim. {{▲ TAMFONG STAT tambah tambah. {{▼ baris stat diturunake. {{{{{{{{{{{{{{{{{{{{{{{{{{{{})}Yen sampeyan ora bisa mlebu menyang Google, sampeyan ora bisa muter bebarengan. Mangga login Google. {{{{{{{{}Ana mburi sing ora normal sajrone pertandhingan pungkasan. Game kasebut diijolke. {{{{{{{{{}Sugeng! Sampeyan promosi menyang level sabanjure! {{{{{{{{{}Sampeyan wis diobati amarga kekalahan pancet. {{{{{{{{{{{{{{{{})}Mlebu ing {{{{{}Ana masalah. Alesan kanggo masalah: {{{{"
+24006,"Sambungan internet wis ilang. Yen sampeyan duwe sambungan internet}, sampeyan bakal nyambungaken kanthi otomatis. {{{{{{})}Internet disopot sajrone pertandhingan multi. {Yen sampeyan klik OK}, sampeyan bakal metu stadion. {{{{{{{}Ana masalah golek mungsuh sampeyan. {Pencet OK kanggo metu stadion. {{{{{{{{{{{}Game ora nganti saiki. Sampeyan kudu nganyari versi paling anyar kanggo muter match. {{Pencet tombol ing ngisor iki kanggo mriksa VERS"
+24007,Mriksa {
+24008,Iku dudu versi paling anyar. {{{{{{{{{{}Menit {
+24009,}}Sampeyan wis dilaporake minangka pamuter ngapusi lan ora bisa muter game bebarengan.Sampeyan kadaptar minangka pamuter ngapusi. {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{})}Priksa server multiplay. Enteni nganti wektu mriksa wis rampung 
+24010,Ora bisa mbukak dhaptar. Mangga login google ing Multiplay. {{{{{{{{{{{})}Matur nuwun kanggo muter game. Ulasan sampeyan minangka pitulung gedhe kanggo pangembang. Sampeyan bakal nampa 300 intine minangka hadiah. {{{{{{{{{{{{{{})}Matur nuwun kanggo nonton iklan. Klik OK kanggo nampa hadiah ndeleng sampeyan. {{{{{{{{{}Iklan ngliwati sampeyan kudu nonton iklan pungkasan kanggo nampa hadiah kasebut. {{{{{{{{}Gagal Fetch Ad Mangga priksa sambungan internet sampeyan. {{{{{{{{{{})}Skor liga {{{{
+24011,M {
+24012,W {{
+25000,L 
+25001,Sejarah {
+25002,Ndhuwur {{
+25003,Asil match 
+25004,Nampa 
+25005,Lengkap {
+25006,{{{{{}Link {{{{{}Musim 
+25007,Nganyarke mung bisa nganti level 10. {{{{{{{{{{{
+25008,Sukses 
+25009,Gagal 
+25010,Kemungkinan sukses {{{})}Bedane {{{{}Apa sampeyan pengin ngliwati tutorial? Sampeyan ora bisa entuk hadiah saka tutorial. {{{{{{{{{{{{{{})}Basa bakal ganti nalika sampeyan miwiti maneh game. {{{{{{{{{{{})}Google Play Service Version Check {
+25011,Google Play Login Lengkap {{{{{{}Serat Server Rampung {{{}Cloud Simpen Konfirmasi Lengkap {{{}Data Impor lengkap {{{{}Masalah retry {{{{}Kesalahan! Mbukak menyang mode offline {{{{{}Puteran {{{{})}Line {{{{}Teamfight 
+25012,Operasi {{{{}Ndhuwur {{
+25013,Mid {
+25014,Ngisor {{{
+26000,{{{{{}Kalah {
+26001,}}}}}}}}}}Beingish {
+26002,}}}}Pitunjuk {
+26003,{{{{{}Kamenangan {
+26004,Kemenangan gedhe {{
+26005,}}}}}}Jungler Jungler ganking. {{{{{{{{{{{{{{{{{{{}Dina {{
+26006,Musim mungkasi ganjaran {{{{{})}Kanca sampeyan wis dijaluk. {{{{{{{}Wis dadi kanca {
+26007,Are you sure you want to delete this friend?
+26008,"Strategi nyalin """
+26009,}}}}Jinis {{{{}Bayar 
+26010,Pranyatan 
+26011,}}}}}}}}}}}}}}}}}}}}}}Bug / saran {{{})}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}Undhangan manajer. Dadi manajer tim lol. {{{{{{{{{}Rating Akhir 
+26012,Ganjaran pungkasan {
+26013,Musim miwiti 
+26014,}}}}Musim anyar wis diwiwiti. {{{{{{})}Hall of Fame Sugangan {{{{{}Ngaso {
+30000,Ora cukup inti 
+30001,nan 
+30002,Intine 
+30003,Pack {
+30004,Paket {{{}Kabeh {{
+30005,Perak {
+30006,Emas {
+30007,Platinum {{{{}Kabeh {{
+30008,Perak {
+30009,Emas {
+30010,Platinum {{{{}Diamond {{{{}Challenger {{
+30011,Master 
+30012,}{{{{}Paket {{{}Presentasi {
+30013,Kalebu winates {{{{{{}Mung winates {{{{}Swap {{}}}Tambah {{{{})}Mbusak {{
+30014,Total {
+30015,Statistik 
+30016,bronze 
+31000,Nganti rangking upgrade upgrade sabanjurePindhah {
+32000,Nampa 
+32001,Pemain sing padha wis ana ing dhaptar wiwitan. {{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}Ora ana data. {{{{{{{}Data ora normal. {{{{{{{{{
+32002,Alesan {
+36000,Sabanjure Miwiti Crush tanggal {{{{{{{{})}Kesalahan dumadi nalika nggawe turnamen. {TOUFT RETRY kanggo nggawe turnamen anyar. {{{{{{{{})}Server nampa data. {{{{{{}Data ora ditampa kanthi bener. {{{{{{{{{{{}Presentasi pamuter musim {{{}Entri Kejuaraan Donya {{{{{{{{}Pemain sing dipilih sing nggawe debut ing liga taun iki lan ngarepake masa depan. Mung bisa dipikolehi minangka pitamah musim. {{{{{{{{{{{{{{{{{{{{{{{{{{{{{}Apa sampeyan pengin mungkasi match otomatis? {Barang sing digunakake bakal ilang. {{{{{{{})}Apa sampeyan pengin ngreset akun sampeyan?Pelatih sing padha wis ana ing entri. {{{{{{{{{{{{{})}Apa sampeyan pengin mbusak pelatih kasebut? Sampeyan bisa entuk 30 inti. {{{{{
 36001,M
 36002,W
 36003,L
-36004,Sejarah
-36005,Ndhuwur
-36006,Asil match
-36007,Nampa
-36008,Lengkap
-36009,Ora lengkap
+36004,History
+36005,Top
+36006,Match Results
+36007,Receive
+36008,Complete
+36009,Incomplete
 36010,Link
-36011,Mangsa
-33000,Nganyarke mung bisa nganti level 10.
-33001,Sukses
-33002,Gagal
-33003,Kemungkinan sukses
-33004,Bedane
-33005,Apa sampeyan pengin ngliwati tutorial? Sampeyan ora bisa entuk hadiah saka tutorial.
-33006,Basa kasebut bakal ganti nalika sampeyan miwiti maneh game.
-34000,Google Play Service Version Priksa
-34001,Google Play Login Lengkap
-34002,Log mlebu server rampung
-34003,Cloud Simpen Konfirmasi Lengkap
-34004,Data Impor lengkap
-34005,Masalah Coba maneh
-34006,Kesalahan! Mbukak menyang mode offline
-33007,Babak
-33008,Garis
+36011,Season
+33000,Upgrading is only possible up to level 10.
+33001,Success
+33002,Failure
+33003,Probability of success
+33004,Difference
+33005,Do you want to skip the tutorial? You can't get the rewards from the tutorial.
+33006,The language will change when you restart the game.
+34000,Google Play Service Version Check
+34001,Google Play Login Complete
+34002,Server login completed
+34003,Cloud save confirmation complete
+34004,Data import complete
+34005,Problem retry
+34006,Error! Load to offline mode
+33007,Round
+33008,Line
 33009,TeamFight
-33010,Operasi
-33011,Ndhuwur
+33010,Operation
+33011,Top
 33012,Mid
-33013,Ngisor
-33014,Kekalahan gedhe
-33015,Kalah
-33016,Beingish
-33017,Kahanan
-33018,Kaunggulan
-33019,Kamenangan
-33020,Kamenangan gedhe
-33021,Tim Jungler ganking.
-33022,Dina
-33023,Musim mungkasi hadiah
-33024,Kanca sampeyan wis dijaluk.
-33025,Wis kanca
-33026,Apa sampeyan pengin mbusak kanca iki?
-33027,Strategi Disinikat
-33028,Jinis
+33013,Bottom
+33014,Great Defeat
+33015,Defeat
+33016,Bearish
+33017,Contention
+33018,Superiority
+33019,Victory
+33020,Great victory
+33021,team jungler ganking.
+33022,Day
+33023,Season End Reward
+33024,Your friend has already been requested.
+33025,Already friend
+33026,Are you sure you want to delete this friend?
+33027,Copied strategy
+33028,Kinds
 33029,Ban
-33030,Pranyatan
-33031,Bug / Saran
-33032,Undhangan manajer. Dadi manajer tim lol.
-33033,Rating Akhir
-33034,Ganjaran pungkasan
-33035,Mangsa diwiwiti
-33036,Musim anyar wis diwiwiti.
-33037,Hall of Fame Sugangan
-33038,Istirahat
-33039,Ora cukup inti
-37000,Ora ana
-37001,Intine
+33030,Declaration
+33031,Bug / Suggestions
+33032,Manager invitation. Become a LOL team manager.
+33033,Final Rating
+33034,The final reward
+33035,Season start
+33036,A new season has begun.
+33037,Hall of Fame contribution
+33038,Rest
+33039,Not enough essence
+37000,
+37001,Essence
 37002,Pack
-37003,Paket
-38000,Kabeh
-38001,Perak
-38002,Emas
+37003,Package
+38000,All
+38001,Silver
+38002,Gold
 38003,Platinum
-33040,Kabeh
-33041,Perak
-33042,Emas
+33040,All
+33041,Silver
+33042,Gold
 33043,Platinum
 33044,Diamond
 33045,Challenger
 33046,Master
 33047,Recruitment
-33048,Paket
-33049,Presentasi
-33050,Kalebu winates
-33051,Mung winates
+33048,Package
+33049,Presentation
+33050,Including limited
+33051,Only limited
 33052,Swap
-33053,Tambah
-33054,Mbusak
+33053,Add
+33054,Remove
 33055,Total
 33056,Stats
-33057,tembaga
-33058,Nganti upgrade upgrade
-33059,Pindhah
-33060,Nampa
-33061,Pemain sing padha wis ana ing dhaptar wiwitan.
-33062,Ora ana data.
-33063,Data ora normal.
-33064,Alesan
-33065,Tanggal wiwitan remuk
-33066,Ana kesalahan nalika nggawe turnamen. {TOUFT RETRY kanggo nggawe turnamen anyar.
-33067,Server nampa data.
-33068,Data ora ditampa kanthi bener.
-33069,Presentasi Pemain Musim
-33070,Entri Kejuaraan Donya
-33071,Pemain sing dipilih sing nggawe debut ing liga taun iki lan ngarepake masa depan. Mung bisa dipikolehi minangka pitunjuk kanggo musim.
-33072,Apa sampeyan pengin mungkasi match otomatis? {Barang sing digunakake bakal ilang.
-33073,Apa sampeyan pengin ngreset akun? {Data data bakal dibusak lan game bakal miwiti maneh.
-33074,Pelatih sing padha wis ana ing entri kasebut.
-33075,Apa sampeyan pengin mbusak pelatih kasebut? Sampeyan bisa entuk 30 intine.
+33057,bronze
+33058,Until next rank upgrade
+33059,Move
+33060,Receive
+33061,The same player is already on the starting list.
+33062,There is no data.
+33063,Data is abnormal.
+33064,Reason
+33065,Next Crush Start Date
+33066,An error occurred while creating a tournament.{{Touch Retry to create a new tournament.
+33067,The server is receiving data.
+33068,Data was not received properly.
+33069,Season player presentation
+33070,World Championship entry
+33071,Selected players who made their debut in the league this year and look forward to the future. It can only be obtained as a season reward.
+33072,Do you want to stop the auto match?{Used items will disappear.
+33073,Are you sure you want to reset your account?{Save data will be deleted and the game will restart.
+33074,The same coach is already in the entry.
+33075,Are you sure you want to delete the coach? You can get 30 Essence.

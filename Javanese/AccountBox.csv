@@ -1,33 +1,33 @@
 ﻿ID,Name,Dec
-1000,Ganjaran Login Saben,Login dina iki
-1001,3 Ganjaran Saben,Rewards match 3 dina iki
-1002,Dhukungan,Sampeyan bisa sponsor pangembang liwat twonasi.
-1003,Deleng maneh,Mangga deleng lan kita bakal menehi hadiah sampeyan.
-1004,TUTORIAL Lengkap,Lengkap Tutorial
-1005,Prestasi Ranker Perak,Entuk rangking perak bebarengan
-1006,Prestasi Rank Emas,Entuk rangking emas multiplay
-1007,Prestasi Rank Platinum,Entuk rangking Multiplay platinum
-1008,Prestasi rangking Diamond,Entuk rangking multiplay
-1009,Prestasi rangking master,Entuk rangking master multiplay
-1010,Preferensi Challenger,Entuk pangkat pertanian pertunjukan
-1011,Juara Liga,Ngrambah pisanan ing liga
-1012,Medal Perak,Nggayuh papan kaping pindho ing liga
-1013,Medal Bronze,Ngrambah papan katelu ing liga
-1014,3 Juara,Entuk 3 Judhul Liga
-1015,3 medali salaka,Nggayuh papan kaping pindho ing telung liga
-1016,3 medali tembaga,Nggayuh papan katelu ing telung liga
-1017,5 Juara,Entuk 5 Judhul Liga
-1018,5 medali perak,Entuk papan nomer loro ing limang liga
-1019,5 medali tembaga,Entuk Panggonan nomer telu ing limang liga
-1020,Musim pisanan,Deadline musim kapisan
-1021,Musim katelu,Deadline musim katelu
-1022,Musim lima,Pungkasan musim kaping lima
-1023,Musim kaping sepuluh,Pungkasan musim 10
-1024,6 Ganjaran Saben dina,Rewards match saiki 6
-1025,Prestasi Ranker Perak,Entuk rangking perak bebarengan
-1026,Prestasi Rank Emas,Entuk rangking emas multiplay
-1027,Prestasi Rank Platinum,Entuk rangking Multiplay platinum
-1028,Prestasi rangking Diamond,Entuk rangking multiplay
-1029,Prestasi rangking master,Entuk rangking master multiplay
-1030,Preferensi Challenger,Entuk pangkat pertanian pertunjukan
-1031,Watesan match saben dina,Jumlah pertandhingan saben dina ing ngendi sampeyan bisa entuk intine
+1000,Ganjaran Login Saben {{,Login dina iki entuk hadiah {{{{{{}Rewards pertandhingan 3 dina {{{{}Sampeyan bisa Sponsor pangembang liwat twonasi. {{{{{{{{{{{{{{{{{})}Mangga deleng lan kita bakal menehi hadiah sampeyan. {{{{{{{{{{{{{{{{{{})}Lengkap Tutorial {{{}Entuk rangking Multiplaying pérak {{}Entuk rangking emas multiplay {{{{})}Entuk rangking Multiplay platinum 
+1001,3 hadiah saben dina {{{})}Nyokong,Entuk rangking multihond 
+1002,Review {{{{}{Tutorial lengkap {{{}Prestasi rank perak ,Entuk rangking master multiplay 
+1003,}}}}}}}}}}}}}}}}}}}}}}}}}}}}Prestasi Rank Emas ,}}}}}}Entuk rangking pertunjukan multiplay {{}}}}}}}}Ngrambah sepisanan ing liga 
+1004,}}}Prestasi rangking Platinum ,Ngrambah papan kaping pindho ing liga 
+1005,}}}}}}}}Prestasi rangking Diamond {{{{{{}Prestasi rangking Master {{{})}Prestasi Challenger {{{}Juara liga {{{{{}{{{{{{}Medal Bronze {{,Ngrambah papan kaping telu ing liga 
+1006,}}}}3 Juara ,}}}}}Entuk 3 judhul liga 
+1007,3 medali perak ,Nggayuh papan kaping pindho ing telung liga {{{{
+1008,}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}3 medali tembaga ,Ngrambah papan katelu ing telung liga {{{{{{{{{{{{{{{{{{{{{{{
+1009,}}}}}}}}5 Juara ,}Entuk 5 Judhul Liga {{}}}}}}}}}}}}}}}Entuk papan nomer loro ing limang liga {{{{{{{
+1010,5 Medis Perak ,Entuk Panggonan nomer telu ing limang liga {{{{{{{{{{{
+1011,}}}}}}}}}}}}}5 medali medalifr ,Deadline musim semi pisanan {{{{{{{{}Terbatas musim katelu {{{{{{{{{{{}Terbatas tanggal kaping lima {{{{{{}Deadline musim 10 {{{{{{{{
+1012,}}}}}}}}}Musim pisanan ,Dina iki 6 hadiah hadiah {{{{})}Entuk rangking Multiplaying pérak {{}Entuk rangking emas multiplay {{{{})}Entuk rangking Multiplay platinum 
+1013,Musim katelu {{{})}Musim lima ,Entuk rangking multihond 
+1014,Musim kaping sepuluh ,Entuk rangking master multiplay 
+1015,6 saben hadiah {{{{})}Prestasi rank perak ,}}}}}}Entuk rangking pertunjukan multiplay {{}}}}}}}}Jumlah pertandhingan saben dina sampeyan bisa entuk intine 
+1016,}}}}}}}}}}}}}}}}}}}}}}}}}}}}Prestasi Rank Emas ,Achieved third place in three leagues
+1017,}}}Prestasi rangking Platinum ,Achieve 5 league titles
+1018,}}}}}}}}Prestasi rangking Diamond {{{{{{}Prestasi rangking Master {{{})}Prestasi Challenger {{{}Watesan match saben dina {,Achieve second place in five leagues
+1019,5 bronze medals,Achieve third place in five leagues
+1020,First season,First Season Deadline
+1021,Third season,Third Season Deadline
+1022,Fifth season,Fifth Season Deadline
+1023,Tenth season,10th Season Deadline
+1024,6 daily rewards,Today's 6 Match Rewards
+1025,Silver rank achievement,Achieve Multiplay Silver rank
+1026,Gold rank achievement,Achieve Multiplay Gold rank
+1027,Platinum Rank Achievement,Achieve Multiplay Platinum Rank
+1028,Diamond rank achievement,Achieve Multiplay Diamond Rank
+1029,Master Rank Achievement,Achieve Multiplay Master Rank
+1030,Challenger Achievement,Achieve Multiplay Challenger Rank
+1031,Daily match limit,Number of matches per day where you can get essence

@@ -1,33 +1,34 @@
 ﻿ID,Name,Dec
-1000,Tägliche Login-Belohnung,Login heute belohnen
-1001,3 tägliche Belohnungen.,Heutige 3 Match-Belohnungen
-1002,Unterstützung,Sie können den Entwickler durch Twonation sponsern.
-1003,Rezension,Bitte rezensionieren und wir werden Sie belohnen.
-1004,Tutorial komplett,Komplettes Tutorial
-1005,Silberrangerreichung.,Mehrspieler Silberrang erreichen
-1006,Goldrangerreichung.,Mehrspieler Goldrang erreichen
-1007,Platin-Rang-Errungenschaft.,Mehrspieler Platin-Rang erreichen
-1008,Diamant Rang Leistung.,Mehrspieler Diamantrang erreichen
-1009,Master Rang Leistung.,Mehrspieler Master Rang erreichen
-1010,Herausfordererer Leistung.,MultiPlay Challenger Rang erreichen
-1011,League Champion.,Erreichte den ersten Platz in der Liga
-1012,Silbermedaille,Erreichte den zweiten Platz in der Liga
-1013,Bronzemedaille,Erreichte den dritten Platz in der Liga
-1014,3 Champions.,Erzielen Sie 3 Liga-Titel
-1015,3 Silbermedaillen.,Erreichte den zweiten Platz in drei Ligen
-1016,3 Bronzemedaillen.,Erreichte den dritten Platz in drei Ligen
-1017,5 Champions.,Erzielen Sie 5 Liga-Titel
-1018,5 Silbermedaillen.,Einen zweiten Platz in fünf Ligen erreichen
-1019,5 Bronzemedaillen.,Den dritten Platz in fünf Ligen erreichen
-1020,Erste Saison,Erste Saisonfrist.
-1021,Dritte Saison,Frist der dritten Saison
-1022,Fünfte Saison,Fünfte Saisonfrist.
-1023,Zehnte Jahreszeit.,10. Saisonfrist.
-1024,6 tägliche Belohnungen.,Heutige 6 Match-Belohnungen
-1025,Silberrangerreichung.,Mehrspieler Silberrang erreichen
-1026,Goldrangerreichung.,Mehrspieler Goldrang erreichen
-1027,Platin-Rang-Errungenschaft.,Mehrspieler Platin-Rang erreichen
-1028,Diamant Rang Leistung.,Mehrspieler Diamantrang erreichen
-1029,Master Rang Leistung.,Mehrspieler Master Rang erreichen
-1030,Herausfordererer Leistung.,MultiPlay Challenger Rang erreichen
-1031,Tägliche Übereinstimmungsgrenze,"Anzahl der Übereinstimmungen pro Tag, an der Sie Essenz bekommen können"
+1000.0,Tägliche Login -Belohnung ,Melden Sie sich heute an 
+1001.0,3 tägliche Belohnungen , an.Heute 3 -Match -Belohnungen 
+1002.0,Unterstützung,Sie können den Entwickler durch Twonation sponsern. 
+1003.0,Rezension,Bitte überprüfen Sie und wir werden Sie belohnen. 
+1004.0,Tutorial vollständig ,Vollständiges Tutorial 
+1005.0,Silver Rang Achievement ,Multiplay Silver Rank 
+1006.0,Gold Rang Achievement , erreichenMultiplay Gold Rang 
+1007.0,Platinrang -Leistung , erreichenMultiplay -Platinrang 
+1008.0,Diamond Rang Achievement , erreichenMultiplay Diamond Rank 
+1009.0,Master Rang Achievement , erreichenMultiplay Master Rank 
+1010.0,Challenger Achievement , erreichenMultiplay Challenger Rank 
+1011.0,League Champion , erreichenErsten Platz in der Liga 
+1012.0,Silbermedaille, erreichtDen zweiten Platz in der Liga erreicht 
+1013.0,Bronzemedaille,Erreichte dritte Platz in der Liga 
+1014.0,3 Champions ,3 -Liga -Titel 
+1015.0,3 Silbermedaillen , erreichenIn drei Ligen erreichte 
+1016.0,3 Bronzemedaillen , den zweiten PlatzIn drei Ligen erreichte 
+1017.0,5 Champions , den dritten PlatzErreichen Sie 5 Liga -Titel 
+1018.0,5 Silbermedaillen ,Erreichen Sie den zweiten Platz in fünf Meilen 
+1019.0,5 Bronzemedaillen ,Erreichen Sie den dritten Platz in fünf Meilen 
+1020.0,Erste Saison,Frist für erste Staffel 
+1021.0,Dritte Staffel ,Frist der dritten Staffel 
+1022.0,Fünfte Staffel ,Frist für fünfte Staffel 
+1023.0,Zehnte Staffel ,10. Saison -Frist 
+1024.0,6 tägliche Belohnungen ,Heutzutage 6 Match Rewards 
+1025.0,Silver Rang Achievement ,Multiplay Silver Rank 
+1026.0,Gold Rang Achievement , erreichenMultiplay Gold Rang 
+1027.0,Platinrang -Leistung , erreichenMultiplay -Platinrang 
+1028.0,Diamond Rang Achievement , erreichenMultiplay Diamond Rank 
+1029.0,Master Rang Achievement , erreichenMultiplay Master Rank 
+1030.0,Challenger Achievement , erreichenMultiplay Challenger Rank 
+1031.0,Tägliche Übereinstimmung Grenze ," erreichenAnzahl der Übereinstimmungen pro Tag, bei der Sie Essence "
+,, erhalten können

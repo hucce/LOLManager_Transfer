@@ -15,7 +15,7 @@
 20002,TeamFight
 20003,Custom
 21000,It is a strategy to roll snowballs based on strong line battles. {{-It is suitable when you have a strong line battle. {-You can be reverted to one shot when you have a weak blow.
-21001,Lineup} Hanta} Operation Play the game in a balanced way. {{-This is suitable when the players' ability is even.
+21001,Lineup} Teamfight} Operation Play the game in a balanced way. {{-This is suitable when the players' ability is even.
 21002,It's a strategy that aims for one shot through a single shot. {{-It is suitable when a team has a strong one-shot ability. {
 21003,This is your strategy.
 22000,The center of the game
@@ -52,21 +52,21 @@
 25012,Attack
 25013,Balanced
 25014,Tanker
-26000,Strongly press the opponent in line. It also takes control of the operation through the split. {{▲ Operation stats increase. {{-Points gained or lost on the line increase. {{▼ Hanta stat lowers.
+26000,Strongly press the opponent in line. It also takes control of the operation through the split. {{▲ Operation stats increase. {{-Points gained or lost on the line increase. {{▼ Teamfight stat lowers.
 26001,Basic deal tank.
-26002,Influence is reduced in line battles. However} he is stronger at Hanta. {{▲ Hanta ability is increased. {{-Points gained or lost at the line are lowered. {{▼ Operation stat is lowered.
+26002,Influence is reduced in line battles. However} he is stronger at Teamfight. {{▲ Teamfight ability is increased. {{-Points gained or lost at the line are lowered. {{▼ Operation stat is lowered.
 26003,The ganking becomes powerful. However} there is a high risk of ganking failure. {{▲ Line stats increase. {{
 26004,Basic deal tank.
 26005,ganking ability is lowered. However} the hitting ability increases. {{▲ The hitting ability increases. {{▼ The lineup ability goes down.
-26006,Strongly press the opponent in line. It also takes control of the operation through the split. {{▲ Operation stats increase. {{-Points gained or lost on the line increase. {{▼ Hanta stat lowers.
+26006,Strongly press the opponent in line. It also takes control of the operation through the split. {{▲ Operation stats increase. {{-Points gained or lost on the line increase. {{▼ Teamfight stat lowers.
 26007,Basic nuker champ.
 26008,The goal is to improve the ability of the One Dil. {{▲ One Dil's stat increases.
-26009,The early days are powerful. However} as time goes by} it gets weaker. {{▲ Line-up until the first 20 minutes} Hanta ability increases. {{▼ Hanta ability decreases from the second half.
+26009,The early days are powerful. However} as time goes by} it gets weaker. {{▲ Line-up until the first 20 minutes} Teamfight ability increases. {{▼ Teamfight ability decreases from the second half.
 26010,Basic one-deal champ.
 26011,Focusing on helping the team rather than Carrie's role. {{▲ Operational stats go up. {{▼ Lines stats go down.
 26012,Line fight is powerful. However} it is dangerous to operate with low health. {{▲ Line-up stats increase. {{-Points gained or lost from operation increase.
 26013,Basic supporter champ.
-26014,Weak in line. However} it is strong in Hanta. {{▲ Hanta stat is increased. {{▼ Lines stat is lowered.
+26014,Weak in line. However} it is strong in Teamfight. {{▲ Teamfight stat is increased. {{▼ Lines stat is lowered.
 30000,If you can not log in to Google you can not play multiplayer. Please login Google.
 30001,There was an abnormal end of the game during the last multi match. The game was forfeited.
 30002,Congratulations! You are promoted to the next level!
