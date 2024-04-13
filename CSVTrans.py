@@ -30,13 +30,13 @@ def DFinText(baseDF, textCol, txtList):
     check = 0
     for i in baseDF.index:
         #세로, 가로
-        txt += str(baseDF[textCol][i]) + '\n'
+        txt += str(baseDF[textCol][i]) + '|||\n\n'
         if len(txt) >= 4900 or len(baseDF) == check+1:
             txtList.append(txt)
             txt = ''
         check += 1
 
-def LoadGoogle(baseDF, language, txt, col):
+def LoadGoogle(baseDF, startIndex, language, txt, col):
     options = ChromeOptions()
     options.add_argument('--headless')
 
@@ -55,28 +55,26 @@ def LoadGoogle(baseDF, language, txt, col):
     time.sleep(3)
     input_box = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[1]/span/span/div/textarea')
     input_box.send_keys(txt)
-    time.sleep(5)
     result = ''
 
     while(True):
         try:
-            #result = driver.find_element(By.CSS_SELECTOR, "#yDmH0d > c-wiz > div > div.WFnNle > c-wiz > div.OlSOob > c-wiz > div.ccvoYb > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span").text
             result = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[2]/div/div[6]/div/div[1]/span[1]')
             result = result.text
             break
             
         except:
-            print("결과를 제대로 크롤링 못했음")
+            time.sleep(0.1)
 
-    resultSplit = result.split('\n')
+    result = result.replace('\n\n', '')
+    resultSplit = result.split('|||')
 
-    for dfIndex in baseDF.index:
-        for txt in resultSplit:
-            baseDF.at[dfIndex, col] = txt
-            resultSplit.remove(txt)
-            break
+    for index in range(startIndex, ((len(resultSplit)-1) + startIndex)):
+        baseDF.at[index, col] = resultSplit[index - startIndex]
 
     driver.close()
+
+    return (len(resultSplit)-1) + startIndex
 
 def createFolder(directory):
     try:
@@ -110,8 +108,9 @@ def Convert(loadList, language, languageFull):
                             # 바뀐 내용중에서 최신 내용만 가져온다.
                             txtList = []
                             DFinText(result, col, txtList)
+                            startIndex = 0
                             for txt in txtList:
-                                LoadGoogle(result, language, txt, col)
+                                startIndex = LoadGoogle(result, startIndex, language, txt, col)
 
                 # 이제 바뀐 애들 것에서 기존꺼를 확인해서 내용을 바꾼다.
                 languageRead = pd.read_csv('./'+ languageFull +'/' + loadFile + '.csv', encoding = 'utf-8')
@@ -126,20 +125,25 @@ def Convert(loadList, language, languageFull):
                 createFolder('./' + languageFull)
                 languageRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
         else:
-            colList = ['Name', 'Dec']
-            for col in colList:
-                for dfCol in current_read.columns:
-                    # column 확인
-                    if col in dfCol:
-                        # 있다면
-                        # 바뀐 내용중에서 최신 내용만 가져온다.
-                        txtList = []
-                        DFinText(current_read, col, txtList)
-                        for txt in txtList:
-                            LoadGoogle(current_read, language, txt, col)
-            
-            createFolder('./' + languageFull)
-            current_read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+            if os.path.isfile('./'+ languageFull +'/' + loadFile + '.csv'):
+                print('파일 있음')
+            else:
+                colList = ['Name', 'Dec']
+                for col in colList:
+                    for dfCol in current_read.columns:
+                        # column 확인
+                        if col in dfCol:
+                            # 있다면
+                            # 바뀐 내용중에서 최신 내용만 가져온다.
+                            txtList = []
+                            DFinText(current_read, col, txtList)
+                            startIndex = 0
+                            for txt in txtList:
+                                index = LoadGoogle(current_read, startIndex, language, txt, col)
+                                startIndex = index
+                
+                createFolder('./' + languageFull)
+                current_read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
 
         print(languageFull + ' ' + loadFile)
 
