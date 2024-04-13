@@ -30,7 +30,7 @@ def DFinText(baseDF, textCol, txtList):
     check = 0
     for i in baseDF.index:
         #세로, 가로
-        txt += baseDF[textCol][i] + '\n'
+        txt += str(baseDF[textCol][i]) + '\n'
         if len(txt) >= 4900 or len(baseDF) == check+1:
             txtList.append(txt)
             txt = ''
@@ -87,53 +87,59 @@ def createFolder(directory):
  
 def Convert(loadList, language, languageFull):
     for loadFile in loadList:
-        checkNot = False
+        #데이터 불러오기
+        originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
+        current_read = originRead
 
-        # 그냥 하는게 아닌경우 중복 체크를 하고
-        if checkNot == False:
-            #데이터 불러오기
-            originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
-            current_read = originRead
+        # 파일이 있어야 비교
+        if os.path.isfile('./BeforeEnglish/' + loadFile + '.csv'):
+            before_read = pd.read_csv('./BeforeEnglish/' + loadFile + '.csv', encoding = 'utf-8')
+            
+            # 중복 체크
+            result = pd.concat([current_read, before_read]).drop_duplicates(keep=False)
+            result = result[~result.index.duplicated(keep='first')]
 
-            # 파일이 있어야 비교
-            if os.path.isfile('./BeforeEnglish/' + loadFile + '.csv'):
-                before_read = pd.read_csv('./BeforeEnglish/' + loadFile + '.csv', encoding = 'utf-8')
-                
-                # 중복 체크
-                result = pd.concat([current_read, before_read]).drop_duplicates(keep=False)
-                result = result[~result.index.duplicated(keep='first')]
+            # 중복을 뺐는데도 남아 있는 내용이 있다면
+            if result.empty == False:
+                colList = ['Name', 'Dec']
+                for col in colList:
+                    for dfCol in result.columns:
+                        # column 확인
+                        if col in dfCol:
+                            # 있다면
+                            # 바뀐 내용중에서 최신 내용만 가져온다.
+                            txtList = []
+                            DFinText(result, col, txtList)
+                            for txt in txtList:
+                                LoadGoogle(result, language, txt, col)
 
-                # 중복을 뺐는데도 남아 있는 내용이 있다면
-                if result.empty == False:
-                    colList = ['Name', 'Dec']
-                    for col in colList:
-                        for dfCol in result.columns:
-                            # column 확인
+                # 이제 바뀐 애들 것에서 기존꺼를 확인해서 내용을 바꾼다.
+                languageRead = pd.read_csv('./'+ languageFull +'/' + loadFile + '.csv', encoding = 'utf-8')
+                setColList = ['ID', 'Name', 'Dec']
+                for _index in result.index:
+                    for col in setColList:
+                        for dfCol in languageRead.columns:
                             if col in dfCol:
-                                # 있다면
-                                # 바뀐 내용중에서 최신 내용만 가져온다.
-                                txtList = []
-                                DFinText(result, col, txtList)
-                                for txt in txtList:
-                                    LoadGoogle(result, language, txt, col)
-
-                    # 이제 바뀐 애들 것에서 기존꺼를 확인해서 내용을 바꾼다.
-                    languageRead = pd.read_csv('./'+ languageFull +'/' + loadFile + '.csv', encoding = 'utf-8')
-                    setColList = ['ID', 'Name', 'Dec']
-                    for _index in result.index:
-                        for col in setColList:
-                            for dfCol in languageRead.columns:
-                                if col in dfCol:
-                                    languageRead.at[_index, dfCol] = result.at[_index, col]
-                                    break
-                    # 저장한다
-                    createFolder('./' + languageFull)
-                    languageRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+                                languageRead.at[_index, dfCol] = result.at[_index, col]
+                                break
+                # 저장한다
+                createFolder('./' + languageFull)
+                languageRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
         else:
-            # 그냥 저장함
-            originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
+            colList = ['Name', 'Dec']
+            for col in colList:
+                for dfCol in current_read.columns:
+                    # column 확인
+                    if col in dfCol:
+                        # 있다면
+                        # 바뀐 내용중에서 최신 내용만 가져온다.
+                        txtList = []
+                        DFinText(current_read, col, txtList)
+                        for txt in txtList:
+                            LoadGoogle(current_read, language, txt, col)
+            
             createFolder('./' + languageFull)
-            originRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+            current_read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
 
         print(languageFull + ' ' + loadFile)
 
