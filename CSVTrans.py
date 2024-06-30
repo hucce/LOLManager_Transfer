@@ -30,22 +30,19 @@ def DFinText(baseDF, textCol, txtList):
     check = 0
     for i in baseDF.index:
         #세로, 가로
-        txt += str(baseDF[textCol][i]) + '{{{}}}\n\n'
+        txt += str(baseDF[textCol][i]) + '|V|\n\n'
         if len(txt) >= 4900 or len(baseDF) == check+1:
             txtList.append(txt)
             txt = ''
         check += 1
 
 def LoadGoogle(baseDF, startIndex, language, txt, col):
-    options = ChromeOptions()
-    options.add_argument('--headless')
+    chrome_options = ChromeOptions()
+    chrome_options.add_argument("--headless")  # 헤드리스 모드
 
     service = ChromeService(ChromeDriverManager().install())
 
-    with Chrome(options=options, service=service) as driver:
-        print(service.path) # this is where the driver is located
-
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(service=service, options=chrome_options)
 
     #기본 구글 번역 url 설정
     loadUrl = 'https://translate.google.com/?hl=ko&sl=auto&tl=[lan]&op=translate'
@@ -59,15 +56,14 @@ def LoadGoogle(baseDF, startIndex, language, txt, col):
 
     while(True):
         try:
-            result = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[2]/div/div[6]/div/div[1]/span[1]')
-            result = result.text
+            result = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[2]/div/div[6]/div/div[1]')
             break
             
         except:
-            time.sleep(0.1)
+            driver.implicitly_wait(0.1)
 
-    result = result.replace('\n', '')
-    resultSplit = result.split('{{{}}}')
+    result = result.text.replace('\n', '')
+    resultSplit = result.split('| V |')
 
     max = len(resultSplit)
     if resultSplit[max-1] == '':
@@ -99,7 +95,7 @@ def Convert(loadList, language, languageFull):
             
             # 중복 체크
             result = pd.concat([current_read, before_read]).drop_duplicates(keep=False)
-            result = result[~result.index.duplicated(keep='first')]
+            result = result[result.index.duplicated(keep='last')]
 
             # 중복을 뺐는데도 남아 있는 내용이 있다면
             if result.empty == False:
@@ -129,25 +125,22 @@ def Convert(loadList, language, languageFull):
                 createFolder('./' + languageFull)
                 languageRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
         else:
-            if os.path.isfile('./'+ languageFull +'/' + loadFile + '.csv'):
-                print('파일 있음')
-            else:
-                colList = ['Name', 'Dec']
-                for col in colList:
-                    for dfCol in current_read.columns:
-                        # column 확인
-                        if col in dfCol:
-                            # 있다면
-                            # 바뀐 내용중에서 최신 내용만 가져온다.
-                            txtList = []
-                            DFinText(current_read, col, txtList)
-                            startIndex = 0
-                            for txt in txtList:
-                                index = LoadGoogle(current_read, startIndex, language, txt, col)
-                                startIndex = index
-                
-                createFolder('./' + languageFull)
-                current_read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+            colList = ['Name', 'Dec']
+            for col in colList:
+                for dfCol in current_read.columns:
+                    # column 확인
+                    if col in dfCol:
+                        # 있다면
+                        # 바뀐 내용중에서 최신 내용만 가져온다.
+                        txtList = []
+                        DFinText(current_read, col, txtList)
+                        startIndex = 0
+                        for txt in txtList:
+                            index = LoadGoogle(current_read, startIndex, language, txt, col)
+                            startIndex = index
+            
+            createFolder('./' + languageFull)
+            current_read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
 
         print(languageFull + ' ' + loadFile)
 
