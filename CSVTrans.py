@@ -95,7 +95,8 @@ def Convert(loadList, language, languageFull):
             
             # 중복 체크
             result = pd.concat([current_read, before_read]).drop_duplicates(keep=False)
-            result = result[result.index.duplicated(keep='last')]
+            if len(result) % 2 == 0:
+                result = result[result.index.duplicated(keep='last')]
 
             # 중복을 뺐는데도 남아 있는 내용이 있다면
             if result.empty == False:

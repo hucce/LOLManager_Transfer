@@ -1,219 +1,220 @@
 ﻿ID,Korean,Dec
-1000,효과음,Hiệu ứng âm thanh
-1001,배경음,Nhạc nền
-1002,언어,Ngôn ngữ
-1003,만든이: 허민구{연락: huccce@gmail.com,Được tạo bởi: HEO Min-Gu {Liên hệ: huccce@gmail.com 
-1004,불러오는 중 /{구글 로그인,Tải / {Google ký trong 
-1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<Tote> {{có nhiều dữ liệu. Vui lòng chọn dữ liệu để tải. {Dữ liệu không được chọn sẽ bị xóa. 
-1006,팀이름,Tên nhóm
-1007,라운드,Tròn
-1008,정수,Nước hoa
-1009,저장날짜,Ngày lưu
-1010,결정,Phán quyết
-1011,경기,Cuộc thi đấu
-1012,리그,Liên đoàn
-1013,전략,Chiến lược
-1014,선수{관리,Người chơi {quản lý 
-1015,영입{시장,Tuyển dụng {Market 
-1016,멀티{대전,Multi {Match 
-1017,계정,Tài khoản
-1018,순위,Thứ hạng
-1019,승,W 
-1020,패,L 
-1021,라인전,Đường kẻ
-1022,한타,TeamFight 
-1023,운영,Hoạt động
-1024,포지션,Chức vụ
-1025,이름,Tên
-1026,종합,Tổng cộng
-1027,일정,Lịch
-1028,상대팀,Đội đối nghịch
-1029,총합,Tổng cộng
-1030,결과,Kết quả
-1031,승리,Chiến thắng
-1032,패배,Đánh bại
-1033,간편,Đơn giản
-1034,지침,Hướng dẫn
-1035,픽밴,Chọn Ban 
-1036,설정,Bộ
-1037,설명,Giải trình
-1038,라인,Đường kẻ
-1039,타입,Kiểu
-1040,등급,Xếp hạng
-1041,강화,Củng cố 
-1042,재조합,Tái tổ hợp 
-1043,팀케미,Đội Chemie 
-1044,선발 선수,Trình phát bắt đầu 
-1045,후보 선수,Trình phát phụ 
-1046,레벨 포인트,Điểm cấp 
-1047,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),Team Chemie (▲ 2) {Year Chemie (▲ 1) {type chemie (▲ 1) {League Chemie (▲ 1) 
-1048,케미스트리,Hoá học
-1049,재조합 선수,Người chơi tái tổ hợp 
-1050,제거,Di dời
-1051,강화 선수,Người chơi củng cố 
-1052,재료 선수,Người chơi nội dung 
-1053,성공확률:,Cơ hội thành công: 
-1054,영입시장,Thị trường tuyển dụng 
-1055,스폰서 광고를 보고 원하는 보상을 받으세요.,Xem quảng cáo được tài trợ để nhận phần thưởng. 
-1056,5번 보시면 200정수를 추가로 드립니다.,"Nếu bạn nhìn 5 lần}, bạn sẽ nhận được thêm 200essence. "
-1057,골드 영입,Tuyển dụng vàng 
-1058,실버 선수,Người chơi bạc 
-1059,시청,Đồng hồ
-1060,플레,Bạch kim 
-1061,골드,Vàng
-1062,선수명단,Danh sách người chơi
-1063,가격,Giá
-1064,추천,Gợi ý
-1065,구입,Mua
-1066,탑 랭킹,Thứ hạng hàng đầu 
-1067,내 순위,Thứ hạng của tôi 
-1068,새로고침시간,Làm mới thời gian 
-1069,대전정보,Khớp thông tin 
-1070,대전찾기,Khớp tìm kiếm 
-1071,선수,Người chơi
-1072,감독,Giám đốc
-1073,로그인,Đăng nhập
-1074,확인,Xác nhận
-1075,일일,Ngày
-1076,업적,Thành tựu
-1077,기타,Vân vân
-1078,보상,Phần thưởng
-1079,공지사항,Để ý
-1080,계속,Tiếp tục
-1081,이곳을 눌러 입력,Nhấn vào đây để nhập 
-1082,최종순위,Thứ hạng cuối cùng 
-1083,시즌 보상:,Phần thưởng mùa: 
-1084,스킵,Nhảy
-1085,예,Đúng
-1086,아니오,KHÔNG
-1087,터치 하면 게임 시작,Chạm để bắt đầu trò chơi 
-1088,평점,Cấp
-1089,경기진행,Khớp tiến trình 
-1090,버전확인,Kiểm tra phiên bản 
-1091,업데이트하러 가기,Chuyển đến cập nhật 
-1092,다시확인,kiểm tra lại
-1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,Không tải được thông tin nhóm. {Thử lại 
-1094,이곳을 눌러 찾을 팀이름 입력,Nhấn vào đây để nhập tên nhóm để tìm 
-1095,밴플레이어,Ban Player 
-1096,전달,Relay 
-1097,전송,Gửi
-1098,문의하기,Liên hệ chúng tôi
-1099,버그/건의,Lỗi / Đề xuất 
-1100,게임 종료,Thoát trò chơi
-1101,초대링크,Liên kết lời mời 
-1102,모의경기,Mô hình mô phỏng 
-1103,전략복사,Sao chép chiến lược 
-1104,신고,Báo cáo
-1105,<이벤트>,<Event> 
-1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,Sự kiện Express của nhà tài trợ! {{Kiểm tra quảng cáo được tài trợ ngay bây giờ để nhận thêm phần thưởng + 50%. 
-1107,영입시장으로 가기,}Truy cập thị trường tuyển dụng 
-1108,<리뷰 이벤트>,<Đánh giá sự kiện> 
-1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,Cảm ơn bạn đã chơi trò chơi. {{Đây là một trợ giúp tuyệt vời cho các nhà phát triển. Bạn sẽ nhận được 300 Essence dưới dạng phần thưởng. 
-1110,리뷰하러 가기,Chuyển đến Đánh giá 
-1111,답변을 받으실 메일을 적어주세요.,Vui lòng viết email để trả lời. 
-1112,(언어 변경 시 재시작 필요),(Yêu cầu khởi động lại khi thay đổi ngôn ngữ) 
-1113,이벤트,Sự kiện
-1114,포인트,Điểm
-1115,친구요청,Yêu cầu kết bạn
-1116,친구추가,Thêm bạn
-1117,친구 목록,Danh sách bạn bè
-1118,찾기,Tìm thấy
-1119,아니요,KHÔNG
-1120,멀티대전정보,Thông tin đa lần 
-1121,친구 추가,Thêm bạn
-1122,라인전{운영,Dòng {hoạt động 
-1123,밸런스,Cân bằng 
-1124,커스텀,Phong tục
-1125,탑,Đứng đầu
-1126,정글,Đứng đầu
-1127,미드,Rừng
-1128,원딜,Mid 
-1129,서폿,AD 
-1130,중심,Trung tâm
-1131,갱킹,Ganking 
-1132,메인오더,Thứ tự chính 
-1133,한정,Giới hạn
-1134,레벨,Lv 
-1135,팀,Đội
-1136,당신의 팀이름을 정해주세요{(최대 5글자),Vui lòng chỉ định tên nhóm của bạn {(tối đa 5 ký tự) 
-1137,보낸이,Từ
-1138,내용,Nội dung 
-1139,첨부,Tập tin đính kèm
-1140,쪽지 목록,Danh sách tin nhắn
-1141,받는이:,ĐẾN:
-1142,첨부종류:,Loại tệp đính kèm: 
-1143,상세:,Chi tiết:
-1144,전송 비용:,Chi phí truyền tải: 
-1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Giá mặt hàng + Phí cơ bản 100 + 5% giá mặt hàng đính kèm) 
-1146,쪽지보내기,Gửi tin nhắn
-1147,첼린저,Challenger 
-1148,마스터,Bậc thầy
-1149,다이아,Kim cương
-1150,플레티넘,Bạch kim 
-1151,골드,Vàng
-1152,실버,Bạc
-1153,브론즈,Đồng 
-1154,<시즌 보상정보>,<Thông tin phần thưởng mùa> 
-1155,시즌 보상정보,Thông tin phần thưởng mùa 
-1156,등급상승 보상,Phần thưởng nâng cấp lớp 
-1157,명예의 전당 헌액,Đóng góp Hall of Fame 
-1158,시즌보상카드 증정,Thẻ phần thưởng mùa 
-1159,다이아 패키지,Gói kim cương 
-1160,플레티넘 패키지,Gói bạch kim 
-1161,골드 패키지,Gói vàng 
-1162,실버 패키지,Gói bạc 
-1163,모든선수 패키지,Tất cả gói người chơi 
-1164,다이아 영입,Tuyển dụng kim cương 
-1165,첼린저 영입,Tuyển dụng Challenger 
-1166,모든한정포함 첼린저 영입,Tuyển dụng giới hạn bao gồm tất cả 
-1167,보낸날짜,Ngày được gửi
-1168,보상정보,Phần thưởng thông tin 
-1169,모든팀에게 승리 시,Chiến thắng cho tất cả các nhóm 
-1170,상세보기,Xem chi tiết 
-1171,연습{경기,Trận đấu tập
-1172,대전,Cuộc thi đấu
-1173,멀티 시즌성적,Kết quả nhiều mùa 
-1174,새로운 시즌 시작,Mùa mới bắt đầu 
-1175,평균 선수 종합:,Tổng số người chơi AVG: 
-1176,이곳을 눌러{선수 이름 입력,Nhấn vào đây để {tên người chơi Enter 
-1177,시즌,Mùa
-1178,영입정보,Thông tin tuyển dụng 
-1179,검색,Seach 
-1180,난이도,Khó khăn
-1181,대표팀,Nhóm nổi tiếng 
-1191,새로운 리그 시작,Khởi động Liên đoàn mới 
-1192,<선수 등급 정보>,<Thông tin tỷ lệ người chơi> 
-1193,토너먼트,Giải đấu 
-1194,우승,Quán quân
-1195,승자조,Khung của người chiến thắng 
-1196,패자조,Người thua cuộc Braket 
-1197,시즌보상정보,Thông tin phần thưởng mùa 
-1198,격전보상정보,Thông tin phần thưởng Crush 
-1199,재시도,Thử lại
-1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"Nếu bạn không tiến hành giải đấu cuối cùng, bạn sẽ không được thưởng. "
-1201,랭크,Thứ hạng
-1202,격전,Người mình thích
-1203,팀정보,Thông tin nhóm 
-1204,다음경기,Trận đấu tiếp theo 
-1205,팀 능력,Số liệu thống kê nhóm 
-1206,선수 능력,Số liệu thống kê người chơi 
-1207,<시즌보상선수>,<Phần thưởng phần thưởng> 
-1208,추가경험치,Thêm exp 
-1209,경기 자동,Auto match 
-1210,아이템,Mục
-1211,사용중인 아이템,Các mục đang sử dụng 
-1212,경기 아이템,Khớp các mục 
-1213,사용,Sử dụng
-1214,개수,Đếm
-1215,자동,Tự động
-1216,추가경험치,AddExp 
-1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,Phần thưởng chỉ có thể được nhận theo mùa 10 trở lên. 
-1218,언어설정,Đặt ngôn ngữ 
-1219,리셋,Cài lại
-1220,재시작,Khởi động lại 
-1221,코치,Huấn luyện viên
-1222,추가,Thêm vào
-1223,후보,Sub 
-1224,새게임,Trò chơi mới
-1225,버그 제보,Báo cáo lỗi
-1226,코치명단,Danh sách huấn luyện 
+,효과음,Chuẩn bị quảng cáo mới ... Vui lòng đợi 
+1001.0,배경음,Nhạc nền
+1002.0,언어,Ngôn ngữ
+1003.0,만든이: 허민구{연락: huccce@gmail.com,Được tạo bởi: HEO Min-Gu {Liên hệ: huccce@gmail.com 
+1004.0,불러오는 중 /{구글 로그인,Tải / {Google ký trong 
+1005.0,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<Tote> {{có nhiều dữ liệu. Vui lòng chọn dữ liệu để tải. {Dữ liệu không được chọn sẽ bị xóa. 
+1006.0,팀이름,Tên nhóm
+1007.0,라운드,Tròn
+1008.0,정수,Nước hoa
+1009.0,저장날짜,Ngày lưu
+1010.0,결정,Phán quyết
+1011.0,경기,Cuộc thi đấu
+1012.0,리그,Liên đoàn
+1013.0,전략,Chiến lược
+1014.0,선수{관리,Người chơi {quản lý 
+1015.0,영입{시장,Tuyển dụng {Market 
+1016.0,멀티{대전,Multi {Match 
+1017.0,계정,Tài khoản
+1018.0,순위,Thứ hạng
+1019.0,승,W 
+1020.0,패,L 
+1021.0,라인전,Đường kẻ
+1022.0,한타,TeamFight 
+1023.0,운영,Hoạt động
+1024.0,포지션,Chức vụ
+1025.0,이름,Tên
+1026.0,종합,Tổng cộng
+1027.0,일정,Lịch
+1028.0,상대팀,Đội đối nghịch
+1029.0,총합,Tổng cộng
+1030.0,결과,Kết quả
+1031.0,승리,Chiến thắng
+1032.0,패배,Đánh bại
+1033.0,간편,Đơn giản
+1034.0,지침,Hướng dẫn
+1035.0,픽밴,Chọn Ban 
+1036.0,설정,Bộ
+1037.0,설명,Giải trình
+1038.0,라인,Đường kẻ
+1039.0,타입,Kiểu
+1040.0,등급,Xếp hạng
+1041.0,강화,Củng cố 
+1042.0,재조합,Tái tổ hợp 
+1043.0,팀케미,Đội Chemie 
+1044.0,선발 선수,Trình phát bắt đầu 
+1045.0,후보 선수,Trình phát phụ 
+1046.0,레벨 포인트,Điểm cấp 
+1047.0,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),Team Chemie (▲ 2) {Year Chemie (▲ 1) {type chemie (▲ 1) {League Chemie (▲ 1) 
+1048.0,케미스트리,Hoá học
+1049.0,재조합 선수,Người chơi tái tổ hợp 
+1050.0,제거,Di dời
+1051.0,강화 선수,Người chơi củng cố 
+1052.0,재료 선수,Người chơi nội dung 
+1053.0,성공확률:,Cơ hội thành công: 
+1054.0,영입시장,Thị trường tuyển dụng 
+1055.0,스폰서 광고를 보고 원하는 보상을 받으세요.,Xem quảng cáo được tài trợ để nhận phần thưởng. 
+1056.0,5번 보시면 200정수를 추가로 드립니다.,"Nếu bạn nhìn 5 lần}, bạn sẽ nhận được thêm 200essence. "
+1057.0,골드 영입,Tuyển dụng vàng 
+1058.0,실버 선수,Người chơi bạc 
+1059.0,시청,Đồng hồ
+1060.0,플레,Bạch kim 
+1061.0,골드,Vàng
+1062.0,선수명단,Danh sách người chơi
+1063.0,가격,Giá
+1064.0,추천,Gợi ý
+1065.0,구입,Mua
+1066.0,탑 랭킹,Thứ hạng hàng đầu 
+1067.0,내 순위,Thứ hạng của tôi 
+1068.0,새로고침시간,Làm mới thời gian 
+1069.0,대전정보,Khớp thông tin 
+1070.0,대전찾기,Khớp tìm kiếm 
+1071.0,선수,Người chơi
+1072.0,감독,Giám đốc
+1073.0,로그인,Đăng nhập
+1074.0,확인,Xác nhận
+1075.0,일일,Ngày
+1076.0,업적,Thành tựu
+1077.0,기타,Vân vân
+1078.0,보상,Phần thưởng
+1079.0,공지사항,Để ý
+1080.0,계속,Tiếp tục
+1081.0,이곳을 눌러 입력,Nhấn vào đây để nhập 
+1082.0,최종순위,Thứ hạng cuối cùng 
+1083.0,시즌 보상:,Phần thưởng mùa: 
+1084.0,스킵,Nhảy
+1085.0,예,Đúng
+1086.0,아니오,KHÔNG
+1087.0,터치 하면 게임 시작,Chạm để bắt đầu trò chơi 
+1088.0,평점,Cấp
+1089.0,경기진행,Khớp tiến trình 
+1090.0,버전확인,Kiểm tra phiên bản 
+1091.0,업데이트하러 가기,Chuyển đến cập nhật 
+1092.0,다시확인,kiểm tra lại
+1093.0,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,Không tải được thông tin nhóm. {Thử lại 
+1094.0,이곳을 눌러 찾을 팀이름 입력,Nhấn vào đây để nhập tên nhóm để tìm 
+1095.0,밴플레이어,Ban Player 
+1096.0,전달,Relay 
+1097.0,전송,Gửi
+1098.0,문의하기,Liên hệ chúng tôi
+1099.0,버그/건의,Lỗi / Đề xuất 
+1100.0,게임 종료,Thoát trò chơi
+1101.0,초대링크,Liên kết lời mời 
+1102.0,모의경기,Mô hình mô phỏng 
+1103.0,전략복사,Sao chép chiến lược 
+1104.0,신고,Báo cáo
+1105.0,<이벤트>,<Event> 
+1106.0,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,Sự kiện Express của nhà tài trợ! {{Kiểm tra quảng cáo được tài trợ ngay bây giờ để nhận thêm phần thưởng + 50%. 
+1107.0,영입시장으로 가기,}Truy cập thị trường tuyển dụng 
+1108.0,<리뷰 이벤트>,<Đánh giá sự kiện> 
+1109.0,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,Cảm ơn bạn đã chơi trò chơi. {{Đây là một trợ giúp tuyệt vời cho các nhà phát triển. Bạn sẽ nhận được 300 Essence dưới dạng phần thưởng. 
+1110.0,리뷰하러 가기,Chuyển đến Đánh giá 
+1111.0,답변을 받으실 메일을 적어주세요.,Vui lòng viết email để trả lời. 
+1112.0,(언어 변경 시 재시작 필요),(Yêu cầu khởi động lại khi thay đổi ngôn ngữ) 
+1113.0,이벤트,Sự kiện
+1114.0,포인트,Điểm
+1115.0,친구요청,Yêu cầu kết bạn
+1116.0,친구추가,Thêm bạn
+1117.0,친구 목록,Danh sách bạn bè
+1118.0,찾기,Tìm thấy
+1119.0,아니요,KHÔNG
+1120.0,멀티대전정보,Thông tin đa lần 
+1121.0,친구 추가,Thêm bạn
+1122.0,라인전{운영,Dòng {hoạt động 
+1123.0,밸런스,Cân bằng 
+1124.0,커스텀,Phong tục
+1125.0,탑,Đứng đầu
+1126.0,정글,Đứng đầu
+1127.0,미드,Rừng
+1128.0,원딜,Mid 
+1129.0,서폿,AD 
+1130.0,중심,Trung tâm
+1131.0,갱킹,Ganking 
+1132.0,메인오더,Thứ tự chính 
+1133.0,한정,Giới hạn
+1134.0,레벨,Lv 
+1135.0,팀,Đội
+1136.0,당신의 팀이름을 정해주세요{(최대 5글자),Vui lòng chỉ định tên nhóm của bạn {(tối đa 5 ký tự) 
+1137.0,보낸이,Từ
+1138.0,내용,Nội dung 
+1139.0,첨부,Tập tin đính kèm
+1140.0,쪽지 목록,Danh sách tin nhắn
+1141.0,받는이:,ĐẾN:
+1142.0,첨부종류:,Loại tệp đính kèm: 
+1143.0,상세:,Chi tiết:
+1144.0,전송 비용:,Chi phí truyền tải: 
+1145.0,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Giá mặt hàng + Phí cơ bản 100 + 5% giá mặt hàng đính kèm) 
+1146.0,쪽지보내기,Gửi tin nhắn
+1147.0,첼린저,Challenger 
+1148.0,마스터,Bậc thầy
+1149.0,다이아,Kim cương
+1150.0,플레티넘,Bạch kim 
+1151.0,골드,Vàng
+1152.0,실버,Bạc
+1153.0,브론즈,Đồng 
+1154.0,<시즌 보상정보>,<Thông tin phần thưởng mùa> 
+1155.0,시즌 보상정보,Thông tin phần thưởng mùa 
+1156.0,등급상승 보상,Phần thưởng nâng cấp lớp 
+1157.0,명예의 전당 헌액,Đóng góp Hall of Fame 
+1158.0,시즌보상카드 증정,Thẻ phần thưởng mùa 
+1159.0,다이아 패키지,Gói kim cương 
+1160.0,플레티넘 패키지,Gói bạch kim 
+1161.0,골드 패키지,Gói vàng 
+1162.0,실버 패키지,Gói bạc 
+1163.0,모든선수 패키지,Tất cả gói người chơi 
+1164.0,다이아 영입,Tuyển dụng kim cương 
+1165.0,첼린저 영입,Tuyển dụng Challenger 
+1166.0,모든한정포함 첼린저 영입,Tuyển dụng giới hạn bao gồm tất cả 
+1167.0,보낸날짜,Ngày được gửi
+1168.0,보상정보,Phần thưởng thông tin 
+1169.0,모든팀에게 승리 시,Chiến thắng cho tất cả các nhóm 
+1170.0,상세보기,Xem chi tiết 
+1171.0,연습{경기,Trận đấu tập
+1172.0,대전,Cuộc thi đấu
+1173.0,멀티 시즌성적,Kết quả nhiều mùa 
+1174.0,새로운 시즌 시작,Mùa mới bắt đầu 
+1175.0,평균 선수 종합:,Tổng số người chơi AVG: 
+1176.0,이곳을 눌러{선수 이름 입력,Nhấn vào đây để {tên người chơi Enter 
+1177.0,시즌,Mùa
+1178.0,영입정보,Thông tin tuyển dụng 
+1179.0,검색,Seach 
+1180.0,난이도,Khó khăn
+1181.0,대표팀,Nhóm nổi tiếng 
+1191.0,새로운 리그 시작,Khởi động Liên đoàn mới 
+1192.0,<선수 등급 정보>,<Thông tin tỷ lệ người chơi> 
+1193.0,토너먼트,Giải đấu 
+1194.0,우승,Quán quân
+1195.0,승자조,Khung của người chiến thắng 
+1196.0,패자조,Người thua cuộc Braket 
+1197.0,시즌보상정보,Thông tin phần thưởng mùa 
+1198.0,격전보상정보,Thông tin phần thưởng Crush 
+1199.0,재시도,Thử lại
+1200.0,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"Nếu bạn không tiến hành giải đấu cuối cùng, bạn sẽ không được thưởng. "
+1201.0,랭크,Thứ hạng
+1202.0,격전,Người mình thích
+1203.0,팀정보,Thông tin nhóm 
+1204.0,다음경기,Trận đấu tiếp theo 
+1205.0,팀 능력,Số liệu thống kê nhóm 
+1206.0,선수 능력,Số liệu thống kê người chơi 
+1207.0,<시즌보상선수>,<Phần thưởng phần thưởng> 
+1208.0,추가경험치,Thêm exp 
+1209.0,경기 자동,Auto match 
+1210.0,아이템,Mục
+1211.0,사용중인 아이템,Các mục đang sử dụng 
+1212.0,경기 아이템,Khớp các mục 
+1213.0,사용,Sử dụng
+1214.0,개수,Đếm
+1215.0,자동,Tự động
+1216.0,추가경험치,AddExp 
+1217.0,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,Phần thưởng chỉ có thể được nhận theo mùa 10 trở lên. 
+1218.0,언어설정,Đặt ngôn ngữ 
+1219.0,리셋,Cài lại
+1220.0,재시작,Khởi động lại 
+1221.0,코치,Huấn luyện viên
+1222.0,추가,Thêm vào
+1223.0,후보,Sub 
+1224.0,새게임,Trò chơi mới
+1225.0,버그 제보,Báo cáo lỗi
+1226.0,코치명단,Danh sách huấn luyện 
+1227.0,,Preparing new ad... please wait

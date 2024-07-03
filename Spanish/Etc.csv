@@ -1,219 +1,220 @@
 ﻿ID,Korean,Dec
-1000,효과음,Efecto de sonido
-1001,배경음,Sonido de fondo
-1002,언어,Idioma
-1003,만든이: 허민구{연락: huccce@gmail.com,Creado por: Heo min-gu {Contact: huccce@gmail.com 
-1004,불러오는 중 /{구글 로그인,Cargando / {Google Signo en 
-1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<Ating> {{Hay más de un datos. Seleccione los datos para cargar. {Se eliminarán los datos no seleccionados. 
-1006,팀이름,Nombre del equipo
-1007,라운드,Redondo
-1008,정수,Esencia
-1009,저장날짜,Guarde la fecha
-1010,결정,Decisión
-1011,경기,Fósforo
-1012,리그,Liga
-1013,전략,Estrategia
-1014,선수{관리,Player {Management 
-1015,영입{시장,Reclutamiento {Market 
-1016,멀티{대전,Multi {Match 
-1017,계정,Cuenta
-1018,순위,Rango
-1019,승,W 
-1020,패,L 
-1021,라인전,Línea
-1022,한타,Pelea de equipo
-1023,운영,Operación
-1024,포지션,Posición
-1025,이름,Nombre
-1026,종합,Total
-1027,일정,Calendario
-1028,상대팀,Equipo contrario
-1029,총합,Total
-1030,결과,Resultado
-1031,승리,Victoria
-1032,패배,Fracaso
-1033,간편,Simple
-1034,지침,Guía
-1035,픽밴,Pick Ban 
-1036,설정,Colocar
-1037,설명,Explicación
-1038,라인,Línea
-1039,타입,Tipo
-1040,등급,Clasificación
-1041,강화,Reforzarse
-1042,재조합,Recombinación 
-1043,팀케미,Team Chemie 
-1044,선발 선수,Jugador inicial 
-1045,후보 선수,Sub Player 
-1046,레벨 포인트,Punto de nivel 
-1047,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),Team Chemie (▲ 2) {año Chemie (▲ 1) {Tipo Chemie (▲ 1) {League Chemie (▲ 1) 
-1048,케미스트리,Química
-1049,재조합 선수,Reproductor recombinante 
-1050,제거,Eliminar
-1051,강화 선수,Reforzing Player 
-1052,재료 선수,Stuff Player 
-1053,성공확률:,Oportunidad de éxito: 
-1054,영입시장,Mercado de reclutamiento 
-1055,스폰서 광고를 보고 원하는 보상을 받으세요.,Mire anuncios patrocinados para obtener recompensas. 
-1056,5번 보시면 200정수를 추가로 드립니다.,Si miras 5 veces} recibirás 200 ausencia adicional. 
-1057,골드 영입,Reclutamiento de oro 
-1058,실버 선수,Player plateado 
-1059,시청,Mirar
-1060,플레,Platino
-1061,골드,Oro
-1062,선수명단,Lista de jugadores 
-1063,가격,Precio
-1064,추천,Recomendar
-1065,구입,Comprar
-1066,탑 랭킹,Bromear
-1067,내 순위,Mi rango 
-1068,새로고침시간,Actualizar tiempo 
-1069,대전정보,Información de coincidencia 
-1070,대전찾기,Búsqueda de coincidencias 
-1071,선수,Jugador
-1072,감독,Gerente
-1073,로그인,Acceso
-1074,확인,Confirmar
-1075,일일,Día
-1076,업적,Logros 
-1077,기타,Etc
-1078,보상,Premio
-1079,공지사항,Aviso
-1080,계속,Continuar
-1081,이곳을 눌러 입력,Presione aquí para ingresar 
-1082,최종순위,Rango final 
-1083,시즌 보상:,Recompensa de la temporada: 
-1084,스킵,Saltar
-1085,예,Sí
-1086,아니오,No
-1087,터치 하면 게임 시작,Toque para comenzar el juego 
-1088,평점,Calificación
-1089,경기진행,Progreso de coincidencia 
-1090,버전확인,Verifique la versión 
-1091,업데이트하러 가기,Vaya a la actualización 
-1092,다시확인,revisar otra vez
-1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,No se pudo cargar información del equipo. {Intente de nuevo 
-1094,이곳을 눌러 찾을 팀이름 입력,Toque aquí para ingresar el nombre del equipo para encontrar 
-1095,밴플레이어,Ban Player 
-1096,전달,Relé
-1097,전송,Enviar
-1098,문의하기,Contáctenos
-1099,버그/건의,Bug / sugerencias 
-1100,게임 종료,Salir del juego
-1101,초대링크,Enlace de invitación 
-1102,모의경기,Simulation Match 
-1103,전략복사,Copia estratégica 
-1104,신고,Informe
-1105,<이벤트>,<Event> 
-1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,¡Evento Express del patrocinador! {{Mira los anuncios patrocinados ahora para obtener una recompensa adicional de + 50%. 
-1107,영입시장으로 가기,Vaya al mercado de reclutamiento 
-1108,<리뷰 이벤트>,<Evento de revisión> 
-1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,Gracias por jugar el juego. {{Esta es una gran ayuda para los desarrolladores. Recibirá 300 esencia como recompensa. 
-1110,리뷰하러 가기,Vaya a revisión 
-1111,답변을 받으실 메일을 적어주세요.,Escriba un correo electrónico para responder. 
-1112,(언어 변경 시 재시작 필요),(Requiere reiniciar al cambiar el lenguaje) 
-1113,이벤트,Evento
-1114,포인트,Punto
-1115,친구요청,Solicitud de amistad
-1116,친구추가,Añadir amigo
-1117,친구 목록,Lista de amigos
-1118,찾기,Encontrar
-1119,아니요,No
-1120,멀티대전정보,Información multimatch 
-1121,친구 추가,Añadir amigo
-1122,라인전{운영,Línea {operación 
-1123,밸런스,Equilibrado
-1124,커스텀,Costumbre
-1125,탑,Arriba
-1126,정글,Arriba
-1127,미드,Selva
-1128,원딜,Medio
-1129,서폿,ANUNCIO
-1130,중심,Centro
-1131,갱킹,Ganking 
-1132,메인오더,Orden principal 
-1133,한정,Limitado
-1134,레벨,LV 
-1135,팀,Equipo
-1136,당신의 팀이름을 정해주세요{(최대 5글자),Especifique el nombre de su equipo {(hasta 5 caracteres) 
-1137,보낸이,Desde
-1138,내용,Contenido
-1139,첨부,Adjunto
-1140,쪽지 목록,Lista de mensajes
-1141,받는이:,A:
-1142,첨부종류:,Tipo de archivo adjunto: 
-1143,상세:,Detalle:
-1144,전송 비용:,Costo de transmisión: 
-1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Precio del artículo + Tarifa básica 100 + 5% del precio del artículo adjunto) 
-1146,쪽지보내기,Enviar un mensaje
-1147,첼린저,Desafiador
-1148,마스터,Maestro
-1149,다이아,Diamante
-1150,플레티넘,Platino
-1151,골드,Oro
-1152,실버,Plata
-1153,브론즈,Bronce
-1154,<시즌 보상정보>,<Información de recompensa de la temporada> 
-1155,시즌 보상정보,Información de recompensa de la temporada 
-1156,등급상승 보상,Recompensa de actualización de clase 
-1157,명예의 전당 헌액,Contribución del Salón de la Fama 
-1158,시즌보상카드 증정,Tarjeta de recompensa de la temporada 
-1159,다이아 패키지,Paquete de diamantes 
-1160,플레티넘 패키지,Paquete de platino 
-1161,골드 패키지,Paquete de oro 
-1162,실버 패키지,Paquete de plata 
-1163,모든선수 패키지,Todos los paquetes de reproductor 
-1164,다이아 영입,Reclutamiento de diamantes 
-1165,첼린저 영입,Reclutamiento Challenger 
-1166,모든한정포함 첼린저 영입,Reclutamiento de límites de todo incluido 
-1167,보낸날짜,Fecha enviada
-1168,보상정보,Información de recompensas 
-1169,모든팀에게 승리 시,Victoria a todos los equipos 
-1170,상세보기,Ver detalles
-1171,연습{경기,Práctica {Match 
-1172,대전,Fósforo
-1173,멀티 시즌성적,Resultados de la temporada múltiple 
-1174,새로운 시즌 시작,Nuevo inicio de temporada 
-1175,평균 선수 종합:,AVG Player Total: 
-1176,이곳을 눌러{선수 이름 입력,Presione aquí para {Nombre del jugador Enter 
-1177,시즌,Estación
-1178,영입정보,Información de reclutamiento 
-1179,검색,Seach 
-1180,난이도,Dificultad
-1181,대표팀,Equipo famoso 
-1191,새로운 리그 시작,Nuevo inicio de la liga 
-1192,<선수 등급 정보>,<Información de tasa de jugador> 
-1193,토너먼트,Torneo
-1194,우승,Campeón
-1195,승자조,Soporte del ganador 
-1196,패자조,Braket de perdedor 
-1197,시즌보상정보,Información de recompensa de la temporada 
-1198,격전보상정보,Información de recompensas de Crush 
-1199,재시도,Rever
-1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"※ Si no procedes al torneo final, no serás recompensado. "
-1201,랭크,Rango
-1202,격전,Aplastar
-1203,팀정보,Información del equipo 
-1204,다음경기,Próximo partido
-1205,팀 능력,Estadísticas de equipo 
-1206,선수 능력,Estadísticas de jugador 
-1207,<시즌보상선수>,<Jugador de recompensa de temporada> 
-1208,추가경험치,Agregar exp 
-1209,경기 자동,Auto Match 
-1210,아이템,Artículo
-1211,사용중인 아이템,Elementos en uso 
-1212,경기 아이템,Elementos de coincidencia 
-1213,사용,Usar
-1214,개수,Contar
-1215,자동,Auto
-1216,추가경험치,Addexp 
-1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Las recompensas solo se pueden recibir por la temporada 10 o más. 
-1218,언어설정,Configuración del lenguaje 
-1219,리셋,Reiniciar
-1220,재시작,Reiniciar
-1221,코치,Entrenador
-1222,추가,Agregar
-1223,후보,Sub 
-1224,새게임,Nuevo juego
-1225,버그 제보,Informe de error
-1226,코치명단,Lista de entrenadores 
+,효과음,Preparación de nuevos anuncios ... por favor espere 
+1001.0,배경음,Sonido de fondo
+1002.0,언어,Idioma
+1003.0,만든이: 허민구{연락: huccce@gmail.com,Creado por: Heo min-gu {Contact: huccce@gmail.com 
+1004.0,불러오는 중 /{구글 로그인,Cargando / {Google Signo en 
+1005.0,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<Ating> {{Hay más de un datos. Seleccione los datos para cargar. {Se eliminarán los datos no seleccionados. 
+1006.0,팀이름,Nombre del equipo
+1007.0,라운드,Redondo
+1008.0,정수,Esencia
+1009.0,저장날짜,Guarde la fecha
+1010.0,결정,Decisión
+1011.0,경기,Fósforo
+1012.0,리그,Liga
+1013.0,전략,Estrategia
+1014.0,선수{관리,Player {Management 
+1015.0,영입{시장,Reclutamiento {Market 
+1016.0,멀티{대전,Multi {Match 
+1017.0,계정,Cuenta
+1018.0,순위,Rango
+1019.0,승,W 
+1020.0,패,L 
+1021.0,라인전,Línea
+1022.0,한타,Pelea de equipo
+1023.0,운영,Operación
+1024.0,포지션,Posición
+1025.0,이름,Nombre
+1026.0,종합,Total
+1027.0,일정,Calendario
+1028.0,상대팀,Equipo contrario
+1029.0,총합,Total
+1030.0,결과,Resultado
+1031.0,승리,Victoria
+1032.0,패배,Fracaso
+1033.0,간편,Simple
+1034.0,지침,Guía
+1035.0,픽밴,Pick Ban 
+1036.0,설정,Colocar
+1037.0,설명,Explicación
+1038.0,라인,Línea
+1039.0,타입,Tipo
+1040.0,등급,Clasificación
+1041.0,강화,Reforzarse
+1042.0,재조합,Recombinación 
+1043.0,팀케미,Team Chemie 
+1044.0,선발 선수,Jugador inicial 
+1045.0,후보 선수,Sub Player 
+1046.0,레벨 포인트,Punto de nivel 
+1047.0,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),Team Chemie (▲ 2) {año Chemie (▲ 1) {Tipo Chemie (▲ 1) {League Chemie (▲ 1) 
+1048.0,케미스트리,Química
+1049.0,재조합 선수,Reproductor recombinante 
+1050.0,제거,Eliminar
+1051.0,강화 선수,Reforzing Player 
+1052.0,재료 선수,Stuff Player 
+1053.0,성공확률:,Oportunidad de éxito: 
+1054.0,영입시장,Mercado de reclutamiento 
+1055.0,스폰서 광고를 보고 원하는 보상을 받으세요.,Mire anuncios patrocinados para obtener recompensas. 
+1056.0,5번 보시면 200정수를 추가로 드립니다.,Si miras 5 veces} recibirás 200 ausencia adicional. 
+1057.0,골드 영입,Reclutamiento de oro 
+1058.0,실버 선수,Player plateado 
+1059.0,시청,Mirar
+1060.0,플레,Platino
+1061.0,골드,Oro
+1062.0,선수명단,Lista de jugadores 
+1063.0,가격,Precio
+1064.0,추천,Recomendar
+1065.0,구입,Comprar
+1066.0,탑 랭킹,Bromear
+1067.0,내 순위,Mi rango 
+1068.0,새로고침시간,Actualizar tiempo 
+1069.0,대전정보,Información de coincidencia 
+1070.0,대전찾기,Búsqueda de coincidencias 
+1071.0,선수,Jugador
+1072.0,감독,Gerente
+1073.0,로그인,Acceso
+1074.0,확인,Confirmar
+1075.0,일일,Día
+1076.0,업적,Logros 
+1077.0,기타,Etc
+1078.0,보상,Premio
+1079.0,공지사항,Aviso
+1080.0,계속,Continuar
+1081.0,이곳을 눌러 입력,Presione aquí para ingresar 
+1082.0,최종순위,Rango final 
+1083.0,시즌 보상:,Recompensa de la temporada: 
+1084.0,스킵,Saltar
+1085.0,예,Sí
+1086.0,아니오,No
+1087.0,터치 하면 게임 시작,Toque para comenzar el juego 
+1088.0,평점,Calificación
+1089.0,경기진행,Progreso de coincidencia 
+1090.0,버전확인,Verifique la versión 
+1091.0,업데이트하러 가기,Vaya a la actualización 
+1092.0,다시확인,revisar otra vez
+1093.0,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,No se pudo cargar información del equipo. {Intente de nuevo 
+1094.0,이곳을 눌러 찾을 팀이름 입력,Toque aquí para ingresar el nombre del equipo para encontrar 
+1095.0,밴플레이어,Ban Player 
+1096.0,전달,Relé
+1097.0,전송,Enviar
+1098.0,문의하기,Contáctenos
+1099.0,버그/건의,Bug / sugerencias 
+1100.0,게임 종료,Salir del juego
+1101.0,초대링크,Enlace de invitación 
+1102.0,모의경기,Simulation Match 
+1103.0,전략복사,Copia estratégica 
+1104.0,신고,Informe
+1105.0,<이벤트>,<Event> 
+1106.0,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,¡Evento Express del patrocinador! {{Mira los anuncios patrocinados ahora para obtener una recompensa adicional de + 50%. 
+1107.0,영입시장으로 가기,Vaya al mercado de reclutamiento 
+1108.0,<리뷰 이벤트>,<Evento de revisión> 
+1109.0,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,Gracias por jugar el juego. {{Esta es una gran ayuda para los desarrolladores. Recibirá 300 esencia como recompensa. 
+1110.0,리뷰하러 가기,Vaya a revisión 
+1111.0,답변을 받으실 메일을 적어주세요.,Escriba un correo electrónico para responder. 
+1112.0,(언어 변경 시 재시작 필요),(Requiere reiniciar al cambiar el lenguaje) 
+1113.0,이벤트,Evento
+1114.0,포인트,Punto
+1115.0,친구요청,Solicitud de amistad
+1116.0,친구추가,Añadir amigo
+1117.0,친구 목록,Lista de amigos
+1118.0,찾기,Encontrar
+1119.0,아니요,No
+1120.0,멀티대전정보,Información multimatch 
+1121.0,친구 추가,Añadir amigo
+1122.0,라인전{운영,Línea {operación 
+1123.0,밸런스,Equilibrado
+1124.0,커스텀,Costumbre
+1125.0,탑,Arriba
+1126.0,정글,Arriba
+1127.0,미드,Selva
+1128.0,원딜,Medio
+1129.0,서폿,ANUNCIO
+1130.0,중심,Centro
+1131.0,갱킹,Ganking 
+1132.0,메인오더,Orden principal 
+1133.0,한정,Limitado
+1134.0,레벨,LV 
+1135.0,팀,Equipo
+1136.0,당신의 팀이름을 정해주세요{(최대 5글자),Especifique el nombre de su equipo {(hasta 5 caracteres) 
+1137.0,보낸이,Desde
+1138.0,내용,Contenido
+1139.0,첨부,Adjunto
+1140.0,쪽지 목록,Lista de mensajes
+1141.0,받는이:,A:
+1142.0,첨부종류:,Tipo de archivo adjunto: 
+1143.0,상세:,Detalle:
+1144.0,전송 비용:,Costo de transmisión: 
+1145.0,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Precio del artículo + Tarifa básica 100 + 5% del precio del artículo adjunto) 
+1146.0,쪽지보내기,Enviar un mensaje
+1147.0,첼린저,Desafiador
+1148.0,마스터,Maestro
+1149.0,다이아,Diamante
+1150.0,플레티넘,Platino
+1151.0,골드,Oro
+1152.0,실버,Plata
+1153.0,브론즈,Bronce
+1154.0,<시즌 보상정보>,<Información de recompensa de la temporada> 
+1155.0,시즌 보상정보,Información de recompensa de la temporada 
+1156.0,등급상승 보상,Recompensa de actualización de clase 
+1157.0,명예의 전당 헌액,Contribución del Salón de la Fama 
+1158.0,시즌보상카드 증정,Tarjeta de recompensa de la temporada 
+1159.0,다이아 패키지,Paquete de diamantes 
+1160.0,플레티넘 패키지,Paquete de platino 
+1161.0,골드 패키지,Paquete de oro 
+1162.0,실버 패키지,Paquete de plata 
+1163.0,모든선수 패키지,Todos los paquetes de reproductor 
+1164.0,다이아 영입,Reclutamiento de diamantes 
+1165.0,첼린저 영입,Reclutamiento Challenger 
+1166.0,모든한정포함 첼린저 영입,Reclutamiento de límites de todo incluido 
+1167.0,보낸날짜,Fecha enviada
+1168.0,보상정보,Información de recompensas 
+1169.0,모든팀에게 승리 시,Victoria a todos los equipos 
+1170.0,상세보기,Ver detalles
+1171.0,연습{경기,Práctica {Match 
+1172.0,대전,Fósforo
+1173.0,멀티 시즌성적,Resultados de la temporada múltiple 
+1174.0,새로운 시즌 시작,Nuevo inicio de temporada 
+1175.0,평균 선수 종합:,AVG Player Total: 
+1176.0,이곳을 눌러{선수 이름 입력,Presione aquí para {Nombre del jugador Enter 
+1177.0,시즌,Estación
+1178.0,영입정보,Información de reclutamiento 
+1179.0,검색,Seach 
+1180.0,난이도,Dificultad
+1181.0,대표팀,Equipo famoso 
+1191.0,새로운 리그 시작,Nuevo inicio de la liga 
+1192.0,<선수 등급 정보>,<Información de tasa de jugador> 
+1193.0,토너먼트,Torneo
+1194.0,우승,Campeón
+1195.0,승자조,Soporte del ganador 
+1196.0,패자조,Braket de perdedor 
+1197.0,시즌보상정보,Información de recompensa de la temporada 
+1198.0,격전보상정보,Información de recompensas de Crush 
+1199.0,재시도,Rever
+1200.0,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"※ Si no procedes al torneo final, no serás recompensado. "
+1201.0,랭크,Rango
+1202.0,격전,Aplastar
+1203.0,팀정보,Información del equipo 
+1204.0,다음경기,Próximo partido
+1205.0,팀 능력,Estadísticas de equipo 
+1206.0,선수 능력,Estadísticas de jugador 
+1207.0,<시즌보상선수>,<Jugador de recompensa de temporada> 
+1208.0,추가경험치,Agregar exp 
+1209.0,경기 자동,Auto Match 
+1210.0,아이템,Artículo
+1211.0,사용중인 아이템,Elementos en uso 
+1212.0,경기 아이템,Elementos de coincidencia 
+1213.0,사용,Usar
+1214.0,개수,Contar
+1215.0,자동,Auto
+1216.0,추가경험치,Addexp 
+1217.0,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Las recompensas solo se pueden recibir por la temporada 10 o más. 
+1218.0,언어설정,Configuración del lenguaje 
+1219.0,리셋,Reiniciar
+1220.0,재시작,Reiniciar
+1221.0,코치,Entrenador
+1222.0,추가,Agregar
+1223.0,후보,Sub 
+1224.0,새게임,Nuevo juego
+1225.0,버그 제보,Informe de error
+1226.0,코치명단,Lista de entrenadores 
+1227.0,,Preparing new ad... please wait
