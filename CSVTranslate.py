@@ -1,10 +1,17 @@
 import pandas as pd
 import os
-from translate import Translator 
+from translate import Translator
+import time
 
 def translate_text(text):
     try:
-        translated = translator.translate(text)
+        translated = ''
+        while(True):
+            translated = translator.translate(text)
+            if translated in 'MYMEMORY WARNING':
+                time.sleep(1)
+            else:
+                break
         return translated
     except Exception as e:
         return str(e)
@@ -60,8 +67,12 @@ def Convert(loadList, languageFull, replaceList):
                                 languageRead.at[_index, dfCol] = result.at[_index, col]
                                 break
                 # 저장한다
+                languageRead = languageRead.iloc[:len(originRead)]
+                if loadFile == 'Etc':
+                    languageRead['Korean'] = originRead['Korean'] 
                 createFolder('./' + languageFull)
                 languageRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+                
         else:
             colList = ['Name', 'Dec']
             for col in colList:
@@ -84,9 +95,10 @@ replaceList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Scr
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
 #Japanese, Simplified Chinese, Traditional Chinese, Vietnamese, German, Russian, Spanish, Arabic, Italian, Malay, Thai, Turkish, French, Indonesian, Javanese, Bengali, Hindi, Portuguese
 readLanDF = pd.read_csv('./LanguageList.csv', encoding = 'utf-8')
+originLanguageList = ['en','ko','zh-CN','zh-TW','de','fr','es','it','pt','tr','ru','ja','vi','ms','th','id','jw','bn','hi','ar']
 languageList = ['ja', 'zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
 
-for lan in range(0, len(languageList)):
+for lan in range((len(readLanDF) - len(languageList)), len(readLanDF)):
     translator = Translator(from_lang='en', to_lang= languageList[lan])
     Convert(loadList, readLanDF['Language'][lan], replaceList)
 

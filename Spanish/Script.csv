@@ -1,29 +1,49 @@
 ﻿ID,Dec
-11000,¡Tu equipo ganó la liga con gran coaching! Prepáramos para ganar el Campeonato Mundial. 
-11001,"Aunque no ganó, hizo un gran trabajo. ¡El baño de nieve se realiza en World Champion! "
-11002,"No fue un campeonato. Sin embargo, logramos avanzar al Campeonato Mundial! "
-11003,No fue un campeonato. Pero es una buena clasificación intentar ganar la próxima temporada. 
-11004,"Se evitó lo peor, pero no fue una buena clasificación. Para una clasificación más alta} Creo que necesita mantenimiento. "
-11005,Terminamos la temporada en la peor posición. Para los fanáticos que nos apoyan} vamos más lejos para la próxima temporada. 
-11006,¡El equipo ganó el campeonato mundial con gran coaching! Los jugadores y los fanáticos celebran tu gran comando. Felicidades.
-11007,"No ganó, pero hizo un gran trabajo. ¡Intentemos ganar el campeonato mundial la próxima temporada! "
-11008,"Desafortunadamente, es una gran calificación. Aumentemos nuestro poder la próxima temporada e intentemos ganar el próximo campeón mundial. "
-11009,"Has ingresado con éxito al torneo. La próxima temporada, diremos torneos más altos. "
-11010,"Desafortunadamente, el torneo falló. Desafortunadamente, avancemos al campeonato mundial la próxima temporada y apuntemos al campeonato. "
-20000,Exposición de línea / operación 
+11000,"¡Tu equipo ganó la liga con gran coaching!
+ Prepáramos para ganar el campeonato mundial."
+11001,"Aunque no ganó, hizo un gran trabajo.
+ ¡El baño de nieve se realiza en el campeón mundial!"
+11002,"No fue un campeonato.
+ Sin embargo, ¡logramos avanzar al campeonato mundial!"
+11003,"No fue un campeonato.
+ Pero es una buena clasificación tratar de ganar la próxima temporada."
+11004,"Se evitó lo peor, pero no fue una buena clasificación.
+ Para una clasificación más alta} Creo que necesita mantenimiento."
+11005,"Terminamos la temporada en la peor posición.
+ Para los fanáticos que nos apoyan} vamos más allá para la próxima temporada."
+11006,"¡El equipo ganó el campeonato mundial con gran coaching!
+ Los jugadores y los fanáticos celebran tu gran comando.
+ Felicidades."
+11007,"No ganó, pero hizo un gran trabajo.
+ ¡Intentemos ganar el campeonato mundial la próxima temporada!"
+11008,"Desafortunadamente, es una gran calificación.
+ Aumentemos nuestro poder la próxima temporada e intentemos ganar el próximo campeón mundial."
+11009,"Has ingresado con éxito al torneo.
+ La próxima temporada, vamos a ir a torneos más altos."
+11010,"Desafortunadamente, el torneo falló.
+ Desafortunadamente, avanzemos al campeonato mundial la próxima temporada y apuntemos al campeonato."
+20000,Exposición / operación de línea
 20001,Balance
 20002,Pelea de equipo
 20003,Costumbre
-21000,Es una estrategia para rodar bolas de nieve basadas en fuertes batallas de línea. {{-Es es adecuado cuando tienes una fuerte batalla de línea. {-Se puede volver a una toma cuando tiene un golpe débil. 
-21001,Línea de alineación} Fuerza de equipo} Operación Juega del juego de manera equilibrada. {{-Este es adecuado cuando la habilidad de los jugadores es uniforme. 
-21002,Es una estrategia que apunta a un disparo a través de una sola toma. {{-Is es adecuado cuando un equipo tiene una fuerte habilidad de un solo disparo. {
-21003,Esta es su estrategia. 
-22000,El centro del juego 
-22001,El centro de un ganking 
-22002,Orden principal 
-23000,Elija la capacidad de ser el centro del juego. Las estadísticas del equipo aumentarán. En su lugar} el resto de la potencia cae. 
-23001,El jungler decide la línea para obtener. 
-23002,Establezca una posición que se centre en las operaciones. El orden principal aumentará la proporción de la operación del equipo. 
+21000,"Es una estrategia para rodar bolas de nieve basadas en fuertes batallas de línea.
+ {{-Es es adecuado cuando tienes una fuerte batalla de línea.
+ {-En puede ser revertido a una toma cuando tienes un golpe débil."
+21001,"Línea de alineación} Fuerza de equipo} Operación Juega del juego de manera equilibrada.
+ {{-Este es adecuado cuando la habilidad de los jugadores es uniforme."
+21002,"Es una estrategia que apunta a un disparo a través de una sola toma.
+ {{-Is es adecuado cuando un equipo tiene una fuerte habilidad de un solo disparo.
+ {"
+21003,Esta es tu estrategia.
+22000,El centro del juego
+22001,El centro de un ganking
+22002,Orden principal
+23000,"Elija la capacidad de ser el centro del juego.
+ Las estadísticas del equipo aumentarán.
+ En su lugar} el resto del poder cae."
+23001,El jungler decide la línea para ganar.
+23002,"Establezca una posición que se centre en las operaciones.
+ El orden principal aumentará la proporción de la operación del equipo."
 24000,Balance
 24001,Línea
 24002,Pelea de equipo
@@ -38,156 +58,203 @@
 24011,ANUNCIO
 24012,Apoyo
 25000,Ataque
-25001,Equilibrado
-25002,Petrolero
+25001,Equilibrado(남성)
+25002,Equilibrado
 25003,Ataque
-25004,Equilibrado
-25005,Petrolero
+25004,Equilibrado(남성)
+25005,Equilibrado
 25006,Ataque
-25007,Equilibrado
-25008,Seguidor
+25007,Equilibrado(남성)
+25008,Equilibrado
 25009,Ataque
-25010,Equilibrado
-25011,Utilidad
+25010,Equilibrado(남성)
+25011,Equilibrado
 25012,Ataque
-25013,Equilibrado
-25014,Petrolero
-26000,Presione fuertemente al oponente en línea. También toma el control de la operación a través de la división. {{▲ aumentan las estadísticas de operación. {{{-Points ganados o perdidos en la línea aumentan. {{▼ TeamFight Stat STAT Bounds. 
-26001,Tank de trato básico. 
-26002,La influencia se reduce en las batallas de línea. Sin embargo} es más fuerte en la pelea de equipo. {{▲ La capacidad de pelea de equipo aumenta. {{{-Points ganados o perdidos en la línea se reducen. {{▼ Operation Stat está bajado. 
-26003,El ganking se vuelve poderoso. Sin embargo} Existe un alto riesgo de falla de ganancia. {{▲ aumentan las estadísticas de línea. {{
-26004,Tank de trato básico. 
-26005,"La capacidad de ganancia se baja. Sin embargo,} aumenta la capacidad de golpe. {{▲ La capacidad de golpe aumenta. {{▼ la capacidad de alineación cae. "
-26006,Presione fuertemente al oponente en línea. También toma el control de la operación a través de la división. {{▲ aumentan las estadísticas de operación. {{{-Points ganados o perdidos en la línea aumentan. {{▼ TeamFight Stat STAT Bounds. 
-26007,Campeón básico de Nuker. 
-26008,El objetivo es mejorar la capacidad de uno DIL. {{▲ una estadística de Dil aumenta. 
-26009,"Los primeros días son poderosos. Sin embargo,} a medida que pasa el tiempo} se debilita. {{▲ Línea hasta los primeros 20 minutos} La habilidad de pelea de equipo aumenta. {{▼ La capacidad de pelea de equipo disminuye de la segunda mitad. "
-26010,Campeón básico de One-Deal. 
-26011,Centrarse en ayudar al equipo en lugar del papel de Carrie. {{▲ Las estadísticas operativas suben. {{{▼ Las estadísticas de las líneas se caen. 
-26012,La pelea de línea es poderosa. Sin embargo} Es peligroso operar con baja salud. {{▲ aumentan las estadísticas de alineación. {{{-Points ganados o perdidos por el aumento de la operación. 
-26013,Campeón de seguidores básicos. 
-26014,Débil en la línea. Sin embargo} Es fuerte en la pelea de equipo. {{▲ STAT de la pelea de equipo aumenta. {{▼ ▼ Líneas STAT está bajada. 
-30000,"Si no puede iniciar sesión en Google, no puede jugar multijugador. Inicie sesión en Google. "
-30001,Hubo un final anormal del juego durante el último partido múltiple. El juego fue perdido. 
-30002,¡Felicidades! ¡Eres promovido al siguiente nivel! 
-30003,Has sido degradado debido a una derrota constante. 
-30004,Iniciando sesión
-30005,Hay un problema. Razón del problema: 
-30006,La conexión a Internet se ha perdido. Cuando tenga una conexión a Internet} se volverá a conectar automáticamente. 
-30007,"Internet se desconectó durante el Multi Match. {Si hace clic en OK}, saldrá del estadio. "
-30008,Hubo un problema para encontrar a tu oponente. {Presione OK para salir del estadio. 
-30009,El juego no está actualizado. Debe actualizar la última versión para jugar el partido. {{Presione el botón a continuación para verificar el VERS
-30010,Comprobación
-30011,No es la última versión. 
+25013,Equilibrado(남성)
+25014,Petrolero(남성)
+26000,Petrolero
+26001,"Presione fuertemente al oponente en línea.
+ También toma el control de la operación a través de la división.
+ {{▲ aumentan las estadísticas de operación.
+ {{{-Points ganados o perdidos en la línea aumentan.
+ {{▼ STAT STAT STAT."
+26002,Tanque de trato básico.
+26003,"La influencia se reduce en las batallas de línea.
+ Sin embargo} es más fuerte en la pelea de equipo.
+ {{▲ La capacidad de pelea de equipo aumenta.
+ {{{-Points ganados o perdidos en la línea se reducen.
+ {{▼ Se baja la estadística de operación."
+26004,Tanque de trato básico.
+26005,"La capacidad de ganancia se baja.
+ Sin embargo,} aumenta la capacidad de golpe.
+ {{▲ La capacidad de golpe aumenta.
+ {{▼ la habilidad de alineación cae."
+26006,"Presione fuertemente al oponente en línea.
+ También toma el control de la operación a través de la división.
+ {{▲ aumentan las estadísticas de operación.
+ {{{-Points ganados o perdidos en la línea aumentan.
+ {{▼ STAT STAT STAT."
+26007,Campeón básico de Nuker.
+26008,"El objetivo es mejorar la capacidad de uno DIL.
+ {{▲ Una estadística de Dil aumenta."
+26009,"Los primeros días son poderosos.
+ Sin embargo,} a medida que pasa el tiempo} se debilita.
+ {{▲ Línea hasta los primeros 20 minutos} La habilidad de pelea de equipo aumenta.
+ {{{▼ La habilidad de pelea de equipo disminuye de la segunda mitad."
+26010,Campeón básico de un solo trato.(남성)
+26011,Campeón básico de un solo trato....(남성)
+26012,Campeón básico de un solo trato.
+26013,"Centrarse en ayudar al equipo en lugar del papel de Carrie.
+ {{▲ Las estadísticas operativas suben.
+ {{{▼ Las estadísticas de las líneas bajan."
+26014,Campeón de partidario básico.
+30000,"Débil en la línea.
+ Sin embargo} Es fuerte en la pelea de equipo.
+ {{▲ STAT de la pelea de equipo aumenta.
+ {{{▼ Líneas STAT está bajada."
+30001,"Si no puede iniciar sesión en Google, no puede jugar multijugador.
+ Inicie sesión en Google."
+30002,"Hubo un final anormal del juego durante el último partido múltiple.
+ El juego se perdió."
+30003,"¡Felicidades!
+ ¡Eres ascendido al siguiente nivel!"
+30004,Has sido degradado debido a la constante derrota.
+30005,Registrarse
+30006,"Hay un problema.
+ Razón del problema:"
+30007,"La conexión a Internet se ha perdido.
+ Cuando tenga una conexión a Internet} se volverá a conectar automáticamente."
+30008,"Internet se desconectó durante el Multi Match.
+ {Si hace clic en OK}, saldrá del estadio."
+30009,"Hubo un problema para encontrar a tu oponente.
+ {Presione OK para salir del estadio."
+30010,De cheques
+30011,No es la última versión.
 30012,Minuto
-30013,Te han informado como jugador de trucos y no puedes jugar juegos multijugador. {{Por favor envíe un correo electrónico {hucce@gmail.com para cualquier pregunta. 
-30014,Estás registrado como jugador de trucos. 
-30015,Comprobando el servidor multiplicado. Espere hasta que termine la hora de verificación 
-30016,No se puede cargar la lista. Inicie sesión en Google en la multitud. 
-31000,Gracias por jugar el juego. Su revisión es de gran ayuda para el desarrollador. Recibirá 300 esencia como recompensa. 
-32000,Gracias por ver el anuncio. Haga clic en Aceptar para recibir su recompensa de visualización. 
-32001,"AD salteó, debe mirar el anuncio al final para recibir la recompensa. "
-32002,"No se pudo obtener anuncio, verifique su conexión a Internet. "
-36000,Puntaje de la liga 
+30013,Te han informado como jugador de trucos y no puedes jugar juegos multijugador. {{Por favor envíe un correo electrónico {hucce@gmail.com para cualquier pregunta.
+30014,Estás registrado como jugador de trucos.
+30015,"Comprobando el servidor multiplicado.
+ Espere hasta que termine la hora del cheque"
+30016,"No se puede cargar la lista.
+ Inicie sesión en Google en la multitud."
+31000,"Gracias por jugar el juego.
+ Su revisión es de gran ayuda para el desarrollador.
+ Recibirá 300 esencia como recompensa."
+32000,"Gracias por ver el anuncio.
+ Haga clic en Aceptar para recibir su recompensa de visualización."
+32001,"AD salteó, debe mirar el anuncio hasta el final para recibir la recompensa."
+32002,"No pudo obtener anuncios, consulte su conexión a Internet."
+36000,Puntaje de la liga
 36001,METRO
-36002,W 
-36003,L 
+36002,EN
+36003,L
 36004,Historia
 36005,Arriba
-36006,Resultados de coincidencia 
+36006,Resultados de coincidencias
 36007,Recibir
-36008,Completo
-36009,Incompleto
-36010,Enlace
-36011,Estación
-33000,La actualización solo es posible hasta el nivel 10. 
+36008,Completo(남성)
+36009,Completo
+36010,Incompleto(남성)
+36011,Incompleto
+33000,Estación
 33001,Éxito
 33002,Falla
-33003,Probabilidad de éxito 
+33003,Probabilidad de éxito
 33004,Diferencia
-33005,¿Quieres omitir el tutorial? No puede obtener las recompensas del tutorial. 
-33006,El lenguaje cambiará cuando reinicie el juego. 
-34000,Comprobación de versión del servicio de Google Play 
-34001,Google Play Iniciar sesión completo 
-34002,Inicio de sesión del servidor completado 
-34003,Cloud Guard Confirmación completa 
-34004,Importación de datos Completa 
-34005,Retintense de problema 
-34006,¡Error! Cargar al modo fuera de línea 
-33007,Redondo
-33008,Línea
-33009,Pelea de equipo
+33005,"¿Quieres omitir el tutorial?
+ No puedes obtener las recompensas del tutorial."
+33006,El lenguaje cambiará cuando reinicie el juego.
+34000,Verificación de la versión del servicio de Google Play
+34001,Google Play Iniciar sesión completo
+34002,Inicio de sesión del servidor completado
+34003,Cloud Guard Confirmación completa
+34004,Importación de datos Completo
+34005,Problema de reintento
+34006,"¡Error!
+ Cargar al modo fuera de línea"
+33007,Redondo(남성)
+33008,Redondo
+33009,Línea
 33010,Operación
 33011,Arriba
 33012,Medio
 33013,Abajo
-33014,Gran derrota 
+33014,Gran derrota
 33015,Fracaso
-33016,Osuno
-33017,Contención
-33018,Superioridad
+33016,Osuno(남성)
+33017,Osuno
+33018,Contención
 33019,Victoria
 33020,Gran victoria
-33021,Team Jungler Ganking. 
+33021,Equipo Jungler Ganking.
 33022,Día
-33023,Recompensa final de la temporada 
-33024,Ya se ha solicitado a su amigo. 
-33025,Ya amigo 
-33026,¿Estás seguro de que quieres eliminar a este amigo? 
-33027,Estrategia copiada 
-33028,Tipos 
-33029,Prohibición
-33030,Declaración
-33031,Bug / sugerencias 
-33032,Invitación del gerente. Conviértase en un gerente de equipo LOL. 
-33033,Calificación final 
-33034,La recompensa final 
-33035,Inicio de la temporada 
-33036,Ha comenzado una nueva temporada. 
-33037,Contribución del Salón de la Fama 
+33023,Recompensa de fin de temporada
+33024,Tu amigo ya ha sido solicitado.
+33025,Ya amigo(남성)
+33026,Ya amigo
+33027,¿Estás seguro de que quieres eliminar a este amigo?
+33028,Estrategia copiada
+33029,Tipo
+33030,Prohibición
+33031,Error / sugerencias
+33032,"Invitación del gerente.
+ Conviértete en un gerente del equipo LOL."
+33033,Calificación final
+33034,La recompensa final
+33035,Comienzo de la temporada
+33036,Una nueva temporada ha comenzado.
+33037,Contribución del Salón de la Fama
 33038,Descansar
-33039,No es suficiente esencia 
-37000,yaya
+33039,No es suficiente esencia
+37000,en
 37001,Esencia
 37002,Embalar
 37003,Paquete
-38000,Todos
-38001,Plata
-38002,Oro
+38000,Todo(남성)
+38001,Todo
+38002,Plata
 38003,Platino
-33040,Todos
+33040,Todo(남성)
 33041,Plata
 33042,Oro
 33043,Platino
 33044,Diamante
-33045,Desafiador
-33046,Maestro
-33047,Reclutamiento
-33048,Paquete
+33045,Desafiador(남성)
+33046,Desafiador...(남성)
+33047,Maestro...(남성)
+33048,Maestro
 33049,Presentación
-33050,Incluyendo limitado 
-33051,Solo limitado 
+33050,Incluido limitado(남성)
+33051,Incluido limitado
 33052,Intercambio
 33053,Agregar
 33054,Eliminar
 33055,Total
-33056,Estadísticas 
-33057,bronce
-33058,Hasta la actualización del siguiente rango 
+33056,Estadísticas
+33057,Bronce
+33058,Hasta la actualización del siguiente rango
 33059,Mover
 33060,Recibir
-33061,El mismo jugador ya está en la lista de inicio. 
+33061,El mismo jugador ya está en la lista de inicio.
 33062,No hay datos.
-33063,Los datos son anormales. 
+33063,Los datos son anormales.
 33064,Razón
-33065,Siguiente fecha de inicio de Crush 
-33066,Se produjo un error al crear un torneo. {{Touch Reinty para crear un nuevo torneo. 
-33067,El servidor está recibiendo datos. 
-33068,Los datos no se recibieron correctamente. 
-33069,Presentación del jugador de temporada 
-33070,Entrada de campeonato mundial 
-33071,Jugadores seleccionados que debutaron en la liga este año y esperan el futuro. Solo se puede obtener como recompensa de la temporada. 
-33072,¿Quieres detener la coincidencia automática? {Los elementos usados desaparecerán. 
-33073,¿Estás seguro de que quieres restablecer tu cuenta? {Guardar datos se eliminarán y el juego se reiniciará. 
-33074,El mismo entrenador ya está en la entrada. 
-33075,¿Estás seguro de que quieres eliminar al entrenador? Puede obtener 30 esencia. 
+33065,Siguiente fecha de inicio de Crush
+33066,Se produjo un error al crear un torneo. {{Touch Reinty para crear un nuevo torneo.
+33067,El servidor está recibiendo datos.
+33068,Los datos no se recibieron correctamente.
+33069,Presentación del jugador de temporada
+33070,Entrada del campeonato mundial
+33071,"Jugadores seleccionados que debutaron en la liga este año y esperan el futuro.
+ Solo se puede obtener como recompensa de la temporada."
+33072,¿Quieres detener la coincidencia automática? {Los elementos usados desaparecerán.
+33073,¿Estás seguro de que quieres restablecer tu cuenta? {Guardar datos se eliminarán y el juego se reiniciará.
+33074,El mismo entrenador ya está en la entrada.
+33075,"¿Estás seguro de que quieres eliminar al entrenador?
+ Puedes obtener 30sence."
+33076,"¿Le gustaría cambiar el nombre de su equipo?
+ Usa 500sessence."
+33077,Información de reclutamiento
+33078,Información de probabilidad
+33079,Al ver AD {Exp
+33080,Al ver AD {Essence

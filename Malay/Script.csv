@@ -1,193 +1,268 @@
 ﻿ID,Dec
-11000,Pasukan anda memenangi liga dengan bimbingan yang hebat! Mari bersiap untuk memenangi kejuaraan dunia. 
-11001,"Walaupun ia tidak menang, ia melakukan pekerjaan yang hebat. Mandi salji dilakukan dalam juara dunia! "
-11002,"Ia bukan kejohanan. Walau bagaimanapun, kami berjaya memajukan Kejohanan Dunia! "
-11003,Ia bukan kejohanan. Tetapi ia adalah kedudukan yang baik untuk cuba memenangi musim depan. 
-11004,"Yang paling teruk dielakkan, tetapi ia bukan kedudukan yang baik. Untuk kedudukan yang lebih tinggi} saya fikir ia memerlukan penyelenggaraan. "
-11005,Kami mengakhiri musim ini dalam kedudukan yang paling teruk. Bagi peminat yang menyokong kami} mari pergi lebih jauh untuk musim depan. 
-11006,Pasukan itu memenangi Kejohanan Dunia dengan bimbingan yang hebat! Pemain dan peminat meraikan arahan hebat anda. Tahniah. 
-11007,"Ia tidak menang, tetapi ia melakukan pekerjaan yang hebat. Mari cuba memenangi kejuaraan dunia musim depan! "
-11008,"Malangnya, ia adalah gred yang hebat. Mari kita tambah kuasa kita musim depan dan cuba memenangi juara dunia seterusnya. "
-11009,"Anda telah berjaya memasuki kejohanan. Musim depan, mari kita pergi untuk kejohanan yang lebih tinggi. "
-11010,"Malangnya, kejohanan itu gagal. Malangnya, mari kita maju ke Kejohanan Dunia musim depan dan bertujuan untuk kejohanan. "
-20000,Pameran / Operasi Line 
-20001,Seimbang
-20002,TeamFight 
-20003,Custom 
-21000,Ia adalah strategi untuk melancarkan bola salji berdasarkan pertempuran garis yang kuat. {{-It sesuai apabila anda mempunyai pertempuran garis yang kuat. {-Anda boleh kembali ke satu pukulan apabila anda mempunyai pukulan yang lemah. 
-21001,Lineup} Teamfight} Operasi Mainkan permainan dengan cara yang seimbang. {{-This sesuai apabila keupayaan pemain adalah. 
-21002,Ini strategi yang bertujuan untuk satu pukulan melalui satu pukulan. {{-It sesuai apabila pasukan mempunyai keupayaan satu tembakan yang kuat. {
-21003,Ini adalah strategi anda. 
-22000,Pusat permainan 
-22001,Pusat ganking 
-22002,Perintah utama 
-23000,Pilih keupayaan untuk menjadi pusat permainan. Statistik pasukan akan meningkat. Sebaliknya} selebihnya kuasa jatuh. 
-23001,Jungler memutuskan garis untuk ganking. 
-23002,Tetapkan kedudukan yang memberi tumpuan kepada operasi. Perintah utama akan meningkatkan perkadaran operasi pasukan. 
-24000,Seimbang
-24001,Baris 
-24002,TeamFight 
-24003,Operasi 
-24004,Seimbang
-24005,Atas 
-24006,Pertengahan 
+11000,"Pasukan anda memenangi liga dengan bimbingan yang hebat!
+ Mari bersiap untuk memenangi Kejohanan Dunia."
+11001,"Walaupun ia tidak menang, ia melakukan pekerjaan yang hebat.
+ Mandi salji dilakukan di Juara Dunia!"
+11002,"Ia bukan kejohanan.
+ Walau bagaimanapun, kami berjaya memajukan Kejohanan Dunia!"
+11003,"Ia bukan kejohanan.
+ Tetapi ia adalah kedudukan yang baik untuk cuba memenangi musim depan."
+11004,"Yang paling teruk dielakkan, tetapi ia bukan kedudukan yang baik.
+ Untuk kedudukan yang lebih tinggi} Saya fikir ia memerlukan penyelenggaraan."
+11005,"Kami mengakhiri musim ini dalam kedudukan yang paling teruk.
+ Bagi peminat yang menyokong kami} mari pergi lebih jauh untuk musim depan."
+11006,"Pasukan itu memenangi Kejohanan Dunia dengan bimbingan yang hebat!
+ Pemain dan peminat meraikan arahan hebat anda.
+ Tahniah."
+11007,"Ia tidak menang, tetapi ia melakukan pekerjaan yang hebat.
+ Mari cuba memenangi Kejohanan Dunia musim depan!"
+11008,"Malangnya, ia adalah gred yang hebat.
+ Mari kita tambah kuasa kita musim depan dan cuba memenangi juara dunia seterusnya."
+11009,"Anda telah berjaya memasuki kejohanan.
+ Musim depan, mari kita pergi ke kejohanan yang lebih tinggi."
+11010,"Malangnya, kejohanan itu gagal.
+ Malangnya, mari maju ke Kejohanan Dunia musim depan dan bertujuan untuk kejohanan."
+20000,Pameran / operasi talian
+20001,Keseimbangan
+20002,Teamfight
+20003,Adat
+21000,"Ia adalah strategi untuk melancarkan bola salji berdasarkan pertempuran garis yang kuat.
+ {{-It sesuai apabila anda mempunyai pertempuran garis yang kuat.
+ {-Anda boleh kembali ke satu pukulan apabila anda mempunyai pukulan yang lemah."
+21001,"Lineup} Teamfight} Operasi Mainkan permainan dengan cara yang seimbang.
+ {{-Ini sesuai apabila keupayaan pemain juga."
+21002,"Ini strategi yang bertujuan untuk satu pukulan melalui satu pukulan.
+ {{-It sesuai apabila pasukan mempunyai keupayaan satu tembakan yang kuat.
+ {"
+21003,Inilah strategi anda.
+22000,Pusat permainan
+22001,Pusat ganking
+22002,Pesanan utama
+23000,"Pilih keupayaan untuk menjadi pusat permainan.
+ Statistik pasukan akan meningkat.
+ Sebaliknya} selebihnya kuasa jatuh."
+23001,Jungler memutuskan garis untuk ganking.
+23002,"Tetapkan kedudukan yang memberi tumpuan kepada operasi.
+ Perintah utama akan meningkatkan perkadaran operasi pasukan."
+24000,Keseimbangan
+24001,Garis
+24002,Teamfight
+24003,Operasi
+24004,Keseimbangan
+24005,Atas
+24006,Pertengahan
 24007,Bawah
-24008,Atas 
-24009,Jungle 
-24010,Pertengahan 
-24011,Ad 
-24012,Sokongan 
-25000,Serang
-25001,Seimbang 
-25002,Tanker 
-25003,Serang
-25004,Seimbang 
-25005,Tanker 
-25006,Serang
-25007,Seimbang 
-25008,Penyokong 
-25009,Serang
-25010,Seimbang 
-25011,Utiliti 
-25012,Serang
-25013,Seimbang 
-25014,Tanker 
-26000,Sangat tekan lawan dalam talian. Ia juga mengawal operasi melalui perpecahan. {{▲ Statistik operasi meningkat. {{-Points diperoleh atau hilang pada peningkatan baris. {{▼ statfight teamfight lowers. 
-26001,Tank Deal Basic. 
-26002,Pengaruh dikurangkan dalam pertempuran garis. Walau bagaimanapun} dia lebih kuat di Teamfight. {{▲ Keupayaan TeamFight meningkat. {{-Points yang diperoleh atau hilang pada baris diturunkan. {{▼ stat operasi diturunkan. 
-26003,Ganking menjadi kuat. Walau bagaimanapun} terdapat risiko kegagalan ganking yang tinggi. {{▲ Line Stats meningkat. {{
-26004,Tank Deal Basic. 
-26005,Keupayaan ganking diturunkan. Walau bagaimanapun} keupayaan memukul meningkat. {{▲ Keupayaan memukul meningkat. {{▼ Keupayaan barisan turun. 
-26006,Sangat tekan lawan dalam talian. Ia juga mengawal operasi melalui perpecahan. {{▲ Statistik operasi meningkat. {{-Points diperoleh atau hilang pada peningkatan baris. {{▼ statfight teamfight lowers. 
-26007,Basic Nuker Champ. 
-26008,Matlamatnya adalah untuk meningkatkan keupayaan One Dil. {{▲ stat stat satu Dil meningkat. 
-26009,Hari -hari awal berkuasa. Namun} seiring berjalannya waktu} ia semakin lemah. {{▲ line-up hingga 20 minit pertama} Keupayaan berpasukan meningkat. {{▼ Keupayaan berpasukan berkurangan dari babak kedua. 
-26010,Juara asas satu asas. 
-26011,Memberi tumpuan kepada membantu pasukan dan bukannya peranan Carrie. {{▲ Statistik operasi naik. {{▼ lines stats turun. 
-26012,Perjuangan garis kuat. Walau bagaimanapun} adalah berbahaya untuk beroperasi dengan kesihatan yang rendah. {{▲ line-up stats meningkat. {{-Points diperoleh atau hilang dari peningkatan operasi. 
-26013,Juara Penyokong Asas. 
-26014,Lemah dalam barisan. Walau bagaimanapun} ia kuat dalam pertandingan berpasukan. {{▲ Teamfight Stat meningkat. {{▼ lines stat diturunkan. 
-30000,"Jika anda tidak boleh log masuk ke Google, anda tidak boleh bermain multiplayer. Sila masuk Google. "
-30001,Terdapat akhir permainan yang tidak normal semasa perlawanan terakhir. Permainan ini dilucutkan. 
-30002,Tahniah! Anda dinaikkan pangkat ke tahap seterusnya! 
-30003,Anda telah diturunkan kerana kekalahan berterusan. 
-30004,Menandatangani dalam 
-30005,Ada masalah. Sebab untuk mengeluarkan: 
-30006,"Sambungan Internet telah hilang. Apabila anda mempunyai sambungan internet}, anda akan disambung semula secara automatik. "
-30007,Internet terputus semasa perlawanan berbilang. {Jika anda klik ok} anda akan keluar dari stadium. 
-30008,Terdapat masalah mencari lawan anda. {Tekan ok untuk keluar dari stadium. 
-30009,Permainan ini tidak terkini. Anda perlu mengemas kini versi terkini untuk memainkan perlawanan. {{Tekan butang di bawah untuk memeriksa vers
-30010,Memeriksa 
-30011,Ia bukan versi terkini. 
-30012,Minit 
-30013,Anda telah dilaporkan sebagai pemain cheat dan tidak dapat bermain permainan multiplayer. {{Sila e -mel {hucce@gmail.com untuk sebarang pertanyaan. 
-30014,Anda didaftarkan sebagai pemain cheat. 
-30015,Memeriksa Pelayan Multiplay. Sila tunggu sehingga masa cek selesai 
-30016,Tidak dapat memuatkan senarai. Sila masuk Google dalam multiplay. 
-31000,Terima kasih kerana bermain permainan. Kajian anda sangat membantu pemaju. Anda akan menerima 300 Essence sebagai ganjaran. 
-32000,Terima kasih kerana menonton iklan. Klik OK untuk menerima ganjaran tontonan anda. 
-32001,Iklan dilangkau anda mesti menonton iklan hingga akhir untuk menerima ganjaran. 
-32002,Gagal mengambil iklan Sila periksa sambungan internet anda. 
-36000,Skor liga 
-36001,M 
-36002,W 
-36003,L 
-36004,Sejarah 
-36005,Atas 
-36006,Hasil perlawanan 
-36007,Terima 
-36008,Lengkap 
-36009,Tidak lengkap 
-36010,Pautan 
-36011,Musim 
-33000,Peningkatan hanya mungkin sehingga tahap 10. 
-33001,Kejayaan 
-33002,Kegagalan 
-33003,Kebarangkalian kejayaan 
-33004,Beza
-33005,Adakah anda mahu melangkau tutorial? Anda tidak boleh mendapatkan ganjaran dari tutorial. 
-33006,Bahasa akan berubah apabila anda memulakan semula permainan. 
-34000,Periksa versi perkhidmatan Google Play 
-34001,Google Play Login Lengkap 
-34002,Log masuk pelayan selesai 
-34003,Awan simpan pengesahan lengkap 
-34004,Import data lengkap 
-34005,Masalah semula 
-34006,Ralat! Beban ke mod luar talian 
-33007,Bulat 
-33008,Baris 
-33009,TeamFight 
-33010,Operasi 
-33011,Atas 
-33012,Pertengahan 
+24008,Atas
+24009,Hutan
+24010,Pertengahan
+24011,AD
+24012,Sokongan
+25000,Serangan
+25001,Seimbang
+25002,Tanker
+25003,Serangan
+25004,Seimbang
+25005,Tanker
+25006,Serangan
+25007,Seimbang
+25008,Penyokong
+25009,Serangan
+25010,Seimbang
+25011,Utiliti
+25012,Serangan
+25013,Seimbang
+25014,Tanker
+26000,"Sangat tekan lawan dalam talian.
+ Ia juga mengawal operasi melalui perpecahan.
+ {{▲ Statistik operasi meningkat.
+ {{-Points diperoleh atau hilang pada peningkatan baris.
+ {{▼ Stat Teamfight Rendah."
+26001,Tank Deal Basic.
+26002,"Pengaruh dikurangkan dalam pertempuran garis.
+ Walau bagaimanapun} dia lebih kuat di Teamfight.
+ {{▲ Keupayaan TeamFight meningkat.
+ {{-Points yang diperoleh atau hilang pada baris diturunkan.
+ {{▼ Stat operasi diturunkan."
+26003,"Ganking menjadi kuat.
+ Walau bagaimanapun} terdapat risiko kegagalan ganking yang tinggi.
+ {{▲ Line Stats meningkat.
+ {{"
+26004,Tank Deal Basic.
+26005,"Keupayaan ganking diturunkan.
+ Walau bagaimanapun} keupayaan memukul meningkat.
+ {{▲ Keupayaan memukul meningkat.
+ {{▼ Keupayaan barisan turun."
+26006,"Sangat tekan lawan dalam talian.
+ Ia juga mengawal operasi melalui perpecahan.
+ {{▲ Statistik operasi meningkat.
+ {{-Points diperoleh atau hilang pada peningkatan baris.
+ {{▼ Stat Teamfight Rendah."
+26007,Basic Nuker Champ.
+26008,"Matlamatnya adalah untuk meningkatkan keupayaan One Dil.
+ {{▲ statistik satu Dil meningkat."
+26009,"Hari -hari awal berkuasa.
+ Namun} seiring berjalannya waktu} ia semakin lemah.
+ {{▲ line-up hingga 20 minit pertama} Keupayaan berpasukan meningkat.
+ {{▼ Keupayaan berpasukan berkurangan dari babak kedua."
+26010,Juara asas satu peringkat.
+26011,"Memberi tumpuan kepada membantu pasukan dan bukannya peranan Carrie.
+ {{▲ Statistik operasi naik.
+ {{▼ Statistik baris turun."
+26012,"Perjuangan garis kuat.
+ Walau bagaimanapun} adalah berbahaya untuk beroperasi dengan kesihatan yang rendah.
+ {{▲ line-up stats meningkat.
+ {{-Points diperoleh atau hilang dari peningkatan operasi."
+26013,Juara Penyokong Asas.
+26014,"Lemah dalam barisan.
+ Walau bagaimanapun} ia kuat dalam pertandingan berpasukan.
+ {{▲ Teamfight Stat meningkat.
+ {{▼ lines stat diturunkan."
+30000,"Jika anda tidak boleh log masuk ke Google, anda tidak boleh bermain multiplayer.
+ Sila masuk Google."
+30001,"Terdapat akhir permainan yang tidak normal semasa perlawanan terakhir.
+ Permainan ini dilucutkan."
+30002,"Tahniah!
+ Anda dinaikkan pangkat ke peringkat seterusnya!"
+30003,Anda telah diturunkan kerana kekalahan berterusan.
+30004,Mendaftar masuk
+30005,"Ada masalah.
+ Sebab masalah:"
+30006,"Sambungan Internet telah hilang.
+ Apabila anda mempunyai sambungan internet}, anda akan disambung semula secara automatik."
+30007,"Internet terputus semasa perlawanan berbilang.
+ {Jika anda klik OK} anda akan keluar dari stadium."
+30008,"Terdapat masalah mencari lawan anda.
+ {Tekan OK untuk keluar dari stadium."
+30009,"Permainan ini tidak terkini.
+ Anda perlu mengemas kini versi terkini untuk memainkan perlawanan.
+ {{Tekan butang di bawah untuk memeriksa versi lagi} atau pergi ke halaman kemas kini."
+30010,Memeriksa
+30011,Ia bukan versi terkini.
+30012,Minit
+30013,Anda telah dilaporkan sebagai pemain cheat dan tidak dapat bermain permainan multiplayer. {{Sila e -mel {hucce@gmail.com untuk sebarang pertanyaan.
+30014,Anda didaftarkan sebagai pemain cheat.
+30015,"Memeriksa Pelayan Multiplay.
+ Sila tunggu sehingga masa cek selesai"
+30016,"Tidak dapat memuatkan senarai.
+ Sila masuk Google dalam Multiplay."
+31000,"Terima kasih kerana bermain permainan.
+ Kajian anda sangat membantu pemaju.
+ Anda akan menerima 300 Essence sebagai ganjaran."
+32000,"Terima kasih kerana menonton iklan.
+ Klik OK untuk menerima ganjaran tontonan anda."
+32001,Iklan dilangkau anda mesti menonton iklan hingga akhir untuk menerima ganjaran.
+32002,Gagal mengambil iklan sila periksa sambungan internet anda.
+36000,Skor liga
+36001,M
+36002,Dalam
+36003,L.
+36004,Sejarah
+36005,Atas
+36006,Keputusan perlawanan
+36007,Menerima
+36008,Lengkap
+36009,Tidak lengkap
+36010,Pautan
+36011,Musim
+33000,Peningkatan hanya mungkin sehingga tahap 10.
+33001,Kejayaan
+33002,Kegagalan
+33003,Kebarangkalian kejayaan
+33004,Perbezaan
+33005,"Adakah anda mahu melangkau tutorial?
+ Anda tidak boleh mendapatkan ganjaran dari tutorial."
+33006,Bahasa akan berubah apabila anda memulakan semula permainan.
+34000,Pemeriksaan Versi Perkhidmatan Google Play
+34001,Log masuk Google Play Lengkap
+34002,Log masuk pelayan selesai
+34003,Pengesahan Simpan Awan Selesai
+34004,Import Data Lengkap
+34005,Masalah cuba lagi
+34006,"Ralat!
+ Muat ke mod luar talian"
+33007,Bulat
+33008,Garis
+33009,Teamfight
+33010,Operasi
+33011,Atas
+33012,Pertengahan
 33013,Bawah
-33014,Kekalahan besar 
-33015,Kekalahan 
-33016,Bearish 
-33017,Perdebatan 
-33018,Keunggulan 
-33019,Kemenangan 
-33020,Kemenangan hebat 
-33021,Pasukan Jungler Ganking. 
-33022,Hari 
-33023,Ganjaran akhir musim 
-33024,Rakan anda telah diminta. 
-33025,Sudah kawan 
-33026,Adakah anda pasti mahu memadamkan rakan ini? 
-33027,Strategi yang disalin 
+33014,Kekalahan besar
+33015,Kekalahan
+33016,Menurun
+33017,Perbalahan
+33018,Keunggulan
+33019,Kemenangan
+33020,Kemenangan hebat
+33021,Pasukan Jungler Ganking.
+33022,Hari
+33023,Ganjaran akhir musim
+33024,Rakan anda telah diminta.
+33025,Sudah berkawan
+33026,Adakah anda pasti mahu memadamkan rakan ini?
+33027,Strategi yang disalin
 33028,Jenis
-33029,Larangan 
-33030,Pengisytiharan 
-33031,Bug / cadangan 
-33032,Jemputan pengurus. Menjadi pengurus pasukan lol. 
-33033,Penilaian akhir 
-33034,Ganjaran akhir 
-33035,Permulaan musim 
-33036,Musim baru telah bermula. 
-33037,Sumbangan Hall of Fame 
-33038,Rest 
-33039,Tidak cukup intipati 
-37000,nan 
-37001,Essence 
+33029,Larangan
+33030,Perisytiharan
+33031,Bug / cadangan
+33032,"Jemputan pengurus.
+ Menjadi pengurus pasukan LOL."
+33033,Penarafan akhir
+33034,Ganjaran terakhir
+33035,Permulaan musim
+33036,Musim baru telah bermula.
+33037,Sumbangan Hall of Fame
+33038,Rehat
+33039,Tidak cukup intipati
+37000,ke
+37001,Intipati
 37002,Pek
-37003,Pakej 
+37003,Pakej
 38000,Semua
-38001,Perak 
-38002,Emas 
-38003,Platinum 
+38001,Perak
+38002,Emas
+38003,Platinum
 33040,Semua
-33041,Perak 
-33042,Emas 
-33043,Platinum 
-33044,Diamond 
-33045,Challenger 
-33046,Master 
-33047,Pengambilan 
-33048,Pakej 
-33049,Persembahan 
-33050,Termasuk terhad 
-33051,Hanya terhad 
-33052,Swap 
+33041,Perak
+33042,Emas
+33043,Platinum
+33044,Berlian
+33045,Pencabar
+33046,Tuan
+33047,Pengambilan
+33048,Pakej
+33049,Persembahan
+33050,Termasuk terhad
+33051,Hanya terhad
+33052,Bertukar
 33053,Tambah
-33054,Keluarkan 
-33055,Jumlah 
-33056,Statistik 
-33057,gangsa 
-33058,Sehingga naik taraf pangkat seterusnya 
-33059,Bergerak 
-33060,Terima 
-33061,Pemain yang sama sudah berada di senarai permulaan. 
+33054,Keluarkan
+33055,Jumlah
+33056,Statistik
+33057,Gangsa
+33058,Sehingga naik taraf pangkat seterusnya
+33059,Bergerak
+33060,Menerima
+33061,Pemain yang sama sudah ada dalam senarai permulaan.
 33062,Tiada data.
-33063,Data tidak normal. 
-33064,Sebab 
-33065,Next Crush Start Date 
-33066,Ralat berlaku semasa membuat kejohanan. {{Touch Retry untuk membuat kejohanan baru. 
-33067,Pelayan menerima data. 
-33068,Data tidak diterima dengan betul. 
-33069,Persembahan Pemain Musim 
-33070,Entri Kejuaraan Dunia 
-33071,Pemain terpilih yang membuat debut mereka dalam liga tahun ini dan menantikan masa depan. Ia hanya boleh diperolehi sebagai ganjaran musim. 
-33072,Adakah anda mahu menghentikan perlawanan auto? {Item yang digunakan akan hilang. 
-33073,Adakah anda pasti ingin menetapkan semula akaun anda? {Simpan data akan dipadamkan dan permainan akan dimulakan semula. 
-33074,Jurulatih yang sama sudah ada dalam entri. 
-33075,Adakah anda pasti mahu memadamkan jurulatih? Anda boleh mendapatkan 30 intipati. 
+33063,Data tidak normal.
+33064,Sebab
+33065,Tarikh Mula Hancurkan Seterusnya
+33066,Kesalahan berlaku semasa membuat kejohanan. {{Touch Retry untuk membuat kejohanan baru.
+33067,Pelayan menerima data.
+33068,Data tidak diterima dengan betul.
+33069,Persembahan Pemain Musim
+33070,Entri Kejohanan Dunia
+33071,"Pemain terpilih yang membuat debut mereka dalam liga tahun ini dan menantikan masa depan.
+ Ia hanya boleh diperolehi sebagai ganjaran musim."
+33072,Adakah anda mahu menghentikan perlawanan auto? {Item terpakai akan hilang.
+33073,Adakah anda pasti mahu menetapkan semula akaun anda? {Simpan data akan dipadam dan permainan akan dimulakan semula.
+33074,Jurulatih yang sama sudah ada dalam entri.
+33075,"Adakah anda pasti mahu memadamkan jurulatih?
+ Anda boleh mendapat 30 tahun."
+33076,"Adakah anda ingin menukar nama pasukan anda?
+ Menggunakan 500Sessence."
+33077,Maklumat Perekrutan
+33078,Maklumat kebarangkalian
+33079,Semasa menonton iklan {exp
+33080,Semasa menonton iklan {Essence

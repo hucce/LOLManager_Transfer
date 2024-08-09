@@ -172,7 +172,7 @@
 33054,Remove
 33055,Total
 33056,Stats
-33057,bronze
+33057,Bronze
 33058,Until next rank upgrade
 33059,Move
 33060,Receive
@@ -190,4 +190,9 @@
 33072,Do you want to stop the auto match?{Used items will disappear.
 33073,Are you sure you want to reset your account?{Save data will be deleted and the game will restart.
 33074,The same coach is already in the entry.
-33075,Are you sure you want to delete the coach? You can get 30 Essence.
+33075,Are you sure you want to delete the coach? You can get 30Essence.
+33076,Would you like to change your team name? Uses 500Essence.
+33077,Recruitment Info
+33078,Probability Info
+33079,When watching ad{EXP
+33080,When watching ad{Essence

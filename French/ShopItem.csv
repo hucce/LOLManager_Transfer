@@ -1,21 +1,11 @@
 ﻿ID,Name,Dec
-1000,Recrutement d'or ,Recruter 1 joueur aléatoire avec une statistique combinée au-dessus de 81. 
-1001,Package d'or ,Recruter 5 joueurs aléatoires avec une statistique combinée au-dessus de 81. 
-1002,Recrutement des joueurs ,Recruter 1 joueur aléatoire. 
-1003,Recrutement en argent ,Recruter 1 joueur aléatoire avec une statistique combinée au-dessus de 76. 
-1004,Recrutement d'or ,Recruter 1 joueur aléatoire avec une statistique combinée au-dessus de 81. 
-1005,Recrutement de platine ,Recrutez 1 joueur aléatoire avec un GPA combiné de 84 ou plus. 
-1006,Paquet de base,Recruter 5 joueurs aléatoires. 
-1007,Package d'argent ,Recruter 5 joueurs aléatoires avec une statistique combinée au-dessus de 76. 
-1008,Package d'or ,Recruter 5 joueurs aléatoires avec une statistique combinée au-dessus de 81. 
-1009,Package Platine ,Recruter 5 joueurs aléatoires avec un GPA combiné de 84 ou plus. 
-1010,Recrutement de la saison 2021 ,Recrutez 1 joueur aléatoire de la saison 21SPR-21. (Sans inclure la limitation) 
-1011,Package 2021Saison ,Recrutez 5 joueur aléatoire de la saison 21SPR-21. (Sans inclure la limitation) 
-1012,Recrutement de la saison 2022 ,Recrutez 1 joueur aléatoire de la saison 22SPR-22SUM. (Sans inclure la limitation) 
-1013,Package 2022Saison ,Recrutez 5 Joueur aléatoire de la saison 22SPR-22SUM. (Sans inclure la limitation) 
-1014,2023S-Season Recruitment ,Recrutez 1 joueur aléatoire de la saison 23SPR-23SUM. (Sans inclure la limitation) 
-1015,Package 2023Saison ,Recrutez 5 Joueur aléatoire de la saison 23SPR-23SUM. (Sans inclure la limitation) 
-1016,Recrutement de la saison précédente ,Un joueur aléatoire de la saison 18-20SUM est recruté. (Sans inclure la limitation) 
-1017,Package de la saison précédente ,5 joueurs aléatoires de la saison 18-20SUM sont recrutés. (Sans inclure la limitation) 
-1018,Recrutement des entraîneurs ,Recruter 1 entraîneur aléatoire. 
-1019,Changer le nom de l'équipe ,Changez le nom de votre équipe. 
+1000,Recrutement des joueurs,Recruter des joueurs aléatoires en 2024.
+1001,Recrutement des entraîneurs,Embaucher un entraîneur aléatoire.
+1002,Recrutement de la saison 2023,"Recruter un joueur aléatoire de la saison 23.
+ (Sans inclure la limitation)"
+1003,Recrutement de la saison 2022,"Recruter un joueur aléatoire de la 22-saison.
+ (Sans inclure la limitation)"
+1004,Recrutement de la saison 2021,"Recruter un joueur aléatoire de la 21-saison.
+ (Sans inclure la limitation)"
+1005,Recrutement de la saison précédente,"Recruter le joueur aléatoire de la 18 ~ 20-saison.
+ (Sans inclure la limitation)"

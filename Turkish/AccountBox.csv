@@ -1,33 +1,33 @@
 ﻿ID,Name,Dec
-1000,Günlük Giriş Ödülü ,Bugün Giriş Ödül 
-1001,3 günlük ödül ,Bugünün 3 Maç Ödülü 
-1002,Destek,Geliştiriciye Twonation ile sponsor olabilirsiniz. 
-1003,Gözden geçirmek,Lütfen inceleyin ve sizi ödüllendireceğiz. 
-1004,Öğretici Tamamlandı ,Tam öğretici 
-1005,Gümüş Rütbe Başarısı ,Çoklu Gümüş Rütbe 
-1006,Altın Sıralama Başarısı ,Multiplay Gold Rank 
-1007,Platinum Rütbe Başarısı ,Multiplay Platinum Rank 
-1008,Elmas Rütbe Başarısı ,Çoklu elmas rütbe 
-1009,Master Rank Achievement ,Multiplay Master Rank 
-1010,Challenger Başarı ,Multiplay Challenger Rank 
-1011,Lig Şampiyonu ,Ligde birincilik elde edildi 
-1012,Gümüş madalya,Ligde ikinci sırada yer aldı 
-1013,Bronz madalya,Ligde üçüncü sırada yer aldı 
-1014,3 Şampiyon ,3 lig başlığı elde edin 
-1015,3 gümüş madalya ,Üç ligde ikinci sırada yer aldı 
-1016,3 bronz madalya ,Üç ligde üçüncü oldu 
-1017,5 Şampiyon ,5 lig başlığı elde edin 
-1018,5 gümüş madalya ,Beş ligde ikinci sıraya ulaşın 
-1019,5 bronz madalya ,Beş ligde üçüncü sıraya ulaşın 
-1020,İlk sezon,İlk Sezon Son Tarih 
-1021,Üçüncü Sezon ,Üçüncü Sezon Son Tarih 
-1022,Beşinci Sezon ,Beşinci Sezon Son Tarih 
-1023,Onuncu sezon ,10. Sezon Son Tarih 
-1024,6 Günlük Ödüller ,Bugünün 6 Maç Ödülü 
-1025,Gümüş Rütbe Başarısı ,Çoklu Gümüş Rütbe 
-1026,Altın Sıralama Başarısı ,Multiplay Gold Rank 
-1027,Platinum Rütbe Başarısı ,Multiplay Platinum Rank 
-1028,Elmas Rütbe Başarısı ,Çoklu elmas rütbe 
-1029,Master Rank Achievement ,Multiplay Master Rank 
-1030,Challenger Başarı ,Multiplay Challenger Rank 
-1031,Günlük eşleşme sınırı ,Öz alabileceğiniz günde eşleşme sayısı 
+1000,Günlük Giriş Ödülü,Bugün Giriş Ödül
+1001,3 Günlük Ödüller,Bugünün 3 Maç Ödülü
+1002,Destek,Geliştiriciye Twonation ile sponsor olabilirsiniz.
+1003,Gözden geçirmek,Lütfen inceleyin ve sizi ödüllendireceğiz.
+1004,Eğitim Tamamlandı,Tam öğretici
+1005,Gümüş Rütbe Başarısı,Çok oyunlu gümüş rütbesine ulaşın
+1006,Altın Rütbesi Başarısı,Çoklu altın rütbesine ulaşmak
+1007,Platin rütbe başarısı,Çokluklu Platin Rütbesi'ni elde edin
+1008,Elmas rütbe başarısı,Çoklu elmas rütbesine ulaşın
+1009,Master Rütbe Başarısı,Multiplay Master Rank'a ulaşmak
+1010,Challenger Başarı,Multiplay Challenger Rank'a ulaşmak
+1011,Lig şampiyonu,Ligde birincilik elde edildi
+1012,Gümüş madalya,Ligde ikinci sırada yer aldı
+1013,Bronz madalya,Ligde üçüncü oldu
+1014,3 Şampiyon,3 lig şampiyonluğunu elde edin
+1015,3 gümüş madalya,Üç ligde ikinci sırada yer aldı
+1016,3 bronz madalya,Üç ligde üçüncü sırada yer aldı
+1017,5 Şampiyon,5 lig başlıklarına ulaşın
+1018,5 gümüş madalya,Beş ligde ikinci sıraya ulaşın
+1019,5 bronz madalya,Beş ligde üçüncü sıraya ulaşın
+1020,İlk sezon,İlk Sezon Son Tarihi
+1021,Üçüncü sezon,Üçüncü Sezon Son Tarihi
+1022,Beşinci sezon,Beşinci Sezon Son Tarihi
+1023,Onuncu Sezon,10. Sezon Son Tarihi
+1024,6 Günlük Ödüller,Bugünün 6 Maç Ödülleri
+1025,Gümüş Rütbe Başarısı,Çok oyunlu gümüş rütbesine ulaşın
+1026,Altın Rütbesi Başarısı,Çoklu altın rütbesine ulaşmak
+1027,Platin rütbe başarısı,Çokluklu Platin Rütbesi'ni elde edin
+1028,Elmas rütbe başarısı,Çoklu elmas rütbesine ulaşın
+1029,Master Rütbe Başarısı,Multiplay Master Rank'a ulaşmak
+1030,Challenger Başarı,Multiplay Challenger Rank'a ulaşmak
+1031,Günlük Maç Sınırı,Özü alabileceğiniz günde maç sayısı

@@ -1,21 +1,11 @@
 ﻿ID,Name,Dec
-1000,Goldrekrutierung ,Recruit 1 zufälliger Spieler mit einem kombinierten Status oben 81. 
-1001,Goldpaket ,Rekrutieren Sie 5 zufällige Spieler mit einem kombinierten Status oben 81. 
-1002,Rekrutierung von Spielern ,Recruit 1 Random Player. 
-1003,Silberrekrutierung ,Rekrutieren Sie 1 zufälliger Spieler mit einem kombinierten Status oben 76. 
-1004,Goldrekrutierung ,Recruit 1 zufälliger Spieler mit einem kombinierten Status oben 81. 
-1005,Platinumrekrutierung ,Recruit 1 zufälliger Spieler mit einem kombinierten GPA von 84 oder höher. 
-1006,Basispaket,Rekrutieren Sie 5 zufällige Spieler. 
-1007,Silberpaket ,Rekrutieren Sie 5 zufällige Spieler mit einem kombinierten Status oben 76. 
-1008,Goldpaket ,Rekrutieren Sie 5 zufällige Spieler mit einem kombinierten Status oben 81. 
-1009,Platin -Paket ,Rekrutieren Sie 5 zufällige Spieler mit einem kombinierten GPA von 84 oder höher. 
-1010,2021Season Recruitment ,Rekrutieren Sie 1 zufälliger Spieler aus der 21SPR-21Sum-Saison. (Nichtbeschränkung) 
-1011,2021Season Paket ,Rekrutieren Sie 5 zufällige Spieler aus der 21SPR-21Sum-Saison. (Nichtbeschränkung) 
-1012,2022Season Recruitment ,Rekrutieren Sie 1 zufälliger Spieler aus der 22SPR-22Sum-Saison. (Nichtbeschränkung) 
-1013,2022Season Paket ,Rekrutieren Sie 5 zufällige Spieler aus der 22SPR-22Sum-Saison. (Nichtbeschränkung) 
-1014,2023Season Recruitment ,Rekrutieren Sie 1 zufälliger Spieler aus der 23SPR-23Sum-Saison. (Nichtbeschränkung) 
-1015,2023Season Paket ,Rekrutieren Sie 5 zufällige Spieler aus der 23SPR-23Sum-Saison. (Nichtbeschränkung) 
-1016,Rekrutierung der Vorgängersaison ,Ein zufälliger Spieler aus der 18- bis 20. Saison wird rekrutiert. (Nichtbeschränkung) 
-1017,Vorgängeres Paket ,5 zufällige Spieler aus der 18- bis 20. Saison werden rekrutiert. (Nichtbeschränkung) 
-1018,Coach Recruitment ,Recruit 1 Random Coach. 
-1019,Ändern Sie den Teamnamen ,Ändern Sie Ihren Teamnamen. 
+1000,Rekrutierung von Spielern,Rekrutieren Sie zufällige Spieler im Jahr 2024.
+1001,Rekrutierung von Coach,Mieten Sie einen zufälligen Trainer.
+1002,2023Saison Rekrutierung,"Rekrutieren Sie zufälligen Spieler aus der 23. Saison.
+ (Ohne Einschränkung)"
+1003,2022Saison Rekrutierung,"Rekrutieren Sie den zufälligen Spieler aus der 22 -Season.
+ (Ohne Einschränkung)"
+1004,2021Season Rekrutierung,"Rekrutieren Sie zufälligen Spieler aus der 21. Saison.
+ (Ohne Einschränkung)"
+1005,Rekrutierung der vorherigen Saison,"Rekrutieren Sie zufälligen Spieler aus der 18 ~ 20 Season.
+ (Ohne Einschränkung)"

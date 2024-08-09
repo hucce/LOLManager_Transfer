@@ -1,21 +1,11 @@
 ﻿ID,Name,Dec
-1000,Tuyển dụng vàng ,Tuyển dụng 1 Người chơi ngẫu nhiên có chỉ số kết hợp trên 81. 
-1001,Gói vàng ,Tuyển dụng 5 người chơi ngẫu nhiên với chỉ số kết hợp trên 81. 
-1002,Người chơi tuyển dụng ,Tuyển dụng 1 người chơi ngẫu nhiên. 
-1003,Tuyển dụng bạc ,Tuyển dụng 1 Người chơi ngẫu nhiên có chỉ số kết hợp trên 76. 
-1004,Tuyển dụng vàng ,Tuyển dụng 1 Người chơi ngẫu nhiên có chỉ số kết hợp trên 81. 
-1005,Tuyển dụng bạch kim ,Tuyển dụng 1 người chơi ngẫu nhiên với điểm trung bình kết hợp từ 84 trở lên. 
-1006,Gói cơ bản,Tuyển dụng 5 người chơi ngẫu nhiên. 
-1007,Gói bạc ,Tuyển dụng 5 người chơi ngẫu nhiên với chỉ số kết hợp trên 76. 
-1008,Gói vàng ,Tuyển dụng 5 người chơi ngẫu nhiên với chỉ số kết hợp trên 81. 
-1009,Gói bạch kim ,Tuyển dụng 5 người chơi ngẫu nhiên với điểm trung bình kết hợp từ 84 trở lên. 
-1010,Tuyển dụng 2021Season ,Tuyển dụng 1 cầu thủ ngẫu nhiên từ mùa 21SPR-21SUM. (Không bao gồm giới hạn) 
-1011,Gói 2021Senty ,Tuyển dụng 5 cầu thủ ngẫu nhiên từ mùa 21SPR-21SUM. (Không bao gồm giới hạn) 
-1012,Tuyển dụng 2022Sason ,Tuyển dụng 1 cầu thủ ngẫu nhiên từ mùa 22SPR-22SUM. (Không bao gồm giới hạn) 
-1013,Gói 2022Senty ,Tuyển dụng 5 cầu thủ ngẫu nhiên từ mùa 22SPR-22SUM. (Không bao gồm giới hạn) 
-1014,Tuyển dụng 2023Sason ,Tuyển dụng 1 cầu thủ ngẫu nhiên từ mùa giải 23SPR-23SUM. (Không bao gồm giới hạn) 
-1015,Gói 2023Senty ,Tuyển dụng 5 cầu thủ ngẫu nhiên từ mùa 23SPR-23SUM. (Không bao gồm giới hạn) 
-1016,Tuyển dụng mùa trước ,Một cầu thủ ngẫu nhiên từ mùa giải 18-20sum được tuyển dụng. (Không bao gồm giới hạn) 
-1017,Gói mùa trước ,5 cầu thủ ngẫu nhiên từ mùa giải 18-20sum được tuyển dụng. (Không bao gồm giới hạn) 
-1018,Tuyển dụng huấn luyện viên ,Tuyển dụng 1 Huấn luyện viên ngẫu nhiên. 
-1019,Thay đổi tên nhóm ,Thay đổi tên nhóm của bạn. 
+1000,Tuyển dụng người chơi,Tuyển dụng người chơi ngẫu nhiên vào năm 2024.
+1001,Huấn luyện viên tuyển dụng,Thuê một huấn luyện viên ngẫu nhiên.
+1002,Tuyển dụng 2023,"Tuyển dụng người chơi ngẫu nhiên từ 23 tháng.
+ (Không bao gồm giới hạn)"
+1003,Tuyển dụng 2022,"Tuyển dụng người chơi ngẫu nhiên từ những năm 22.
+ (Không bao gồm giới hạn)"
+1004,Tuyển dụng 2021,"Tuyển dụng người chơi ngẫu nhiên từ 21 tháng.
+ (Không bao gồm giới hạn)"
+1005,Tuyển dụng mùa trước,"Tuyển dụng người chơi ngẫu nhiên từ 18 ~ 20.
+ (Không bao gồm giới hạn)"

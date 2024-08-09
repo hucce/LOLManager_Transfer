@@ -1,21 +1,11 @@
 ﻿ID,Name,Dec
-1000,Pengambilan Emas ,Merekrut 1 pemain rawak dengan statistik gabungan di atas 81. 
-1001,Pakej Emas ,Merekrut 5 pemain rawak dengan statistik gabungan di atas 81. 
-1002,Pengambilan Pemain ,Merekrut 1 pemain rawak. 
-1003,Pengambilan Perak ,Merekrut 1 pemain rawak dengan statistik gabungan di atas 76. 
-1004,Pengambilan Emas ,Merekrut 1 pemain rawak dengan statistik gabungan di atas 81. 
-1005,Pengambilan Platinum ,Merekrut 1 pemain rawak dengan gabungan IPK 84 atau lebih tinggi. 
-1006,Pakej Asas ,Merekrut 5 pemain rawak. 
-1007,Pakej Perak ,Merekrut 5 pemain rawak dengan statistik gabungan di atas 76. 
-1008,Pakej Emas ,Merekrut 5 pemain rawak dengan statistik gabungan di atas 81. 
-1009,Pakej Platinum ,Merekrut 5 pemain rawak dengan gabungan IPK 84 atau lebih tinggi. 
-1010,2021Season Recruitment ,Merekrut 1 pemain rawak dari musim 21SPR-21SUM. (Tidak termasuk batasan) 
-1011,Pakej 2021Season ,Merekrut 5 pemain rawak dari musim 21SPR-21SUM. (Tidak termasuk batasan) 
-1012,2022Season Recruitment ,Merekrut 1 pemain rawak dari musim 22SPR-22Sum. (Tidak termasuk batasan) 
-1013,Pakej 2022Season ,Merekrut 5 pemain rawak dari musim 22SPR-22Sum. (Tidak termasuk batasan) 
-1014,2023Season Recruitment ,Merekrut 1 pemain rawak dari musim 23SPR-23sum. (Tidak termasuk batasan) 
-1015,Pakej 2023Season ,Merekrut 5 pemain rawak dari musim 23SPR-23sum. (Tidak termasuk batasan) 
-1016,Pengambilan Musim Sebelumnya ,Satu pemain rawak dari musim 18-20sum direkrut. (Tidak termasuk batasan) 
-1017,Pakej Musim Sebelumnya ,5 pemain rawak dari musim 18-20sum direkrut. (Tidak termasuk batasan) 
-1018,Pengambilan Jurulatih ,Merekrut 1 jurulatih rawak. 
-1019,Tukar nama pasukan ,Tukar nama pasukan anda. 
+1000,Pengambilan Pemain,Merekrut pemain rawak pada tahun 2024.
+1001,Pengambilan Jurulatih,Sewa jurulatih rawak.
+1002,2023Season Recruitment,"Merekrut pemain rawak dari 23season.
+ (Tidak termasuk batasan)"
+1003,2022Season Recruitment,"Merekrut pemain rawak dari 22season.
+ (Tidak termasuk batasan)"
+1004,2021Season Recruitment,"Merekrut pemain rawak dari 21season.
+ (Tidak termasuk batasan)"
+1005,Pengambilan musim sebelumnya,"Merekrut pemain rawak dari 18 ~ 20season.
+ (Tidak termasuk batasan)"

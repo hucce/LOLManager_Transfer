@@ -1,162 +1,174 @@
 ﻿ID,Dec
-10000,Hai. Senang berjumpa dengan anda. 
-10001,Dengan sokongan pengurus} dia mencipta pasukan baru dalam liga lol. 
-10002,Sila namakan pasukan anda terlebih dahulu. 
-10003,Mari membuat pasukan AAA ke dalam sejarah. 
-10004,Ini adalah perlawanan pertama liga. 
-10005,Di sini anda dapat melihat maklumat pasukan kami dan pasukan lain sebelum perlawanan. 
-10006,Pasukan semasa sudah mempunyai pemain yang mendaftar. 
-10007,Tetapi anda memerlukan banyak pemain untuk menang. 
-10008,Mari dapatkan pemain baru terlebih dahulu sebelum perlawanan. 
-10009,Ketik pasaran pengambilan 
-10010,Anda boleh merekrut pemain baru dengan intipati yang anda ada di pasaran merekrut. 
-10011,Mari kita sewa pemain baru dengan intipati yang kita ada sekarang. 
-10012,Tekan butang Beli Pemain. 
-10013,Kami mempunyai pemain baru. 
-10014,Pasukan ini masih tidak berdaya saing. Mari kita sewa pemain yang lebih baik untuk meningkatkan daya saing kita. 
-10015,Tidak ada intipati yang cukup untuk merekrut pemain yang baik. Dalam kes ini} anda boleh mendapatkan nombor keseluruhan menggunakan penaja. 
-10016,Lihat semua iklan video penaja} untuk mendapatkan ganjaran. 
-10017,Iklan yang ditaja pada mulanya} disediakan khas untuk menerima 50% lebih banyak ganjaran. 
-10018,Tekan pengiklanan yang ditaja. 
-10019,Penaja menghantar integer kepada kami. Sekarang mari kita dapatkan pemain baru dengan integer ini. 
-10020,Sila tekan butang pembelian. 
-10021,Kami mempunyai pemain baru. 
-10022,Sekarang mari kita cuba pemain baru. 
-10023,Tekan butang Pengurusan Pemain. 
-10024,Dalam pengurusan pemain} anda boleh memilih pemain calon. 
-10025,Tekan butang swap untuk mencuba calon. 
-10026,Menekan Ganti akan menjadikan pemain yang dipilih sebagai pemain permulaan dan pemain sedia ada akan dicalonkan. 
-10027,Juga} bergantung kepada komposisi permulaan} kesan tambahan boleh diperolehi. 
+10000,"Hai.
+ Senang berjumpa dengan anda."
+10001,Dengan sokongan pengurus} dia mencipta pasukan baru dalam liga lol.
+10002,Sila namakan pasukan anda terlebih dahulu.
+10003,Biarkan pasukan AAA menjadi sejarah.
+10004,Ini adalah perlawanan pertama liga.
+10005,Di sini anda dapat melihat maklumat pasukan kami dan pasukan lain sebelum perlawanan.
+10006,Pasukan semasa sudah mempunyai pemain yang mendaftar.
+10007,Tetapi anda memerlukan banyak pemain untuk menang.
+10008,Mari dapatkan pemain baru terlebih dahulu sebelum perlawanan.
+10009,Ketik Pasaran Pengambilan
+10010,Anda boleh merekrut pemain baru dengan intipati yang anda miliki di pasaran merekrut.
+10011,Mari kita menyewa pemain baru dengan intipati yang kita ada sekarang.
+10012,Tekan butang pengambilan x1.
+10013,Kami mempunyai pemain baru.
+10014,"Pasukan ini masih tidak berdaya saing.
+ Mari kita menyewa pemain yang lebih baik untuk meningkatkan daya saing kita."
+10015,"Tidak ada intipati yang cukup untuk merekrut pemain yang baik.
+ Dalam kes ini} anda boleh mendapatkan nombor keseluruhan menggunakan penaja."
+10016,Lihat semua iklan video penaja} untuk mendapatkan ganjaran.
+10017,Pada mulanya} Iklan yang ditaja bersedia untuk menerima 50% lebih banyak ganjaran.
+10018,Tekan pengiklanan yang ditaja.
+10019,"Penaja menghantar integer kepada kami.
+ Sekarang mari kita dapatkan pemain baru dengan integer ini."
+10020,Tekan butang pengambilan x5.
+10021,Kami mempunyai pemain baru.
+10022,Sekarang mari kita cuba pemain baru.
+10023,Tekan butang Pengurusan Pemain.
+10024,Dalam pengurusan pemain} anda boleh memilih pemain calon.
+10025,Tekan butang swap untuk mencuba calon.
+10026,Menekan Ganti akan menjadikan pemain terpilih sebagai pemain permulaan dan pemain sedia ada akan dicalonkan.
+10027,Juga} bergantung kepada komposisi permulaan} kesan tambahan boleh diperolehi.
 10028,Tekan butang
-10029,Anda boleh mendapatkan maklumat mengenai Tim Chemie di sini. 
-10030,Anda boleh menjadikan pasukan anda lebih kuat dengan memadankan kimia yang berbeza seperti jenis dan pasukan. 
-10031,Tekan x untuk keluar. 
-10032,Sekarang mari kita ubah pemain yang tidak diperlukan untuk pemain lain. 
-10033,Cuba tekan rekombinasi. 
-10034,Di sini anda boleh menggantikan empat calon dengan pemain baru. 
-10035,Buat sementara waktu saya memberikan empat pemain. Mari kita kumpulkan semula pemain ini. 
-10036,Tekan butang tambah. 
-10037,Tekan butang tambah. 
-10038,Tekan butang tambah. 
-10039,Tekan butang tambah. 
-10040,Letakkan ketiga -tiga pemain. Sekarang mari kita ubah menjadi pemain baru. 
-10041,Anda boleh menyemak maklumat keupayaan pemain dari maklumat pengambilan. 
-10042,Sekarang dapatkan pemain. 
-10043,Cuba tekan rekombinasi. 
-10044,Dengan cara ini anda boleh menggantikan pemain sedia ada dengan pemain baru. 
-10045,Sekarang mari kita bermain dengan pemain ini. 
-10046,Tekan butang Perlawanan 
-10047,Tekan butang kemajuan permainan. 
-10048,Permainan telah bermula. 
-10049,Mari kita percayai pemain dan menonton permainan. 
-10050,Seperti ini} apabila permainan berakhir} anda boleh mendapatkan pengalaman dan bilangan bulat. 
-10051,Essence tidak dapat diperoleh jika had perlawanan harian dilebihi. 
-10052,Tekan butang Teruskan untuk keluar dari stadium. 
-10053,Permainan pertama berakhir. 
-10054,Pemain penting untuk menang} tetapi strategi pengurus juga penting. 
-10055,Tekan butang strategi. 
-10056,Persediaan cepat menjadikannya mudah untuk menyediakan strategi utama. 
-10057,Baki kini menjadi strategi asas. 
-10058,Mari kita ubah tetapan. 
-10059,Klik pada baris / urusan. 
-10060,Perlawanan / operasi garis adalah strategi yang menamatkan permainan dengan mengendalikan keuntungan yang dilihat dalam perlawanan garis. 
-10061,Mari kita ubah strategi ke operasi line-of-line. 
-10062,Tekan butang Tetapan 
-10063,Strategi pasukan kini telah berubah dengan line-to-run. 
-10064,Persediaan cepat ini menjadikannya mudah untuk mengubah strategi pasukan anda. 
-10065,Tetapan terperinci boleh ditetapkan melalui arahan dan pickvan. 
-10066,Sekarang mari kita uji strategi kami. 
-10067,Tekan butang Perlawanan 
-10068,Mari lihat cara menggunakan item perlawanan sebelum meneruskan ke perlawanan. 
-10069,! Tekan butang.
-10070,Saya mendengar item pengalaman tambahan 10% sebagai hadiah. 
-10071,Sila periksa penggunaannya. 
-10072,"Jika anda menyemak penggunaan, anda akan menggunakan item yang sepadan dalam perlawanan masa depan. "
-10073,"Sekiranya terdapat banyak item, anda boleh menyemak Auto untuk menggunakan item secara automatik. "
-10074,Item jenis yang sama tidak boleh digunakan berulang kali. 
-10075,Tekan x untuk keluar. 
-10076,Sekarang mari kita lihat strategi dan item. 
-10077,Tekan butang Kemajuan Permainan 
-10078,"Selepas perlawanan ini, tahap pengurus telah meningkat. "
-10079,"Apabila tahap pengurus meningkat, anda mendapat intipati tambahan seperti ini. "
-10080,Anda boleh mendapatkan esensi tambahan dari tahap pengurus tanpa mengira had perlawanan harian. 
-10081,Tekan butang Teruskan untuk keluar dari stadium. 
-10082,Sesetengah pemain telah disamakan dengan mendapat pengalaman dalam perlawanan ini. 
-10083,Pemain yang tahap naik dapat meningkatkan statistik mereka. 
-10084,Tekan Pengurusan Pemain. 
-10085,Atlet yang telah menyamakan mempunyai tanda anak panah pada tahap. 
-10086,Ketik tahap pemain untuk menaikkan statistik. 
-10087,Di sini anda boleh meningkatkan statistik yang anda inginkan dengan mata. 
-10088,Anda boleh meningkatkan statistik dengan mengetuk anak panah stat yang dikehendaki. 
-10089,Ketik statistik yang anda inginkan dan ketuk keputusan. 
-10090,Ini akan meningkatkan keupayaan pemain. 
-10091,Tekan x untuk keluar. 
-10092,Atlet boleh dibuat lebih kuat dengan meratakan dan menguatkan seperti ini. 
-10093,Mari buat pemain lebih kuat dengan menguatkan. 
-10094,Tekan butang Reapforce. 
-10095,Penguatkuasaan menjadikan pemain lebih kuat melalui pemain yang sama. 
-10096,Kali ini} mari kita menyusun semula pemain yang saya berikan kepada anda. 
-10097,Cuba tekan butang ▼. 
-10098,Tekan butang untuk melipat senarai permulaan. Tekan butang untuk melihat senarai yang lebih besar dari sub pemain. 
-10099,Sekarang cuba tambah pemain. 
-10100,Tekan butang tambah. 
-10101,Jika pemain ditambah} hanya pemain yang sama kelihatan. 
-10102,Tekan butang tambah. 
-10103,"Sebagai pemain barangan ditambah}, anda dapat melihat peluang kejayaan. "
-10104,Kebarangkalian kejayaan ditentukan oleh perbezaan antara tahap tetulang dan tahap tetulang. 
-10105,Tekan butang ReinFroce. 
-10106,Jika anda mengulangi seperti ini} pemain barangan hilang. 
-10107,Kegagalan berbuat demikian tidak membuat pemain utama hilang atau kehilangan kelas. 
-10108,Sekarang mari terakhir periksa maklumat liga. 
-10109,Tekan butang liga. 
-10110,Tekan butang Jadual. 
-10111,Anda boleh menyemak jadual liga untuk pasukan anda di sini. 
-10112,Tekan butang pangkat. 
-10113,Di sini anda dapat melihat kedudukan liga. 
-10114,Tekan butang kejohanan 
-10115,Di sini anda boleh menyemak playoff selepas liga biasa berakhir. 
-10116,W adalah kedudukan untuk kemajuan ke Kejohanan Dunia. 
-10117,Kejohanan Dunia diadakan pada akhir liga biasa. 
-10118,Anda boleh bersaing dengan pasukan teratas dalam liga lain dan mendapat ganjaran yang lebih tinggi. 
-10119,Tekan butang set. 
-10120,Di mana anda mahukan liga 
-10121,Anda boleh menetapkan tahap kesukaran dan memulakan liga baru. 
-10122,"Dengan memilih liga dan kesukaran, anda dapat melihat ganjaran yang berubah dan keupayaan pasukan liga. "
-10123,Pilih tahap liga dan kesukaran anda dan tekan butang liga baru. 
-10124,Anda boleh memulakan liga baru seperti ini. 
-10125,Sekarang semuanya sudah siap. 
-10126,Akhirnya} pengurus menghantar intipati. 
-10127,Mari buat pemenang liga AAA! 
-10128,Hai. Selamat datang ke permainan Multi Match. 
-10129,Di sini anda boleh memainkan jurulatih lain. 
-10130,Di sini anda dapat melihat penarafan pasukan anda} mata dan padanan datas. 
-10131,Tekan butang Maklumat Ganjaran. 
-10132,Di sini anda boleh mendapatkan maklumat mengenai ganjaran perlawanan berbilang. 
-10133,Di meja tier} terdapat enam peringkat gangsa} perak} emas} platinum} berlian} master} celinger. 
-10134,Kali pertama anda memulakan} anda bermula dengan peringkat gangsa. 
-10135,Menaikkan peringkat anda akan memberi anda intipati di atas. 
-10136,Dan anda boleh mendapatkan intipati bonus pada akhir perlawanan dengan peratusan yang ditunjukkan di bawah. 
-10137,Saya akan menerangkan musim. 
-10138,Musim ini menetapkan semula peringkat dan memulakan permainan baru selepas tempoh tetap. 
-10139,"Apabila musim baru bermula, anda diberi ganjaran mengikut pangkat musim lalu. "
-10140,Ganjaran untuk peringkat anda boleh didapati di sini. 
-10141,Sekarang tekan x untuk keluar dari maklumat ganjaran. 
-10142,Ke peringkat} anda perlu memenangi perlawanan dan mengumpul mata. 
-10143,Kumpulkan 100 mata untuk maju ke peringkat seterusnya. 
-10144,Tetapi berhati -hati kerana anda boleh diturunkan pada kerugian berterusan pada sifar. 
-10145,"Jika anda menaikkan tahap anda lebih tinggi dengan memenangi}, anda boleh menyemak kedudukan pasukan anda melalui ranking di bawah. "
-10146,Dan anda dapat melihat pasukan pangkat secara terperinci. 
+10029,Anda boleh mendapatkan maklumat mengenai Tim Chemie di sini.
+10030,Anda boleh menjadikan pasukan anda lebih kuat dengan memadankan kimia yang berbeza seperti jenis dan pasukan.
+10031,Tekan X untuk keluar.
+10032,Sekarang mari kita ubah pemain yang tidak diperlukan untuk pemain lain.
+10033,Cuba tekan rekombinasi.
+10034,Di sini anda boleh menggantikan empat calon dengan pemain baru.
+10035,"Buat sementara waktu saya memberikan empat pemain.
+ Mari kita kumpulkan semula pemain ini."
+10036,Tekan butang Tambah.
+10037,Tekan butang Tambah.
+10038,Tekan butang Tambah.
+10039,Tekan butang Tambah.
+10040,"Letakkan ketiga -tiga pemain.
+ Sekarang mari kita ubah kepada pemain baru."
+10041,Anda boleh menyemak maklumat keupayaan pemain dari maklumat pengambilan.
+10042,Sekarang dapatkan pemain.
+10043,Cuba tekan rekombinasi.
+10044,"Dengan cara ini, anda boleh menggantikan pemain sedia ada dengan pemain baru."
+10045,Sekarang mari kita bermain dengan pemain ini.
+10046,Tekan butang Perlawanan
+10047,Tekan butang Kemajuan Permainan.
+10048,Permainan telah bermula.
+10049,Mari kita percayai pemain dan menonton permainan.
+10050,Seperti ini} apabila permainan berakhir} anda boleh mendapatkan pengalaman dan bilangan bulat.
+10051,Essence tidak boleh diperoleh jika had perlawanan harian melebihi.
+10052,Tekan butang Teruskan untuk keluar dari stadium.
+10053,Permainan pertama berakhir.
+10054,Pemain adalah penting untuk menang} tetapi strategi pengurus juga penting.
+10055,Tekan butang Strategi.
+10056,Persediaan cepat menjadikannya mudah untuk menubuhkan strategi utama.
+10057,Baki kini menjadi strategi asas.
+10058,Mari ubah tetapan.
+10059,Klik pada baris / menguruskan.
+10060,Perlawanan / operasi garis adalah strategi yang berakhir dengan permainan dengan mengendalikan keuntungan yang dilihat dalam perlawanan.
+10061,Mari kita ubah strategi ke operasi line-of-line.
+10062,Tekan butang Tetapan
+10063,Strategi pasukan kini telah berubah dengan line-to-run.
+10064,Persediaan cepat ini menjadikannya mudah untuk mengubah strategi pasukan anda.
+10065,Tetapan terperinci boleh ditetapkan melalui arahan dan pickvan.
+10066,Sekarang mari kita uji strategi kami.
+10067,Tekan butang Perlawanan
+10068,Mari lihat cara menggunakan item perlawanan sebelum meneruskan ke perlawanan.
+10069,"!
+ Tekan butang."
+10070,Saya mendengar item pengalaman tambahan 10% sebagai hadiah.
+10071,Sila periksa penggunaannya.
+10072,"Jika anda menyemak penggunaan, anda akan menggunakan item yang sepadan dalam perlawanan masa depan."
+10073,"Jika terdapat banyak item, anda boleh menyemak Auto untuk menggunakan item secara automatik."
+10074,Item jenis yang sama tidak boleh digunakan berulang kali.
+10075,Tekan X untuk keluar.
+10076,Sekarang mari kita lihat strategi dan item.
+10077,Tekan butang Kemajuan Permainan
+10078,"Selepas perlawanan ini, tahap pengurus telah meningkat."
+10079,"Apabila tahap pengurus meningkat, anda mendapat intipati tambahan seperti ini."
+10080,Anda boleh mendapatkan esensi tambahan dari tahap pengurus tanpa mengira had perlawanan harian.
+10081,Tekan butang Teruskan untuk keluar dari stadium.
+10082,Sesetengah pemain telah disamakan dengan mendapat pengalaman dalam perlawanan ini.
+10083,Pemain yang tahap naik boleh meningkatkan statistik mereka.
+10084,Tekan Pengurusan Pemain.
+10085,Atlet yang telah meratakan mempunyai tanda anak panah di peringkat.
+10086,Ketik tahap pemain untuk menaikkan statistik.
+10087,Di sini anda boleh meningkatkan statistik yang anda inginkan dengan mata.
+10088,Anda boleh meningkatkan statistik dengan mengetuk anak panah stat yang dikehendaki.
+10089,Ketik statistik yang anda inginkan dan ketik keputusan.
+10090,Ini akan meningkatkan keupayaan pemain.
+10091,Tekan X untuk keluar.
+10092,Atlet boleh dibuat lebih kuat dengan meratakan dan menguatkan seperti ini.
+10093,Mari buat pemain lebih kuat dengan mengukuhkan.
+10094,Tekan butang Reapforce.
+10095,Penguatkuasaan menjadikan pemain lebih kuat melalui pemain yang sama.
+10096,Kali ini} Mari kita menyusun semula pemain yang saya berikan kepada anda.
+10097,Cuba tekan butang ▼.
+10098,"Tekan butang untuk melipat senarai permulaan.
+ Tekan butang untuk melihat senarai yang lebih besar dari sub pemain."
+10099,Sekarang cuba tambah pemain.
+10100,Tekan butang Tambah.
+10101,Jika pemain ditambah} hanya pemain yang sama kelihatan.
+10102,Tekan butang Tambah.
+10103,"Sebagai pemain barangan ditambah}, anda dapat melihat peluang kejayaan."
+10104,Kebarangkalian kejayaan ditentukan oleh perbezaan antara tahap tetulang dan tahap tetulang.
+10105,Tekan butang Reinfroce.
+10106,Jika anda mengulangi semula seperti ini} pemain barangan hilang.
+10107,Kegagalan berbuat demikian tidak membuat pemain utama hilang atau kehilangan kelas.
+10108,Sekarang mari terakhir periksa maklumat liga.
+10109,Tekan butang liga.
+10110,Tekan butang Jadual.
+10111,Anda boleh menyemak jadual liga untuk pasukan anda di sini.
+10112,Tekan butang pangkat.
+10113,Di sini anda dapat melihat kedudukan liga.
+10114,Tekan butang kejohanan
+10115,Di sini anda boleh menyemak playoff selepas liga biasa berakhir.
+10116,W adalah ranking untuk kemajuan ke Kejohanan Dunia.
+10117,Kejohanan Dunia diadakan pada akhir liga biasa.
+10118,Anda boleh bersaing dengan pasukan teratas dalam liga lain dan mendapatkan ganjaran yang lebih tinggi.
+10119,Tekan butang Tetapkan.
+10120,Di mana anda mahukan liga
+10121,Anda boleh menetapkan tahap kesukaran dan memulakan liga baru.
+10122,"Dengan memilih liga dan kesukaran, anda dapat melihat ganjaran yang berubah dan keupayaan pasukan liga."
+10123,Pilih tahap liga dan kesukaran anda dan tekan butang Liga Baru Mula.
+10124,Anda boleh memulakan liga baru seperti ini.
+10125,Sekarang semuanya sudah siap.
+10126,Akhirnya} Pengurus menghantar kami intipati.
+10127,Mari buat pemenang Liga AAA!
+10128,"Hai.
+ Selamat datang ke permainan Multi Match."
+10129,Di sini anda boleh memainkan perlawanan jurulatih lain.
+10130,Di sini anda dapat melihat penarafan pasukan anda} mata dan padanan datas.
+10131,Tekan butang Maklumat Ganjaran.
+10132,Di sini anda boleh mendapatkan maklumat mengenai ganjaran perlawanan berbilang.
+10133,Pada jadual tier} terdapat enam peringkat gangsa} perak} emas} platinum} berlian} master} celinger.
+10134,Kali pertama anda memulakan} anda bermula dengan peringkat gangsa.
+10135,Meningkatkan peringkat anda akan memberi anda intipati di atas.
+10136,Dan anda boleh mendapatkan intipati bonus pada akhir perlawanan dengan peratusan yang ditunjukkan di bawah.
+10137,Saya akan menerangkan musim ini.
+10138,Musim ini menetapkan semula peringkat dan memulakan permainan baru selepas tempoh tetap.
+10139,"Apabila musim baru bermula, anda diberi ganjaran mengikut pangkat musim lalu."
+10140,Ganjaran untuk peringkat anda boleh didapati di sini.
+10141,Sekarang tekan X untuk keluar dari maklumat ganjaran.
+10142,Untuk peringkat} anda perlu memenangi perlawanan dan mengumpul mata.
+10143,Kumpulkan 100 mata untuk maju ke peringkat seterusnya.
+10144,Tetapi berhati -hati kerana anda boleh diturunkan pada kerugian berterusan pada sifar.
+10145,"Jika anda menaikkan tahap anda lebih tinggi dengan memenangi}, anda boleh menyemak kedudukan pasukan anda melalui ranking di bawah."
+10146,Dan anda dapat melihat pasukan pangkat secara terperinci.
 10147,Tekan butang.
-10148,Anda kini dapat melihat pemain dan strategi yang digunakan oleh pangkat. Semak dan tumbuh pasukan anda lebih kuat. 
-10149,Sekarang mari kita tekan butang sekali lagi. 
-10150,Kedudukan memerlukan masa untuk menyegarkan. 
-10151,"Sekiranya anda ingin menyegarkan semula}, anda boleh mengemas kini kedudukan dengan segera melalui butang Refresh. "
-10152,Baik. Sedia menaikkan pangkat anda dan kumpulkan mata untuk menjadi pengurus teratas! 
-10153,Dalam akaun anda} anda dapat melihat maklumat akaun anda dan setiap hari} pencapaian} maklumat lain. 
-10154,Dalam setiap hari} pencarian dikemas kini setiap hari. 
-10155,Dalam Pencapaian} Anda dapat melihat pencapaian 
-10156,Pada musim} anda dapat melihat pencarian baru dikemas kini setiap musim. 
-10157,Dalam yang lain} anda dapat melihat bahagian lain seperti sokongan pemaju. 
-10158,Anda boleh mendapatkan ganjaran dengan melengkapkan pencapaian pencarian atau bahagian lain. 
-10159,Di samping itu} penajaan akan membantu kami terus membangunkan permainan di masa depan. 
-10160,Terima kasih atas sokongan anda. Terima kasih.
+10148,"Anda kini dapat melihat pemain dan strategi yang digunakan oleh pangkat.
+ Semak dan tumbuh pasukan anda lebih kuat."
+10149,Sekarang mari kita tekan butang sekali lagi.
+10150,Kedudukan memerlukan masa untuk menyegarkan semula.
+10151,"Jika anda ingin menyegarkan dengan segera}, anda boleh mengemas kini kedudukan dengan segera melalui butang Refresh."
+10152,"Baik.
+ Sedia menaikkan pangkat anda dan kumpulkan mata untuk menjadi pengurus teratas!"
+10153,Dalam akaun anda} anda dapat melihat maklumat akaun anda dan pencapaian setiap hari} maklumat lain.
+10154,Dalam setiap hari} pencarian dikemas kini setiap hari.
+10155,Dalam pencapaian} Anda dapat melihat pencapaian
+10156,Pada musim} anda dapat melihat pencarian baru dikemas kini setiap musim.
+10157,Di lain} anda dapat melihat bahagian lain seperti sokongan pemaju.
+10158,Anda boleh mendapatkan ganjaran dengan melengkapkan pencapaian pencarian atau bahagian lain.
+10159,Di samping itu} penajaan akan membantu kami terus membangunkan permainan pada masa akan datang.
+10160,"Terima kasih atas sokongan anda.
+ Terima kasih."

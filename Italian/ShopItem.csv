@@ -1,21 +1,11 @@
 ﻿ID,Name,Dec
-1000,Gold Recruitment ,Recluta 1 lettore casuale con una statistica combinata sopra 81. 
-1001,Pacchetto oro ,Recluta 5 giocatori casuali con una statistica combinata sopra 81. 
-1002,Player Recruitment ,Recruit 1 Random Player. 
-1003,Silver Recruitment ,Recluta 1 lettore casuale con una statistica combinata sopra 76. 
-1004,Gold Recruitment ,Recluta 1 lettore casuale con una statistica combinata sopra 81. 
-1005,Platinum Recruitment ,Recluta 1 lettore casuale con un GPA combinato di 84 o superiore. 
-1006,Pacchetto di base ,Recluta 5 giocatori casuali. 
-1007,Pacchetto argento ,Recluta 5 giocatori casuali con una statistica combinata sopra 76. 
-1008,Pacchetto oro ,Recluta 5 giocatori casuali con una statistica combinata sopra 81. 
-1009,Pacchetto platinum ,Recluta 5 giocatori casuali con un GPA combinato di 84 o superiore. 
-1010,2021 Season Recruitment ,Recluta 1 giocatore casuale della stagione 21SPR-21. (Esclusa la limitazione) 
-1011,Pacchetto 2021Season ,Recluta 5 giocatore casuale della stagione 21SPR-21. (Esclusa la limitazione) 
-1012,2022sason Recruitment ,Recluta 1 giocatore casuale della stagione 22SPR-22Sum. (Esclusa la limitazione) 
-1013,Pacchetto 2022Season ,Recluta 5 giocatore casuale della stagione 22SPR-22Sum. (Esclusa la limitazione) 
-1014,2023 Season Recruitment ,Recluta 1 giocatore casuale della stagione 23SPR-23Sum. (Esclusa la limitazione) 
-1015,Pacchetto 2023Season ,Recluta 5 giocatore casuale della stagione 23SPR-23Sum. (Esclusa la limitazione) 
-1016,Recruitment della stagione precedente ,Viene reclutato un giocatore a caso della stagione 18-20SUM. (Esclusa la limitazione) 
-1017,Pacchetto della stagione precedente ,Sono reclutati 5 giocatori casuali della stagione 18-20SUM. (Esclusa la limitazione) 
-1018,Coach Recruitment ,Recluta 1 coach casuale. 
-1019,Cambia il nome del team ,Modifica il nome del tuo team. 
+1000,Reclutamento dei giocatori,Recluta giocatori casuali nel 2024.
+1001,Reclutamento di coach,Assumi un allenatore casuale.
+1002,2023 reclutamento di stagione,"Recluta un giocatore casuale della 23sason.
+ (Escluso la limitazione)"
+1003,2022 reclutamento di stagione,"Recluta un giocatore casuale della 22 season.
+ (Escluso la limitazione)"
+1004,2021 reclutamento di stagione,"Recluta un giocatore casuale dalla stagione 21.
+ (Escluso la limitazione)"
+1005,Reclutamento della stagione precedente,"Recluta un giocatore casuale della 18 ~ 20sason.
+ (Escluso la limitazione)"

@@ -1,21 +1,11 @@
 ﻿ID,Name,Dec
-1000,Perekrutan Emas ,Merekrut 1 pemain acak dengan stat gabungan di atas 81. 
-1001,Paket Emas ,Merekrut 5 pemain acak dengan stat gabungan di atas 81. 
-1002,Perekrutan pemain ,Merekrut 1 pemain acak. 
-1003,Perekrutan perak ,Merekrut 1 pemain acak dengan stat gabungan di atas 76. 
-1004,Perekrutan Emas ,Merekrut 1 pemain acak dengan stat gabungan di atas 81. 
-1005,Perekrutan Platinum ,Merekrut 1 pemain acak dengan GPA gabungan 84 atau lebih tinggi. 
-1006,Paket Dasar ,Merekrut 5 pemain acak. 
-1007,Paket perak ,Merekrut 5 pemain acak dengan stat gabungan di atas 76. 
-1008,Paket Emas ,Merekrut 5 pemain acak dengan stat gabungan di atas 81. 
-1009,Paket Platinum ,Merekrut 5 pemain acak dengan IPK gabungan 84 atau lebih tinggi. 
-1010,Rekrutmen 2021Season ,Merekrut 1 pemain acak dari musim 21SPR-21SUM. (Tidak termasuk batasan) 
-1011,Paket 2021Season ,Rekrut 5 pemain acak dari musim 21SPR-21SUM. (Tidak termasuk batasan) 
-1012,Rekrutmen 2022Season ,Rekrut 1 pemain acak dari musim 22SPR-22SUM. (Tidak termasuk batasan) 
-1013,Paket 2022Season ,Rekrut 5 pemain acak dari musim 22SPR-22SUM. (Tidak termasuk batasan) 
-1014,Rekrutmen 2023Season ,Rekrut 1 pemain acak dari musim 23SPR-23SUM. (Tidak termasuk batasan) 
-1015,Paket 2023Season ,Rekrut 5 pemain acak dari musim 23SPR-23SUM. (Tidak termasuk batasan) 
-1016,Perekrutan musim sebelumnya ,Satu pemain acak dari musim 18-20sum direkrut. (Tidak termasuk batasan) 
-1017,Paket musim sebelumnya ,5 pemain acak dari musim 18-20sum direkrut. (Tidak termasuk batasan) 
-1018,Rekrutmen Pelatih ,Merekrut 1 pelatih acak. 
-1019,Ubah Nama Tim ,Ubah Nama Tim Anda. 
+1000,Perekrutan pemain,Merekrut pemain acak pada tahun 2024.
+1001,Perekrutan Pelatih,Pekerjakan pelatih acak.
+1002,Rekrutmen 2023Season,"Merekrut pemain acak dari 23season.
+ (Tidak termasuk batasan)"
+1003,Rekrutmen 2022Season,"Merekrut pemain acak dari 22season.
+ (Tidak termasuk batasan)"
+1004,Rekrutmen 2021Season,"Merekrut pemain acak dari 21season.
+ (Tidak termasuk batasan)"
+1005,Perekrutan musim sebelumnya,"Merekrut pemain acak dari 18 ~ 20season.
+ (Tidak termasuk batasan)"

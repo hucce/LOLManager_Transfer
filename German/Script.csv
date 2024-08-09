@@ -1,153 +1,220 @@
 ﻿ID,Dec
-11000,"Ihr Team hat die Liga mit großartigem Trainer gewonnen! Bereiten wir uns darauf vor, die Weltmeisterschaft zu gewinnen. "
-11001,"Obwohl es nicht gewann, hat es einen tollen Job gemacht. Schneebad erfolgt im Weltmeister! "
-11002,"Es war keine Meisterschaft. Es ist uns jedoch gelungen, zur Weltmeisterschaft voranzukommen! "
-11003,"Es war keine Meisterschaft. Aber es ist ein gutes Rang, in der nächsten Saison zu gewinnen. "
-11004,"Das Schlimmste wurde vermieden, aber es war kein gutes Rang. Für ein höheres Ranking} Ich denke, es muss Wartung benötigt. "
-11005,"Wir beendeten die Saison in der schlechtesten Position. Für die Fans, die uns unterstützen} Lassen Sie uns für die nächste Saison weiter gehen. "
-11006,Das Team gewann die Weltmeisterschaft mit großartigem Coaching! Spieler und Fans feiern Ihr großartiges Kommando. Glückwunsch.
-11007,"Es gewann nicht, aber es hat einen tollen Job gemacht. Versuchen wir, die Weltmeisterschaft in der nächsten Saison zu gewinnen! "
-11008,"Leider ist es eine großartige Note. Lassen Sie uns unsere Kraft in der nächsten Saison erhöhen und versuchen, den nächsten Weltmeister zu gewinnen. "
-11009,Sie haben erfolgreich das Turnier eingetreten. Nächste Saison gehen wir zu höheren Turnieren. 
-11010,Leider ist das Turnier gescheitert. Leider gehen wir in der nächsten Saison zur Weltmeisterschaft vor und zielen auf die Meisterschaft ab. 
-20000,Zeilenausstellung / Operation 
+11000,"Ihr Team hat die Liga mit großartigem Trainer gewonnen!
+ Bereiten wir uns darauf vor, die Weltmeisterschaft zu gewinnen."
+11001,"Obwohl es nicht gewann, hat es einen tollen Job gemacht.
+ Schneebad ist im Weltmeister!"
+11002,"Es war keine Meisterschaft.
+ Es ist uns jedoch gelungen, zur Weltmeisterschaft zu kommen!"
+11003,"Es war keine Meisterschaft.
+ Aber es ist eine gute Rangliste, in der nächsten Saison zu gewinnen."
+11004,"Das Schlimmste wurde vermieden, aber es war kein gutes Rang.
+ Für ein höheres Ranking} denke ich, dass es Wartung benötigt."
+11005,"Wir beendeten die Saison in der schlechtesten Position.
+ Für die Fans, die uns unterstützen, gehen wir für die nächste Saison weiter."
+11006,"Das Team gewann die Weltmeisterschaft mit großartigem Coaching!
+ Spieler und Fans feiern Ihr großartiges Kommando.
+ Glückwunsch."
+11007,"Es gewann nicht, aber es hat einen tollen Job gemacht.
+ Versuchen wir, die Weltmeisterschaft in der nächsten Saison zu gewinnen!"
+11008,"Leider ist es eine großartige Note.
+ Lassen Sie uns unsere Macht in der nächsten Saison erhöhen und versuchen, den nächsten Weltmeister zu gewinnen."
+11009,"Sie haben erfolgreich das Turnier eingetreten.
+ In der nächsten Saison gehen wir zu höheren Turnieren."
+11010,"Leider ist das Turnier gescheitert.
+ Lassen Sie uns leider in der nächsten Saison zur Weltmeisterschaft voranschreiten und die Meisterschaft anstreben."
+20000,Linienausstellung / -betrieb
 20001,Gleichgewicht
 20002,Teamkampf
 20003,Brauch
-21000,"Es ist eine Strategie, Schneebälle zu rollen, die auf starken Linienschlachten basieren. {{-It ist geeignet, wenn Sie eine starke Linienschlacht haben. {-You kann zu einem Schuss zurückgekehrt werden, wenn Sie einen schwachen Schlag haben. "
-21001,"LineUp} Teamfight} Operation spielen das Spiel ausgewogen. {{{-This ist geeignet, wenn die Fähigkeit der Spieler gleichmäßig ist. "
-21002,"Es ist eine Strategie, die einen Schuss durch einen einzigen Schuss abzielt. {{-It ist geeignet, wenn ein Team eine starke One-Shot-Fähigkeit hat. {"
-21003,Dies ist Ihre Strategie. 
-22000,Die Mitte des Spiels 
-22001,Die Mitte eines Ganking 
-22002,Hauptordnung 
-23000,"Wählen Sie die Fähigkeit, die Mitte des Spiels zu sein. Die Statistiken des Teams werden zunehmen. Stattdessen fällt der Rest der Macht. "
-23001,Der Jungler entscheidet die Linie zum Schließen. 
-23002,"Stellen Sie eine Position fest, die sich auf Operationen konzentriert. Die Hauptreihenfolge erhöht den Anteil des Teamvorgangs. "
+21000,"Es ist eine Strategie, Schneebälle zu rollen, die auf starken Linienschlachten basieren.
+ {{-It ist geeignet, wenn Sie eine starke Linienschlacht haben.
+ {-Sie können zu einem Schuss zurückgekehrt werden, wenn Sie einen schwachen Schlag haben."
+21001,"LineUp} Teamfight} Operation spielen das Spiel ausgewogen.
+ {{-This ist geeignet, wenn die Fähigkeit der Spieler gleichmäßig ist."
+21002,"Es ist eine Strategie, die einen Schuss durch einen einzigen Schuss abzielt.
+ {{-It ist geeignet, wenn ein Team eine starke One-Shot-Fähigkeit hat.
+ {"
+21003,Dies ist Ihre Strategie.
+22000,Das Spiel in der Spiele
+22001,Das Zentrum eines Gankings
+22002,Hauptreihenfolge
+23000,"Wählen Sie die Fähigkeit, die Mitte des Spiels zu sein.
+ Die Statistiken des Teams werden zunehmen.
+ Stattdessen fällt der Rest der Kraft."
+23001,Der Jungler entscheidet die Linie zum Ganking.
+23002,"Stellen Sie eine Position fest, die sich auf Operationen konzentriert.
+ Die Hauptreihenfolge erhöht den Anteil des Teambetriebs."
 24000,Gleichgewicht
 24001,Linie
 24002,Teamkampf
 24003,Betrieb
 24004,Gleichgewicht
 24005,Spitze
-24006,Mid 
+24006,Mitte
 24007,Unten
 24008,Spitze
 24009,Dschungel
-24010,Mid 
+24010,Mitte
 24011,ANZEIGE
 24012,Unterstützung
-25000,Attacke
+25000,Angriff
 25001,Ausgewogen
 25002,Tanker
-25003,Attacke
+25003,Angriff
 25004,Ausgewogen
 25005,Tanker
-25006,Attacke
+25006,Angriff
 25007,Ausgewogen
 25008,Fan
-25009,Attacke
+25009,Angriff
 25010,Ausgewogen
 25011,Dienstprogramm
-25012,Attacke
+25012,Angriff
 25013,Ausgewogen
 25014,Tanker
-26000,Drücken Sie den Gegner stark in der Schlange. Es übernimmt auch die Kontrolle über die Operation durch die Spaltung. {{▲ Betriebsstatistik erhöht sich. {{-Points gewonnen oder verloren in der Zunahme. {{▼ Teamfight stat senkt. 
-26001,Basic Deal Tank. 
-26002,"Einfluss wird in Linienschlachten verringert. Allerdings ist er im Teamkampf stärker. {{▲ Teamfight -Fähigkeit wird erhöht. {{-Points, die an der Linie gewonnen oder verloren gegangen sind, werden gesenkt. {{▼ Betriebsstat wird abgesenkt. "
-26003,Das Ganking wird mächtig. } Es besteht jedoch ein hohes Risiko für das Versagen des Gankierens. {{▲ Zeilenstatistiken erhöhen sich. {{
-26004,Basic Deal Tank. 
-26005,Die Fähigkeit zur Ganking wird gesenkt. } Die Trefferfähigkeit nimmt jedoch zu. {{▲ Die Schlagfähigkeit nimmt zu. {{▼ Die Aufstellungsfähigkeit geht nach unten. 
-26006,Drücken Sie den Gegner stark in der Schlange. Es übernimmt auch die Kontrolle über die Operation durch die Spaltung. {{▲ Betriebsstatistik erhöht sich. {{-Points gewonnen oder verloren in der Zunahme. {{▼ Teamfight stat senkt. 
-26007,Basic Nuker Champ. 
-26008,"Ziel ist es, die Fähigkeit des einen DIL zu verbessern. {{▲ Ein DIL -Status erhöht sich. "
-26009,Die frühen Tage sind mächtig. Allerdings} mit der Zeit} Es wird schwächer. {{▲ Einstellung bis zu den ersten 20 Minuten} Die Teamkampffähigkeit steigt. {{▼ Teamfight -Fähigkeit nimmt von der zweiten Hälfte ab. 
-26010,Grundlegender One-Deal Champ. 
-26011,"Konzentration auf die Rolle des Teams und nicht darauf, Carries Rolle zu helfen. {{▲ Betriebsstatistiken steigen. {{▼ Linienstatistiken gehen nach unten. "
-26012,"Linienkampf ist mächtig. Es ist jedoch gefährlich, mit geringer Gesundheit zu arbeiten. {{▲ Line-up-Statistiken erhöhen sich. {{-Points gewonnen oder verloren aus der Operation erhöhen. "
-26013,Basic Supporter Champ. 
-26014,Schwach in der Schlange. Allerdings ist es im Teamkampf stark. {{▲ Teamfight Stat wird erhöht. {{▼ Linien stat wird gesenkt. 
-30000,"Wenn Sie sich nicht bei Google anmelden können, können Sie keinen Multiplayer abspielen. Bitte melden Sie sich Google an. "
-30001,Während des letzten Mehrspiels gab es ein abnormales Ende des Spiels. Das Spiel wurde verfällt. 
-30002,Glückwunsch! Sie werden auf die nächste Ebene beworben! 
-30003,Sie wurden wegen einer konstanten Niederlage herabgestuft. 
+26000,"Drücken Sie den Gegner stark in der Schlange.
+ Es übernimmt auch die Kontrolle über die Operation durch die Spaltung.
+ {{▲ Betriebsstatistik erhöht sich.
+ {{-Points gewonnen oder verloren in der Zunahme.
+ {{▼ Teamkampfstat senkt."
+26001,Basic Deal Tank.
+26002,"Einfluss wird in Linienschlachten verringert.
+ Allerdings ist er im Teamkampf stärker.
+ {{▲ Teamfight -Fähigkeit wird erhöht.
+ {{-Points, die an der Linie gewonnen oder verloren gegangen sind, werden gesenkt.
+ {{▼ Operation STAT ist gesenkt."
+26003,"Das Ganking wird mächtig.
+ } Es besteht jedoch ein hohes Risiko für das Versagen des Gankierens.
+ {{▲ Zeilenstatistiken erhöhen sich.
+ {{{{"
+26004,Basic Deal Tank.
+26005,"Die Fähigkeit zur Ganking wird gesenkt.
+ } Die Trefferfähigkeit nimmt jedoch zu.
+ {{▲ Die Schlagfähigkeit nimmt zu.
+ {{▼ Die Aufstellungsfähigkeit geht aus."
+26006,"Drücken Sie den Gegner stark in der Schlange.
+ Es übernimmt auch die Kontrolle über die Operation durch die Spaltung.
+ {{▲ Betriebsstatistik erhöht sich.
+ {{-Points gewonnen oder verloren in der Zunahme.
+ {{▼ Teamkampfstat senkt."
+26007,Basic Nuker Champ.
+26008,"Ziel ist es, die Fähigkeit des einen DIL zu verbessern.
+ {{▲ Ein DIL -STAT nimmt zu."
+26009,"Die frühen Tage sind mächtig.
+ Allerdings} mit der Zeit} Es wird schwächer.
+ {{▲ Einstellung bis zu den ersten 20 Minuten} Die Teamkampffähigkeit steigt.
+ {{▼ Teamkampffähigkeit nimmt von der zweiten Hälfte ab."
+26010,Basic One-Deal Champ.
+26011,"Konzentration auf die Rolle des Teams und nicht darauf, Carries Rolle zu helfen.
+ {{▲ Betriebsstatistiken steigen.
+ {{▼ Linienstatistiken gehen unter."
+26012,"Linienkampf ist mächtig.
+ Es ist jedoch gefährlich, mit geringer Gesundheit zu arbeiten.
+ {{▲ Line-up-Statistiken erhöhen sich.
+ {{-Points gewonnen oder verloren durch die Erhöhung der Operation."
+26013,Basic -Unterstützer -Champion.
+26014,"Schwach in der Schlange.
+ Allerdings ist es im Teamkampf stark.
+ {{▲ Teamfight Stat wird erhöht.
+ {{▼ Linien stat wird gesenkt."
+30000,"Wenn Sie sich nicht bei Google anmelden können, können Sie keinen Multiplayer abspielen.
+ Bitte melden Sie sich Google an."
+30001,"Während des letzten Mehrspiels gab es ein abnormales Ende des Spiels.
+ Das Spiel wurde verwirkt."
+30002,"Glückwunsch!
+ Sie werden auf die nächste Ebene befördert!"
+30003,Sie wurden wegen einer ständigen Niederlage herabgestuft.
 30004,Anmelden
-30005,Es gibt ein Problem. Grund für Ausgabe: 
-30006,Die Internetverbindung ist verloren gegangen. Wenn Sie eine Internetverbindung haben} Sie werden automatisch wieder verbunden. 
-30007,"Das Internet wurde während des Multi -Spiels getrennt. {Wenn Sie auf OK} klicken, beenden Sie das Stadion. "
-30008,"Es gab ein Problem, Ihren Gegner zu finden. {Drücken Sie OK, um das Stadion zu beenden. "
-30009,"Das Spiel ist nicht auf dem neuesten Stand. Sie müssen die neueste Version aktualisieren, um das Match abzuspielen. {{{Drücken Sie die Taste unten, um den Vers zu überprüfen"
+30005,"Es gibt ein Problem.
+ Ausgabegrund:"
+30006,"Die Internetverbindung ist verloren gegangen.
+ Wenn Sie eine Internetverbindung haben}, werden Sie automatisch wieder verbunden."
+30007,"Das Internet wurde während des Multi -Spiels getrennt.
+ {Wenn Sie auf OK} klicken, beenden Sie das Stadion."
+30008,"Es gab ein Problem, Ihren Gegner zu finden.
+ {Drücken Sie OK, um das Stadion zu verlassen."
+30009,"Das Spiel ist nicht auf dem neuesten Stand.
+ Sie müssen die neueste Version aktualisieren, um das Match abzuspielen.
+ {{{Drücken Sie die Taste unten, um die Version erneut zu überprüfen} oder zur Aktualisierungsseite gehen."
 30010,Überprüfung
-30011,Es ist nicht die neueste Version. 
+30011,Es ist nicht die neueste Version.
 30012,Minute
-30013,Sie wurden als Cheat -Player gemeldet und können keine Multiplayer -Spiele spielen. {{Bitte senden Sie eine E -Mail {hucce@gmail.com für Fragen. 
-30014,Sie sind als Cheat -Spieler registriert. 
-30015,"Überprüfen Sie den Multiplay -Server. Bitte warten Sie, bis die Prüfzeit über "
-30016, istDie Liste kann nicht geladen werden. Bitte melden Sie sich Google in Multiplay an. 
-31000,"Danke, dass du das Spiel gespielt hast. Ihre Bewertung ist eine große Hilfe für den Entwickler. Sie erhalten 300 Essenz als Belohnung. "
-32000,"Vielen Dank, dass Sie die Anzeige gesehen haben. Klicken Sie auf OK, um Ihre Anzeigenbelohnung zu erhalten. "
-32001,"AD übersprungen Sie müssen die Anzeige bis zum Ende ansehen, um die Belohnung zu erhalten. "
-32002,"Versäumt, Anzeige zu holen, überprüfen Sie bitte Ihre Internetverbindung. "
-36000,Liga Score 
+30013,Sie wurden als Cheat -Spieler gemeldet und können keine Multiplayer -Spiele spielen. {{Bitte senden Sie eine E -Mail {hucce@gmail.com für Fragen.
+30014,Sie sind als Cheat -Spieler registriert.
+30015,"Überprüfen Sie den Multiplay -Server.
+ Bitte warten Sie, bis die Prüfzeit vorbei ist"
+30016,"Die Liste kann nicht geladen werden.
+ Bitte melden Sie sich in Multiplay an."
+31000,"Danke, dass du das Spiel gespielt hast.
+ Ihre Bewertung ist eine große Hilfe für den Entwickler.
+ Sie erhalten 300 Essenz als Belohnung."
+32000,"Vielen Dank, dass Sie die Anzeige gesehen haben.
+ Klicken Sie auf OK, um Ihre Anzeigenbelohnung zu erhalten."
+32001,"Anzeige übersprungen Sie müssen die Anzeige bis zum Ende beobachten, um die Belohnung zu erhalten."
+32002,"Versäumt, Anzeige zu holen, überprüfen Sie bitte Ihre Internetverbindung."
+36000,Liga Score
 36001,M
-36002,W 
-36003,L 
+36002,IN
+36003,L
 36004,Geschichte
 36005,Spitze
-36006,Übereinstimmung mit Ergebnissen 
+36006,Übereinstimmung mit Ergebnissen
 36007,Erhalten
 36008,Vollständig
 36009,Unvollständig
-36010,Verknüpfung
+36010,Link
 36011,Jahreszeit
-33000,Das Upgrade ist nur bis zu Stufe 10 möglich. 
+33000,Das Upgrade ist nur bis zu Stufe 10 möglich.
 33001,Erfolg
 33002,Versagen
-33003,Erfolgswahrscheinlichkeit 
+33003,Erfolgswahrscheinlichkeit
 33004,Unterschied
-33005,Möchten Sie das Tutorial überspringen? Sie können die Belohnungen aus dem Tutorial nicht erhalten. 
-33006,"Die Sprache ändert sich, wenn Sie das Spiel neu starten. "
-34000,Google Play Service Version Version 
-34001,Google Play Login vollständig 
-34002,Serveranmeldung abgeschlossen 
-34003,Cloud Save -Bestätigung vollständig 
-34004,Daten importieren vollständig 
-34005,Problem erneut 
-34006,Fehler! Laden Sie in den Offline -Modus 
+33005,"Möchten Sie das Tutorial überspringen?
+ Sie können die Belohnungen nicht aus dem Tutorial erhalten."
+33006,"Die Sprache wird sich ändern, wenn Sie das Spiel neu starten."
+34000,Google Play -Service -Version Versionscheckung
+34001,Google Play Login vollständig
+34002,Serveranmeldung abgeschlossen
+34003,Cloud Save -Bestätigung vollständig
+34004,Datenimport vollständig
+34005,Problem wiederholen
+34006,"Fehler!
+ Laden Sie in den Offline -Modus"
 33007,Runden
 33008,Linie
 33009,Teamkampf
 33010,Betrieb
 33011,Spitze
-33012,Mid 
+33012,Mitte
 33013,Unten
-33014,Große Niederlage 
+33014,Große Niederlage
 33015,Verlust
-33016,Bearish 
+33016,Bärisch
 33017,Streit
 33018,Überlegenheit
 33019,Sieg
-33020,Großer Sieg
-33021,Team Jungler Ganking. 
+33020,Toller Sieg
+33021,Team Jungler Ganking.
 33022,Tag
-33023,Saisonende Belohnung 
-33024,Ihr Freund wurde bereits angefordert. 
-33025,Bereits Freund 
-33026,"Sind Sie sicher, dass Sie diesen Freund löschen möchten? "
-33027,Kopierte Strategie 
-33028,Arten 
+33023,Saisonende Belohnung
+33024,Ihr Freund wurde bereits angefordert.
+33025,Schon Freund
+33026,"Sind Sie sicher, dass Sie diesen Freund löschen möchten?"
+33027,Kopierte Strategie
+33028,Arten
 33029,Verbot
 33030,Erklärung
-33031,Bug / Vorschläge 
-33032,Manager Einladung. Werden Sie ein LOL -Team -Manager. 
-33033,Endgültige Bewertung 
-33034,Die endgültige Belohnung 
-33035,Saisonbeginn
-33036,Eine neue Saison hat begonnen. 
-33037,Hall of Fame -Beitrag 
+33031,Fehler / Vorschläge
+33032,"Manager Einladung.
+ Werden Sie ein LOL -Teammanager."
+33033,Endbewertung
+33034,Die letzte Belohnung
+33035,Saisonstart
+33036,Eine neue Saison hat begonnen.
+33037,Hall of Fame -Beitrag
 33038,Ausruhen
-33039,Nicht genug Essenz 
-37000,nan 
+33039,Nicht genug Essenz
+37000,hinein
 37001,Wesen
 37002,Pack
 37003,Paket
@@ -160,34 +227,42 @@
 33042,Gold
 33043,Platin
 33044,Diamant
-33045,Herausforderer
-33046,Meister
-33047,Rekrutierung
+33045,Herausforderer(남성)
+33046,Meister(남성)
+33047,Werbung
 33048,Paket
 33049,Präsentation
-33050,Einschließlich limitiert 
-33051,Nur begrenzt 
+33050,Einschließlich begrenzter
+33051,Nur begrenzt
 33052,Tauschen
 33053,Hinzufügen
 33054,Entfernen
 33055,Gesamt
 33056,Statistiken
 33057,Bronze
-33058,Bis zum nächsten Rang Upgrade 
+33058,Bis zum nächsten Rang Upgrade
 33059,Bewegen
 33060,Erhalten
-33061,Der gleiche Spieler steht bereits auf der Startliste. 
-33062,Keine Daten verfügbar.
-33063,Daten sind abnormal. 
+33061,Der gleiche Spieler ist bereits auf der Startliste.
+33062,Es gibt keine Daten.
+33063,Daten sind abnormal.
 33064,Grund
-33065,Nächstes Crush Startdatum 
-33066,Bei der Erstellung eines Turniers ist ein Fehler aufgetreten.Der Server empfängt Daten. 
-33067,Die Daten wurden nicht richtig empfangen. 
-33068,Präsentation des Season Player 
-33069,Weltmeisterschaftseintrag 
-33070,"Ausgewählte Spieler, die dieses Jahr ihr Debüt in der Liga gegeben haben und sich auf die Zukunft freuen. Es kann nur als Saisonbelohnung erhalten werden. "
-33071,Möchten Sie die automatische Übereinstimmung stoppen? {Die verwendeten Elemente verschwinden. 
-33072,"Sind Sie sicher, dass Sie Ihr Konto zurücksetzen möchten? {Daten speichern werden gelöscht und das Spiel wird neu gestartet. "
-33073,Der gleiche Trainer ist bereits im Eintrag. 
-33074,"Sind Sie sicher, dass Sie den Trainer löschen möchten? Sie können 30 Essenz erhalten. "
-33075,Are you sure you want to delete the coach? You can get 30 Essence.
+33065,Nächster Schwarmstartdatum
+33066,Bei der Erstellung eines Turniers trat ein Fehler auf.
+33067,Der Server empfängt Daten.
+33068,Daten wurden nicht ordnungsgemäß empfangen.
+33069,Präsentation des Saisonspieler
+33070,Weltmeisterschaftseintritt
+33071,"Ausgewählte Spieler, die dieses Jahr ihr Debüt in der Liga gegeben haben und sich auf die Zukunft freuen.
+ Es kann nur als Saisonbelohnung erhalten werden."
+33072,Möchten Sie das Auto -Match stoppen? {Gebrauchte Elemente werden verschwinden.
+33073,"Sind Sie sicher, dass Sie Ihr Konto zurücksetzen möchten? {Daten speichern werden gelöscht und das Spiel wird neu gestartet."
+33074,Der gleiche Trainer ist bereits im Eintrag.
+33075,"Sind Sie sicher, dass Sie den Trainer löschen möchten?
+ Sie können 30 Escence bekommen."
+33076,"Möchten Sie Ihren Teamnamen ändern?
+ Verwendet 500 Escence."
+33077,Rekrutierungsinformationen
+33078,Wahrscheinlichkeitsinformationen
+33079,Beim Anschauen von ad {exp
+33080,Beim Anschauen von AD {Essence

@@ -1,21 +1,10 @@
 ﻿ID,Name,Dec
-1000,Reclutamiento de oro ,Reclutar 1 jugador aleatorio con una estadística combinada por encima de 81. 
-1001,Paquete de oro ,Reclutar 5 jugadores aleatorios con una estadística combinada por encima de 81. 
-1002,Reclutamiento de jugadores ,Reclutar 1 jugador aleatorio. 
-1003,Reclutamiento plateado ,Reclutar 1 jugador aleatorio con una estadística combinada por encima de 76. 
-1004,Reclutamiento de oro ,Reclutar 1 jugador aleatorio con una estadística combinada por encima de 81. 
-1005,Reclutamiento de platino ,Reclutar 1 jugador aleatorio con un GPA combinado de 84 o más. 
-1006,Paquete básico,Reclutar 5 jugadores aleatorios. 
-1007,Paquete de plata ,Reclutar 5 jugadores aleatorios con una estadística combinada por encima de 76. 
-1008,Paquete de oro ,Reclutar 5 jugadores aleatorios con una estadística combinada por encima de 81. 
-1009,Paquete de platino ,Reclutar 5 jugadores aleatorios con un GPA combinado de 84 o más. 
-1010,Reclutamiento de la temporada 2021 ,Recluta 1 jugador aleatorio de la temporada 21SPR-21-suma. (Sin incluir limitación) 
-1011,Paquete 2021SEAMPORION ,Recluta 5 jugador al azar de la temporada 21SPR-21-suma. (Sin incluir limitación) 
-1012,Reclutamiento de la temporada 2022 ,Recluta 1 jugador aleatorio de la temporada 22SPR-22-Sum. (Sin incluir limitación) 
-1013,Paquete 2022Sason ,Reclutar 5 jugador al azar de la temporada 22SPR-22-Sum. (Sin incluir limitación) 
-1014,Reclutamiento de la temporada 2023 ,Reclutar 1 jugador aleatorio de la temporada 23SPR-23Sum. (Sin incluir limitación) 
-1015,Paquete 2023Sason ,Reclutar 5 jugadores aleatorios de la temporada 23SPR-23Sum. (Sin incluir limitación) 
-1016,Reclutamiento de la temporada anterior ,Se recluta un jugador al azar de la temporada de 18-20 años. (Sin incluir limitación) 
-1017,Paquete de temporada anterior ,Se reclutan 5 jugadores al azar de la temporada de 18-20 suma. (Sin incluir limitación) 
-1018,Reclutamiento de entrenadores ,Reclutar 1 entrenador aleatorio. 
-1019,Cambiar el nombre del equipo ,Cambie el nombre de su equipo. 
+1000,Reclutamiento de jugadores,Recluta jugadores aleatorios en 2024.(남성)
+1001,Reclutamiento de entrenadores,Recluta jugadores aleatorios en 2024.
+1002,Reclutamiento de la temporada 2023,Contrata a un entrenador al azar.
+1003,Reclutamiento de la temporada 2022,"Reclutar al jugador aleatorio de la temporada 23.
+ (Sin incluir limitación)"
+1004,Reclutamiento de la temporada 2021,"Reclutar al jugador aleatorio de la temporada 22.
+ (Sin incluir limitación)"
+1005,Reclutamiento de la temporada anterior,"Reclutar al jugador aleatorio de la temporada 21.
+ (Sin incluir limitación)"

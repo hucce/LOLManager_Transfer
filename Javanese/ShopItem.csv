@@ -1,21 +1,11 @@
 ﻿ID,Name,Dec
-1000,Rekrutmen Emas {{{{})}Paket Emas {{{{}Rekrutmen Player {{{{}{{{{{{{}Rekrutmen Emas {{{{})}Recruitment platinum {{{{{{}Paket dhasar {{{{{{}Paket Perak {{{{{{}Paket Emas {{{{}Paket Platinum {{{{{}2021season recruitment {{{{{{{{{{{{})}2021season paket {{{{{{}2022season recruitment {{{{{{{{{})}2022season paket {{{{{{}202323season Recruitment {{{{{{{{{}202323season paket {{{{{}Rekrutmen Musim sadurunge {{{{{}Paket Musim sadurunge {{{{}Recruitment pelatih {{{{{{{{{{{{{{{}Ganti Jeneng Tim {{{},Recruit 1 pamuter acak kanthi stat gabungan ing ndhuwur 81. {{{{{{{{}Recruit 5 pemain acak kanthi stat gabungan ing ndhuwur 81. {{{{{{{})}Recruit 1 pamuter acak. {{{{{{{{{{{{{{{{{{}Recruit 1 Pamuter acak kanthi stat gabungan ing ndhuwur 76. {{{{{{{})}Recruit 1 pamuter acak kanthi stat gabungan ing ndhuwur 81. {{{{{{{{}Recruit 1 Pamuter acak kanthi GPA gabungan 84 utawa luwih dhuwur. {{{{{{{{{{{{{{{}Recruit 5 pemain acak. {{{{{{{{{{{{{{{{}Recruit 5 pemain acak kanthi stat gabungan ing ndhuwur 76. {{{{{{{}Recruit 5 pemain acak kanthi stat gabungan ing ndhuwur 81. {{{{{{{})}Recruit 5 pemain acak kanthi GPA gabungan 84 utawa luwih dhuwur. {{{{{{{{{}Recruit 1 pamuter acak saka musim 21SPR-21Sum. (Ora kalebu watesan) {{{{{})}Recruit 5 pamuter acak saka musim 21SPR-21Sum. (Ora kalebu watesan) {{{{{})}Recruit 1 pamuter acak saka musim 22spr-22sum. (Ora kalebu watesan) {{{{{})}Recruit 5 Pamuter Random saka musim 22spr-22sum. (Ora kalebu watesan) {{{{{})}Recruit 1 Pamuter acak saka musim 23spr-23um. (Ora kalebu watesan) {{{{{})}Recruit 5 pamuter acak saka musim 23spr-23um. (Ora kalebu watesan) {{{{{})}Siji pemain acak wiwit taun 18-20sum direkrut. (Ora kalebu watesan) {{{{{})}5 pemain acak saka musim 18-20sum direkrut. (Ora kalebu watesan) {{{{{})}Rekrut 1 pelatih acak. {{{{{{{{{{{{{{{}Ngganti jeneng tim sampeyan. {{{{{{{{{}
-1001,Gold Package,Recruit 5 random players with a combined stat above 81.
-1002,Player Recruitment,Recruit 1 random player.
-1003,Silver Recruitment,Recruit 1 random player with a combined stat above 76.
-1004,Gold Recruitment,Recruit 1 random player with a combined stat above 81.
-1005,Platinum Recruitment,Recruit 1 random player with a combined GPA of 84 or higher.
-1006,Basic Package,Recruit 5 random players.
-1007,Silver Package,Recruit 5 random players with a combined stat above 76.
-1008,Gold Package,Recruit 5 random players with a combined stat above 81.
-1009,Platinum Package,Recruit 5 random players with a combined GPA of 84 or higher.
-1010,2021Season Recruitment,Recruit 1 random player from the 21SPR-21SUM season. (Not including limitation)
-1011,2021Season Package,Recruit 5 random player from the 21SPR-21SUM season. (Not including limitation)
-1012,2022Season Recruitment,Recruit 1 random player from the 22SPR-22SUM season. (Not including limitation)
-1013,2022Season Package,Recruit 5 random player from the 22SPR-22SUM season. (Not including limitation)
-1014,2023Season Recruitment,Recruit 1 random player from the 23SPR-23SUM season. (Not including limitation)
-1015,2023Season Package,Recruit 5 random player from the 23SPR-23SUM season. (Not including limitation)
-1016,Previous season Recruitment,One random player from the 18-20SUM season is recruited. (Not including limitation)
-1017,Previous season package,5 random players from the 18-20SUM season are recruited. (Not including limitation)
-1018,Coach Recruitment,Recruit 1 random Coach.
-1019,Change team name,Change your team name.
+1000,Rekrutmen Pemain,Ngracokake pemain acak ing taun 2024.
+1001,Rekrutmen pelatih,Nyewa pelatih acak.
+1002,202323season Recruitment,"Recruit pamuter acak saka 23season.
+ (Ora kalebu watesan)"
+1003,2022season recruitment,"Rekrut pamuter kanthi 22eason.
+ (Ora kalebu watesan)"
+1004,2021season Recruitment,"Rekrut pamuter acak saka 21season.
+ (Ora kalebu watesan)"
+1005,Rekrutmen Musim Sadurunge,"Recruit pamuter acak wiwit taun 18 ~ 20season.
+ (Ora kalebu watesan)"

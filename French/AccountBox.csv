@@ -1,33 +1,33 @@
 ﻿ID,Name,Dec
-1000,Récompense de connexion quotidienne ,Connexion aujourd'hui récompense 
-1001,3 récompenses quotidiennes ,Les 3 matchs de match d'aujourd'hui 
-1002,Soutien,Vous pouvez parrainer le développeur à travers la twonation. 
-1003,Revoir,Veuillez réviser et nous vous récompenserons. 
-1004,Tutoriel complet ,Tutoriel complet 
-1005,Réalisation de rang en argent ,Atteignez le rang d'argent multiplay 
-1006,Réalisation de rang d'or ,Atteignez le rang d'or multiplay 
-1007,Réalisation du rang de platine ,Atteindre le rang de platine multiplay 
-1008,Réalisation du rang de diamant ,Atteignez le rang de diamants multiplay 
-1009,Master Rank Achievement ,Atteindre le rang maître multiplay 
-1010,Challenger Achievement ,Atteignez le rang de challenger multiplay 
-1011,Champion de la ligue ,Réalisé la première place de la ligue 
-1012,Médaille d'argent,Réalisé la deuxième place de la ligue 
-1013,Médaille de bronze,Réalisé la troisième place de la ligue 
-1014,3 champions ,Atteindre 3 titres de ligue 
-1015,3 médailles d'argent ,Réalisé la deuxième place en trois ligues 
-1016,3 médailles de bronze ,Réalisé la troisième place en trois ligues 
-1017,5 champions ,Réaliser 5 titres de ligue 
-1018,5 médailles d'argent ,Atteindre la deuxième place en cinq ligues 
-1019,5 médailles de bronze ,Atteindre la troisième place en cinq ligues 
-1020,Première saison,Date limite de première saison 
-1021,Troisième saison ,Date limite de troisième saison 
-1022,Cinquième saison ,Date limite de la cinquième saison 
-1023,Dixième saison ,Date limite de la 10e saison 
-1024,6 récompenses quotidiennes ,Les 6 matchs de correspondance d'aujourd'hui 
-1025,Réalisation de rang en argent ,Atteignez le rang d'argent multiplay 
-1026,Réalisation de rang d'or ,Atteignez le rang d'or multiplay 
-1027,Réalisation du rang de platine ,Atteindre le rang de platine multiplay 
-1028,Réalisation du rang de diamant ,Atteignez le rang de diamants multiplay 
-1029,Master Rank Achievement ,Atteindre le rang maître multiplay 
-1030,Challenger Achievement ,Atteignez le rang de challenger multiplay 
-1031,Limite de correspondance quotidienne ,Nombre de correspondances par jour où vous pouvez obtenir l'essence 
+1000,Récompense de connexion quotidienne,Connectez-vous aujourd'hui
+1001,3 récompenses quotidiennes,Les 3 récompenses du match d'aujourd'hui
+1002,Soutien,Vous pouvez parrainer le développeur à travers la twonation.
+1003,Revoir,Veuillez consulter et nous vous récompenserons.
+1004,Tutoriel complet,Tutoriel complet
+1005,Réalisation de rang en argent,Atteignez le rang d'argent multiplay
+1006,Réalisation du rang d'or,Atteindre le rang d'or multiplay
+1007,Réalisation du rang de platine,Atteindre le rang de platine multiplay
+1008,Réalisation du rang de diamants,Atteindre le rang de diamant multiplay
+1009,Réalisation du rang de maître,Atteindre le rang maître multiplay
+1010,Réalisation du challenger,Atteignez le rang de challenger multiplay
+1011,Champion de la ligue,Réalisé la première place de la ligue
+1012,Médaille d'argent,A réalisé la deuxième place de la ligue
+1013,Médaille de bronze,A réalisé la troisième place de la ligue
+1014,3 champions,Atteindre 3 titres de ligue
+1015,3 médailles d'argent,Réalisé la deuxième place en trois ligues
+1016,3 médailles de bronze,A réalisé la troisième place en trois ligues
+1017,5 champions,Atteindre 5 titres de ligue
+1018,5 médailles d'argent,Atteindre la deuxième place en cinq ligues
+1019,5 médailles de bronze,Atteindre la troisième place en cinq ligues
+1020,Première saison,Date limite de première saison
+1021,Troisième saison,Date limite de troisième saison
+1022,Cinquième saison,Date limite de la cinquième saison
+1023,Dixième saison,Date limite de la 10e saison
+1024,6 récompenses quotidiennes,Les 6 matchs de match d'aujourd'hui
+1025,Réalisation de rang en argent,Atteignez le rang d'argent multiplay
+1026,Réalisation du rang d'or,Atteindre le rang d'or multiplay
+1027,Réalisation du rang de platine,Atteindre le rang de platine multiplay
+1028,Réalisation du rang de diamants,Atteindre le rang de diamant multiplay
+1029,Réalisation du rang de maître,Atteindre le rang maître multiplay
+1030,Réalisation du challenger,Atteignez le rang de challenger multiplay
+1031,Limite de match quotidienne,Nombre de matchs par jour où vous pouvez obtenir de l'essence
