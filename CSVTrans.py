@@ -108,7 +108,7 @@ def createFolder(directory):
     except OSError:
         print ('Error: Creating directory. ' +  directory)
  
-def Convert(loadList, language, languageFull, replaceList, dirver):
+def Convert(loadList, language, languageFull, replaceList, dirver, currentVersion):
     # 체크리스트 불러오기
     if os.path.isfile('./checkList.csv'):
         checkList = pd.read_csv('./checkList.csv', encoding = 'utf-8')
@@ -121,9 +121,10 @@ def Convert(loadList, language, languageFull, replaceList, dirver):
         for i in range(len(checkList)):
             if  checkList['Language'][i] == languageFull:
                 if checkList['File'][i] == loadFile:
-                    print(languageFull + ' ' + loadFile)
-                    checkLanguage = True
-                    break
+                    if checkList['Version'][i] == currentVersion:
+                        print(languageFull + ' ' + loadFile)
+                        checkLanguage = True
+                        break
                 
         if checkLanguage == False:
             #데이터 불러오기
@@ -137,11 +138,6 @@ def Convert(loadList, language, languageFull, replaceList, dirver):
                     isReplace = True
                     break
             
-            #기본 구글 번역 url 설정
-            loadUrl = 'https://translate.google.com/?hl=ko&sl=auto&tl=[lan]&op=translate'
-            base_url = loadUrl.replace('[lan]', language)
-            driver.get(base_url)
-
             # 파일이 있어야 비교
             if os.path.isfile('./BeforeEnglish/' + loadFile + '.csv') and isReplace == False:
                 before_read = pd.read_csv('./BeforeEnglish/' + loadFile + '.csv', encoding = 'utf-8')
@@ -155,6 +151,12 @@ def Convert(loadList, language, languageFull, replaceList, dirver):
 
                 # 중복을 뺐는데도 남아 있는 내용이 있다면
                 if result.empty == False:
+
+                    #기본 구글 번역 url 설정
+                    loadUrl = 'https://translate.google.com/?hl=ko&sl=auto&tl=[lan]&op=translate'
+                    base_url = loadUrl.replace('[lan]', language)
+                    driver.get(base_url)
+
                     colList = ['Name', 'Dec']
                     exTxt = ''
                     exEx = ''
@@ -162,13 +164,14 @@ def Convert(loadList, language, languageFull, replaceList, dirver):
                         for dfCol in result.columns:
                             # column 확인
                             if col in dfCol:
-                                if exEx == current_read.at[r, col]:
-                                    result.at[r, col] = exTxt
-                                else:
-                                    van = LoadGoogle(result.at[r, col], driver, exTxt)
-                                    exEx = current_read.at[r, col]
-                                    result.at[r, col] = van
-                                    exTxt = van
+                                for r in result.index:
+                                    if exEx == current_read.at[r, col]:
+                                        result.at[r, col] = exTxt
+                                    else:
+                                        van = LoadGoogle(result.at[r, col], driver, exTxt)
+                                        exEx = current_read.at[r, col]
+                                        result.at[r, col] = van
+                                        exTxt = van
 
                     # 이제 바뀐 애들 것에서 기존꺼를 확인해서 내용을 바꾼다.
                     languageRead = pd.read_csv('./'+ languageFull +'/' + loadFile + '.csv', encoding = 'utf-8')
@@ -206,7 +209,7 @@ def Convert(loadList, language, languageFull, replaceList, dirver):
                 current_read.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
 
             # 체크리스트에 추가
-            new_data = pd.DataFrame({'Language': [languageFull], 'File': [loadFile]})
+            new_data = pd.DataFrame({'Language': [languageFull], 'File': [loadFile], 'Version': [currentVersion]})
             checkList = pd.concat([checkList, new_data], ignore_index=True)
             checkList.to_csv('./checkList.csv', mode='w', index=False, encoding='utf-8-sig')
             print(languageFull + ' ' + loadFile)
@@ -216,6 +219,10 @@ loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Script
 
 #완전히 새로운 데이터로 변경
 replaceList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Script', 'ShopItem', 'Tutorial']
+replaceList = ['Notice']
+
+#현재 버전
+currentVersion = '6.5'
 
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
 #Japanese, Simplified Chinese, Traditional Chinese, Vietnamese, German, Russian, Spanish, Arabic, Italian, Malay, Thai, Turkish, French, Indonesian, Javanese, Bengali, Hindi, Portuguese
@@ -230,7 +237,7 @@ service = ChromeService(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=chrome_options)
 
 for lan in range((len(readLanDF) - len(languageList)), len(readLanDF)):
-    Convert(loadList, languageList[lan], readLanDF['Language'][lan], replaceList, driver)
+    Convert(loadList, languageList[lan], readLanDF['Language'][lan], replaceList, driver, currentVersion)
 
 driver.quit()        
 
