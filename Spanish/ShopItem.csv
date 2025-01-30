@@ -1,10 +1,8 @@
 ﻿ID,Name,Dec
-1000,Reclutamiento de jugadores,Recluta jugadores aleatorios en 2024.(남성)
-1001,Reclutamiento de entrenadores,Recluta jugadores aleatorios en 2024.
-1002,Reclutamiento de la temporada 2023,Contrata a un entrenador al azar.
-1003,Reclutamiento de la temporada 2022,"Reclutar al jugador aleatorio de la temporada 23.
- (Sin incluir limitación)"
-1004,Reclutamiento de la temporada 2021,"Reclutar al jugador aleatorio de la temporada 22.
- (Sin incluir limitación)"
-1005,Reclutamiento de la temporada anterior,"Reclutar al jugador aleatorio de la temporada 21.
- (Sin incluir limitación)"
+1000,Reclutamiento de jugadores,Recluta jugadores aleatorios en 2025
+1001,Reclutamiento de entrenadores,Contrata a un entrenador al azar.
+1003,Reclutamiento de la temporada 2024,Reclutar al jugador aleatorio de la temporada 24. (Sin incluir limitación)
+1002,Reclutamiento de la temporada 2023,Reclutar al jugador aleatorio de la temporada 23. (Sin incluir limitación)
+1003,Reclutamiento de la temporada 2022,Reclutar al jugador aleatorio de la temporada 22. (Sin incluir limitación)
+1004,Reclutamiento de la temporada 2021,Reclutar al jugador aleatorio de la temporada 21. (Sin incluir limitación)
+1005,Reclutamiento de la temporada anterior,Reclutar al jugador aleatorio de la temporada 18 ~ 20. (Sin incluir limitación)

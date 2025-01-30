@@ -1,49 +1,29 @@
 ﻿ID,Dec
-11000,"Tim Anda memenangkan liga dengan pelatihan yang bagus!
- Mari kita bersiap untuk memenangkan Kejuaraan Dunia."
-11001,"Meskipun tidak menang, itu melakukan pekerjaan dengan baik.
- Mandi salju dilakukan di Juara Dunia!"
-11002,"Itu bukan kejuaraan.
- Namun, kami berhasil maju ke Kejuaraan Dunia!"
-11003,"Itu bukan kejuaraan.
- Tapi ini peringkat yang bagus untuk mencoba menang musim depan."
-11004,"Yang terburuk dihindari, tetapi itu bukan peringkat yang baik.
- Untuk peringkat yang lebih tinggi} saya pikir perlu pemeliharaan."
-11005,"Kami mengakhiri musim di posisi terburuk.
- Untuk para penggemar yang mendukung kami} Mari kita melangkah lebih jauh untuk musim berikutnya."
-11006,"Tim memenangkan kejuaraan dunia dengan pelatihan yang hebat!
- Pemain dan penggemar merayakan perintah hebat Anda.
- Selamat."
-11007,"Itu tidak menang, tapi itu berhasil.
- Mari kita coba memenangkan Kejuaraan Dunia musim depan!"
-11008,"Sayangnya, ini adalah nilai yang bagus.
- Mari kita tingkatkan kekuatan kita musim depan dan cobalah untuk memenangkan juara dunia berikutnya."
-11009,"Anda telah berhasil memasuki turnamen.
- Musim depan, mari kita menuju turnamen yang lebih tinggi."
-11010,"Sayangnya, turnamen gagal.
- Sayangnya, mari kita maju ke Kejuaraan Dunia musim depan dan bertujuan untuk kejuaraan."
+11000,Tim Anda memenangkan liga dengan pelatihan yang bagus!  Mari kita bersiap untuk memenangkan Kejuaraan Dunia.
+11001,"Meskipun tidak menang, itu melakukan pekerjaan dengan baik.  Mandi salju dilakukan di Juara Dunia!"
+11002,"Itu bukan kejuaraan.  Namun, kami berhasil maju ke Kejuaraan Dunia!"
+11003,Itu bukan kejuaraan.  Tapi ini peringkat yang bagus untuk mencoba menang musim depan.
+11004,"Yang terburuk dihindari, tetapi itu bukan peringkat yang baik.  Untuk peringkat yang lebih tinggi} saya pikir perlu pemeliharaan."
+11005,Kami mengakhiri musim di posisi terburuk.  Untuk para penggemar yang mendukung kami} Mari kita melangkah lebih jauh untuk musim berikutnya.
+11006,Tim memenangkan kejuaraan dunia dengan pelatihan yang hebat!  Pemain dan penggemar merayakan perintah hebat Anda.  Selamat.
+11007,"Itu tidak menang, tapi itu berhasil.  Mari kita coba memenangkan Kejuaraan Dunia musim depan!"
+11008,"Sayangnya, ini adalah nilai yang bagus.  Mari kita tingkatkan kekuatan kita musim depan dan cobalah untuk memenangkan juara dunia berikutnya."
+11009,"Anda telah berhasil memasuki turnamen.  Musim depan, mari kita menuju turnamen yang lebih tinggi."
+11010,"Sayangnya, turnamen gagal.  Sayangnya, mari kita maju ke Kejuaraan Dunia musim depan dan bertujuan untuk kejuaraan."
 20000,Pameran / Operasi Jalur
 20001,Keseimbangan
 20002,Pertarungan tim
 20003,Kebiasaan
-21000,"Ini adalah strategi untuk menggulung bola salju berdasarkan pertempuran garis yang kuat.
- {{-It itu cocok saat Anda memiliki garis pertempuran yang kuat.
- {-Anda dapat dikembalikan ke satu tembakan ketika Anda memiliki pukulan lemah."
-21001,"Lineup} TeamFight} Operasi Mainkan game dengan cara yang seimbang.
- {{-Ini cocok ketika kemampuan pemain genap."
-21002,"Ini adalah strategi yang bertujuan untuk satu tembakan melalui satu tembakan.
- {{-It itu cocok ketika sebuah tim memiliki kemampuan satu-shot yang kuat.
- {"
+21000,Ini adalah strategi untuk menggulung bola salju berdasarkan pertempuran garis yang kuat.  {{-It itu cocok saat Anda memiliki garis pertempuran yang kuat.  {-Anda dapat dikembalikan ke satu tembakan ketika Anda memiliki pukulan lemah.
+21001,Lineup} TeamFight} Operasi Mainkan game dengan cara yang seimbang.  {{-Ini cocok ketika kemampuan pemain genap.
+21002,Ini adalah strategi yang bertujuan untuk satu tembakan melalui satu tembakan.  {{-It itu cocok ketika sebuah tim memiliki kemampuan satu-shot yang kuat.  {
 21003,Ini adalah strategi Anda.
 22000,Pusat permainan
 22001,Pusat ganking
 22002,Pesanan utama
-23000,"Pilih kemampuan untuk menjadi pusat permainan.
- Statistik tim akan meningkat.
- Sebaliknya} sisa kekuatan jatuh."
+23000,Pilih kemampuan untuk menjadi pusat permainan.  Statistik tim akan meningkat.  Sebaliknya} sisa kekuatan jatuh.
 23001,Jungler memutuskan garis untuk ganking.
-23002,"Tetapkan posisi yang berfokus pada operasi.
- Perintah utama akan meningkatkan proporsi operasi tim."
+23002,Tetapkan posisi yang berfokus pada operasi.  Perintah utama akan meningkatkan proporsi operasi tim.
 24000,Keseimbangan
 24001,Garis
 24002,Pertarungan tim
@@ -72,84 +52,40 @@
 25012,Menyerang
 25013,Seimbang
 25014,Truk tangki
-26000,"Sangat tekan lawan dalam barisan.
- Ini juga mengambil kendali operasi melalui perpecahan.
- {{▲ Statistik operasi meningkat.
- {{-Points diperoleh atau hilang pada peningkatan garis.
- {{▼ TeamFight Stat Lowers."
+26000,Sangat tekan lawan dalam barisan.  Ini juga mengambil kendali operasi melalui perpecahan.  {{▲ Statistik operasi meningkat.  {{-Points diperoleh atau hilang pada peningkatan garis.  {{▼ TeamFight Stat Lowers.
 26001,Tangki kesepakatan dasar.
-26002,"Pengaruh berkurang dalam pertempuran baris.
- Namun} dia lebih kuat di Teamfight.
- {{▲ Kemampuan pertarungan tim meningkat.
- {{-Points yang diperoleh atau hilang di garis diturunkan.
- {{▼ Operasi stat diturunkan."
-26003,"Ganking menjadi kuat.
- Namun} ada risiko tinggi kegagalan ganking.
- {{▲ Statistik garis meningkat.
- {{"
+26002,Pengaruh berkurang dalam pertempuran baris.  Namun} dia lebih kuat di Teamfight.  {{▲ Kemampuan pertarungan tim meningkat.  {{-Points yang diperoleh atau hilang di garis diturunkan.  {{▼ Operasi stat diturunkan.
+26003,Ganking menjadi kuat.  Namun} ada risiko tinggi kegagalan ganking.  {{▲ Statistik garis meningkat.  {{
 26004,Tangki kesepakatan dasar.
-26005,"Kemampuan ganking diturunkan.
- Namun} kemampuan memukul meningkat.
- {{▲ Kemampuan memukul meningkat.
- {{▼ Kemampuan lineup turun."
-26006,"Sangat tekan lawan dalam barisan.
- Ini juga mengambil kendali operasi melalui perpecahan.
- {{▲ Statistik operasi meningkat.
- {{-Points diperoleh atau hilang pada peningkatan garis.
- {{▼ TeamFight Stat Lowers."
+26005,Kemampuan ganking diturunkan.  Namun} kemampuan memukul meningkat.  {{▲ Kemampuan memukul meningkat.  {{▼ Kemampuan lineup turun.
+26006,Sangat tekan lawan dalam barisan.  Ini juga mengambil kendali operasi melalui perpecahan.  {{▲ Statistik operasi meningkat.  {{-Points diperoleh atau hilang pada peningkatan garis.  {{▼ TeamFight Stat Lowers.
 26007,Juara Nuker Dasar.
-26008,"Tujuannya adalah untuk meningkatkan kemampuan satu DIL.
- {{▲ Stat satu dilk meningkat."
-26009,"Hari -hari awal sangat kuat.
- Namun} seiring berjalannya waktu} semakin lemah.
- {{▲ Line-up hingga 20 menit pertama} Kemampuan pertarungan tim meningkat.
- {{▼ Kemampuan pertanian tim berkurang dari babak kedua."
+26008,Tujuannya adalah untuk meningkatkan kemampuan satu DIL.  {{▲ Stat satu dilk meningkat.
+26009,Hari -hari awal sangat kuat.  Namun} seiring berjalannya waktu} semakin lemah.  {{▲ Line-up hingga 20 menit pertama} Kemampuan pertarungan tim meningkat.  {{▼ Kemampuan pertanian tim berkurang dari babak kedua.
 26010,Juara satu-deal dasar.
-26011,"Berfokus pada membantu tim daripada peran Carrie.
- {{▲ Statistik operasional naik.
- {{▼ Lines statistik turun."
-26012,"Pertarungan garis sangat kuat.
- Namun} berbahaya untuk beroperasi dengan kesehatan yang rendah.
- {{▲ Statistik line-up meningkat.
- {{-Points diperoleh atau hilang dari peningkatan operasi."
+26011,Berfokus pada membantu tim daripada peran Carrie.  {{▲ Statistik operasional naik.  {{▼ Lines statistik turun.
+26012,Pertarungan garis sangat kuat.  Namun} berbahaya untuk beroperasi dengan kesehatan yang rendah.  {{▲ Statistik line-up meningkat.  {{-Points diperoleh atau hilang dari peningkatan operasi.
 26013,Juara Pendukung Dasar.
-26014,"Lemah dalam antrean.
- Namun} kuat dalam pertarungan tim.
- {{▲ TeamFight Stat meningkat.
- {{▼ Lines stat diturunkan."
-30000,"Jika Anda tidak dapat masuk ke Google, Anda tidak dapat memainkan multipemain.
- Harap masuk Google."
-30001,"Ada akhir yang abnormal dari permainan selama pertandingan multi terakhir.
- Permainan itu hangus."
-30002,"Selamat!
- Anda dipromosikan ke level berikutnya!"
+26014,Lemah dalam antrean.  Namun} kuat dalam pertarungan tim.  {{▲ TeamFight Stat meningkat.  {{▼ Lines stat diturunkan.
+30000,"Jika Anda tidak dapat masuk ke Google, Anda tidak dapat memainkan multipemain.  Harap masuk Google."
+30001,Ada akhir yang abnormal dari permainan selama pertandingan multi terakhir.  Permainan itu hangus.
+30002,Selamat!  Anda dipromosikan ke level berikutnya!
 30003,Anda telah diturunkan karena kekalahan terus -menerus.
 30004,Masuk
-30005,"Ada masalah.
- Alasan masalah:"
-30006,"Koneksi internet telah hilang.
- Ketika Anda memiliki koneksi internet} Anda akan secara otomatis terhubung kembali."
-30007,"Internet terputus selama pertandingan multi.
- {Jika Anda mengklik OK} Anda akan keluar dari stadion."
-30008,"Ada masalah menemukan lawan Anda.
- {Tekan OK untuk keluar dari stadion."
-30009,"Gim ini tidak up to date.
- Anda perlu memperbarui ke versi terbaru untuk memainkan pertandingan.
- {{Tekan tombol di bawah ini untuk memeriksa versi lagi} atau buka halaman pembaruan."
+30005,Ada masalah.  Alasan masalah:
+30006,Koneksi internet telah hilang.  Ketika Anda memiliki koneksi internet} Anda akan secara otomatis terhubung kembali.
+30007,Internet terputus selama pertandingan multi.  {Jika Anda mengklik OK} Anda akan keluar dari stadion.
+30008,Ada masalah menemukan lawan Anda.  {Tekan OK untuk keluar dari stadion.
+30009,Gim ini tidak up to date.  Anda perlu memperbarui ke versi terbaru untuk memainkan pertandingan.  {{Tekan tombol di bawah ini untuk memeriksa versi lagi} atau buka halaman pembaruan.
 30010,Memeriksa
 30011,Ini bukan versi terbaru.
 30012,Menit
 30013,Anda telah dilaporkan sebagai pemain cheat dan tidak dapat memainkan game multipemain. {{Silakan email {hucce@gmail.com untuk pertanyaan apa pun.
 30014,Anda terdaftar sebagai pemain cheat.
-30015,"Memeriksa server multiplay.
- Harap tunggu sampai waktu cek berakhir"
-30016,"Tidak dapat memuat daftar.
- Harap masuk Google di multiplay."
-31000,"Terima kasih telah bermain game.
- Ulasan Anda sangat membantu pengembang.
- Anda akan menerima 300 esensi sebagai hadiah."
-32000,"Terima kasih telah menonton iklannya.
- Klik OK untuk menerima hadiah menonton Anda."
+30015,Memeriksa server multiplay.  Harap tunggu sampai waktu cek berakhir
+30016,Tidak dapat memuat daftar.  Harap masuk Google di multiplay.
+31000,Terima kasih telah bermain game.  Ulasan Anda sangat membantu pengembang.  Anda akan menerima 300 esensi sebagai hadiah.
+32000,Terima kasih telah menonton iklannya.  Klik OK untuk menerima hadiah menonton Anda.
 32001,Iklan dilewati Anda harus menonton iklan sampai akhir untuk menerima hadiah.
 32002,"Gagal mengambil iklan, silakan periksa koneksi internet Anda."
 36000,Skor liga
@@ -169,8 +105,7 @@
 33002,Kegagalan
 33003,Probabilitas keberhasilan
 33004,Perbedaan
-33005,"Apakah Anda ingin melewatkan tutorial?
- Anda tidak bisa mendapatkan hadiah dari tutorial."
+33005,Apakah Anda ingin melewatkan tutorial?  Anda tidak bisa mendapatkan hadiah dari tutorial.
 33006,Bahasa akan berubah saat Anda memulai kembali permainan.
 34000,Periksa versi layanan Google Play
 34001,Google Play Login Lengkap
@@ -178,8 +113,7 @@
 34003,Konfirmasi Simpan Cloud Lengkap
 34004,Impor data lengkap
 34005,Masalah coba lagi
-34006,"Kesalahan!
- Muat ke mode offline"
+34006,Kesalahan!  Muat ke mode offline
 33007,Bulat
 33008,Garis
 33009,Pertarungan tim
@@ -205,8 +139,7 @@
 33029,Melarang
 33030,Pernyataan
 33031,Bug / saran
-33032,"Undangan manajer.
- Menjadi manajer tim LOL."
+33032,Undangan manajer.  Menjadi manajer tim LOL.
 33033,Peringkat terakhir
 33034,Hadiah terakhir
 33035,Mulai musim
@@ -253,15 +186,12 @@
 33068,Data tidak diterima dengan benar.
 33069,Presentasi Pemain Musim
 33070,Entri Kejuaraan Dunia
-33071,"Pemain terpilih yang melakukan debut di liga tahun ini dan menantikan masa depan.
- Itu hanya bisa diperoleh sebagai hadiah musim."
+33071,Pemain terpilih yang melakukan debut di liga tahun ini dan menantikan masa depan.  Itu hanya bisa diperoleh sebagai hadiah musim.
 33072,Apakah Anda ingin menghentikan pertandingan otomatis? {Item bekas akan hilang.
 33073,Apakah Anda yakin ingin mengatur ulang akun Anda? {Simpan data akan dihapus dan permainan akan restart.
 33074,Pelatih yang sama sudah ada di dalam entri.
-33075,"Apakah Anda yakin ingin menghapus pelatih?
- Anda bisa mendapatkan 30essence."
-33076,"Apakah Anda ingin mengubah nama tim Anda?
- Menggunakan 500essence."
+33075,Apakah Anda yakin ingin menghapus pelatih?  Anda bisa mendapatkan 30essence.
+33076,Apakah Anda ingin mengubah nama tim Anda?  Menggunakan 500essence.
 33077,Info perekrutan
 33078,Info probabilitas
 33079,Saat menonton iklan {exp

@@ -1,49 +1,29 @@
 ﻿ID,Dec
-11000,"Ekibiniz ligi harika koçlukla kazandı!
- Dünya Şampiyonasını kazanmaya hazırlanalım."
-11001,"Kazanmasa da, harika bir iş çıkardı.
- Dünya Şampiyonu'nda kar banyo yapıldı!"
-11002,"Bir şampiyonluk değildi.
- Ancak, Dünya Şampiyonası'na ilerlemeyi başardık!"
-11003,"Bir şampiyonluk değildi.
- Ama gelecek sezon kazanmaya çalışmak iyi bir sıralama."
-11004,"En kötüsü önlendi, ama iyi bir sıralama değildi.
- Daha yüksek bir sıralama için} Bence bakıma ihtiyacı var."
-11005,"Sezonu en kötü pozisyonda bitirdik.
- Bizi destekleyen hayranlar için} Gelecek sezon için daha ileri gidelim."
-11006,"Takım dünya şampiyonasını harika koçlukla kazandı!
- Oyuncular ve hayranlar büyük komutunuzu kutlar.
- Tebrikler."
-11007,"Kazanmadı, ama harika bir iş çıkardı.
- Gelecek sezon Dünya Şampiyonasını kazanmaya çalışalım!"
-11008,"Ne yazık ki, harika bir not.
- Gelecek sezon gücümüzü artıralım ve bir sonraki dünya şampiyonunu kazanmaya çalışalım."
-11009,"Turnuvaya başarıyla girdiniz.
- Gelecek sezon, daha yüksek turnuvalar için gidelim."
-11010,"Ne yazık ki, turnuva başarısız oldu.
- Ne yazık ki, gelecek sezon Dünya Şampiyonasına ilerleyelim ve şampiyonluğu hedefleyelim."
+11000,Ekibiniz ligi harika koçlukla kazandı!  Dünya Şampiyonasını kazanmaya hazırlanalım.
+11001,"Kazanmasa da, harika bir iş çıkardı.  Dünya Şampiyonu'nda kar banyo yapıldı!"
+11002,"Bir şampiyonluk değildi.  Ancak, Dünya Şampiyonası'na ilerlemeyi başardık!"
+11003,Bir şampiyonluk değildi.  Ama gelecek sezon kazanmaya çalışmak iyi bir sıralama.
+11004,"En kötüsü önlendi, ama iyi bir sıralama değildi.  Daha yüksek bir sıralama için} Bence bakıma ihtiyacı var."
+11005,Sezonu en kötü pozisyonda bitirdik.  Bizi destekleyen hayranlar için} Gelecek sezon için daha ileri gidelim.
+11006,Takım dünya şampiyonasını harika koçlukla kazandı!  Oyuncular ve hayranlar büyük komutunuzu kutlar.  Tebrikler.
+11007,"Kazanmadı, ama harika bir iş çıkardı.  Gelecek sezon Dünya Şampiyonasını kazanmaya çalışalım!"
+11008,"Ne yazık ki, harika bir not.  Gelecek sezon gücümüzü artıralım ve bir sonraki dünya şampiyonunu kazanmaya çalışalım."
+11009,"Turnuvaya başarıyla girdiniz.  Gelecek sezon, daha yüksek turnuvalar için gidelim."
+11010,"Ne yazık ki, turnuva başarısız oldu.  Ne yazık ki, gelecek sezon Dünya Şampiyonasına ilerleyelim ve şampiyonluğu hedefleyelim."
 20000,Çizgi Sergisi / Operasyonu
 20001,Denge
 20002,Takım dövüşü
 20003,Gelenek
-21000,"Güçlü çizgi savaşlarına dayanan kartopu yuvarlamak için bir stratejidir.
- {{-Genti güçlü bir hat savaşınız olduğunda uygundur.
- {-Hiren zayıf bir darbe olduğunda bir atışa geri dönebilirsiniz."
-21001,"Dizilen} TeamFight} Operasyon Oyunu dengeli bir şekilde oynatın.
- {{-Bu, oyuncuların yeteneği eşit olduğunda uygundur."
-21002,"Tek bir atış için bir atış hedefleyen bir strateji.
- {{-Bir bir takım güçlü bir tek atış yeteneğine sahip olduğunda uygundur.
- {"
+21000,Güçlü çizgi savaşlarına dayanan kartopu yuvarlamak için bir stratejidir.  {{-Genti güçlü bir hat savaşınız olduğunda uygundur.  {-Hiren zayıf bir darbe olduğunda bir atışa geri dönebilirsiniz.
+21001,"Dizilen} TeamFight} Operasyon Oyunu dengeli bir şekilde oynatın.  {{-Bu, oyuncuların yeteneği eşit olduğunda uygundur."
+21002,Tek bir atış için bir atış hedefleyen bir strateji.  {{-Bir bir takım güçlü bir tek atış yeteneğine sahip olduğunda uygundur.  {
 21003,Bu senin stratejiniz.
 22000,Oyunun merkezi
 22001,Bir Ganking Merkezi
 22002,Ana sipariş
-23000,"Oyunun merkezi olma yeteneğini seçin.
- Ekibin istatistikleri artacak.
- Bunun yerine} Gücün geri kalanı düşer."
+23000,Oyunun merkezi olma yeteneğini seçin.  Ekibin istatistikleri artacak.  Bunun yerine} Gücün geri kalanı düşer.
 23001,Jungler ganning için çizgiye karar verir.
-23002,"Operasyonlara odaklanan bir konum belirleyin.
- Ana sipariş, takım operasyonunun oranını artıracaktır."
+23002,"Operasyonlara odaklanan bir konum belirleyin.  Ana sipariş, takım operasyonunun oranını artıracaktır."
 24000,Denge
 24001,Astar
 24002,Takım dövüşü
@@ -72,84 +52,40 @@
 25012,Saldırı
 25013,Dengeli
 25014,Tanker
-26000,"Rakibi sıraya sokun.
- Aynı zamanda operasyonun kontrolünü bölünür.
- {{▲ İşlem İstatistikleri artar.
- {{-Trup artışında kazanılan veya kaybedilen noktalar.
- {{▼ TeamFight Stat azalır."
+26000,Rakibi sıraya sokun.  Aynı zamanda operasyonun kontrolünü bölünür.  {{▲ İşlem İstatistikleri artar.  {{-Trup artışında kazanılan veya kaybedilen noktalar.  {{▼ TeamFight Stat azalır.
 26001,Temel anlaşma tankı.
-26002,"Hat savaşlarında etki azalır.
- Ancak} Teamfight'ta daha güçlü.
- {{▲ TeamFight yeteneği artar.
- {{-Tende kazanılan veya kaybedilen noktalar düşürülür.
- {{▼ İşletme STAT indirilir."
-26003,"Ganking güçlenir.
- Ancak} Başarısızlık riski yüksektir.
- {{▲ Satır istatistikleri artar.
- {{"
+26002,Hat savaşlarında etki azalır.  Ancak} Teamfight'ta daha güçlü.  {{▲ TeamFight yeteneği artar.  {{-Tende kazanılan veya kaybedilen noktalar düşürülür.  {{▼ İşletme STAT indirilir.
+26003,Ganking güçlenir.  Ancak} Başarısızlık riski yüksektir.  {{▲ Satır istatistikleri artar.  {{
 26004,Temel anlaşma tankı.
-26005,"Ganking yeteneği azalır.
- Ancak} isabet yeteneği artar.
- {{▲ isabet yeteneği artar.
- {{▼ dizilim yeteneği azalır."
-26006,"Rakibi sıraya sokun.
- Aynı zamanda operasyonun kontrolünü bölünür.
- {{▲ İşlem İstatistikleri artar.
- {{-Trup artışında kazanılan veya kaybedilen noktalar.
- {{▼ TeamFight Stat azalır."
+26005,Ganking yeteneği azalır.  Ancak} isabet yeteneği artar.  {{▲ isabet yeteneği artar.  {{▼ dizilim yeteneği azalır.
+26006,Rakibi sıraya sokun.  Aynı zamanda operasyonun kontrolünü bölünür.  {{▲ İşlem İstatistikleri artar.  {{-Trup artışında kazanılan veya kaybedilen noktalar.  {{▼ TeamFight Stat azalır.
 26007,Temel Nuker şampiyonu.
-26008,"Amaç, bir dilin yeteneğini geliştirmektir.
- {{▲ Bir DIL'in statü artar."
-26009,"İlk günler güçlü.
- Ancak} zaman geçtikçe} zayıflar.
- {{▲ ilk 20 dakikaya kadar satır} TeamFight yeteneği artar.
- {▼ TeamFight yeteneği ikinci yarıdan azalır."
+26008,"Amaç, bir dilin yeteneğini geliştirmektir.  {{▲ Bir DIL'in statü artar."
+26009,İlk günler güçlü.  Ancak} zaman geçtikçe} zayıflar.  {{▲ ilk 20 dakikaya kadar satır} TeamFight yeteneği artar.  {▼ TeamFight yeteneği ikinci yarıdan azalır.
 26010,Temel tek fıkra şampiyonu.
-26011,"Carrie'nin rolü yerine takıma yardım etmeye odaklanıyor.
- {{▲ operasyonel istatistikler artar.
- {{▼ satır istatistikleri düşer."
-26012,"Çizgi dövüşü güçlüdür.
- Ancak} Düşük sağlıkla çalışmak tehlikelidir.
- {{▲ Dizilen istatistikler artar.
- {{-Bu noktalar operasyondan elde edilen veya kaybedilen noktalar."
+26011,Carrie'nin rolü yerine takıma yardım etmeye odaklanıyor.  {{▲ operasyonel istatistikler artar.  {{▼ satır istatistikleri düşer.
+26012,Çizgi dövüşü güçlüdür.  Ancak} Düşük sağlıkla çalışmak tehlikelidir.  {{▲ Dizilen istatistikler artar.  {{-Bu noktalar operasyondan elde edilen veya kaybedilen noktalar.
 26013,Temel destekçi şampiyonu.
-26014,"Sırada zayıf.
- Ancak} Teamfight'da güçlüdür.
- {{▲ TeamFight Stat artar.
- {{▼ hatları stat indirilir."
-30000,"Google'a giriş yapamıyorsanız, çok oyunculu oynayamazsınız.
- Lütfen Google'a giriş yapın."
-30001,"Son çok maç sırasında oyunun anormal bir sonu vardı.
- Oyun kaybedildi."
-30002,"Tebrikler!
- Bir sonraki seviyeye yükseltildiniz!"
+26014,Sırada zayıf.  Ancak} Teamfight'da güçlüdür.  {{▲ TeamFight Stat artar.  {{▼ hatları stat indirilir.
+30000,"Google'a giriş yapamıyorsanız, çok oyunculu oynayamazsınız.  Lütfen Google'a giriş yapın."
+30001,Son çok maç sırasında oyunun anormal bir sonu vardı.  Oyun kaybedildi.
+30002,Tebrikler!  Bir sonraki seviyeye yükseltildiniz!
 30003,Sürekli yenilgi nedeniyle küçültünüz.
 30004,Oturum açma
-30005,"Bir sorun var.
- Sorun Nedeni:"
-30006,"İnternet bağlantısı kayboldu.
- İnternet bağlantınız olduğunda} otomatik olarak yeniden bağlanacaksınız."
-30007,"İnternet çoklu maç sırasında bağlantısı kesildi.
- {Tamam'ı tıklarsanız} stadyumdan çıkacaksınız."
-30008,"Rakibinizi bulmakta bir sorun vardı.
- {Stadyumdan çıkmak için Tamam'a basın."
-30009,"Oyun güncel değil.
- Maçı oynamak için en son sürüme güncellemeniz gerekir.
- {{Sürümü tekrar kontrol etmek için aşağıdaki düğmeye basın} veya güncelleme sayfasına gidin."
+30005,Bir sorun var.  Sorun Nedeni:
+30006,İnternet bağlantısı kayboldu.  İnternet bağlantınız olduğunda} otomatik olarak yeniden bağlanacaksınız.
+30007,İnternet çoklu maç sırasında bağlantısı kesildi.  {Tamam'ı tıklarsanız} stadyumdan çıkacaksınız.
+30008,Rakibinizi bulmakta bir sorun vardı.  {Stadyumdan çıkmak için Tamam'a basın.
+30009,Oyun güncel değil.  Maçı oynamak için en son sürüme güncellemeniz gerekir.  {{Sürümü tekrar kontrol etmek için aşağıdaki düğmeye basın} veya güncelleme sayfasına gidin.
 30010,Kontrol
 30011,En son sürüm değil.
 30012,Dakika
 30013,Bir hile oyuncusu olarak bildirildiniz ve çok oyunculu oyunlar oynayamazsınız.
 30014,Hile oyuncusu olarak kayıtlaşınız.
-30015,"Çoklu sunucuyu kontrol etme.
- Lütfen çek süresi bitene kadar bekleyin"
-30016,"Listeyi yükleyemiyor.
- Lütfen Google'a Multiplay'da giriş yapın."
-31000,"Oyunu oynadığınız için teşekkürler.
- İncelemeniz geliştirici için harika bir yardımcıdır.
- Ödül olarak 300 özü alacaksınız."
-32000,"Reklamı izlediğiniz için teşekkür ederiz.
- İzleme ödülünüzü almak için Tamam'ı tıklayın."
+30015,Çoklu sunucuyu kontrol etme.  Lütfen çek süresi bitene kadar bekleyin
+30016,Listeyi yükleyemiyor.  Lütfen Google'a Multiplay'da giriş yapın.
+31000,Oyunu oynadığınız için teşekkürler.  İncelemeniz geliştirici için harika bir yardımcıdır.  Ödül olarak 300 özü alacaksınız.
+32000,Reklamı izlediğiniz için teşekkür ederiz.  İzleme ödülünüzü almak için Tamam'ı tıklayın.
 32001,Reklam atladı Ödül almak için reklamı sonuna kadar izlemelisiniz.
 32002,AD getirilemedi Lütfen İnternet bağlantınızı kontrol edin.
 36000,Lig skoru
@@ -169,8 +105,7 @@
 33002,Arıza
 33003,Başarı olasılığı
 33004,Fark
-33005,"Öğreticiyi atlamak ister misiniz?
- Öğreticiden ödülleri alamazsınız."
+33005,Öğreticiyi atlamak ister misiniz?  Öğreticiden ödülleri alamazsınız.
 33006,Oyunu yeniden başlattığınızda dil değişecektir.
 34000,Google Play Service Sürüm Kontrolü
 34001,Google Play Oturum Açma Tam
@@ -178,8 +113,7 @@
 34003,Bulut Kaydet Onayı Tamamlandı
 34004,Veri içe aktarma tamamlandı
 34005,Sorun Yeniden Deneyin
-34006,"Hata!
- Çevrimdışı Mod'a Yükle"
+34006,Hata!  Çevrimdışı Mod'a Yükle
 33007,Yuvarlak
 33008,Astar
 33009,Takım dövüşü
@@ -205,8 +139,7 @@
 33029,Yasaklamak
 33030,Beyanname
 33031,Hata / Öneriler
-33032,"Yönetici Daveti.
- LOL takım yöneticisi olun."
+33032,Yönetici Daveti.  LOL takım yöneticisi olun.
 33033,Son derece
 33034,Son ödül
 33035,Sezon Başlangıç
@@ -253,15 +186,12 @@
 33068,Veriler düzgün alınmadı.
 33069,Sezon Oyuncu Sunumu
 33070,Dünya Şampiyonası Girişi
-33071,"Bu yıl ligde çıkış yapan ve geleceği dört gözle bekleyen seçilmiş oyuncular.
- Sadece sezon ödülü olarak elde edilebilir."
+33071,Bu yıl ligde çıkış yapan ve geleceği dört gözle bekleyen seçilmiş oyuncular.  Sadece sezon ödülü olarak elde edilebilir.
 33072,Otomatik eşleşmeyi durdurmak ister misiniz? {Kullanılmış ürünler kaybolacaktır.
 33073,Hesabınızı sıfırlamak istediğinizden emin misiniz? {Kaydet verilerini silinir ve oyun yeniden başlatılır.
 33074,Aynı koç zaten girişte.
-33075,"Koçu silmek istediğinden emin misiniz?
- 30esence alabilirsiniz."
-33076,"Takım adınızı değiştirmek ister misiniz?
- 500esence kullanır."
+33075,Koçu silmek istediğinden emin misiniz?  30esence alabilirsiniz.
+33076,Takım adınızı değiştirmek ister misiniz?  500esence kullanır.
 33077,İşe alım bilgisi
 33078,Olasılık Bilgisi
 33079,Reklam izlerken {exp

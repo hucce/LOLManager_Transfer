@@ -1,11 +1,8 @@
 ﻿ID,Name,Dec
-1000,Rekrutierung von Spielern,Rekrutieren Sie zufällige Spieler im Jahr 2024.
+1000,Rekrutierung von Spielern,Rekrutieren Sie zufällige Spieler im Jahr 2025
 1001,Rekrutierung von Coach,Mieten Sie einen zufälligen Trainer.
-1002,2023Saison Rekrutierung,"Rekrutieren Sie zufälligen Spieler aus der 23. Saison.
- (Ohne Einschränkung)"
-1003,2022Saison Rekrutierung,"Rekrutieren Sie den zufälligen Spieler aus der 22 -Season.
- (Ohne Einschränkung)"
-1004,2021Season Rekrutierung,"Rekrutieren Sie zufälligen Spieler aus der 21. Saison.
- (Ohne Einschränkung)"
-1005,Rekrutierung der vorherigen Saison,"Rekrutieren Sie zufälligen Spieler aus der 18 ~ 20 Season.
- (Ohne Einschränkung)"
+1003,2024 -Season -Rekrutierung,Rekrutieren Sie zufälligen Spieler aus der 24. Saison. (Ohne Einschränkung)
+1002,2023Saison Rekrutierung,Rekrutieren Sie den zufälligen Spieler aus der 23. Saison. (Ohne Einschränkung)
+1003,2022Saison Rekrutierung,Rekrutieren Sie den zufälligen Spieler aus der 22 -Season. (Ohne Einschränkung)
+1004,2021Season Rekrutierung,Rekrutieren Sie zufälligen Spieler aus der 21. Saison. (Ohne Einschränkung)
+1005,Rekrutierung der vorherigen Saison,Rekrutieren Sie zufälligen Spieler aus der 18 ~ 20 Season. (Ohne Einschränkung)

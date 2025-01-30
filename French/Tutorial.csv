@@ -1,6 +1,5 @@
 ﻿ID,Dec
-10000,"Salut.
- Ravi de vous rencontrer."
+10000,Salut.  Ravi de vous rencontrer.
 10001,"Avec le soutien du manager}, il a créé une nouvelle équipe dans la LOL League."
 10002,Veuillez d'abord nommer votre équipe.
 10003,Laissez faire une équipe AAA dans l'histoire.
@@ -14,15 +13,12 @@
 10011,Embauchons un nouveau joueur avec l'essence que nous avons maintenant.
 10012,Appuyez sur le bouton de recrutement X1.
 10013,Nous avons un nouveau joueur.
-10014,"L'équipe n'est toujours pas compétitive.
- Embauchons un meilleur joueur pour améliorer notre compétitivité."
-10015,"Il n'y a pas assez d'essence pour recruter un bon joueur.
- Dans ce cas, vous pouvez obtenir un numéro entier en utilisant un sponsor."
+10014,L'équipe n'est toujours pas compétitive.  Embauchons un meilleur joueur pour améliorer notre compétitivité.
+10015,"Il n'y a pas assez d'essence pour recruter un bon joueur.  Dans ce cas, vous pouvez obtenir un numéro entier en utilisant un sponsor."
 10016,Voir toutes les annonces vidéo des sponsors} pour gagner des récompenses.
 10017,"Initialement, les annonces parrainées sont spécialement préparées à recevoir 50% de récompenses supplémentaires."
 10018,Avocation parrainée par la presse.
-10019,"Le sponsor nous a envoyé un entier.
- Maintenant, obtenons un nouveau joueur avec cet entier."
+10019,"Le sponsor nous a envoyé un entier.  Maintenant, obtenons un nouveau joueur avec cet entier."
 10020,Appuyez sur le bouton de recrutement X5.
 10021,Nous avons un nouveau joueur.
 10022,Essayons maintenant un nouveau joueur.
@@ -38,14 +34,12 @@
 10032,Changeons maintenant le joueur qui n'est pas nécessaire à un autre joueur.
 10033,Essayez d'appuyer sur la recombinaison.
 10034,"Ici, vous pouvez remplacer quatre candidats par de nouveaux joueurs."
-10035,"Temporairement, j'ai donné à quatre joueurs.
- Recombinons ces joueurs."
+10035,"Temporairement, j'ai donné à quatre joueurs.  Recombinons ces joueurs."
 10036,Appuyez sur le bouton Ajouter.
 10037,Appuyez sur le bouton Ajouter.
 10038,Appuyez sur le bouton Ajouter.
 10039,Appuyez sur le bouton Ajouter.
-10040,"Mettez les trois joueurs.
- Passons maintenant à un nouveau joueur."
+10040,Mettez les trois joueurs.  Passons maintenant à un nouveau joueur.
 10041,Vous pouvez vérifier les informations sur les capacités du joueur à partir des informations de recrutement.
 10042,"Maintenant, obtenez le joueur."
 10043,Essayez d'appuyer sur la recombinaison.
@@ -74,8 +68,7 @@
 10066,"Maintenant, testons notre stratégie."
 10067,Appuyez sur le bouton Match
 10068,Voyons comment utiliser les éléments de match avant de passer au match.
-10069,"!
- Appuyez sur le bouton."
+10069,!  Appuyez sur le bouton.
 10070,J'ai entendu un élément d'expérience supplémentaire de 10% en cadeau.
 10071,Veuillez vérifier l'utilisation.
 10072,"Si vous vérifiez l'utilisation, vous utiliserez l'élément correspondant dans les correspondances futures."
@@ -104,8 +97,7 @@
 10095,Le renforcement rend le joueur plus fort à travers le même joueur.
 10096,Cette fois} Reincrochons le joueur que je vous ai donné.
 10097,Essayez d'appuyer sur le bouton ▼.
-10098,"Appuyez sur le bouton pour plier la liste des entrées.
- Appuyez sur le bouton pour voir une liste plus grande des sous-joueurs."
+10098,Appuyez sur le bouton pour plier la liste des entrées.  Appuyez sur le bouton pour voir une liste plus grande des sous-joueurs.
 10099,Essayez maintenant d'ajouter un joueur.
 10100,Appuyez sur le bouton Ajouter.
 10101,"Si un joueur est ajouté}, seul le même joueur est visible."
@@ -135,8 +127,7 @@
 10125,"Maintenant, tout est prêt."
 10126,Enfin} le manager nous a envoyé l'essence.
 10127,Faisons le vainqueur de la ligue AAA!
-10128,"Salut.
- Bienvenue dans le jeu Multi Match."
+10128,Salut.  Bienvenue dans le jeu Multi Match.
 10129,"Ici, vous pouvez jouer le match d'autres entraîneurs."
 10130,"Ici, vous pouvez voir les points de notes de votre équipe} et correspondre aux données."
 10131,Appuyez sur le bouton d'information de récompense.
@@ -156,13 +147,11 @@
 10145,"Si vous augmentez votre niveau plus haut en gagnant}, vous pouvez vérifier le classement de votre équipe à travers le classement ci-dessous."
 10146,Et vous pouvez voir l'équipe de Rankers en détail.
 10147,Appuyez sur le bouton.
-10148,"Vous pouvez maintenant voir les joueurs et les stratégies utilisés par les Rankers.
- Vérifiez-le et renforcez votre équipe plus forte."
+10148,Vous pouvez maintenant voir les joueurs et les stratégies utilisés par les Rankers.  Vérifiez-le et renforcez votre équipe plus forte.
 10149,"Maintenant, appuyons à nouveau sur le bouton."
 10150,Le classement prend du temps pour actualiser.
 10151,"Si vous souhaitez actualiser immédiatement}, vous pouvez mettre à jour le classement immédiatement via le bouton Actualiser."
-10152,"Bien.
- Préparez-vous à le grade et à collecter des points pour devenir le meilleur manager!"
+10152,Bien.  Préparez-vous à le grade et à collecter des points pour devenir le meilleur manager!
 10153,"Dans votre compte}, vous pouvez voir les informations de votre compte et les réalisations quotidiennes}} d'autres informations."
 10154,Dans Daily}} Les quêtes sont mises à jour chaque jour.
 10155,Dans les réalisations} Vous pouvez voir les réalisations
@@ -170,5 +159,4 @@
 10157,"Dans d'autres}, vous pouvez voir d'autres parties telles que le support des développeurs."
 10158,Vous pouvez gagner des récompenses en complétant les réalisations de quête ou d'autres pièces.
 10159,"De plus, le parrainage nous aidera à continuer de développer le jeu à l'avenir."
-10160,"Merci pour votre patronage.
- Merci."
+10160,Merci pour votre patronage.  Merci.

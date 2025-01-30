@@ -2,15 +2,13 @@
 1000,효과음,Effet sonore
 1001,배경음,Son de fond
 1002,언어,Langue
-1003,만든이: 허민구{연락: huccce@gmail.com,Créé par: heo min-gu {contact: huccce@gmail.com
+1003,만든이: 허민구{연락: huccce@gmail.com,Créé par: heo min-gu {Contact: huccce@gmail.com
 1004,불러오는 중 /{구글 로그인,Chargement / {Google Connexion
-1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,"<Atyle> {{Il y a plusieurs données.
- Veuillez sélectionner les données à charger.
- {Les données non sélectionnées seront supprimées."
+1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<Atyle> {{Il y a plusieurs données. Veuillez sélectionner les données à charger. {Les données non sélectionnées seront supprimées.
 1006,팀이름,Nom de l'équipe
-1007,라운드,Rond(남성)
-1008,정수,Rond
-1009,저장날짜,Essence
+1007,라운드,Rond
+1008,정수,Essence
+1009,저장날짜,Économiser la date
 1010,결정,Décision
 1011,경기,Correspondre
 1012,리그,Ligue
@@ -27,12 +25,12 @@
 1023,운영,Opération
 1024,포지션,Position
 1025,이름,Nom
-1026,종합,Total(남성)
-1027,일정,Total
-1028,상대팀,Calendrier
-1029,총합,Total(남성)
-1030,결과,Total
-1031,승리,Résultat
+1026,종합,Total
+1027,일정,Calendrier
+1028,상대팀,Équipe adverse
+1029,총합,Total
+1030,결과,Résultat
+1031,승리,Victoire
 1032,패배,Défaite
 1033,간편,Simple
 1034,지침,Ligne directrice
@@ -72,8 +70,8 @@
 1068,새로고침시간,Actualiser le temps
 1069,대전정보,Faire correspondre les informations
 1070,대전찾기,Recherche de correspondance
-1071,선수,Joueur(남성)
-1072,감독,Joueur
+1071,선수,Joueur
+1072,감독,Directeur
 1073,로그인,Se connecter
 1074,확인,Confirmer
 1075,일일,Jour
@@ -107,13 +105,10 @@
 1103,전략복사,Copie stratégique
 1104,신고,Rapport
 1105,<이벤트>,<velois>
-1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,"Événement express du sponsor!
- {{Découvrez les annonces sponsorisées maintenant pour obtenir une récompense supplémentaire de + 50%."
+1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,Événement express du sponsor! {{Découvrez les annonces sponsorisées maintenant pour obtenir une récompense supplémentaire de + 50%.
 1107,영입시장으로 가기,Aller sur le marché du recrutement
 1108,<리뷰 이벤트>,<Événement de révision>
-1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,"Merci d'avoir joué au jeu.
- {{C'est d'une grande aide pour les développeurs.
- Vous recevrez 300 essences en récompense."
+1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,Merci d'avoir joué au jeu. {{C'est d'une grande aide pour les développeurs. Vous recevrez 300 essences en récompense.
 1110,리뷰하러 가기,Aller à l'examen
 1111,답변을 받으실 메일을 적어주세요.,Veuillez écrire un e-mail pour répondre.
 1112,(언어 변경 시 재시작 필요),(Nécessite un redémarrage lors du changement de langue)
@@ -124,12 +119,12 @@
 1117,친구 목록,Liste d'amis
 1118,찾기,Trouver
 1119,아니요,Non
-1120,멀티대전정보,Informations multiples
+1120,멀티대전정보,Informations multipathes
 1121,친구 추가,Ajouter un ami
 1122,라인전{운영,Ligne {opération
-1123,밸런스,Équilibré(남성)
-1124,커스텀,Équilibré
-1125,탑,Coutume
+1123,밸런스,Équilibré
+1124,커스텀,Coutume
+1125,탑,Haut
 1126,정글,Jungle
 1127,미드,Milieu
 1128,원딜,ANNONCE
@@ -137,9 +132,9 @@
 1130,중심,Centre
 1131,갱킹,Ganking
 1132,메인오더,Commande principale
-1133,한정,Limité(남성)
-1134,레벨,Limité
-1135,팀,LV
+1133,한정,Limité
+1134,레벨,LV
+1135,팀,Équipe
 1136,당신의 팀이름을 정해주세요{(최대 5글자),Veuillez spécifier le nom de votre équipe {(jusqu'à 5 caractères)
 1137,보낸이,Depuis
 1138,내용,Contenu
@@ -152,9 +147,9 @@
 1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Prix d'article + frais de base 100 + 5% du prix d'article ci-joint)
 1146,쪽지보내기,Envoyer un message
 1147,첼린저,Challenger
-1148,마스터,Maître(남성)
-1149,다이아,Maître
-1150,플레티넘,Diamant
+1148,마스터,Maître
+1149,다이아,Diamant
+1150,플레티넘,Platine
 1151,골드,Or
 1152,실버,Argent
 1153,브론즈,Bronze
@@ -167,7 +162,7 @@
 1160,플레티넘 패키지,Platine
 1161,골드 패키지,Forfait en or
 1162,실버 패키지,Paquet en argent
-1163,모든선수 패키지,Package de joueurs
+1163,모든선수 패키지,Tous les joueurs Package
 1164,다이아 영입,Recrutement de diamants
 1165,첼린저 영입,Recrutement de challenger
 1166,모든한정포함 첼린저 영입,Recrutement de limite tout compris
@@ -178,7 +173,7 @@
 1171,연습{경기,Pratiquez {faire correspondre
 1172,대전,Correspondre
 1173,멀티 시즌성적,Résultats multi-saison
-1174,새로운 시즌 시작,Nouvelle saison commence
+1174,새로운 시즌 시작,Nouveau début de saison
 1175,평균 선수 종합:,Total du joueur AVG:
 1176,이곳을 눌러{선수 이름 입력,Appuyez ici pour {le nom du joueur entre
 1177,시즌,Saison
@@ -189,11 +184,11 @@
 1191,새로운 리그 시작,New League Start
 1192,<선수 등급 정보>,<Informations sur le taux des joueurs>
 1193,토너먼트,Tournoi
-1194,우승,Champion(남성)
-1195,승자조,Champion
-1196,패자조,Support du gagnant
-1197,시즌보상정보,Support de perdant
-1198,격전보상정보,Informations sur la récompense de la saison
+1194,우승,Champion
+1195,승자조,Support du gagnant
+1196,패자조,Support de perdant
+1197,시즌보상정보,Informations sur la récompense de la saison
+1198,격전보상정보,Écraser les informations de récompense
 1199,재시도,Réessayer
 1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"※ Si vous ne procédez pas au tournoi final, vous ne serez pas récompensé."
 1201,랭크,Rang
@@ -211,14 +206,14 @@
 1213,사용,Utiliser
 1214,개수,Compter
 1215,자동,Auto
-1216,추가경험치,Adjoint(남성)
-1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,Adjoint
-1218,언어설정,※ Les récompenses ne peuvent être reçues que par la saison 10 ou plus.
-1219,리셋,Paramètres linguistiques
-1220,재시작,Réinitialiser
-1221,코치,Entraîneur(남성)
-1222,추가,Entraîneur
-1223,후보,Ajouter
+1216,추가경험치,AddExp
+1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Les récompenses ne peuvent être reçues que par la saison 10 ou plus.
+1218,언어설정,Stage
+1219,리셋,Réinitialiser
+1220,재시작,Redémarrer
+1221,코치,Entraîneur
+1222,추가,Ajouter
+1223,후보,Sous
 1224,새게임,Nouveau jeu
 1225,버그 제보,Rapport de bogue
 1226,코치명단,Liste des entraîneurs
@@ -227,4 +222,4 @@
 1229,팀명 변경,Changement de nom de l'équipe
 1230,보상선수,Récompense
 1231,선수명단,Liste des joueurs
-1232,시간정보 재송신,Rechargement d'informations de temps
+1232,시간정보 재송신,Rechargement d'informations sur le temps

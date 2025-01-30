@@ -37,20 +37,17 @@ def LoadGoogle(txt, driver, extxt):
                 except:
                     driver.implicitly_wait(0.1)
             
-            # 번역할 텍스트 입력
             input_box.clear()
             input_box.send_keys(txt)
             result = ''
 
-            driver.implicitly_wait(0.2)
-
             while(True):
                 try:
                     result = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz/div/div[6]/div/div[1]/span[1]')
-                    text = result.text.replace('\n', '').replace('\r', '').replace('(남성)', '')
-                    if (extxt != text and '' != text):
+                    if (extxt != result.text and '' != result.text):
+                        text = result.text
                         break
-                    elif('' == text):
+                    elif('' == result.text):
                         try:
                             #번역 에러
                             btn = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz/div/div[5]/div[2]/button/span')
@@ -73,10 +70,10 @@ def LoadGoogle(txt, driver, extxt):
                     except:
                         try:
                             result = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz/div/div[7]/div[1]/div[1]')
-                            text = result.text.replace('\n', '').replace('\r', '').replace('(남성)', '')
-                            if (extxt != text and '' != text):
+                            if (extxt != result.text and '' != result.text):
+                                text = result.text
                                 break
-                            elif('' == text):
+                            elif('' == result.text):
                                 try:
                                     #번역 에러
                                     btn = driver.find_element(By.XPATH, '/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz/div/div[5]/div[2]/button/span')
@@ -96,12 +93,12 @@ def LoadGoogle(txt, driver, extxt):
                             driver.implicitly_wait(0.1)
                             _time += 0.1
                 if _time >= 40:
-                    text = result.text.replace('\n', '').replace('\r', '').replace('(남성)', '')
+                    text = result.text
                     break
             break
         except:
             print("에러 발생")
-    
+
     return text
 
 def createFolder(directory):
@@ -124,7 +121,7 @@ def Convert(loadList, language, languageFull, replaceList, dirver, currentVersio
         for i in range(len(checkList)):
             if  checkList['Language'][i] == languageFull:
                 if checkList['File'][i] == loadFile:
-                    if str(checkList['Version'][i]) == currentVersion:
+                    if checkList['Version'][i] == currentVersion:
                         print(languageFull + ' ' + loadFile)
                         checkLanguage = True
                         break
@@ -243,10 +240,11 @@ loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Script
 
 #완전히 새로운 데이터로 변경
 replaceList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Script', 'ShopItem', 'Tutorial']
-replaceList = ['ShopItem']
+replaceList = ['Notice']
+replaceList = ['Script']
 
 #현재 버전
-currentVersion = '7.0'
+currentVersion = '6.6'
 
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
 #Japanese, Simplified Chinese, Traditional Chinese, Vietnamese, German, Russian, Spanish, Arabic, Italian, Malay, Thai, Turkish, French, Indonesian, Javanese, Bengali, Hindi, Portuguese
@@ -254,18 +252,7 @@ readLanDF = pd.read_csv('./LanguageList.csv', encoding = 'utf-8')
 originLanguageList = ['en','ko','zh-CN','zh-TW','de','fr','es','it','pt','tr','ru','ja','vi','ms','th','id','jw','bn','hi','ar']
 languageList = ['ja', 'zh-CN', 'zh-TW', 'vi', 'de', 'ru', 'es', 'ar', 'it', 'ms', 'th', 'tr', 'fr', 'id', 'jw', 'bn', 'hi', 'pt']
 
-# 셀레니움 설정
-chrome_options = ChromeOptions()
-chrome_options.add_argument("--headless")  # 헤드리스 모드
-service = ChromeService(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service, options=chrome_options)
-
 for lan in range((len(readLanDF) - len(languageList)), len(readLanDF)):
-    Convert(loadList, languageList[lan], readLanDF['Language'][lan], replaceList, driver, currentVersion)
-
-driver.quit()
-
-for loadFile in loadList:
-    originRead = pd.read_csv('./English/' + loadFile + '.csv', encoding = 'utf-8')
-    # 비포로
-    originRead.to_csv('./BeforeEnglish/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
+    for load in loadList:
+        CsvNRemove(load, readLanDF['Language'][lan])
+        print('Remove ' + readLanDF['Language'][lan] + ' ' + load)

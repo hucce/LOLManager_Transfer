@@ -4,9 +4,7 @@
 1002,언어,Sprache
 1003,만든이: 허민구{연락: huccce@gmail.com,Erstellt von: heo min-gu {Kontakt: huccce@gmail.com
 1004,불러오는 중 /{구글 로그인,Laden / {Google Anmelden
-1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,"<Atoves> {{Es gibt mehr als eine Daten.
- Bitte wählen Sie die zum Laden von Daten aus.
- {Nicht ausgewählte Daten werden gelöscht."
+1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<Atoves> {{Es gibt mehr als eine Daten.  Bitte wählen Sie die zum Laden von Daten aus.  {Nicht ausgewählte Daten werden gelöscht.
 1006,팀이름,Teamname
 1007,라운드,Runden
 1008,정수,Wesen
@@ -107,13 +105,10 @@
 1103,전략복사,Strategische Kopie
 1104,신고,Bericht
 1105,<이벤트>,<Event>
-1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,"Sponsor's Express Event!
- {{Siehe jetzt die gesponserten Anzeigen, um eine zusätzliche Belohnung von + 50% zu erhalten."
+1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,"Sponsor's Express Event!  {{Siehe jetzt die gesponserten Anzeigen, um eine zusätzliche Belohnung von + 50% zu erhalten."
 1107,영입시장으로 가기,Gehen Sie zum Rekrutierungsmarkt
 1108,<리뷰 이벤트>,<Review Event>
-1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,"Danke, dass du das Spiel gespielt hast.
- {{Dies ist eine große Hilfe für die Entwickler.
- Sie erhalten 300 Essenz als Belohnung."
+1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,"Danke, dass du das Spiel gespielt hast.  {{Dies ist eine große Hilfe für die Entwickler.  Sie erhalten 300 Essenz als Belohnung."
 1110,리뷰하러 가기,Gehen Sie zur Überprüfung
 1111,답변을 받으실 메일을 적어주세요.,"Bitte schreiben Sie eine E -Mail, um zu antworten."
 1112,(언어 변경 시 재시작 필요),(Erfordert Neustart beim Ändern der Sprache)
@@ -151,9 +146,9 @@
 1144,전송 비용:,Übertragungskosten:
 1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Artikelpreis + Grundgebühr 100 + 5% des beigefügten Artikelpreises)
 1146,쪽지보내기,Senden Sie eine Nachricht
-1147,첼린저,Herausforderer(남성)
+1147,첼린저,Herausforderer 
 1148,마스터,Herausforderer
-1149,다이아,Meister(남성)
+1149,다이아,Meister 
 1150,플레티넘,Meister
 1151,골드,Diamant
 1152,실버,Silber
@@ -216,7 +211,7 @@
 1218,언어설정,Spracheinstellungen
 1219,리셋,Zurücksetzen
 1220,재시작,Neustart
-1221,코치,Trainer(남성)
+1221,코치,Trainer 
 1222,추가,Trainer
 1223,후보,Sub
 1224,새게임,Neues Spiel

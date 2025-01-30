@@ -4,11 +4,9 @@
 1002,언어,Linguagem
 1003,만든이: 허민구{연락: huccce@gmail.com,Criado por: heo min-gu {contact: huccce@gmail.com
 1004,불러오는 중 /{구글 로그인,Carregando / {Google Inscreva -se
-1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,"<tection> {{há mais de um dados.
- Selecione os dados para carregar.
- {Dados não selecionados serão excluídos."
+1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<tection> {{há mais de um dados.  Selecione os dados para carregar.  {Dados não selecionados serão excluídos.
 1006,팀이름,Nome da equipe
-1007,라운드,Redondo(남성)
+1007,라운드,Redondo 
 1008,정수,Redondo
 1009,저장날짜,Essência
 1010,결정,Decisão
@@ -49,7 +47,7 @@
 1045,후보 선수,Sub -jogador
 1046,레벨 포인트,Ponto de nível
 1047,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),Equipe Chemie (▲ 2) {ano quimie (▲ 1) {Type Chemie (▲ 1) {Liga Chemie (▲ 1)
-1048,케미스트리,Químico(남성)
+1048,케미스트리,Químico 
 1049,재조합 선수,Químico
 1050,제거,Remover
 1051,강화 선수,Jogador de reforço
@@ -72,8 +70,8 @@
 1068,새로고침시간,Tempo de atualização
 1069,대전정보,Combinar informações
 1070,대전찾기,Pesquisa de correspondência
-1071,선수,Jogador(남성)
-1072,감독,Jogador...(남성)
+1071,선수,Jogador 
+1072,감독,Jogador... 
 1073,로그인,Gerente
 1074,확인,Confirmar
 1075,일일,Dia
@@ -107,13 +105,10 @@
 1103,전략복사,Cópia estratégica
 1104,신고,Relatório
 1105,<이벤트>,<Event>
-1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,"Evento Express do patrocinador!
- {{Confira os anúncios patrocinados agora para obter uma recompensa adicional de + 50%."
+1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,Evento Express do patrocinador!  {{Confira os anúncios patrocinados agora para obter uma recompensa adicional de + 50%.
 1107,영입시장으로 가기,Vá para o mercado de recrutamento
 1108,<리뷰 이벤트>,<Evento de revisão>
-1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,"Obrigado por jogar o jogo.
- {{Esta é uma grande ajuda para os desenvolvedores.
- Você receberá 300 essência como recompensa."
+1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,Obrigado por jogar o jogo.  {{Esta é uma grande ajuda para os desenvolvedores.  Você receberá 300 essência como recompensa.
 1110,리뷰하러 가기,Vá para revisar
 1111,답변을 받으실 메일을 적어주세요.,Escreva um email para responder.
 1112,(언어 변경 시 재시작 필요),(Requer reiniciar ao alterar a linguagem)
@@ -127,9 +122,9 @@
 1120,멀티대전정보,Informações multimatch
 1121,친구 추가,Adicionar amigo
 1122,라인전{운영,Linha {operação
-1123,밸런스,Equilibrado(남성)
-1124,커스텀,Equilibrado...(남성)
-1125,탑,Personalizado(남성)
+1123,밸런스,Equilibrado 
+1124,커스텀,Equilibrado... 
+1125,탑,Personalizado 
 1126,정글,Personalizado
 1127,미드,Selva
 1128,원딜,ANÚNCIO
@@ -137,7 +132,7 @@
 1130,중심,Centro
 1131,갱킹,Ganking
 1132,메인오더,Ordem principal
-1133,한정,Limitado(남성)
+1133,한정,Limitado 
 1134,레벨,Limitado
 1135,팀,Equipe
 1136,당신의 팀이름을 정해주세요{(최대 5글자),Especifique o nome da sua equipe {(até 5 caracteres)
@@ -151,9 +146,9 @@
 1144,전송 비용:,Custo de transmissão:
 1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Preço do item + taxa básica 100 + 5% do preço do item anexado)
 1146,쪽지보내기,Envie uma mensagem
-1147,첼린저,Desafiador(남성)
+1147,첼린저,Desafiador 
 1148,마스터,Desafiador
-1149,다이아,Mestre...(남성)
+1149,다이아,Mestre... 
 1150,플레티넘,Diamante
 1151,골드,Platina
 1152,실버,Prata
@@ -189,7 +184,7 @@
 1191,새로운 리그 시작,Novo início da liga
 1192,<선수 등급 정보>,<Informações da taxa de jogador>
 1193,토너먼트,Torneio
-1194,우승,Campeão(남성)
+1194,우승,Campeão 
 1195,승자조,Campeão
 1196,패자조,Suporte do vencedor
 1197,시즌보상정보,Suporte do perdedor
@@ -216,7 +211,7 @@
 1218,언어설정,Configurações de idiomas
 1219,리셋,Reiniciar
 1220,재시작,Reinício
-1221,코치,Treinador(남성)
+1221,코치,Treinador 
 1222,추가,Treinador
 1223,후보,Adicionar
 1224,새게임,Novo jogo
