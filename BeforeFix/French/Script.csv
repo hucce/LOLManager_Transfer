@@ -1,0 +1,198 @@
+﻿ID,Dec
+11000,Votre équipe a remporté la ligue grâce à un excellent coaching ! Préparons‑nous à décrocher le Championnat du Monde.
+11001,"Bien qu’il n’ait pas remporté la victoire, il a assuré un excellent travail. Le bain de neige s’est déroulé aux Championnats du monde !"
+11002,"Ce n'était pas un championnat, mais on a quand même réussi à se qualifier pour les Worlds !"
+11003,"Ce n'était pas un championnat, mais c’est un bon classement à viser pour remporter la prochaine saison."
+11004,"Le pire a été évité, mais le classement n’était pas satisfaisant. Pour atteindre un rang supérieur, il faudra travailler sur l’entretien."
+11005,"Nous avons terminé la saison à la pire place. Pour les fans qui nous soutiennent, allons plus loin la prochaine saison."
+11006,L’équipe a remporté le Championnat du Monde grâce à un excellent encadrement ! Les joueurs et les fans célèbrent votre maîtrise exceptionnelle. Félicitations.
+11007,"Ça n’a pas gagné, mais c’était une superbe performance. Visons le titre du Championnat du Monde la saison prochaine !"
+11008,"Malheureusement, c’est une excellente note. Boostons notre puissance la saison prochaine et visons le prochain titre de Champion du Monde."
+11009,"Vous avez bien intégré le tournoi. La saison prochaine, visons les compétitions supérieures."
+11010,"Malheureusement, le tournoi s'est soldé par un échec. Bon, avançons vers le Championnat du Monde la saison prochaine et visons le titre."
+20000,Exhibition de ligne / Opération
+20001,Équilibre
+20002,Combat d’équipe
+20003,Personnalisé
+21000,C’est une stratégie pour faire rouler le snowball grâce à de forts combats de lane. {{-Elle convient lorsque vous avez un combat de lane solide. {-Vous pouvez être renversé en un seul tir lorsqu’un échange est faible.
+21001,Lineup} Composition} Teamfight} Combat d'équipe} Operation} Opération} Play the game in a balanced way. {{-Jouez de façon équilibrée. {{-Ceci convient lorsque le niveau des joueurs est équivalent.
+21002,C’est une stratégie qui vise le one‑shot en un seul tir. Elle convient lorsqu’une équipe dispose d’une forte capacité de burst.
+21003,Voici votre stratégie.
+22000,Le cœur du jeu
+22001,Le centre d’un gank
+22002,Ordre principal
+23000,"Choisissez la compétence qui sera le pivot du jeu. Les stats de l’équipe augmenteront. En contrepartie, le reste de la puissance chutera."
+23001,Le jungler décide de la lane à ganker.
+23002,Définissez une position centrée sur les opérations. L’ordre principal augmentera la part des actions d’équipe.
+24000,Équilibre
+24001,Lane
+24002,Combat d’équipe
+24003,Opération
+24004,Équilibre
+24005,Top
+24006,Mid
+24007,Bot
+24008,Top
+24009,Jungle
+24010,mid
+24011,AD
+24012,Support
+25000,Attaque
+25001,Équilibré
+25002,Tankeur
+25003,Attaque
+25004,Équilibré
+25005,Tank
+25006,Attaque
+25007,Équilibré
+25008,Support
+25009,Attaque
+25010,Équilibré
+25011,Utilité
+25012,Attaque
+25013,Équilibré
+25014,Tank
+26000,Presser fortement l’adversaire en lane. Cela permet également de prendre le contrôle de l’opération via le split. {{▲ Les statistiques d’opération augmentent. {{- Le nombre de points gagnés ou perdus sur la ligne augmente. {{▼ La statistique de combat d’équipe diminue.
+26001,Tank de base.
+26002,"L’influence est réduite lors des combats en lane. Cependant, il est plus fort en combat d’équipe. {{▲ La capacité en combat d’équipe augmente. {{-Les points gagnés ou perdus en lane sont diminués. {{▼ Le statut d’opération diminue."
+26003,"Le gank devient puissant. Cependant, il y a un risque élevé d’échec du gank. {{▲ Augmentation des statistiques de lane."
+26004,Tank de base
+26005,La capacité de gank est réduite. Cependant} la capacité de frappe augmente. {{▲ La capacité de frappe augmente. {{▼ La capacité d'alignement diminue.
+26006,Exercez une forte pression sur l'adversaire dans la voie. Il prend également le contrôle de l'opération via le split. {{▲ Augmentation des statistiques d'opération. {{-Les points gagnés ou perdus sur la voie augmentent. {{▼ La statistique de combat d'équipe diminue.
+26007,Champion de burst basique.
+26008,L’objectif est d’améliorer les performances du One Dil. {{▲ Les stats du One Dil augmentent.
+26009,"Les débuts sont puissants. Cependant, avec le temps, ils s'affaiblissent. {{▲ Composition jusqu'aux 20 premières minutes} La capacité de combat d'équipe augmente. {{▼ La capacité de combat d'équipe diminue à partir de la seconde moitié."
+26010,Champion basique à un seul combo.
+26011,Se concentrer sur l’aide à l’équipe plutôt que sur le rôle de Carrie. {{▲ Statistiques opérationnelles en hausse. {{▼ Statistiques de lanes en baisse.
+26012,"Le combat de ligne est puissant. Cependant, il est dangereux d’opérer avec peu de santé. {{▲ Les stats du line‑up augmentent. {{- Les points gagnés ou perdus lors de l’opération augmentent."
+26013,Champion support de base.
+26014,Faible sur la ligne. Cependant} il est fort en teamfight. {{▲ Stat du teamfight augmentée. {{▼ Stat des lignes diminuée.
+30000,"Si vous ne pouvez pas vous connecter à Google, vous ne pourrez pas jouer en multijoueur. Veuillez vous connecter à Google."
+30001,Le match s'est terminé de façon anormale lors du dernier multijoueur. La partie a été forfaitée.
+30002,Félicitations ! Vous passez au niveau supérieur !
+30003,Vous avez été rétrogradé suite à des défaites répétées.
+30004,Connexion en cours
+30005,Il y a un problème. Raison du problème :
+30006,"Connexion internet perdue. Dès que votre connexion est rétablie, vous serez reconnecté automatiquement."
+30007,"Internet déconnecté pendant le match multiple. {Si vous cliquez sur OK}, vous quitterez le stade."
+30008,Il y a eu un problème pour trouver votre adversaire. {Appuyez sur OK pour quitter le stade.}
+30009,Le jeu n’est pas à jour. Vous devez le mettre à jour vers la dernière version pour pouvoir jouer le match. {{Appuyez sur le bouton ci‑dessous pour vérifier à nouveau la version} ou rendez‑vous sur la page de mise à jour.}
+30010,Check
+30011,Ce n’est pas la dernière version.
+30012,Minute
+30013,Vous avez été signalé·e comme tricheur et vous ne pouvez plus jouer en mode multijoueur.{{Veuillez envoyer un e‑mail à {hucce@gmail.com pour toute question.
+30014,Vous êtes répertorié comme un joueur tricheur.
+30015,Vérification du serveur multijoueur. Veuillez patienter jusqu’à la fin de la vérification.
+30016,Impossible de charger la liste. Veuillez vous connecter à Google dans Multiplay.
+31000,Merci d'avoir joué. Votre avis aide grandement le développeur. Vous recevez 300 Essences en récompense.
+32000,Merci d'avoir regardé la publicité. Cliquez sur OK pour recevoir votre récompense de visionnage.
+32001,Publicité ignorée : vous devez regarder la vidéo publicitaire jusqu’à la fin pour obtenir la récompense.
+32002,Échec de la récupération de l’annonce. Veuillez vérifier votre connexion Internet.
+36000,Score de la ligue
+36001,M
+36002,W
+36003,L
+36004,Historique
+36005,Top
+36006,Résultats du match
+36007,Recevoir
+36008,Terminé
+36009,Incomplet
+36010,Lien
+36011,Saison
+33000,L’amélioration n’est possible que jusqu’au niveau 10.
+33001,Succès
+33002,Échec
+33003,Probabilité de succès
+33004,Différence
+33005,Voulez‑vous passer le didacticiel ? Vous ne pourrez pas obtenir les récompenses du tutoriel.
+33006,La langue changera lorsque vous redémarrerez le jeu.
+34000,Vérification de la version du service Google Play
+34001,Connexion à Google Play réussie
+34002,Connexion au serveur terminée
+34003,Confirmation de sauvegarde cloud terminée
+34004,Importation des données terminée
+34005,"Problème, réessayer"
+34006,Erreur ! Passage en mode hors ligne
+33007,Manche
+33008,Voie
+33009,Combat d’équipe
+33010,Opération
+33011,Top
+33012,Mid
+33013,Bot
+33014,Grande Défaite
+33015,Défaite
+33016,Baissier
+33017,Concurrence
+33018,Supériorité
+33019,Victoire
+33020,Grande victoire
+33021,Gank du jungler de l’équipe
+33022,Jour
+33023,Récompense de fin de saison
+33024,Cette personne a déjà reçu votre invitation d’ami.
+33025,Déjà ami
+33026,Êtes‑vous sûr de vouloir supprimer cet ami ?
+33027,Strat copiée
+33028,Types
+33029,Ban
+33030,Déclaration
+33031,Bug / Suggestions
+33032,Invitation de manager. Devenez manager d’une équipe LoL.
+33033,Note finale
+33034,La récompense finale
+33035,Début de la saison
+33036,Une nouvelle saison a commencé.
+33037,Contribution au Hall of Fame
+33038,Repos
+33039,Essence insuffisante
+37000,nan
+37001,Essence
+37002,Pack
+37003,Pack
+38000,Tous
+38001,Argent
+38002,Or
+38003,Plat
+33040,Tous
+33041,Argent
+33042,Or
+33043,Platine
+33044,Diamant
+33045,Challenger
+33046,Maître
+33047,Recrutement
+33048,Pack
+33049,Présentation
+33050,"Inclus, édition limitée"
+33051,Limité uniquement
+33052,Échange
+33053,Ajouter
+33054,Supprimer
+33055,Total
+33056,Statistiques
+33057,Bronze
+33058,Jusqu’à la prochaine montée en rang
+33059,Déplacement
+33060,Recevoir
+33061,Le même joueur est déjà sur la liste de départ.
+33062,Aucune donnée.
+33063,Les données sont anormales.
+33064,Raison
+33065,Date de lancement du prochain Crush
+33066,Une erreur s’est produite lors de la création du tournoi. Touchez « Réessayer » pour créer un nouveau tournoi.
+33067,Le serveur est en train de recevoir des données.
+33068,Les données n’ont pas été reçues correctement.
+33069,Présentation du joueur de la saison
+33070,Qualification aux Championnats du Monde
+33071,Joueurs sélectionnés qui ont fait leurs débuts dans la ligue cette saison et dont l’avenir s’annonce prometteur. Disponible uniquement en tant que récompense de fin de saison.
+33072,Voulez‑vous interrompre le matchmaking automatique ?{Les objets consommés seront perdus.
+33073,Êtes‑vous sûr de vouloir réinitialiser votre compte ?{Les données sauvegardées seront supprimées et le jeu redémarrera.
+33074,Le même coach est déjà présent dans la composition.
+33075,Êtes‑vous sûr de vouloir supprimer le coach ? Vous récupérerez 30 Essence.
+33076,Souhaitez‑vous changer le nom de votre équipe ? Coût : 500 d’Essence.
+33077,Infos de recrutement
+33078,Infos de probabilité
+33079,En regardant les publicités{EXP
+33080,En regardant ad{Essence}

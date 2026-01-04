@@ -1,0 +1,198 @@
+﻿ID,Dec
+11000,Takımın harika bir koçlukla ligi fethetti! Dünya Şampiyonası’nı kazanmaya hazırlanalım.
+11001,Kazanmamış olsa da harika bir performans sergiledi. Kar banyosu Dünya Şampiyonası'nda yapıldı!
+11002,Şampiyonluk değildi ama Dünya Şampiyonası'na katılmayı başardık!
+11003,"Şampiyonluk değildi, ama gelecek sezonda kazanmayı hedeflemek için güzel bir sıralamadır."
+11004,En kötüsü önlendi ama sıralama da iyi değildi. Daha yüksek bir rütbe için bakım yapılması gerektiğini düşünüyorum.
+11005,Sezonu en kötü konumda bitirdik. Bizi destekleyen taraftarımız için} Bir sonraki sezonda daha da ileriye gidelim.
+11006,Takım harika bir koçlukla Dünya Şampiyonası'nı kazandı! Oyuncular ve izleyiciler senin muhteşem liderliğini kutluyor. Tebrikler.
+11007,Kazanmamış olsa da harika bir iş çıkardı. Önümüzdeki sezon Dünya Şampiyonası'nı kazanmaya çalışalım!
+11008,"Ne yazık ki, bu harika bir puan. Gelecek sezonda gücümüzü artırıp bir sonraki Dünya Şampiyonasını kazanmaya çalışalım."
+11009,Turnuvaya başarıyla katıldın. Sonraki sezonda daha büyük organizasyonlara yönel!
+11010,"Maalesef turnuva başarısız oldu. Neyse ki, önümüzdeki sezon Dünya Şampiyonası'na ilerleyip şampiyonluk hedefini kovalayım."
+20000,Koridor Gösterisi / Operasyon
+20001,Denge
+20002,Takım Çatışması
+20003,Özel
+21000,"Bu, güçlü koridor mücadelelerine dayanarak kar topu etkisi yaratma taktiğidir. {{-Güçlü bir koridor mücadelesine sahip olduğunuzda uygundur. {-Zayıf bir darbede tek atışla geri dönebilirsiniz."
+21001,"Kadroyu} Takım Savaşı} Operasyon   Oyunu dengeli bir şekilde oyna. {{-Bu, oyuncuların becerileri eşit olduğunda uygundur."
+21002,"Bu, tek bir hamleyle one‑shot hedefleyen bir stratejidir. {{-Takımın güçlü bir one‑shot yeteneği olduğunda uygundur."
+21003,İşte senin stratejin.
+22000,Oyunun merkezi
+22001,Gankın merkezinde
+22002,Ana Emir
+23000,Oyunun merkezinde yer alacak yeteneği seç. Takım istatistikleri artacak. Bunun yerine kalan güç düşecek.
+23001,"Jungler, gank yapılacak koridoru seçiyor."
+23002,"Operasyon odaklı bir pozisyon ayarlayın. Ana komut, takım operasyonunun oranını artıracaktır."
+24000,Denge
+24001,Koridor
+24002,Takım Savaşı
+24003,Operasyon
+24004,Denge
+24005,Üst
+24006,Orta
+24007,Alt koridor
+24008,Üst
+24009,Orman
+24010,Orta
+24011,AD
+24012,Destek
+25000,Saldırı
+25001,Dengeli
+25002,Tank
+25003,Saldırı
+25004,Dengeli
+25005,Tank
+25006,Saldırı
+25007,Dengeli
+25008,Destek
+25009,Saldırı
+25010,Dengeli
+25011,Yardım
+25012,Saldırı
+25013,Dengeli
+25014,Tank
+26000,Hat hattında rakibi yoğun bir şekilde baskıla. Ayrılıp bölünerek operasyonun kontrolünü de ele alır. {{▲ Operasyon istatistikleri artar. {{- Hat üzerindeki kazanılan/kaybedilen puanlar artar. {{▼ Takım savaşı istatistiği düşer.
+26001,Temel Hasar Tankı
+26002,Etkisi hat üzerindeki çatışmalarda azalır. Ancak takım savaşında daha güçlüdür. {{▲ Takım savaşı yeteneği artırıldı. {{- Hat üzerindeki kazanılan veya kaybedilen puanlar düşürüldü. {{▼ Operasyon istatistiği azaltıldı.
+26003,Gank güçlü hale geliyor. Ancak gank başarısızlığı riski yüksek. ▲ Koridor istatistikleri artıyor.
+26004,Temel hasar tankı
+26005,Gank yeteneği düşürüldü. Ancak} vuruş yeteneği artar. {{▲ Vuruş yeteneği artar. {{▼ Kadro yeteneği azalır.
+26006,Hat üzerinde rakibe güçlü baskı yap. Ayrılıktan operasyonun kontrolünü de ele alır. {{▲ Operasyon istatistikleri artar. {{- Hat üzerindeki kazanılan/kaybedilen puanlar artar. {{▼ Takım savaşı istatistiği düşer.
+26007,Temel bir nuker şampiyonu.
+26008,"Amaç, One Dil’in yeteneğini güçlendirmek. {{▲ One Dil’in istatistikleri artıyor."
+26009,Erken dönem güçlüdür. Ancak zamanla zayıflar. {{▲ İlk 20 dakikaya kadar kadro} Takım savaşı yeteneği artar. {{▼ İkinci yarıdan itibaren takım savaşı yeteneği azalır.
+26010,Temel tek yönlü şampiyon.
+26011,"Takıma yardımcı olmaya odaklanmak, Carrie’nin rolünden çok. {{▲ Operasyon istatistikleri artar. {{▼ Hat istatistikleri azalır."
+26012,Hat savaşı güçlüdür. Ancak düşük canla oynamak tehlikelidir. {{▲ Hat istatistikleri artar. {{-Operasyondan kazanılan veya kaybedilen puanlar artar.
+26013,Temel destek şampiyonu.
+26014,Koridorlarda zayıf. Ancak takım savaşında güçlü. {{▲ Takım Savaşı istatistiği arttı. {{▼ Koridor istatistiği düştü.
+30000,Google'a giriş yapmazsan çok oyunculu maçları oynayamazsın. Lütfen Google hesabına giriş yap!
+30001,Son çoklu maç sırasında oyunun anormal bir şekilde sonlanması gerçekleşti. Oyun çekildi.
+30002,Tebrikler! Bir üst seviyeye yükseldin!
+30003,Sürekli mağlubiyetler nedeniyle rütbeniz düştü.
+30004,Giriş yapılıyor
+30005,Bir sorun var. Sorun sebebi:
+30006,İnternet bağlantısı kesildi. Bağlantı sağlandığında otomatik olarak yeniden bağlanacaksınız.
+30007,Çoklu maç sırasında internet bağlantısı kesildi. {OK tuşuna tıklarsanız} stadyumu terk edeceksiniz.
+30008,Rakibinizi bulurken bir sorun oluştu. {Stadyumu kapatmak için TAMAM'a basın.}
+30009,Oyun güncel değil. Maça katılabilmek için en son sürüme yükseltmeniz gerekiyor. {{Aşağıdaki butona basarak sürümü tekrar kontrol edin} ya da güncelleme sayfasına gidin.
+30010,Kontrol ediyor
+30011,En son sürüm değil.
+30012,Dakika
+30013,Hileli bir oyuncu olarak rapor edildiniz ve çoklu oyuncu maçlarına katılamazsınız.{{Herhangi bir sorunuz varsa lütfen {hucce@gmail.com adresine e‑posta gönderin.
+30014,Hileci oyuncu olarak kaydedildin.
+30015,Çoklu oyuncu sunucusu kontrol ediliyor. Lütfen kontrol süresi bitene kadar bekleyin.
+30016,Liste yüklenemedi. Lütfen Çoklu Oyun’da Google hesabınızla oturum açın.
+31000,Oyunu oynadığın için teşekkür ederiz! İncelemen geliştiriciye büyük bir destek sağlıyor. Ödül olarak **300 Essence** alacaksın.
+32000,Reklamı izlediğiniz için teşekkür ederiz. Görüntüleme ödülünüzü almak için **TAMAM**'a tıklayın.
+32001,Reklam atlandı. Ödülü almak için reklamı sonuna kadar izlemeniz gerekiyor.
+32002,Reklam alınamadı. Lütfen internet bağlantınızı kontrol edin.
+36000,Lig skoru
+36001,M
+36002,W
+36003,L
+36004,Geçmiş
+36005,Üst
+36006,Maç Sonuçları
+36007,Al
+36008,Tamamla
+36009,Tamamlanmadı
+36010,Bağlantı
+36011,Sezon
+33000,Yükseltme yalnızca seviye 10’a kadar yapılabilir.
+33001,Başarı
+33002,Başarısızlık
+33003,Başarı Olasılığı
+33004,Fark
+33005,Eğitimi atlamak ister misin? Eğitimden ödülleri alamazsın.
+33006,Oyunu yeniden başlattığınızda dil değişecektir.
+34000,Google Play Servisleri Sürüm Kontrolü
+34001,Google Play Girişi Tamamlandı
+34002,Sunucu girişi tamamlandı
+34003,Bulut kaydetme onayı tamamlandı
+34004,Veri içe aktarımı tamamlandı
+34005,Sorunu yeniden dene
+34006,Hata! Çevrimdışı moda geçiliyor.
+33007,Raund
+33008,Satır
+33009,Takım Savaşı
+33010,Operasyon
+33011,Üst
+33012,Orta
+33013,Alt
+33014,Büyük Yenilgi
+33015,Yenilgi
+33016,Ayı eğilimi
+33017,Rekabet
+33018,Üstünlük
+33019,Zafer
+33020,Muhteşem Zafer!
+33021,takım ormancısı gank yapıyor.
+33022,Gün
+33023,Sezon Sonu Ödülü
+33024,Bu oyuncuya zaten arkadaşlık isteği gönderdiniz.
+33025,Zaten arkadaş
+33026,Bu arkadaşını silmek istediğinden emin misin?
+33027,Kopyalanmış Strateji
+33028,Türler
+33029,Ban
+33030,Beyan
+33031,Hata / Öneri
+33032,Yönetici daveti. Bir LOL takımı yöneticisi ol!
+33033,Son Puan
+33034,Son ödül
+33035,Sezon Başlangıcı
+33036,Yeni bir sezon başladı.
+33037,Şöhretler Salonu Katkısı
+33038,Dinlen
+33039,Yeterli öz yok
+37000,nan
+37001,Öz
+37002,Paket
+37003,Paket
+38000,Hepsi
+38001,Gümüş
+38002,Altın
+38003,Platin
+33040,Hepsi
+33041,Gümüş
+33042,Altın
+33043,Platin
+33044,Elmas
+33045,Challenger
+33046,Usta
+33047,Kadro Alımı
+33048,Paket
+33049,Sunum
+33050,Sınırlı dahil
+33051,Sınırlı sayıda
+33052,Takası Yap
+33053,Ekle
+33054,Kaldır
+33055,Toplam
+33056,İstatistikler
+33057,Bronz
+33058,Bir sonraki rütbe yükseltimine kadar
+33059,Hareket
+33060,Al
+33061,Aynı oyuncu zaten başlangıç kadrosunda.
+33062,Veri yok.
+33063,Veri anormal.
+33064,Sebep
+33065,Sonraki Crush Başlangıç Tarihi
+33066,Turnuva oluşturulurken bir hata meydana geldi.{{Yeniden denemek için dokun ve yeni bir turnuva yarat.
+33067,Sunucu veri alıyor.
+33068,Veri düzgün alınamadı.
+33069,Sezon Oyuncu Tanıtımı
+33070,Dünya Şampiyonası Katılımı
+33071,Bu yıl lige ilk kez adım atan ve geleceğe odaklanan seçkin oyuncular. Sadece sezon ödülü olarak elde edilebilir.
+33072,Otomatik maçı durdurmak ister misiniz?{Kullanılan öğeler yok olacak.
+33073,Hesabınızı sıfırlamak istediğinizden emin misiniz? {Kayıt verileri silinecek ve oyun yeniden başlayacak.}
+33074,Aynı koç zaten kayıtta bulunuyor.
+33075,Koçu silmek istediğinizden emin misiniz? 30 Öz alacaksınız.
+33076,Takım adını değiştirmek ister misin? 500 Öz harcar.
+33077,Kayıt Bilgileri
+33078,Olasılık Bilgisi
+33079,Reklam {EXP} izlenirken
+33080,AD Özünü izlerken

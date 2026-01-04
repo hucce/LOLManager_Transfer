@@ -1,0 +1,225 @@
+﻿ID,Korean,Dec
+1000,효과음,Efecto de sonido
+1001,배경음,Sonido de fondo
+1002,언어,Idioma
+1003,만든이: 허민구{연락: huccce@gmail.com,Creado por: Heo Min‑gu {Contacto: huccce@gmail.com}
+1004,불러오는 중 /{구글 로그인,Cargando / {Iniciar sesión con Google}
+1005,<주의>{{데이터가 여러개 있습니다. 불러올 데이터를 선택해주세요.{선택이 되지 않은 데이터는 삭제됩니다.,<Attention>{{Hay más de un conjunto de datos. Selecciona el que deseas cargar. {Los datos no seleccionados se eliminarán.
+1006,팀이름,Nombre del equipo
+1007,라운드,Ronda
+1008,정수,Esencia
+1009,저장날짜,¡Guarda la fecha!
+1010,결정,Decisión
+1011,경기,Partida
+1012,리그,Liga
+1013,전략,Estrategia
+1014,선수{관리,Gestión de Jugadores
+1015,영입{시장,Reclutamiento{Mercado
+1016,멀티{대전,Multimatch
+1017,계정,Cuenta
+1018,순위,Rango
+1019,승,W
+1020,패,L
+1021,라인전,Carril
+1022,한타,Teamfight
+1023,운영,Operación
+1024,포지션,Posición
+1025,이름,Nombre
+1026,종합,Total
+1027,일정,Calendario
+1028,상대팀,¡Equipo rival!
+1029,총합,Total
+1030,결과,Resultado
+1031,승리,¡Victoria!
+1032,패배,Derrota
+1033,간편,Simple
+1034,지침,Directriz
+1035,픽밴,Selección/Veto
+1036,설정,Set
+1037,설명,Explicación
+1038,라인,Línea
+1039,타입,Tipo
+1040,등급,Calificación
+1041,강화,Refuerzo
+1042,재조합,Recombinación
+1043,팀케미,Team Chemie
+1044,선발 선수,Jugador titular
+1045,후보 선수,Jugador suplente
+1046,레벨 포인트,Punto de nivel
+1047,팀 케미(▲2){년도 케미(▲1){타입 케미(▲1){리그 케미(▲1),Equipo Chemie(▲2){Año Chemie(▲1){Tipo Chemie(▲1){Liga Chemie(▲1)
+1048,케미스트리,Química
+1049,재조합 선수,Jugador recombinante
+1050,제거,Eliminar
+1051,강화 선수,Jugador de refuerzo
+1052,재료 선수,Objetos del Jugador
+1053,성공확률:,Probabilidad de éxito:
+1054,영입시장,Mercado de Reclutamiento
+1055,스폰서 광고를 보고 원하는 보상을 받으세요.,¡Mira los anuncios patrocinados y obtén recompensas!
+1056,5번 보시면 200정수를 추가로 드립니다.,"Si lo observas 5 veces, recibirás 200 de esencia extra."
+1057,골드 영입,Reclutamiento de Oro
+1058,실버 선수,Jugador de Plata
+1059,시청,¡Mira!
+1060,플레,Platino
+1061,골드,Oro
+1062,선수명단,Lista de jugadores
+1063,가격,Precio
+1064,추천,Recomendar
+1065,구입,Comprar
+1066,탑 랭킹,Rango superior
+1067,내 순위,Mi rango
+1068,새로고침시간,Tiempo de reutilización
+1069,대전정보,Información de la partida
+1070,대전찾기,Buscar partida
+1071,선수,Jugador
+1072,감독,Gerente
+1073,로그인,Iniciar sesión
+1074,확인,¡Confirmado!
+1075,일일,Día
+1076,업적,Logros
+1077,기타,etc.
+1078,보상,Recompensa
+1079,공지사항,Aviso
+1080,계속,Continuar
+1081,이곳을 눌러 입력,¡Presiona aquí para entrar!
+1082,최종순위,Posición final
+1083,시즌 보상:,Recompensa de Temporada:
+1084,스킵,Saltar
+1085,예,¡Sí!
+1086,아니오,No
+1087,터치 하면 게임 시작,¡Toca para iniciar la partida!
+1088,평점,Nivel
+1089,경기진행,Progreso del partido
+1090,버전확인,Verificar versión
+1091,업데이트하러 가기,Ir a actualizar
+1092,다시확인,¡Revisa de nuevo!
+1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,No se pudo cargar la información del equipo. {Inténtalo de nuevo}
+1094,이곳을 눌러 찾을 팀이름 입력,¡Toca aquí para ingresar el nombre del equipo y buscar!
+1095,밴플레이어,Banear al jugador
+1096,전달,Relevo
+1097,전송,¡Enviar!
+1098,문의하기,¡Contáctanos!
+1099,버그/건의,Error / Sugerencias
+1100,게임 종료,Salir del juego
+1101,초대링크,Enlace de invitación
+1102,모의경기,Partida de Simulación
+1103,전략복사,Copia Estratégica
+1104,신고,Reportar
+1105,<이벤트>,<Evento>
+1106,스폰서의 특급이벤트!{{지금 스폰서광고를 보시면 보상을 +50%를 추가로 드립니다!,¡Evento Exprés del Patrocinador! {{Mira los anuncios patrocinados ahora para obtener un + 50 % de recompensa adicional.
+1107,영입시장으로 가기,Ir al mercado de reclutamiento
+1108,<리뷰 이벤트>,Revisar evento
+1109,게임을 해주셔서 감사합니다.{{리뷰를 해주시면 개발자에게 큰힘이 됩니다. 보상으로 정수 300개를 드립니다.,Gracias por jugar. {{Esto es de gran ayuda para los desarrolladores. Recibirás 300 Esencia como recompensa.}}
+1110,리뷰하러 가기,Ir a la revisión
+1111,답변을 받으실 메일을 적어주세요.,Por favor redacta un correo electrónico de respuesta.
+1112,(언어 변경 시 재시작 필요),(Requiere reinicio al cambiar el idioma)
+1113,이벤트,Evento
+1114,포인트,Punto
+1115,친구요청,Solicitud de amistad
+1116,친구추가,Agregar amigo
+1117,친구 목록,Lista de amigos
+1118,찾기,Buscar
+1119,아니요,No
+1120,멀티대전정보,Información de MultiMatch
+1121,친구 추가,Agregar amigo
+1122,라인전{운영,Línea{Operación
+1123,밸런스,Balanceado
+1124,커스텀,Personalizada
+1125,탑,Top
+1126,정글,Jungla
+1127,미드,mid
+1128,원딜,AD
+1129,서폿,Soporte
+1130,중심,Centro
+1131,갱킹,Gankeando
+1132,메인오더,Orden principal
+1133,한정,Limitado
+1134,레벨,NV
+1135,팀,Equipo
+1136,당신의 팀이름을 정해주세요{(최대 5글자),"Por favor, indica el nombre de tu equipo (máximo 5 caracteres)."
+1137,보낸이,De
+1138,내용,Contenido
+1139,첨부,Adjunto
+1140,쪽지 목록,Lista de Mensajes
+1141,받는이:,¡Para!
+1142,첨부종류:,Tipo de adjunto:
+1143,상세:,Detalle:
+1144,전송 비용:,Costo de transmisión:
+1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Precio del objeto + tarifa base 100 + 5 % del precio del objeto adjunto)
+1146,쪽지보내기,¡Envía un mensaje!
+1147,첼린저,Desafiante
+1148,마스터,Maestro
+1149,다이아,Diamante
+1150,플레티넘,Platino
+1151,골드,Oro
+1152,실버,Plata
+1153,브론즈,Bronce
+1154,<시즌 보상정보>,Información de recompensas de temporada
+1155,시즌 보상정보,Información de recompensas de temporada
+1156,등급상승 보상,Recompensa de Mejora de Clase
+1157,명예의 전당 헌액,Contribución al Salón de la Fama
+1158,시즌보상카드 증정,Carta de recompensa de temporada
+1159,다이아 패키지,Paquete Diamante
+1160,플레티넘 패키지,Paquete Platino
+1161,골드 패키지,Paquete Oro
+1162,실버 패키지,Paquete Plata
+1163,모든선수 패키지,Paquete para todos los jugadores
+1164,다이아 영입,Reclutamiento de Diamante
+1165,첼린저 영입,Reclutamiento Challenger
+1166,모든한정포함 첼린저 영입,Reclutamiento de Límite Todo Incluido
+1167,보낸날짜,Fecha de envío
+1168,보상정보,Información de recompensas
+1169,모든팀에게 승리 시,¡Victoria para todos los equipos!
+1170,상세보기,Ver detalles
+1171,연습{경기,Práctica{Partida
+1172,대전,Partido
+1173,멀티 시즌성적,Resultados de varias temporadas
+1174,새로운 시즌 시작,¡Arranca la nueva temporada!
+1175,평균 선수 종합:,Promedio total por jugador:
+1176,이곳을 눌러{선수 이름 입력,Pulsa aquí para que {Player name} entre
+1177,시즌,Temporada
+1178,영입정보,Info de reclutamiento
+1179,검색,Buscar
+1180,난이도,Dificultad
+1181,대표팀,Equipo famoso
+1191,새로운 리그 시작,¡Comienza una nueva liga!
+1192,<선수 등급 정보>,Información de calificación del jugador
+1193,토너먼트,Torneo
+1194,우승,Campeón
+1195,승자조,Llave de ganadores
+1196,패자조,Llave de perdedores
+1197,시즌보상정보,Información de recompensas de temporada
+1198,격전보상정보,Información de recompensa Crush
+1199,재시도,Reintentar
+1200,※ 격전 토너먼트를 마지막까지 진행하지 않으면 보상을 받을 수 없습니다.,"※ Si no avanzas al torneo final, no recibirás recompensa."
+1201,랭크,Rango
+1202,격전,Aplastado
+1203,팀정보,Información del equipo
+1204,다음경기,¡Próxima partida!
+1205,팀 능력,Estadísticas del Equipo
+1206,선수 능력,Estadísticas del jugador
+1207,<시즌보상선수>,Jugador de recompensa de temporada
+1208,추가경험치,¡Añade XP!
+1209,경기 자동,Emparejamiento automático
+1210,아이템,Objeto
+1211,사용중인 아이템,Objetos en uso
+1212,경기 아이템,Objetos de la partida
+1213,사용,Usar
+1214,개수,Contar
+1215,자동,Auto
+1216,추가경험치,¡Añadir XP!
+1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Las recompensas solo pueden obtenerse a partir de la Temporada 10.
+1218,언어설정,Configuración de idioma
+1219,리셋,Reiniciar
+1220,재시작,Reinicio
+1221,코치,Entrenador
+1222,추가,Agregar
+1223,후보,Suplente
+1224,새게임,¡Nueva partida!
+1225,버그 제보,Reporte de errores
+1226,코치명단,Lista de entrenadores
+1227,새로운 광고 준비 중... 기다려주세요,¡Preparando nuevo anuncio... por favor espera!
+1228,확률정보,Información de probabilidad
+1229,팀명 변경,Cambio de nombre del equipo
+1230,보상선수,¡Recompensa al jugador!
+1231,선수명단,Lista de Jugadores
+1232,시간정보 재송신,Recargar información de tiempo

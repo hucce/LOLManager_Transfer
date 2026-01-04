@@ -1,155 +1,155 @@
 ﻿ID,Dec
-11000,Tim sampeyan menang liga kanthi coaching gedhe!  Ayo nyiyapake kanggo menang juara donya.
-11001,"Sanajan ora menang, nindakake tugas sing apik.  Mandi salju wis rampung ing juara donya!"
-11002,"Iku dudu juara.  Nanging, kita sukses kanggo maju menyang juara donya!"
-11003,Iku dudu juara.  Nanging iku peringkat apik kanggo nyoba kanggo menang musim sabanjure.
-11004,"Sing paling awon nyingkiri, nanging dudu rangking sing apik.  Kanggo peringkat sing luwih dhuwur} aku mikir pangopènan."
-11005,Kita mungkasi musim kanthi posisi sing paling ala.  Kanggo para penggemar sing ndhukung kita} supaya luwih awal kanggo musim sabanjure.
-11006,Tim kasebut menang Kejuaraan Donya kanthi Coaching sing apik!  Pemain lan penggemar ngrayakake prentah sing apik.  Sugeng rawuh.
-11007,"Ora menang, nanging nindakake tugas sing apik.  Ayo coba menang musim juara ing jagad iki!"
-11008,"Sayange, iku kelas sing apik.  Ayo nambah kekuwatan sabanjure lan nyoba kanggo menang juara donya sabanjure."
-11009,"Sampeyan wis sukses mlebu turnamen kasebut.  Musim mbesuk, ayo tumuju turnamen sing luwih dhuwur."
-11010,"Sayange, turnamen kasebut gagal.  Sayange, coba maju menyang musim juara ing jagad lan juara kanggo juara."
-20000,Pameran / Operasi Line
-20001,Balance
-20002,TeamFight
-20003,Custom
-21000,Iki minangka strategi kanggo muter bola salju adhedhasar pertempuran garis sing kuwat.  {{-It cocog nalika sampeyan duwe perang sing kuwat.  {- Sampeyan bisa dibalik menyang siji nembak nalika sampeyan duwe jotosan sing ringkih.
-21001,Operasi TeamFight} ing lineup} muter game kanthi cara sing seimbang.  {{-Tis cocog nalika kemampuan pamuter malah.
-21002,Iki minangka strategi sing tujuane kanggo dijupuk siji liwat nembak siji.  {{-It cocog nalika tim duwe kemampuan nembak siji-sing kuwat.  {
+11000,Timmu menang liga kanthi pelatihan sing luar biasa! Ayo persiapaké supaya bisa menangi Kejuaraan Dunia.
+11001,"Sanajan ora menang, dheweke tetep ngetokake performa sing apik tenan. Snow Bathing wis rampung ing World Championship!"
+11002,"Dudu kejuaraan, nanging kita sukses lolos menyang Kejuaraan Dunia!"
+11003,"Iki dudu kejuaraan, nanging iku peringkat sing apik kanggo nyoba menang ing musim sabanjuré."
+11004,"Sing paling ala wis dihindari, nanging rangkingé ora apik. Kanggo nggayuh rangking sing luwih dhuwur, aku rasa perlu perbaikan."
+11005,"Kita nutup musim iki ing posisi paling ngisor. Kanggo para fan sing ndhukung kita, ayo maju luwih adoh kanggo musim sabanjure."
+11006,Tim iki menangaké Kejuaraan Dunia kanthi pelatihan sing luar biasa! Pemain lan penggemar ngrayakaké kepemimpinanmu sing hebat. Selamat.
+11007,"Ora menang, nanging wis nindakake tugas sing apik banget. Ayo nyoba kanggo ngrebut Kejuaraan Dunia ing musim sabanjure!"
+11008,"Sayangé, iki nilai sing apik banget. Ayo nambah kekuwatan kita ing musim sabanjure lan nyoba kanggo ngrebut gelar Juara Dunia selanjutnya."
+11009,"Sampeyan wis sukses mlebu turnamen. Musim sabanjure, ayo maju menyang turnamen sing luwih dhuwur."
+11010,"Sayangé, turnamen iki gagal. Nanging ayo maju menyang Kejuaraan Dunia musim ngarep lan targetaké gelar juara."
+20000,Pameran Garis / Operasi
+20001,Keseimbangan
+20002,Pertarungan Tim
+20003,Kustom
+21000,Iki strategi kanggo ngluncurake snowball adhedhasar pertarungan lane sing kuat. {{-Cocok yen sampeyan nduweni pertarungan lane sing dominan. {-Sampeyan bisa dibalekaké dadi siji tembakan nalika duwe blow sing lemah.
+21001,Lineup} Teamfight} Operation Mainake game kanthi cara sing seimbang. {{-Iki cocok nalika kemampuan pemain padha.
+21002,Iki strategi sing nyasarake kanggo nggayuh **one‑shot** liwat siji tembakan. Cocog banget nalika tim nduwèni kemampuan **one‑shot** sing kuat.
 21003,Iki strategi sampeyan.
-22000,Pusat game
-22001,Pusat ganking
-22002,Pesenan utama
-23000,Pilih kemampuan dadi pusat game.  Statistik tim bakal tambah.  Tinimbang sisa-sisa kekuwatane.
-23001,Jungler mutusake baris kanggo ganking.
-23002,Setel posisi sing fokus ing operasi.  Pesenan utama bakal nambah proporsi operasi tim.
-24000,Balance
-24001,Garis
-24002,TeamFight
+22000,Pusat pertandingane
+22001,titik tengah gank
+22002,Urutan utama
+23000,Pilih kemampuan sing dadi pusat pertarungan. Statistik tim bakal nambah. Nanging sisa kekuwatan bakal mudhun.
+23001,Jungler mutusaké jalur kanggo ganking.
+23002,Pasang posisi sing ngarahake operasi tim. Perintah utama bakal nambah proporsi operasional tim.
+24000,Keseimbangan
+24001,Jalur
+24002,Pertarungan Tim
 24003,Operasi
-24004,Balance
-24005,Ndhuwur
+24004,Keseimbangan
+24005,Top
 24006,Mid
-24007,Ngisor
-24008,Ndhuwur
-24009,Alas
+24007,Bot
+24008,Top
+24009,Hutan
 24010,Mid
-24011,Iklan
-24012,Dhukungan
-25000,Serangan
-25001,Imbang
-25002,Tanker
+24011,Damage Serangan (AD)
+24012,Support
+25000,Serang
+25001,Seimbang
+25002,Tank
 25003,Serangan
-25004,Imbang
+25004,Seimbang
 25005,Tanker
 25006,Serangan
-25007,Imbang
-25008,Panyengkuyung
-25009,Serangan
-25010,Imbang
+25007,Seimbang
+25008,Pendukung
+25009,Serang
+25010,Seimbang
 25011,Utilitas
-25012,Serangan
-25013,Imbang
-25014,Tanker
-26000,Meksa kuwat ing lawan.  Uga ngontrol operasi liwat pamisah.  {{▲ Stats Operasi mundhak.  {{-Points entuk utawa ilang ing Tambah.  {{▼ TAME TAMEPFIGHT SHAT.
-26001,Tank Deal Dasar.
-26002,Pengaruhe dikurangi ing pertempuran line.  Nanging} Dheweke luwih kuwat ing TeamFight.  {{▲ Kemampuan TeamFight tambah.  {{-Points entuk utawa ilang ing baris diturunake.  {{▼ Operasi FATED DITUTUP.
-26003,Ganking dadi kuat.  Nanging} Ana risiko gagal ganking.  {{▲ Stats LINE Nambah.  {{
-26004,Tank Deal Dasar.
-26005,Kemampuan Ganking diturunake.  Nanging} nambah kemampuan ngengingi.  {{▲ Kemampuan nambah.  {{▼ Kemampuan antrian mudhun.
-26006,Meksa kuwat ing lawan.  Uga ngontrol operasi liwat pamisah.  {{▲ Stats Operasi mundhak.  {{-Points entuk utawa ilang ing Tambah.  {{▼ TAME TAMEPFIGHT SHAT.
-26007,Dhasar juara naper.
-26008,Tujuane yaiku nambah kemampuan siji dilil.  {{▲ siji stat munggah.
-26009,Dina-dina wiwitan iku kuat.  Nanging} kaya wis dadi luwih lemah.  {{▲ LINE-UP nganti 20 menit pisanan} Kemampuan TeamFight mundhak.  {{▼ Kemampuan TeamFight suda saka separo kapindho.
-26010,Dhasar juara dhasar.
-26011,Fokus kanggo mbantu tim tinimbang peran Carrie.  {{▲ statistik operasional munggah.  {{▼ LINES STAm
-26012,"Perang line kuwasa.  Nanging, mbebayani kanggo operate kanthi kesehatan kurang.  {{▲ Stats line-up nambah.  {{-Points entuk utawa ilang saka kenaikan operasi."
-26013,Juara dhukungan dhasar.
-26014,Lemah ing garis.  Nanging} kuat ing tim.  {{▲ TAMFONG STAT tambah tambah.  {{▼ baris stat diturunake.
-30000,"Yen sampeyan ora bisa mlebu menyang Google, sampeyan ora bisa muter bebarengan.  Mangga login Google."
-30001,Ana mburi sing ora normal sajrone pertandhingan pungkasan.  Game kasebut dialami.
-30002,Sugeng!  Sampeyan promosi menyang level sabanjure!
-30003,Sampeyan wis ditolak amarga kalah tetep.
+25012,Serang
+25013,Seimbang
+25014,Tank
+26000,Nekani lawan kanthi agresif ing garis. Uga njupuk kontrol operasi liwat split. {{▲ Stat operasi nambah. {{-Poin sing dipikolehi utawa kelangan ing garis mundhak. {{▼ Stat teamfight mudhun.
+26001,Tank Dasar
+26002,"Pengaruh dikurangi dalam pertarungan lane. Nanging, dheweke luwih kuat ing Teamfight. {{▲ Kemampuan Teamfight meningkat. {{-Poin sing didapat atau ilang di lane berkurang. {{▼ Stat Operasi turun."
+26003,"Ganké dadi luwih kuat. Nanging, risiko kegagalan gank dhuwur banget. {{▲ Statistik garis mundhak. {{"
+26004,Tank dhasar
+26005,"Kemampuan gank menurun. Nanging, kemampuan serangan meningkat. {{▲ Kemampuan serangan meningkat. {{▼ Kemampuan susunan turun."
+26006,Nggesek lawan kanthi kenceng ing jalur. Uga njupuk kontrol operasi liwat split. {{▲ Stat operasi mundhak. {{-Poin sing dipikolehi utawa kelangan ing jalur nambah. {{▼ Stat timfight mudhun.
+26007,Champion nuker dhasar.
+26008,Tujuane yaiku ngapikake kemampuan One Dil. {{▲ Stat One Dil nambah.
+26009,"Dina‑dina awal kuwat. Nanging sakwise wektu lumaku, dadi luwih lemes. {{▲ Komposisi nganti 20 menit pisanan} Kemampuan timfight nambah. {{▼ Kemampuan timfight mudhun saka babak kapindho."
+26010,Champion dhasar sing mung siji peran.
+26011,Fokus mbantu tim tinimbang peran Carrie. {{▲ Statistik operasional mundhak. {{▼ Statistik baris mudhun.
+26012,"Pertarungan baris iku kuat. Nanging, mbebayani yen nglakoni karo kesehatan sing kurang. {{▲ Statistik susunan meningkat. {{-Poin sing dipikolehi utawa ilang saka operasi nambah."
+26013,Champ support dasar.
+26014,"Ringkih ing lane. Nanging, iki kuat ing teamfight. {{▲ Stat teamfight mundhak. {{▼ Stat lane mudhun."
+30000,"Yen ora bisa mlebu menyang Google, sampeyan ora bakal bisa main mode multipemain. Mangga mlebu akun Google dhisik."
+30001,Ana pungkasan sing abnormal ing match multi pungkasan. Game kasebut dipun forfeit.
+30002,Sugeng! Kowé wis promosi menyang level sabanjuré!
+30003,Sampeyan wis diturunkan peringkat amarga terus-terusan kalah.
 30004,Mlebu
-30005,Ana masalah.  Alesan kanggo masalah:
-30006,"Sambungan internet wis ilang.  Yen sampeyan duwe sambungan internet}, sampeyan bakal nyambung maneh kanthi otomatis."
-30007,"Internet disopot sajrone pertandhingan multi.  {Yen sampeyan klik OK}, sampeyan bakal metu stadion."
-30008,Ana masalah golek mungsuh sampeyan.  {Pencet OK kanggo metu stadion.
-30009,Game ora nganti saiki.  Sampeyan kudu nganyari versi paling anyar kanggo muter match.  {{Pencet tombol ing ngisor iki kanggo mriksa versi maneh} utawa menyang kaca Update.
-30010,Priksa
-30011,Iku dudu versi paling anyar.
+30005,Ana masalah. Alasan masalah:
+30006,"Sambungan internet wis ilang. Nalika sambungan internet wis mulih, sampeyan bakal otomatis nyambung maneh."
+30007,"Internet wis diputus nalika pertandingan multi. Yen sampeyan ngeklik OK, sampeyan bakal metu saka stadion."
+30008,Ana masalah nalika nemokake lawanmu. {Pencet OK kanggo metu saka stadion.
+30009,Game iki ora paling anyar. Kowe kudu nganyari menyang versi paling anyar kanggo main pertandingan. {{Pencet tombol ing ngisor iki kanggo mriksa versi maneh} utawa bukak kaca pembaruan.
+30010,Mriksa
+30011,Iki ora versi paling anyar.
 30012,Menit
-30013,Sampeyan wis dilaporake minangka pamuter cheat lan ora bisa muter game bebarengan. {{Mangga email {hucce@gmail.com kanggo pitakon.
-30014,Sampeyan kadaptar minangka pamuter ngapusi.
-30015,Priksa server multiplay.  Enteni nganti wektu mriksa wis rampung
-30016,Ora bisa mbukak dhaptar.  Mangga login Google ing Multiplay.
-31000,Matur nuwun kanggo muter game.  Ulasan sampeyan minangka pitulung gedhe kanggo pangembang.  Sampeyan bakal nampa 300 intine minangka hadiah.
-32000,Matur nuwun kanggo nonton iklan.  Klik OK kanggo nampa hadiah ndeleng sampeyan.
-32001,Iklan ngliwati sampeyan kudu nonton iklan pungkasan kanggo nampa hadiah kasebut.
-32002,Gagal Fetch Ad Mangga priksa sambungan internet sampeyan.
+30013,Sampeyan wis dilaporaké minangka pemain curang lan ora bisa main game multiplayer.{{Mangga kirim email menyang hucce@gmail.com kanggo pitakon apa waé.
+30014,Kowe kacathet minangka pemain curang.
+30015,Mriksa server multiplay. Mangga ngenteni nganti proses mriksane rampung.
+30016,Ora bisa mbukak dhaptar. Mangga login Google ing Multiplay.
+31000,Matur nuwun wis main game iki. Review‑mu dadi bantuan gedhé kanggo pangembang. Kowé bakal nampa 300 Esensi minangka hadiah.
+32000,Matur nuwun wis nonton iklan iki. Klik OK kanggo njupuk hadiah nontonmu.
+32001,Iklan dilewati — Sampeyan kudu nonton iklan nganti rampung kanggo entuk hadiah.
+32002,Gagal njupuk iklan. Mangga priksa sambungan internet panjenengan.
 36000,Skor Liga
 36001,M
-36002,Ing
+36002,W
 36003,L
 36004,Sejarah
-36005,Ndhuwur
-36006,Asil match
-36007,Nampa
-36008,Lengkap
-36009,Ora lengkap
-36010,Link
-36011,Mangsa
-33000,Nganyarke mung bisa nganti level 10.
-33001,Sukses
-33002,Gagal
-33003,Kemungkinan sukses
+36005,Top
+36006,Hasil Pertandingan
+36007,Terima
+36008,Rampung
+36009,Durung rampung
+36010,Tautan
+36011,Musim
+33000,Ningkataké mung bisa nganti level 10.
+33001,Kasil
+33002,GAGAL
+33003,Probabilitas kasil
 33004,Bedane
-33005,Apa sampeyan pengin ngliwati tutorial?  Sampeyan ora bisa entuk hadiah saka tutorial.
-33006,Basa kasebut bakal ganti nalika sampeyan miwiti maneh game.
-34000,Google Play Service Version Priksa
-34001,Google Play Login Lengkap
-34002,Log mlebu server rampung
-34003,Cloud Simpen Konfirmasi Lengkap
-34004,Data Impor lengkap
-34005,Masalah Coba maneh
-34006,Kesalahan!  Mbukak menyang mode offline
-33007,Babak
-33008,Garis
-33009,TeamFight
+33005,Apa kowe pengen ngliwati tutorial? Kowe ora bakal entuk reward saka tutorial.
+33006,Basa bakal owah nalika sampeyan ngreset game.
+34000,Mriksani Versi Google Play Services
+34001,Login Google Play Rampung
+34002,Login server wis rampung
+34003,Konfirmasi panyimpenan awan wis rampung.
+34004,Impor data rampung
+34005,Masalah nyoba maneh
+34006,Kasalahan! Munggah menyang mode offline
+33007,Putaran
+33008,Jalur
+33009,Pertarungan Tim
 33010,Operasi
-33011,Ndhuwur
+33011,Top
 33012,Mid
-33013,Ngisor
-33014,Kekalahan gedhe
+33013,Bot
+33014,Kekalahan Gedhé
 33015,Kalah
-33016,Beingish
-33017,Kahanan
-33018,Kaunggulan
-33019,Kamenangan
-33020,Kamenangan gedhe
-33021,Tim Jungler ganking.
+33016,Nundur
+33017,Pertarungan Sengit
+33018,Dominasi
+33019,Kemenangan
+33020,Kemenangan Besar
+33021,Jungler tim nindakake gank.
 33022,Dina
-33023,Musim mungkasi hadiah
-33024,Kanca sampeyan wis dijaluk.
-33025,Wis kanca
-33026,Apa sampeyan pengin mbusak kanca iki?
-33027,Strategi Disinikat
+33023,Hadiah Akhir Musim
+33024,Kancamu wis dipundhut panjaluk.
+33025,Wis dadi kanca
+33026,Apa sampeyan yakin arep mbusak kanca iki?
+33027,Strategi disalin
 33028,Jinis
 33029,Ban
-33030,Pranyatan
+33030,Pernyataan
 33031,Bug / Saran
-33032,Undhangan manajer.  Dadi manajer tim lol.
+33032,Undhangan Manajer. Dadi manajer tim LOL.
 33033,Rating Akhir
-33034,Ganjaran pungkasan
-33035,Mangsa diwiwiti
+33034,Hadiah Akhir
+33035,Mulai Musim!
 33036,Musim anyar wis diwiwiti.
-33037,Hall of Fame Sugangan
+33037,Sumbangan Hall of Fame
 33038,Istirahat
-33039,Ora cukup inti
-37000,menyang
-37001,Intine
-37002,Pack
+33039,Ora cukup esensi
+37000,
+37001,Esensi
+37002,Paket
 37003,Paket
 38000,Kabeh
 38001,Perak
@@ -158,41 +158,41 @@
 33040,Kabeh
 33041,Perak
 33042,Emas
-33043,Platinum
-33044,Diamond
-33045,Challenger
+33043,Platin
+33044,Berlian
+33045,Penantang
 33046,Master
-33047,Recruitment
-33048,Paket
+33047,Rekrutmen
+33048,Pakèt
 33049,Presentasi
 33050,Kalebu winates
 33051,Mung winates
-33052,Swap
+33052,Tukar
 33053,Tambah
 33054,Mbusak
 33055,Total
-33056,Stats
-33057,Tembaga
-33058,Nganti upgrade upgrade sabanjure
-33059,Pindhah
+33056,Statistik
+33057,Perunggu
+33058,Nganti peningkatan peringkat sabanjuré
+33059,Gerak!
 33060,Nampa
-33061,Pamuter sing padha wis ana ing dhaptar wiwitan.
+33061,Pemain sing padha wis ana ing daftar starter.
 33062,Ora ana data.
 33063,Data ora normal.
 33064,Alesan
-33065,Tanggal wiwitan remuk
-33066,Ana kesalahan nalika nggawe turnamen. {TOUFT Coba maneh kanggo nggawe turnamen anyar.
-33067,Server nampa data.
+33065,Tanggal Miwiti Crush Sabanjure
+33066,Ana kesalahan nalika nggawe turnamen. {{Sentuh Baleni kanggo nggawe turnamen anyar.}}
+33067,Server saiki lagi nampa data.
 33068,Data ora ditampa kanthi bener.
-33069,Presentasi Pemain Musim
-33070,Entri Kejuaraan Donya
-33071,Pemain sing dipilih sing nggawe debut ing liga taun iki lan ngarepake masa depan.  Mung bisa dipikolehi minangka pahala musim.
-33072,Apa sampeyan pengin mungkasi match otomatis? {Barang sing digunakake bakal ilang.
-33073,Apa sampeyan pengin ngreset akun? {Data Simpen bakal dibusak lan game bakal miwiti maneh.
-33074,Pelatih sing padha wis ana ing entri kasebut.
-33075,Apa sampeyan pengin mbusak pelatih kasebut?  Sampeyan bisa entuk 30esensi.
-33076,Apa sampeyan pengin ngganti jeneng tim sampeyan?  Nggunakake 500esensi.
-33077,Info rekrutmen
-33078,Informasi Informasi
-33079,Nalika nonton iklan {exp
-33080,Nalika nonton iklan {Esence
+33069,Presentasi Pemain Musiman
+33070,Entri Kejuaraan Dunia
+33071,"Pemain sing dipilih lan ngetokaké debuté ing liga taun iki, ngarep‑arep masa depan sing cerah. Iki mung bisa dipikolehi minangka hadiah musim."
+33072,Apa kowé pengin mandhegaké auto‑match? (Barang sing wis dipigunakaké bakal ilang.)
+33073,Apa kowe yakin arep ngreset akunmu? Data simpen bakal dibusak lan game bakal diwiwiti maneh.
+33074,Pelatih sing padha wis ana ing entri.
+33075,Apa sampeyan yakin pengin mbusak pelatih? Sampeyan bakal entuk 30 Essence.
+33076,Apa kowe kepengin ganti jeneng tim? Nganggo 500 Essensi.
+33077,Info Rekrutmen
+33078,Info Probabilitas
+33079,Nalika nonton iklan{EXP
+33080,Nalika nonton ad{Essence

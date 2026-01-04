@@ -1,153 +1,153 @@
 ﻿ID,Dec
-11000,La tua squadra ha vinto il campionato con un ottimo allenatore!  Prepararci a vincere il campionato del mondo.
-11001,"Anche se non ha vinto, ha fatto un ottimo lavoro.  Il bagno di neve è fatto in campione del mondo!"
-11002,"Non era un campionato.  Tuttavia, siamo riusciti a avanzare al campionato del mondo!"
-11003,Non era un campionato.  Ma è una buona classifica per cercare di vincere la prossima stagione.
-11004,"Il peggio è stato evitato, ma non era una buona classifica.  Per una classifica più alta} Penso che abbia bisogno di manutenzione."
-11005,Abbiamo concluso la stagione nella posizione peggiore.  Per i fan che ci supportano} andiamo oltre per la prossima stagione.
-11006,La squadra ha vinto il campionato del mondo con un grande coaching!  Giocatori e fan celebrano il tuo grande comando.  Congratulazioni.
-11007,"Non ha vinto, ma ha fatto un ottimo lavoro.  Proviamo a vincere il campionato del mondo la prossima stagione!"
-11008,"Sfortunatamente, è un ottimo voto.  Aumentiamo il nostro potere la prossima stagione e proviamo a vincere il prossimo campione del mondo."
-11009,"Sei entrato con successo nel torneo.  La prossima stagione, andiamo per tornei più alti."
-11010,"Sfortunatamente, il torneo è fallito.  Sfortunatamente, avanzaremo al campionato del mondo la prossima stagione e miriamo al campionato."
-20000,Linea espositiva / operazione
-20001,Bilancia
-20002,Fight di squadra
-20003,Costume
-21000,È una strategia per lanciare palle di neve basate su battaglie di linea forti.  {{--T è adatto quando hai una battaglia di linea forte.  {-I puoi essere riportato a un colpo quando hai un colpo debole.
-21001,RAMINAZIONE} teamfight} operazione gioca in modo equilibrato.  {{-Questo è adatto quando l'abilità dei giocatori è pari.
-21002,È una strategia che mira a uno scatto attraverso un singolo colpo.  {{--T è adatto quando una squadra ha una forte capacità di un colpo singolo.  {
+11000,Il tuo team ha vinto la lega grazie a un coaching eccezionale! Prepariamoci a conquistare il Campionato Mondiale.
+11001,"Sebbene non abbia vinto, ha fatto un lavoro eccellente. Il bagno di neve è stato realizzato in World Champion!"
+11002,"Non era un campionato, ma siamo comunque riusciti a qualificarci per i Mondiali!"
+11003,"Non era un campionato, ma è una classifica solida su cui puntare per vincere la prossima stagione."
+11004,"Il peggio è stato evitato, ma il posizionamento non è stato buono. Per un posizionamento più alto credo serva una manutenzione."
+11005,Abbiamo chiuso la stagione nella peggiore posizione. Per i fan che ci sostengono: spingiamoci ancora più in là nella prossima stagione.
+11006,La squadra ha conquistato il Campionato Mondiale grazie a una direzione impeccabile! Giocatori e fan festeggiano la tua straordinaria leadership. Congratulazioni.
+11007,"Non ha vinto, ma ha fatto un lavoro eccellente. Proviamo a conquistare il Campionato Mondiale la prossima stagione!"
+11008,Purtroppo è un ottimo risultato. Aumentiamo la nostra potenza nella prossima stagione e puntiamo a conquistare il prossimo Campionato Mondiale.
+11009,Sei entrato con successo nel torneo. Nella prossima stagione puntiamo a tornei di livello superiore.
+11010,"Purtroppo il torneo è fallito. Però, prepariamoci per la prossima stagione e puntiamo al Campionato Mondiale, con l’obiettivo di conquistare il titolo."
+20000,Esibizione di line‑up / Operazione
+20001,Bilanciamento
+20002,Teamfight
+20003,Personalizzata
+21000,È una strategia per far rotolare la palla di neve basata su scontri in corsia potenti. {{- È adatta quando hai un duello in corsia forte. {- Può essere annullata con un colpo unico se il tuo blow è debole.
+21001,Lineup} Teamfight} Operazione Gioca in modo equilibrato. {{‑Questo è adatto quando le abilità dei giocatori sono pari.
+21002,È una strategia che punta al kill in un solo colpo con un’unica abilità. È ideale quando la squadra possiede un forte potere di one‑shot.
 21003,Questa è la tua strategia.
-22000,Il centro del gioco
-22001,Il centro di un ganking
+22000,Il fulcro della partita
+22001,Il centro di un gank
 22002,Ordine principale
-23000,Scegli la possibilità di essere al centro del gioco.  Le statistiche della squadra aumenteranno.  Invece} il resto del potere cade.
-23001,Il jungler decide la linea per il gankinging.
-23002,Imposta una posizione che si concentra sulle operazioni.  L'ordine principale aumenterà la percentuale di funzionamento della squadra.
-24000,Bilancia
+23000,"Scegli l’abilità che sarà al centro dell’azione. Le statistiche della squadra aumenteranno. Invece, il resto della potenza crollerà."
+23001,Il jungler decide la corsia da gankare.
+23002,Imposta una posizione focalizzata sulle operazioni. L’ordine principale incrementerà la quota di operatività del team.
+24000,Bilanciamento
 24001,Linea
-24002,Fight di squadra
+24002,Teamfight
 24003,Operazione
-24004,Bilancia
-24005,Superiore
-24006,Metà
-24007,Metter il fondo a
-24008,Superiore
+24004,Equilibrio
+24005,Top
+24006,Corsia centrale
+24007,Corsia inferiore
+24008,Top
 24009,Giungla
-24010,Metà
-24011,A.D
-24012,Supporto
+24010,Corsia centrale
+24011,AD
+24012,Support
 25000,Attacco
-25001,Equilibrato 
-25002,Equilibrato
+25001,Bilanciato
+25002,Tank
 25003,Attacco
-25004,Equilibrato 
-25005,Petroliera
+25004,Bilanciato
+25005,Tank
 25006,Attacco
-25007,Equilibrato 
-25008,Equilibrato
+25007,Bilanciato
+25008,Support
 25009,Attacco
-25010,Equilibrato 
-25011,Equilibrato
-25012,Utilità
-25013,Equilibrato 
-25014,Petroliera
-26000,Premere fortemente l'avversario in linea.  Prende anche il controllo dell'operazione attraverso la divisione.  {{▲ Aumento delle statistiche operative.  {{-Points guadagnato o perso sull'aumento della linea.  {{▼ Teamfight stat si abbassa.
-26001,Serbatoio dell'affare di base.
-26002,L'influenza è ridotta nelle battaglie di linea.  Tuttavia} È più forte in Teamfight.  {{▲ La capacità di combattimento team è aumentata.  {{-Points guadagnati o persi sulla linea vengono abbassati.  {{▼ Operation Stat è ridotto.
-26003,Il ganking diventa potente.  Tuttavia} c'è un alto rischio di fallimento del ganking.  {{▲ Aumento delle statistiche della riga.  {{
-26004,Serbatoio dell'affare di base.
-26005,La capacità di ganking è abbassata.  Tuttavia} l'abilità di colpire aumenta.  {{▲ L'abilità di colpire aumenta.  {{▼ L'abilità di formazione diminuisce.
-26006,Premere fortemente l'avversario in linea.  Prende anche il controllo dell'operazione attraverso la divisione.  {{▲ Aumento delle statistiche operative.  {{-Points guadagnato o perso sull'aumento della linea.  {{▼ Teamfight stat si abbassa.
-26007,Campione di base Nuker.
-26008,L'obiettivo è migliorare la capacità di un dil.  {{▲ La stat di One Dil aumenta.
-26009,I primi giorni sono potenti.  Comunque} Col passare del tempo} diventa più debole.  {{▲ line-up fino ai primi 20 minuti} L'abilità di combattimento di squadra aumenta.  {{▼ L'abilità di combattimento team diminuisce dalla seconda metà.
-26010,Champ di base a un comando.
-26011,Concentrarsi sull'aiutare la squadra piuttosto che il ruolo di Carrie.  {{▲ Le statistiche operative aumentano.  {{▼ Linee statistiche scendono.
-26012,La lotta di linea è potente.  Tuttavia} È pericoloso operare con bassa salute.  {{▲ Aumento delle statistiche di line-up.  {{-Points guadagnato o perso dall'aumento dell'operazione.
-26013,Campione di base del sostenitore.
-26014,Debole in linea.  Comunque} è forte in Teamfight.  {{▲ TEAMFight Stat è aumentato.  {{▼ Le righe stat sono abbassate.
-30000,Se non riesci ad accedere a Google non puoi giocare a multiplayer.  Si prega di accedere a Google.
-30001,C'è stata una fine anormale del gioco durante l'ultima partita multipla.  Il gioco è stato perde.
-30002,Congratulazioni!  Sei promosso al livello successivo!
-30003,Sei stato retrocesso a causa della costante sconfitta.
-30004,Accesso
-30005,C'è un problema.  Motivo del problema:
-30006,La connessione Internet è andata persa.  Quando hai una connessione Internet} verrai automaticamente ricollegato.
-30007,Internet è stato disconnesso durante la partita multipla.  {Se fai clic su OK} uscirà dallo stadio.
-30008,C'è stato un problema a trovare il tuo avversario.  {Premi OK per uscire dallo stadio.
-30009,Il gioco non è aggiornato.  È necessario aggiornare all'ultima versione per giocare la partita.  {{Premere il pulsante in basso per controllare di nuovo la versione} o andare alla pagina di aggiornamento.
+25010,Bilanciato
+25011,Utilità
+25012,Attacco
+25013,Bilanciato
+25014,Tank
+26000,Pressa fortemente l'avversario sulla corsia. Assume anche il controllo dell'operazione attraverso lo split. {{▲ Le statistiche di operazione aumentano. {{- I punti guadagnati o persi sulla corsia aumentano. {{▼ Le statistiche di teamfight diminuiscono.
+26001,Tank di base
+26002,"L'influenza è ridotta negli scontri in corsia. Tuttavia, è più forte nei teamfight. {{▲ La capacità di teamfight è aumentata. {{-I punti guadagnati o persi nella linea sono diminuiti. {{▼ La statistica Operazione è ridotta."
+26003,Il gank diventa potente. Tuttavia c’è un alto rischio di fallimento del gank. ▲ Aumento delle statistiche della corsia.
+26004,Tank di base
+26005,"La capacità di gank è ridotta. Tuttavia, la capacità di colpo aumenta. {{▲ La capacità di colpo aumenta. {{▼ La capacità della composizione diminuisce."
+26006,Pressa intensamente l’avversario sulla linea. Assume inoltre il controllo dell’operazione attraverso lo split. {{▲ Aumento delle statistiche di operazione. {{-Aumento dei punti guadagnati o persi sulla linea. {{▼ Le statistiche del teamfight diminuiscono.
+26007,Campione nuker base.
+26008,L’obiettivo è potenziare le capacità del One Dil. {{▲ Incremento delle statistiche del One Dil.
+26009,"Le fasi iniziali sono potenti. Tuttavia, col passare del tempo, si indeboliscono. {{▲ Composizione fino ai primi 20 minuti} L'abilità di teamfight aumenta. {{▼ L'abilità di teamfight diminuisce nella seconda metà."
+26010,Campione base da una sola mossa.
+26011,Concentrarsi ad aiutare la squadra piuttosto che il ruolo di Carrie. {{▲ Le statistiche operative aumentano. {{▼ Le statistiche delle linee diminuiscono.
+26012,"Il combattimento di linea è potente. Tuttavia, è pericoloso operare con poca salute. {{▲ Aumento delle statistiche della formazione. {{-I punti guadagnati o persi dall'operazione aumentano."
+26013,Campione di supporto base.
+26014,Debole in corsia. Tuttavia è forte nei combattimenti di squadra. {{▲ Statistica dei combattimenti di squadra aumentata. {{▼ Statistica delle corsie ridotta.
+30000,"Se non riesci ad accedere a Google, non potrai giocare in multiplayer. Per favore, effettua il login su Google."
+30001,C'è stato un termine anomalo della partita durante l'ultimo match multiplo. La partita è stata annullata per forfait.
+30002,Congratulazioni! Sei promosso al livello successivo!
+30003,Sei stato retrocesso a causa delle continue sconfitte.
+30004,Accesso in corso
+30005,C’è un problema. Motivo del problema:
+30006,"La connessione Internet è stata persa. Non appena tornerà online, sarai ricollegato automaticamente."
+30007,La connessione a Internet è stata interrotta durante la partita multipla. {Se premi OK} uscirai dallo stadio.
+30008,C’è stato un problema nel trovare il tuo avversario. {Premi OK per uscire dallo stadio.
+30009,Il gioco non è aggiornato. Devi passare all'ultima versione per poter giocare la partita. {{Premi il pulsante qui sotto per controllare nuovamente la versione} o vai alla pagina di aggiornamento.}
 30010,Controllo
-30011,Non è l'ultima versione.
-30012,Minuto 
-30013,Minuto... 
-30014,Minuto
-30015,Sei stato segnalato come cheat player e non puoi giocare a giochi multiplayer. {{Per favore invia un'e -mail a {hucce@gmail.com per qualsiasi domanda.
-30016,Controllo del server multiplay.  Si prega di attendere che il tempo di controllo sia finito
-31000,Impossibile caricare l'elenco.  Accedi a Google in multiplay.
-32000,Grazie per aver giocato.  La tua recensione è di grande aiuto per lo sviluppatore.  Riceverai 300 essenze come ricompensa.
-32001,Grazie per aver visto l'annuncio.  Fai clic su OK per ricevere la ricompensa di visualizzazione.
-32002,"L'annuncio è stato saltato, devi guardare l'annuncio fino alla fine per ricevere la ricompensa."
-36000,Impossibile recuperare l'annuncio Si prega di controllare la connessione Internet.
-36001,Punteggio in campionato
-36002,M
+30011,Non è l’ultima versione.
+30012,Minuto
+30013,Sei stato segnalato come giocatore cheat e non puoi accedere alle partite multiplayer.{{Per favore invia un’email a {hucce@gmail.com per qualsiasi domanda.
+30014,Sei registrato come cheater.
+30015,Verifica del server multiplayer in corso. Attendi fino al termine del controllo.
+30016,Impossibile caricare l'elenco. Accedi con Google su Multiplay.
+31000,Grazie per aver giocato! La tua recensione è di grande aiuto per gli sviluppatori. Riceverai 300 Essenza come ricompensa.
+32000,Grazie per aver guardato lo spot. Clicca OK per ricevere la tua ricompensa di visualizzazione.
+32001,Annuncio saltato. Devi guardare l’annuncio fino alla fine per ottenere la ricompensa.
+32002,Impossibile caricare l’annuncio. Controlla la tua connessione Internet.
+36000,Punteggio della Lega
+36001,M
+36002,W
 36003,L
-36004,Storia
-36005,Superiore
-36006,Risultati di corrispondenza
-36007,Ricevere
-36008,Completare
-36009,Incompleto 
-36010,Incompleto... 
-36011,Collegamento
-33000,L'aggiornamento è possibile solo fino al livello 10.
+36004,Cronologia
+36005,Top
+36006,Risultati della partita
+36007,Ricevi
+36008,Completa
+36009,Incompleto
+36010,Collegamento
+36011,Stagione
+33000,Il potenziamento è possibile solo fino al livello 10.
 33001,Successo
 33002,Fallimento
 33003,Probabilità di successo
 33004,Differenza
-33005,Vuoi saltare il tutorial?  Non puoi ottenere i premi dal tutorial.
-33006,La lingua cambierà quando riavvia il gioco.
-34000,Controllo della versione del servizio di Google Play
-34001,Google Play Accedi Completa
+33005,Vuoi saltare il tutorial? Non potrai ottenere le ricompense del tutorial.
+33006,La lingua cambierà al riavvio del gioco.
+34000,Verifica versione di Google Play Services
+34001,Accesso a Google Play completato
 34002,Accesso al server completato
-34003,Conferma di salvataggio del cloud Completa
-34004,Importazione dei dati completi
-34005,Problema riprovare
-34006,Errore!  Carica in modalità offline
-33007,Girare
-33008,Linea
-33009,Fight di squadra
+34003,Salvataggio cloud completato
+34004,Importazione dati completata
+34005,"Problema, riprova"
+34006,Errore! Carica in modalità offline
+33007,Round
+33008,Corsia
+33009,Teamfight
 33010,Operazione
-33011,Superiore
-33012,Metà
-33013,Metter il fondo a
-33014,Grande sconfitta
+33011,Top
+33012,Corsia centrale
+33013,Bot
+33014,Grande Sconfitta
 33015,Sconfitta
-33016,Ribassista
+33016,Bearish
 33017,Contesa
 33018,Superiorità
 33019,Vittoria
 33020,Grande vittoria
-33021,Ganking del team jungler.
+33021,gank del jungler della squadra
 33022,Giorno
-33023,Ricompensa della fine della stagione
-33024,Il tuo amico è già stato richiesto.
+33023,Ricompensa di fine stagione
+33024,Hai già inviato la richiesta di amicizia.
 33025,Già amico
 33026,Sei sicuro di voler eliminare questo amico?
 33027,Strategia copiata
 33028,Tipi
-33029,Divieto
+33029,Ban
 33030,Dichiarazione
-33031,Bug / suggerimenti
-33032,Invito manager.  Diventa un team manager LOL.
-33033,Valutazione finale
+33031,Bug / Suggerimenti
+33032,Invito da manager. Diventa manager di una squadra di LoL.
+33033,Rating finale
 33034,La ricompensa finale
 33035,Inizio della stagione
 33036,È iniziata una nuova stagione.
-33037,Contributo della Hall of Fame
+33037,Contributo alla Hall of Fame
 33038,Riposo
-33039,Non abbastanza essenza
-37000,in
+33039,Essenza insufficiente
+37000,
 37001,Essenza
 37002,Pacchetto
 37003,Pacchetto
@@ -160,39 +160,39 @@
 33042,Oro
 33043,Platino
 33044,Diamante
-33045,Sfidante
-33046,Maestro 
-33047,Maestro
+33045,Challenger
+33046,Maestro
+33047,Reclutamento
 33048,Pacchetto
 33049,Presentazione
-33050,Compreso limitato
+33050,Inclusi limitati
 33051,Solo limitato
-33052,Scambio
-33053,Aggiungere
-33054,Rimuovere
+33052,Scambia
+33053,Aggiungi
+33054,Rimuovi
 33055,Totale
 33056,Statistiche
 33057,Bronzo
-33058,Fino al prossimo aggiornamento del rango
-33059,Mossa
-33060,Ricevere
-33061,Lo stesso giocatore è già nell'elenco di partenza.
-33062,Non ci sono dati.
-33063,I dati sono anormali.
+33058,Fino alla prossima promozione di rango
+33059,Muoviti!
+33060,Ricevi
+33061,Il giocatore è già nella lista titolare.
+33062,Nessun dato disponibile.
+33063,I dati sono anomali.
 33064,Motivo
-33065,Next Crush di inizio data
-33066,Si è verificato un errore durante la creazione di un torneo. {{Touch Retry per creare un nuovo torneo.
+33065,Data di inizio del prossimo Crush
+33066,Si è verificato un errore durante la creazione del torneo. {{Tocca Riprova per creare un nuovo torneo.}}
 33067,Il server sta ricevendo dati.
 33068,I dati non sono stati ricevuti correttamente.
 33069,Presentazione del giocatore della stagione
-33070,Ingresso del campionato mondiale
-33071,I giocatori selezionati che hanno fatto il loro debutto in campionato quest'anno e non vedono l'ora del futuro.  Può essere ottenuto solo come ricompensa della stagione.
-33072,Vuoi fermare la corrispondenza automatica? {Gli elementi usati scompariranno.
-33073,Sei sicuro di voler reimpostare il tuo account? {Salva i dati verranno eliminati e il gioco si riavvierà.
-33074,Lo stesso allenatore è già nella voce.
-33075,Sei sicuro di voler eliminare l'allenatore?  Puoi ottenere 30essence.
-33076,Vorresti cambiare il nome della tua squadra?  Usa 500ssence.
-33077,Informazioni sul reclutamento
-33078,Informazioni sulla probabilità
-33079,Quando si guarda ad AD {exp
-33080,Quando si guarda ad AD {Essence
+33070,Ingresso al Campionato Mondiale
+33071,Giocatori selezionati che hanno debuttato nella lega quest'anno e guardano al futuro. Disponibile esclusivamente come ricompensa stagionale.
+33072,Vuoi interrompere l'abbinamento automatico? (​Gli oggetti utilizzati spariranno.)
+33073,Sei sicuro di voler resettare il tuo account?{I dati salvati saranno eliminati e il gioco verrà riavviato.
+33074,Lo stesso coach è già presente nell'entry.
+33075,Sei sicuro di voler eliminare l’allenatore? Otterrai 30 Essenza.
+33076,Vuoi cambiare il nome della tua squadra? Utilizza 500 Essenza.
+33077,Info Reclutamento
+33078,Info Probabilità
+33079,Quando si guarda ad{EXP
+33080,Quando guardi l’annuncio {Essenza
