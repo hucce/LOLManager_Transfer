@@ -1,8 +1,9 @@
 ﻿ID,Name,Dec
-1000,Rekrutmen Pemain,Rekrut pemain acak pada 2025
-1001,Perekrutan Pelatih,Sewa pelatih secara acak.
-1003,Rekrutmen Musim 2024,Rekrut pemain acak dari Season 24. (Tidak termasuk pembatasan)
-1002,Recruitmen Musim 2023,Rekrut pemain acak dari Season 23. (Tidak termasuk batasan)
-1003,Rekrutmen Musim 2022,Rekrut pemain acak dari Season 22. (Tidak termasuk batasan)
-1004,Rekrutmen Musim 2021,Rekrut pemain acak dari Season 21. (Tidak termasuk pembatasan)
-1005,Perekrutan Musim Sebelumnya,Rekrut pemain acak dari season 18‑20. (Tanpa batasan)
+1000,Rekrutmen Pemain,Rekrut pemain acak pada 2026
+1001,Perekrutan Pelatih,Rekrut pelatih secara acak.
+1003,Rekrutmen Musim 2025,Rekrut pemain acak dari Season 25. (Tidak termasuk pembatasan)
+1002,Rekrutmen Musim 2024,Rekrut pemain acak dari Season 24. (Tidak termasuk pembatasan)
+1003,Rekrutmen Musim 2023,Rekrut pemain acak dari Season 23. (Tanpa memperhitungkan batasan)
+1004,Rekrutmen Musim 2022,Rekrut pemain acak dari Season 22 (tanpa batasan).
+1005,Rekrutmen Musim 2021,Rekrut pemain acak dari Season 21. (Tidak termasuk batasan)
+1006,Rekrutmen Musim Sebelumnya,Rekrut pemain acak dari season 18‑20. (Tanpa pembatasan)

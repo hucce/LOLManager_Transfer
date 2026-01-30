@@ -1,58 +1,63 @@
 ﻿ID,Dec
 1000000,Đánh bại tất cả các đội KR League trong mùa giải 18.
-1000001,Đánh bại tất cả các đội KR League trong mùa xuân năm 19.
-1000002,Hạ gục tất cả các đội KR League trong mùa Hè 2019.
-1000003,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 19.
-1000004,Đánh bại tất cả các đội KR League trong mùa xuân thứ 20.
-1000005,Hạ gục toàn bộ các đội EU LEC trong mùa xuân 2020.
-1000006,Đánh bại toàn bộ các đội NA League trong mùa xuân 2020.
-1000007,Đánh bại toàn bộ các đội của KR League trong mùa hè 2020.
-1000008,Đánh bại toàn bộ các đội EU League trong mùa Hè Season 20.
-1000009,Hạ gục tất cả các đội NA League trong mùa Hè 2020.
-1000010,Đánh bại mọi đội thuộc Top 10 mùa Multi Match 20.
-1000011,Đánh bại tất cả các đội KR League trong mùa xuân 2021.
+1000001,Đánh bại mọi đội của KR League trong mùa xuân 2019.
+1000002,Hạ gục toàn bộ các đội của KR League trong mùa hè 2019.
+1000003,Đánh bại tất cả các đội Top 10 của mùa Multi Match 19.
+1000004,Đánh bại tất cả các đội KR League trong mùa xuân thứ 20.
+1000005,Hạ gục mọi đội EU League trong mùa xuân 2020.
+1000006,Đánh bại toàn bộ các đội NA League trong mùa xuân 20.
+1000007,Hạ gục toàn bộ các đội KR League trong mùa hè 2020.
+1000008,Đánh bại toàn bộ các đội EU League trong mùa hè 2020.
+1000009,Đánh bại tất cả các đội NA League trong mùa hè Season 20.
+1000010,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 20.
+1000011,Đánh bại toàn bộ các đội KR League trong mùa Xuân 2021.
 1000012,Đánh bại tất cả các đội EU League trong mùa xuân 2021.
-1000013,Đánh bại tất cả các đội NA League trong mùa xuân 2021.
-1000014,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 21‑1.
-1000015,Đánh bại toàn bộ các đội Top 10 mùa giải Multi Match 21‑2.
-1000016,Đánh bại mọi đội của CN League trong Spring Split 2021.
-1000017,Đánh bại toàn bộ các đội KR League trong mùa giải mùa hè 2021.
-1000018,Hạ gục toàn bộ các đội EU League trong mùa hè 2021.
-1000019,Đánh bại tất cả các đội NA League trong mùa hè 2021.
-1000020,Đánh bại toàn bộ các đội CN League trong mùa giải mùa hè 2021.
-1000021,Đánh bại toàn bộ các đội Top 10 mùa giải Multi Match 21‑3.
-1000022,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 22‑1.
-1000023,Đánh bại tất cả các đội của KR League trong mùa xuân 2022.
-1000024,Đánh bại tất cả các đội EU League trong mùa xuân 2022.
-1000025,Đánh bại tất cả các đội NA LCS trong Spring Split 2022.
-1000026,Đánh bại toàn bộ các đội Top 10 mùa giải Multi Match 22‑2.
-1000027,Đánh bại toàn bộ các đội Top 10 của mùa giải Multi Match 22‑3.
-1000028,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 22‑4.
-1000029,Đánh bại mọi đội của KR League trong mùa giải Hè 2022.
-1000030,Đánh bại toàn bộ các đội EU League trong mùa hè 2022.
-1000031,Đánh bại mọi đội của NA League trong mùa hè 2022.
-1000032,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 23‑1.
-1000033,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 23‑2.
-1000034,Đánh bại mọi đội của KR League trong mùa xuân 2023.
-1000035,Hạ gục tất cả các đội EU League trong mùa xuân 2023.
-1000036,Đánh bại tất cả các đội NA League trong mùa xuân 2023.
-1000037,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 23‑3.
-1000038,Đánh bại toàn bộ các đội KR League trong mùa hè 2023.
-1000039,Hạ gục mọi đội của EU League trong mùa giải mùa hè 2023.
-1000040,Đánh bại mọi đội của NA League trong mùa giải hè 2023.
-1000041,Đánh bại toàn bộ các đội Top 10 của mùa giải Multi Match 23‑4.
-1000042,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 24‑1.
-1000043,Đánh bại toàn bộ các đội Top 10 của mùa giải Multi Match 24‑2.
-1000044,Đánh bại toàn bộ các đội KR League trong Spring Split 2024.
-1000045,Hạ gục toàn bộ các đội EU League trong mùa xuân 2024.
-1000046,Đánh bại tất cả các đội của NA League trong mùa xuân 2024.
-1000047,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 24‑3.
-1000048,Đánh bại toàn bộ các đội KR League trong mùa hè 2024.
-1000049,Đánh bại tất cả các đội EU League trong mùa hè 2024.
-1000050,Đánh bại toàn bộ các đội NA League trong mùa giải mùa hè năm 24.
-1000051,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 24‑4.
-1000052,Đánh bại toàn bộ các đội Top 10 mùa giải Multi Match 25‑1.
-1000053,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 25‑2.
-1000054,Đánh bại tất cả các đội KR League trong mùa xuân thứ 25.
-1000055,Hạ gục mọi đội EU League trong mùa xuân thứ 25.
-1000056,Hạ gục tất cả các đội NA League trong mùa Xuân Season 25.
+1000013,Đánh bại mọi đội của NA League trong Spring Split 2021.
+1000014,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 21‑1.
+1000015,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 21‑2.
+1000016,Đánh bại toàn bộ các đội thuộc Giải Trung Quốc trong mùa xuân năm 2021.
+1000017,Hạ gục toàn bộ các đội KR League trong mùa hè 2021.
+1000018,Đánh bại tất cả các đội tuyển EU trong mùa giải hè 2021.
+1000019,Đánh bại tất cả các đội NA League trong mùa hè 2021.
+1000020,Đánh bại toàn bộ các đội CN League trong mùa hè 2021.
+1000021,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 21‑3.
+1000022,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 22‑1.
+1000023,Đánh bại mọi đội của KR League trong mùa xuân 2022.
+1000024,Đánh bại tất cả các đội EU League trong mùa xuân 2022.
+1000025,Đánh bại tất cả các đội NA LCS trong mùa xuân 2022.
+1000026,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 22‑2.
+1000027,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 22‑3.
+1000028,Đánh bại toàn bộ các đội Top 10 của mùa giải Multi Match 22‑4.
+1000029,Đánh bại mọi đội KR League trong mùa giải hè 2022.
+1000030,Đánh bại tất cả các đội EU League trong mùa hè 2022.
+1000031,Đánh bại toàn bộ các đội NA League trong mùa giải Hè 2022.
+1000032,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 23‑1.
+1000033,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 23‑2.
+1000034,Đánh bại tất cả các đội KR League trong mùa xuân 2023.
+1000035,Đánh bại tất cả các đội EU League trong mùa xuân 2023.
+1000036,Đánh bại toàn bộ các đội NA League trong mùa xuân 2023.
+1000037,Đánh bại toàn bộ các đội Top 10 của mùa giải Multi Match 23‑3.
+1000038,Đánh bại toàn bộ các đội KR League trong mùa hè năm 23.
+1000039,Đánh bại toàn bộ các đội EU League trong mùa hè 2023.
+1000040,Đánh bại toàn bộ các đội của NA League trong mùa hè 2023.
+1000041,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 23‑4.
+1000042,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 24‑1.
+1000043,Đánh bại tất cả các đội Top 10 mùa giải Multi Match 24‑2.
+1000044,Đánh bại tất cả các đội KR League trong mùa xuân 2024.
+1000045,Đánh bại toàn bộ các đội EU League trong mùa xuân 2024.
+1000046,Đánh bại tất cả các đội NA League trong mùa xuân 2024.
+1000047,Đánh bại tất cả các đội Top 10 của mùa Multi Match 24‑3.
+1000048,Hạ gục mọi đội của KR League trong mùa giải Hè 2024.
+1000049,Đánh bại tất cả các đội Liên Minh châu Âu trong mùa hè 24.
+1000050,Đánh bại toàn bộ các đội NA League trong mùa hè 2024.
+1000051,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 24‑4.
+1000052,Đánh bại toàn bộ các đội Top 10 của mùa giải Multi Match 25‑1.
+1000053,Đánh bại toàn bộ các đội Top 10 mùa giải Multi Match 25‑2.
+1000054,Đánh bại toàn bộ các đội KR League trong mùa xuân thứ 25.
+1000055,Đánh bại mọi đội EU League trong mùa xuân thứ 25.
+1000056,Đánh bại toàn bộ các đội NA trong mùa xuân 25.
+1000057,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 25‑3.
+1000058,Đánh bại toàn bộ các đội KR League trong mùa hè thứ 25.
+1000059,Đánh bại tất cả các đội Liên Minh châu Âu trong mùa giải Hè 25.
+1000060,Đánh bại tất cả các đội NA League trong mùa hè thứ 25.
+1000061,Đánh bại tất cả các đội Top 10 của mùa giải Multi Match 25‑4.

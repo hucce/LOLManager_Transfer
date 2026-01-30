@@ -1,8 +1,9 @@
 ﻿ID,Name,Dec
-1000,Spielerrekrutierung,Zufällige Spieler rekrutieren (2025)
-1001,Coach‑Rekrutierung,Einen zufälligen Coach einstellen.
-1003,2024‑Saison‑Rekrutierung,Rekrutiere einen zufälligen Spieler aus Saison 24. (ohne Beschränkungen)
-1002,2023 Saison‑Rekrutierung,Einen zufälligen Spieler aus Saison 23 rekrutieren (ohne Einschränkungen).
-1003,2022 Saisonrekrutierung,Rekrutiere einen zufälligen Spieler aus Saison 22. (ohne Beschränkungen)
-1004,2021 Saison‑Rekrutierung,Rekrutiere einen zufälligen Spieler aus der 21. Saison. (Ohne Einschränkung)
-1005,Rekrutierung der vorherigen Saison,Rekrutiere einen zufälligen Spieler aus den Saisons 18‑20. (ohne Einschränkungen)
+1000,Spielerrekrutierung,Rekrutiere zufällige Spieler im Jahr 2026
+1001,Trainerrekrutierung,Stelle einen zufälligen Coach ein.
+1003,2025 Saisonrekrutierung,Einen zufälligen Spieler aus Saison 25 rekrutieren. (Ohne Beschränkungen)
+1002,Saison 2024 – Rekrutierung,Rekrutiere einen zufälligen Spieler aus Saison 24 (ohne Beschränkung).
+1003,2023 Saison‑Rekrutierung,Zufälligen Spieler aus Season 23 rekrutieren. (Keine Beschränkungen)
+1004,Saison 2022 – Rekrutierung,Rekrutiere einen zufälligen Spieler aus Saison 22 (ohne Einschränkungen).
+1005,Saison 2021 Rekrutierung,Rekrutiere einen zufälligen Spieler aus Saison 21 (ohne Einschränkungen).
+1006,Rekrutierung der vorherigen Saison,Rekrutiere einen zufälligen Spieler aus den Saisons 18‑20. (Ohne Einschränkungen)

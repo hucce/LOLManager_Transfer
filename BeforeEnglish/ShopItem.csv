@@ -1,8 +1,9 @@
 ﻿ID,Name,Dec
-1000,Player Recruitment,Recruit random players in 2025
+1000,Player Recruitment,Recruit random players in 2026
 1001,Coach Recruitment,Hire a random coach.
-1003,2024Season Recruitment,Recruit random player from the 24season. (Not including limitation)
-1002,2023Season Recruitment,Recruit random player from the 23season. (Not including limitation)
-1003,2022Season Recruitment,Recruit random player from the 22season. (Not including limitation)
-1004,2021Season Recruitment,Recruit random player from the 21season. (Not including limitation)
-1005,Previous season Recruitment,Recruit random player from the 18~20season. (Not including limitation)
+1003,2025Season Recruitment,Recruit random player from the 25season. (Not including limitation)
+1002,2024Season Recruitment,Recruit random player from the 24season. (Not including limitation)
+1003,2023Season Recruitment,Recruit random player from the 23season. (Not including limitation)
+1004,2022Season Recruitment,Recruit random player from the 22season. (Not including limitation)
+1005,2021Season Recruitment,Recruit random player from the 21season. (Not including limitation)
+1006,Previous season Recruitment,Recruit random player from the 18~20season. (Not including limitation)

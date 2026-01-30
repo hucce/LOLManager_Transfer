@@ -1,8 +1,9 @@
 ﻿ID,Name,Dec
-1000,Recrutamento de Jogadores,Recrute jogadores aleatórios em 2025
-1001,Recrutamento de Coach,Contrate um coach aleatório.
-1003,Recrutamento da Temporada 2024,Recrute um jogador aleatório da Temporada 24 (sem restrições).
-1002,Recrutamento da Temporada 2023,Recrute um jogador aleatório da Temporada 23 (sem incluir limitações).
-1003,Recrutamento da Temporada 2022,Recrute um jogador aleatório da Temporada 22. (Sem restrições)
-1004,Recrutamento da Temporada 2021,Recrute um jogador aleatório da Temporada 21. (Sem incluir limitações)
-1005,Recrutamento da Temporada Anterior,Recrute um jogador aleatório das temporadas 18‑20. (Sem limitação)
+1000,Recrutamento de Jogadores,Recrute jogadores aleatórios em 2026
+1001,Recrutamento de Coach,Contrate um treinador aleatório.
+1003,Recrutamento da Temporada 2025,Recrute um jogador aleatório da Temporada 25. (Sem restrições)
+1002,Recrutamento da Temporada 2024,Recrute um jogador aleatório da Temporada 24. (Sem restrições)
+1003,Recrutamento da Temporada 2023,Recrute um jogador aleatório da Temporada 23. (Sem incluir limitações)
+1004,Recrutamento da Temporada 2022,Recrute um jogador aleatório da Temporada 22. (Sem restrição)
+1005,Recrutamento da Temporada 2021,Recrute um jogador aleatório da Temporada 21. (Sem incluir limitações)
+1006,Recrutamento da Temporada Anterior,Recrute um jogador aleatório da temporada 18‑20. (Sem restrição)

@@ -1,8 +1,9 @@
 ﻿ID,Name,Dec
-1000,Pengambilan Pemain,Rekrut pemain secara rawak pada tahun 2025
+1000,Perekrutan Pemain,Merekrut pemain rawak pada 2026
 1001,Pengambilan Jurulatih,Sewa jurulatih secara rawak.
-1003,Pengambilan Musim 2024,Rekrut pemain rawak daripada Musim 24. (Tidak termasuk had)
-1002,Perekrutan Musim 2023,Rekrut pemain rawak daripada Musim 23. (Tidak termasuk sekatan)
-1003,Perekrutan Musim 2022,Rekrut pemain rawak daripada Musim 22. (Tidak termasuk sekatan)
-1004,Pengambilan Musim 2021,Rekrut pemain secara rawak daripada Musim 21. (Tidak termasuk sebarang had)
-1005,Pengambilan Musim Lepas,Merekrut pemain rawak dari musim 18~20. (Tidak termasuk sekatan)
+1003,Pengambilan Musim 2025,Rekrut pemain rawak daripada Musim 25. (Tidak termasuk sekatan)
+1002,Perekrutan Musim 2024,Rekrut pemain rawak daripada Musim 24. (Tidak termasuk sekatan)
+1003,Pengambilan Musim 2023,Rekrut pemain rawak daripada Musim 23. (Tidak termasuk sekatan)
+1004,Pengambilan Musim 2022,Merekrut pemain secara rawak daripada Musim 22. (Tidak termasuk sekatan)
+1005,Perekrutan Musim 2021,Merekrut pemain secara rawak daripada Musim 21. (Tidak termasuk sekatan)
+1006,Pengambilan Musim Lalu,Rekrut pemain secara rawak daripada Musim 18‑20. (Tidak termasuk sekatan)
