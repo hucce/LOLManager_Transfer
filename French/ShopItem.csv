@@ -1,9 +1,9 @@
 ﻿ID,Name,Dec
-1000,Recrutement de joueurs,Recruter des joueurs aléatoires en 2026
-1001,Recrutement d’entraîneur,Engagez un coach aléatoire.
-1003,Recrutement Saison 2025,Recruter un joueur aléatoire de la saison 25. (Sans limitation)
-1002,Recrutement Saison 2024,Recruter un joueur aléatoire de la saison 24. (sans limitation)
-1003,Recrutement Saison 2023,Recruter un joueur aléatoire de la saison 23 (sans limitation).
-1004,Recrutement Saison 2022,Recruter un joueur aléatoire de la saison 22 (sans restriction).
-1005,Recrutement Saison 2021,Recruter un joueur aléatoire de la saison 21. (sans limitation)
-1006,Recrutement de la saison précédente,Recruter un joueur aléatoire des saisons 18‑20. (sans restriction)
+1000,Recrutement de joueurs,Recrutez des joueurs aléatoires en 2026
+1001,Recrutement d'entraîneurs,Embauchez un entraîneur au hasard.
+1003,Recrutement pour la saison 2025,Recrutez un joueur aléatoire de la 25ème saison. (Sans limitation)
+1002,Recrutement pour la saison 2024,Recrutez un joueur aléatoire de la 24e saison. (Sans limitation)
+1003,Recrutement pour la saison 2023,Recrutez un joueur aléatoire de la 23ème saison. (Sans limitation)
+1004,Recrutement pour la saison 2022,Recrutez un joueur aléatoire de la 22e saison. (Sans limitation)
+1005,Recrutement pour la saison 2021,Recrutez un joueur aléatoire de la 21e saison. (Sans limitation)
+1006,Recrutement saison précédente,Recrutez un joueur aléatoire de la saison 18~20. (Sans limitation)

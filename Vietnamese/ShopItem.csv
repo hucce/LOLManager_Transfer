@@ -1,9 +1,9 @@
 ﻿ID,Name,Dec
-1000,Tuyển dụng người chơi,Chiêu mộ người chơi ngẫu nhiên năm 2026
-1001,Tuyển Dụng Huấn Luyện Viên,Tuyển một HLV ngẫu nhiên.
-1003,Tuyển mộ Mùa Giải 2025,Chiêu mộ người chơi ngẫu nhiên từ mùa giải 25. (Không tính giới hạn)
-1002,Tuyển chọn mùa giải 2024,Mời một người chơi ngẫu nhiên từ mùa Giải 24. (Không tính các giới hạn)
-1003,Tuyển Dụng Mùa Giải 2023,Tuyển người chơi ngẫu nhiên từ mùa 23. (Không tính giới hạn)
-1004,Tuyển dụng Mùa giải 2022,Tuyển ngẫu nhiên một người chơi từ mùa giải 22. (Không tính các hạn chế)
-1005,Tuyển Dụng Mùa Giải 2021,Tuyển ngẫu nhiên một tuyển thủ từ mùa 21. (Không tính giới hạn)
-1006,Chiêu mộ mùa giải trước,Tuyển ngẫu nhiên một người chơi từ Season 18‑20. (Không tính giới hạn)
+1000,Tuyển dụng cầu thủ,Tuyển người chơi ngẫu nhiên vào năm 2026
+1001,Tuyển dụng huấn luyện viên,Thuê một huấn luyện viên ngẫu nhiên.
+1003,Tuyển dụng mùa 2025,Tuyển dụng người chơi ngẫu nhiên từ mùa giải 25. (Không bao gồm giới hạn)
+1002,Tuyển dụng mùa giải 2024,Tuyển dụng người chơi ngẫu nhiên từ mùa giải 24. (Không bao gồm giới hạn)
+1003,Tuyển dụng mùa giải 2023,Tuyển dụng người chơi ngẫu nhiên từ mùa 23. (Không bao gồm giới hạn)
+1004,Tuyển dụng mùa giải 2022,Tuyển dụng người chơi ngẫu nhiên từ mùa giải 22. (Không bao gồm giới hạn)
+1005,Tuyển dụng mùa giải 2021,Tuyển dụng người chơi ngẫu nhiên từ mùa giải 21. (Không bao gồm giới hạn)
+1006,Tuyển dụng mùa trước,Tuyển dụng người chơi ngẫu nhiên từ mùa giải 18~20. (Không bao gồm giới hạn)
