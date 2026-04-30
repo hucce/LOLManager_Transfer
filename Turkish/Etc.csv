@@ -34,8 +34,8 @@
 1032,패배,Mağlubiyet
 1033,간편,Basit
 1034,지침,Kılavuz
-1035,픽밴,Pick/Ban
-1036,설정,Set
+1035,밴픽,Yasaklama ve Seçme
+1036,설정,Ayarla
 1037,설명,Açıklama
 1038,라인,Hat
 1039,타입,Tür
@@ -146,7 +146,7 @@
 1144,전송 비용:,İletim maliyeti:
 1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Eşya fiyatı + temel ücret 100 + ekli eşyanın fiyatının %5'i)
 1146,쪽지보내기,Mesaj gönder
-1147,첼린저,Challenger
+1147,첼린저,Meydan okuyan
 1148,마스터,Usta
 1149,다이아,Elmas
 1150,플레티넘,Platin
@@ -223,3 +223,4 @@
 1230,보상선수,Oyuncuyu Ödüllendir
 1231,선수명단,Oyuncu Listesi
 1232,시간정보 재송신,Zaman bilgisi yenilendi
+1233,밴픽 평가,Ban/Pick Değerlendirmesi

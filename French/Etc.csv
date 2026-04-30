@@ -34,7 +34,7 @@
 1032,패배,Défaite
 1033,간편,Simple
 1034,지침,Directive
-1035,픽밴,Pick / Ban
+1035,밴픽,BanPick
 1036,설정,Définir
 1037,설명,Explication
 1038,라인,Ligne
@@ -42,7 +42,7 @@
 1040,등급,Note
 1041,강화,Renforcer
 1042,재조합,Recombinaison
-1043,팀케미,Team Chemie
+1043,팀케미,Équipe Chemie
 1044,선발 선수,Joueur titulaire
 1045,후보 선수,Joueur remplaçant
 1046,레벨 포인트,Point de niveau
@@ -71,7 +71,7 @@
 1069,대전정보,Informations du match
 1070,대전찾기,Recherche de partie
 1071,선수,Joueur
-1072,감독,Manager
+1072,감독,Gestionnaire
 1073,로그인,Connexion
 1074,확인,Confirmer
 1075,일일,Jour
@@ -223,3 +223,4 @@
 1230,보상선수,Récompenser le joueur
 1231,선수명단,Liste des joueurs
 1232,시간정보 재송신,Rechargement des infos temps
+1233,밴픽 평가,Évaluation Ban/Pick

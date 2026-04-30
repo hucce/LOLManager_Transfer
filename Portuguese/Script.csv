@@ -138,7 +138,7 @@ Você precisa assistir ao anúncio até o final para receber a recompensa."
 33026,Tem certeza de que deseja excluir este amigo?
 33027,Estratégia copiada
 33028,Tipos
-33029,Ban
+33029,Banir
 33030,Declaração
 33031,Bug / Sugestões
 33032,Convite de Manager. Torne‑se o manager de um time de LoL.
@@ -198,3 +198,9 @@ Você precisa assistir ao anúncio até o final para receber a recompensa."
 33078,Informações de Probabilidade
 33079,Ao assistir ao anúncio {EXP}
 33080,Ao assistir AD {Essência}
+33081,◀ vantagem [1] de <b>[0]</b>
+33082,vantagem [1] de [0] ▶
+33083,Habilidade [0] igual em ambas as equipes
+33084,O time [0] deve dar snowball cedo com vantagem nas rotas. O time [1] escala melhor.
+33085,A força do time [0] reside nas lutas de equipe tardias. Foque no scaling.
+33086,Ambas as equipes têm condições de vitória claras. As decisões da partida decidirão tudo.

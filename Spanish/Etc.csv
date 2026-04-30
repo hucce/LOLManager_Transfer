@@ -34,7 +34,7 @@
 1032,패배,Derrota
 1033,간편,Sencillo
 1034,지침,Directriz
-1035,픽밴,Selección/Veto
+1035,밴픽,Selección y Bloqueo
 1036,설정,Establecer
 1037,설명,Explicación
 1038,라인,Línea
@@ -42,7 +42,7 @@
 1040,등급,Calificación
 1041,강화,Refuerzo
 1042,재조합,Recombinación
-1043,팀케미,Team Chemie
+1043,팀케미,Equipo Chemie
 1044,선발 선수,Jugador titular
 1045,후보 선수,Jugador suplente
 1046,레벨 포인트,Punto de nivel
@@ -223,3 +223,4 @@
 1230,보상선수,¡Recompensa al jugador!
 1231,선수명단,Lista de Jugadores
 1232,시간정보 재송신,Recargar información de tiempo
+1233,밴픽 평가,Evaluación de Ban/Pick

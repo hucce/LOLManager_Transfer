@@ -1,63 +1,67 @@
 ﻿ID,Dec
-1000000,Derrote todas as equipes da KR League na temporada 18.
-1000001,Derrote todas as equipes da KR League na 19ª temporada de primavera.
-1000002,Derrote todos os times da KR League na 19ª temporada de verão.
-1000003,Derrote todas as equipes do Top 10 da Temporada 19 de Multi‑Match.
-1000004,Derrote todas as equipes da KR League na 20ª Temporada de Primavera.
-1000005,Derrote todas as equipes da Liga Europeia na 20ª temporada de primavera.
-1000006,Derrote todas as equipes da LCS na temporada de primavera de 2020.
-1000007,Derrote todas as equipes da KR League na Temporada de Verão de 2020.
-1000008,Derrote todas as equipes da EU League na 20ª temporada de verão.
-1000009,Derrote todas as equipes da NA League na temporada de verão de 2020.
-1000010,Derrote todas as equipes Top 10 da Temporada 20 do Multi Match.
-1000011,Derrote todas as equipes da KR League na temporada de primavera de 2021.
-1000012,Derrote todas as equipes da EU League na temporada de primavera de 2021.
-1000013,Derrote todas as equipes da LCS na temporada de primavera de 2021.
-1000014,Derrote todas as equipes do Top 10 da temporada Multi Match 21‑1.
-1000015,Derrote todas as equipes do Top 10 da Temporada Multi Match 21‑2.
-1000016,Derrote todas as equipes da CN League na temporada de primavera de 2021.
-1000017,Derrote todas as equipes da KR League na temporada de verão de 2021.
-1000018,Derrote todas as equipes da EU League na temporada de verão de 2021.
-1000019,Derrote todas as equipes da NA na Temporada de Verão de 21.
-1000020,Derrote todas as equipes da CN League na temporada de verão de 2021.
-1000021,Derrote todas as equipes do Top 10 da Temporada 21‑3 de Multi Match.
-1000022,Derrote todas as equipes do Top 10 da temporada Multi Match 22‑1.
-1000023,Derrote todas as equipes da KR League na temporada de primavera de 22.
-1000024,Derrote todas as equipes da EU League na temporada de primavera de 2022.
-1000025,Derrote todas as equipes da LCS na temporada de primavera de 22.
-1000026,Derrote todas as equipes do Top 10 da Temporada Multi Match 22‑2.
-1000027,Derrote todas as equipes do Top 10 da temporada 22‑3 de Multi Match.
-1000028,Derrote todas as equipes do Top 10 da Temporada 22‑4 do Multi Match.
-1000029,Derrote todas as equipes da KR League na temporada de verão de 22.
-1000030,Derrote todas as equipes da EU LEC na temporada de verão de 2022.
-1000031,Derrote todas as equipes da NA na temporada de verão de 2022.
-1000032,Derrote todas as equipes do Top 10 da Temporada 23‑1 do Multi Match.
-1000033,Derrote todas as equipes do Top 10 da Temporada 23‑2 do Multi Match.
-1000034,Derrote todas as equipes da KR League na temporada de primavera de 23.
-1000035,Derrote todos os times da EU League na temporada de primavera de 2023.
-1000036,Derrote todas as equipes da LCS norte‑americana na temporada de primavera de 2023.
-1000037,Derrote todas as equipes do Top 10 da Temporada 23‑3 do Multi Match.
-1000038,Derrote todas as equipes da KR League na temporada de verão de 2023.
-1000039,Derrote todas as equipes da EU League na temporada de verão de 23.
-1000040,Derrote todas as equipes da Liga NA na temporada de verão de 23.
-1000041,Derrote todas as equipes do Top 10 da Temporada 23‑4 do Multi Match.
-1000042,Derrote todas as equipes do Top 10 da Temporada 24‑1 no Multi Match.
-1000043,Derrote todas as equipes do Top 10 da temporada Multi Match 24‑2.
-1000044,Derrote todas as equipes da KR League na temporada de primavera de 2024.
-1000045,Derrote todas as equipes da EU League na temporada de primavera de 2024.
-1000046,Derrote todos os times da NA League na Temporada de Primavera de 24.
-1000047,Derrote todas as equipes do Top 10 da Temporada 24‑3 do Multi Match.
-1000048,Derrote todas as equipes da KR League na temporada de verão de 2024.
-1000049,Derrote todas as equipes da EU League na Temporada de Verão 24.
-1000050,Derrote todas as equipes da Liga NA na Temporada de Verão de 2024.
-1000051,Derrote todas as equipes do Top 10 da temporada 24‑4 de Multi Match.
-1000052,Derrote todas as equipes do Top 10 da temporada Multi Match 25‑1.
-1000053,Derrote todas as equipes do Top 10 da Temporada Multi Match 25‑2.
-1000054,Derrote todas as equipes da KR League na 25ª temporada de primavera.
-1000055,Derrote todas as equipes da EU LEC na 25ª Temporada de Primavera.
-1000056,Derrote todas as equipes da NA League na temporada de primavera de 2025.
-1000057,Derrote todas as equipes do Top 10 da Temporada Multi Match 25‑3.
-1000058,Derrote todas as equipes da KR League no 25º Split de Verão.
-1000059,Derrote todos os times da EU League na 25ª temporada de verão.
-1000060,Derrote todas as equipes da NA League na temporada de verão de 2025.
-1000061,Derrote todas as equipes do Top 10 da Temporada 25‑4 do Multi Match.
+1000000.0,Derrote todas as equipes da KR League na temporada 18.
+1000001.0,Derrote todas as equipes da KR League na 19ª temporada de primavera.
+1000002.0,Derrote todos os times da KR League na 19ª temporada de verão.
+1000003.0,Derrote todas as equipes do Top 10 da Temporada 19 de Multi‑Match.
+1000004.0,Derrote todas as equipes da KR League na 20ª Temporada de Primavera.
+1000005.0,Derrote todas as equipes da Liga Europeia na 20ª temporada de primavera.
+1000006.0,Derrote todas as equipes da LCS na temporada de primavera de 2020.
+1000007.0,Derrote todas as equipes da KR League na Temporada de Verão de 2020.
+1000008.0,Derrote todas as equipes da EU League na 20ª temporada de verão.
+1000009.0,Derrote todas as equipes da NA League na temporada de verão de 2020.
+1000010.0,Derrote todas as equipes Top 10 da Temporada 20 do Multi Match.
+1000011.0,Derrote todas as equipes da KR League na temporada de primavera de 2021.
+1000012.0,Derrote todas as equipes da EU League na temporada de primavera de 2021.
+1000013.0,Derrote todas as equipes da LCS na temporada de primavera de 2021.
+1000014.0,Derrote todas as equipes do Top 10 da temporada Multi Match 21‑1.
+1000015.0,Derrote todas as equipes do Top 10 da Temporada Multi Match 21‑2.
+1000016.0,Derrote todas as equipes da CN League na temporada de primavera de 2021.
+1000017.0,Derrote todas as equipes da KR League na temporada de verão de 2021.
+1000018.0,Derrote todas as equipes da EU League na temporada de verão de 2021.
+1000019.0,Derrote todas as equipes da NA na Temporada de Verão de 21.
+1000020.0,Derrote todas as equipes da CN League na temporada de verão de 2021.
+1000021.0,Derrote todas as equipes do Top 10 da Temporada 21‑3 de Multi Match.
+1000022.0,Derrote todas as equipes do Top 10 da temporada Multi Match 22‑1.
+1000023.0,Derrote todas as equipes da KR League na temporada de primavera de 22.
+1000024.0,Derrote todas as equipes da EU League na temporada de primavera de 2022.
+1000025.0,Derrote todas as equipes da LCS na temporada de primavera de 22.
+1000026.0,Derrote todas as equipes do Top 10 da Temporada Multi Match 22‑2.
+1000027.0,Derrote todas as equipes do Top 10 da temporada 22‑3 de Multi Match.
+1000028.0,Derrote todas as equipes do Top 10 da Temporada 22‑4 do Multi Match.
+1000029.0,Derrote todas as equipes da KR League na temporada de verão de 22.
+1000030.0,Derrote todas as equipes da EU LEC na temporada de verão de 2022.
+1000031.0,Derrote todas as equipes da NA na temporada de verão de 2022.
+1000032.0,Derrote todas as equipes do Top 10 da Temporada 23‑1 do Multi Match.
+1000033.0,Derrote todas as equipes do Top 10 da Temporada 23‑2 do Multi Match.
+1000034.0,Derrote todas as equipes da KR League na temporada de primavera de 23.
+1000035.0,Derrote todos os times da EU League na temporada de primavera de 2023.
+1000036.0,Derrote todas as equipes da LCS norte‑americana na temporada de primavera de 2023.
+1000037.0,Derrote todas as equipes do Top 10 da Temporada 23‑3 do Multi Match.
+1000038.0,Derrote todas as equipes da KR League na temporada de verão de 2023.
+1000039.0,Derrote todas as equipes da EU League na temporada de verão de 23.
+1000040.0,Derrote todas as equipes da Liga NA na temporada de verão de 23.
+1000041.0,Derrote todas as equipes do Top 10 da Temporada 23‑4 do Multi Match.
+1000042.0,Derrote todas as equipes do Top 10 da Temporada 24‑1 no Multi Match.
+1000043.0,Derrote todas as equipes do Top 10 da temporada Multi Match 24‑2.
+1000044.0,Derrote todas as equipes da KR League na temporada de primavera de 2024.
+1000045.0,Derrote todas as equipes da EU League na temporada de primavera de 2024.
+1000046.0,Derrote todos os times da NA League na Temporada de Primavera de 24.
+1000047.0,Derrote todas as equipes do Top 10 da Temporada 24‑3 do Multi Match.
+1000048.0,Derrote todas as equipes da KR League na temporada de verão de 2024.
+1000049.0,Derrote todas as equipes da EU League na Temporada de Verão 24.
+1000050.0,Derrote todas as equipes da Liga NA na Temporada de Verão de 2024.
+1000051.0,Derrote todas as equipes do Top 10 da temporada 24‑4 de Multi Match.
+1000052.0,Derrote todas as equipes do Top 10 da temporada Multi Match 25‑1.
+1000053.0,Derrote todas as equipes do Top 10 da Temporada Multi Match 25‑2.
+1000054.0,Derrote todas as equipes da KR League na 25ª temporada de primavera.
+1000055.0,Derrote todas as equipes da EU LEC na 25ª Temporada de Primavera.
+1000056.0,Derrote todas as equipes da NA League na temporada de primavera de 2025.
+1000057.0,Derrote todas as equipes do Top 10 da Temporada Multi Match 25‑3.
+1000058.0,Derrote todas as equipes da KR League no 25º Split de Verão.
+1000059.0,Derrote todos os times da EU League na 25ª temporada de verão.
+1000060.0,Derrote todas as equipes da NA League na temporada de verão de 2025.
+1000061.0,Derrote todas as equipes do Top 10 da Temporada 25‑4 do Multi Match.
+1000062.0,Derrote todos os times da Liga KR na temporada de 26 invernos.
+1000063.0,Derrote todas as equipes da Liga Europeia na temporada de inverno 26.
+1000064.0,Derrote todos os times da Liga NA na 26ª temporada de inverno.
+1000065.0,Derrote todas as equipes do Top10 da Temporada Multi Match 26-1.

@@ -1,9 +1,9 @@
 ﻿ID,Name,Dec
-1000,Oyuncu Alımı,2026'da rastgele oyuncuları topla
-1001,Antrenör Alımı,Rastgele bir koç kirala.
-1003,2025 Sezonu Kadro Alımı,25. sezondan rastgele bir oyuncu işe al (sınırlama hariç).
-1002,2024 Sezonu Kadro Alımı,24. sezondan rastgele bir oyuncuyu katla. (Sınırlama hariç)
-1003,2023 Sezon Katılımı,23. sezondan rastgele bir oyuncu seç. (Kısıtlama hariç)
-1004,2022 Sezon Kadro Alımı,22. sezondan rastgele bir oyuncuyu işe al. (Sınırlama hariç)
-1005,2021 Sezon Kadro Alımı,21. sezondan rastgele bir oyuncuyu davet et. (Sınırlama dahil değildir)
-1006,Önceki Sezon Kadro Alımı,18‑20 sezonundan rastgele bir oyuncuyu işe al. (Sınırlama hariç)
+1000,Oyuncu Alımı,2026'da rastgele oyuncuları işe alın
+1001,Antrenör Alımı,Rastgele bir antrenör kiralayın.
+1003,2025Sezon İşe Alım,25.sezondan rastgele oyuncuyu işe alın. (Sınırlama dahil değildir)
+1002,2024Sezon İşe Alım,24.sezondan rastgele oyuncuyu işe alın. (Sınırlama dahil değildir)
+1003,2023Sezon Alımı,23.sezondan rastgele oyuncuyu işe alın. (Sınırlama dahil değildir)
+1004,2022Sezon İşe Alım,22.sezondan rastgele oyuncuyu işe alın. (Sınırlama dahil değildir)
+1005,2021Sezonu İşe Alım,21.sezondan rastgele oyuncuyu işe alın. (Sınırlama dahil değildir)
+1006,Önceki sezon işe alım,18~20 sezonundan rastgele oyuncuyu işe alın. (Sınırlama dahil değildir)

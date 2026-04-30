@@ -10,7 +10,7 @@
 1008,정수,Essenz
 1009,저장날짜,Datum vormerken
 1010,결정,Entscheidung
-1011,경기,Match
+1011,경기,Spiel
 1012,리그,Liga
 1013,전략,Strategie
 1014,선수{관리,Spielerverwaltung
@@ -34,7 +34,7 @@
 1032,패배,Niederlage
 1033,간편,Einfach
 1034,지침,Richtlinie
-1035,픽밴,Pick/Ban
+1035,밴픽,BanPick
 1036,설정,Set
 1037,설명,Erklärung
 1038,라인,Linie
@@ -95,7 +95,7 @@
 1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,Teaminformationen konnten nicht geladen werden. Bitte erneut versuchen.
 1094,이곳을 눌러 찾을 팀이름 입력,"Hier tippen, um den Teamnamen einzugeben und zu suchen."
 1095,밴플레이어,Spieler bannen
-1096,전달,Relay
+1096,전달,Relais
 1097,전송,Senden
 1098,문의하기,Kontakt
 1099,버그/건의,Fehler / Vorschläge
@@ -128,7 +128,7 @@
 1126,정글,Jungle
 1127,미드,Mid
 1128,원딜,AD
-1129,서폿,Support
+1129,서폿,Unterstützung
 1130,중심,Mitte
 1131,갱킹,Ganken
 1132,메인오더,Hauptorder
@@ -146,7 +146,7 @@
 1144,전송 비용:,Übertragungskosten:
 1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Gegenstandspreis + Grundgebühr 100 + 5 % des Preises des angehängten Gegenstands)
 1146,쪽지보내기,Nachricht senden
-1147,첼린저,Challenger
+1147,첼린저,Herausforderer
 1148,마스터,Meister
 1149,다이아,Diamant
 1150,플레티넘,Platin
@@ -171,7 +171,7 @@
 1169,모든팀에게 승리 시,Sieg für alle Teams!
 1170,상세보기,Details anzeigen
 1171,연습{경기,Trainingsmatch
-1172,대전,Match
+1172,대전,Spiel
 1173,멀티 시즌성적,Saisonübergreifende Ergebnisse
 1174,새로운 시즌 시작,Saisonstart
 1175,평균 선수 종합:,Durchschn. Spieler‑Total:
@@ -184,7 +184,7 @@
 1191,새로운 리그 시작,Neuer Ligastart
 1192,<선수 등급 정보>,Spieler‑Bewertungsinfo
 1193,토너먼트,Turnier
-1194,우승,Champion
+1194,우승,Meister
 1195,승자조,Winners‑Bracket
 1196,패자조,Losers‑Bracket
 1197,시즌보상정보,Info zu Saisonbelohnungen
@@ -213,7 +213,7 @@
 1220,재시작,Neustart
 1221,코치,Trainer
 1222,추가,Hinzufügen
-1223,후보,Sub
+1223,후보,U-Boot
 1224,새게임,Neues Spiel
 1225,버그 제보,Bug‑Report
 1226,코치명단,Trainerliste
@@ -223,3 +223,4 @@
 1230,보상선수,Spieler belohnen
 1231,선수명단,Spielerliste
 1232,시간정보 재송신,Zeit‑Info neu laden
+1233,밴픽 평가,Ban/Pick-Evaluierung

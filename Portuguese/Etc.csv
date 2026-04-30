@@ -34,7 +34,7 @@
 1032,패배,Derrota
 1033,간편,Simples
 1034,지침,Diretriz
-1035,픽밴,Pick Ban
+1035,밴픽,BanPick
 1036,설정,Conjunto
 1037,설명,Explicação
 1038,라인,Rota
@@ -72,7 +72,7 @@
 1070,대전찾기,Busca de Partida
 1071,선수,Jogador
 1072,감독,Gerente
-1073,로그인,Login
+1073,로그인,Entrar
 1074,확인,Confirmar
 1075,일일,Dia
 1076,업적,Conquistas
@@ -205,12 +205,12 @@
 1212,경기 아이템,Itens da Partida
 1213,사용,Usar
 1214,개수,Contagem
-1215,자동,Auto
+1215,자동,Automático
 1216,추가경험치,Adicionar EXP
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Recompensas só podem ser obtidas a partir da Temporada 10.
 1218,언어설정,Configuração de idioma
 1219,리셋,Reiniciar
-1220,재시작,Reboot
+1220,재시작,Reiniciar
 1221,코치,Treinador
 1222,추가,Adicionar
 1223,후보,Suplente
@@ -223,3 +223,4 @@
 1230,보상선수,Recompensar Jogador
 1231,선수명단,Lista de Jogadores
 1232,시간정보 재송신,Recarregar informações de tempo
+1233,밴픽 평가,Avaliação de Ban/Pick

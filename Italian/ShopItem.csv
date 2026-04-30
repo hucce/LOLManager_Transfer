@@ -1,9 +1,9 @@
 ﻿ID,Name,Dec
-1000,Reclutamento Giocatori,Recluta giocatori casuali nel 2026
-1001,Reclutamento Allenatore,Assumi un coach casuale.
-1003,Reclutamento Stagione 2025,Recluta un giocatore casuale dalla Stagione 25. (Escludendo le limitazioni)
-1002,Recruitment Stagione 2024,Recluta un giocatore casuale dalla Stagione 24. (Non include limitazioni)
-1003,Recruiting Stagione 2023,Recluta un giocatore casuale dalla Stagione 23 (senza limitazioni).
-1004,Reclutamento Stagione 2022,Recluta un giocatore casuale dalla stagione 22. (Senza limitazioni)
-1005,Reclutamento Stagione 2021,Recluta un giocatore casuale dalla stagione 21 (esclusa qualsiasi limitazione).
-1006,Reclutamento della stagione precedente,Seleziona un giocatore a caso dalla stagione 18‑20. (Senza limiti)
+1000,Reclutamento dei giocatori,Recluta giocatori casuali nel 2026
+1001,Reclutamento allenatori,Assumi un allenatore a caso.
+1003,Reclutamento per la stagione 2025,Recluta un giocatore casuale della stagione 25. (Esclusa la limitazione)
+1002,Reclutamento per la stagione 2024,Recluta un giocatore casuale dalla stagione 24. (Esclusa la limitazione)
+1003,Reclutamento per la stagione 2023,Recluta un giocatore casuale della stagione 23. (Esclusa la limitazione)
+1004,Reclutamento per la stagione 2022,Recluta un giocatore casuale della 22a stagione. (Esclusa la limitazione)
+1005,Reclutamento per la stagione 2021,Recluta un giocatore casuale della stagione 21. (Esclusa la limitazione)
+1006,Reclutamento della stagione precedente,Recluta un giocatore casuale dalla stagione 18~20. (Esclusa la limitazione)

@@ -34,7 +34,7 @@
 1032,패배,Defeat
 1033,간편,Simple
 1034,지침,Guideline
-1035,픽밴,Pick Ban
+1035,밴픽,BanPick
 1036,설정,Set
 1037,설명,Explanation
 1038,라인,Line
@@ -223,3 +223,4 @@
 1230,보상선수,Reward Player
 1231,선수명단,Player List
 1232,시간정보 재송신,Time info reload
+1233,밴픽 평가,Ban/Pick Evaluation
