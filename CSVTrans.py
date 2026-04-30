@@ -209,6 +209,10 @@ def Convert(loadList, language, languageFull, replaceList, driver, currentVersio
                 result = originRead.loc[changed_mask].copy()
 
                 if not result.empty:
+                    loadUrl = 'https://translate.google.com/?hl=ko&sl=auto&tl=[lan]&op=translate'
+                    base_url = loadUrl.replace('[lan]', language)
+                    driver.get(base_url)
+
                     colList = ['Name', 'Dec']
                     exTxt = ''
                     exEx = ''
@@ -244,6 +248,10 @@ def Convert(loadList, language, languageFull, replaceList, driver, currentVersio
                     createFolder('./' + languageFull)
                     languageRead.to_csv('./'+ languageFull +'/' + loadFile + '.csv', mode='w', index=False, encoding='utf-8-sig')
             else:
+                loadUrl = 'https://translate.google.com/?hl=ko&sl=auto&tl=[lan]&op=translate'
+                base_url = loadUrl.replace('[lan]', language)
+                driver.get(base_url)
+
                 colList = ['Name', 'Dec']
                 exTxt = ''
                 exEx = ''
@@ -291,10 +299,10 @@ def CsvNRemove(loadFile, languageFull):
 loadList = ['AccountBox', 'Etc', 'MatchCategory', 'MatchItem', 'Notice', 'Script', 'ShopItem', 'Tutorial']
 
 #완전히 새로운 데이터로 변경
-replaceList = []
+replaceList = ['Notice']
 
 #현재 버전
-currentVersion = '8.3'
+currentVersion = '8.23'
 
 #일본어, 중국어간체, 중국어번체, 베트남어, 독일어, 러시아어, 스페인어, 아랍어, 이탈리아어, 말레이어, 태국어, 터키어, 프랑스어, 인도네시아어, 자바어, 뱅골어, 힌디어, 포르투칼어
 #Japanese, Simplified Chinese, Traditional Chinese, Vietnamese, German, Russian, Spanish, Arabic, Italian, Malay, Thai, Turkish, French, Indonesian, Javanese, Bengali, Hindi, Portuguese
