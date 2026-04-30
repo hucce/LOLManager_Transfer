@@ -36,13 +36,13 @@
 24009,Hutan
 24010,Mid
 24011,Damage Serangan (AD)
-24012,Support
+24012,Dhukungan
 25000,Serang
 25001,Seimbang
 25002,Tank
 25003,Serangan
 25004,Seimbang
-25005,Tanker
+25005,Kapal tanker
 25006,Serangan
 25007,Seimbang
 25008,Pendukung
@@ -136,7 +136,7 @@
 33026,Apa sampeyan yakin arep mbusak kanca iki?
 33027,Strategi disalin
 33028,Jinis
-33029,Ban
+33029,Larangan
 33030,Pernyataan
 33031,Bug / Saran
 33032,Undhangan Manajer. Dadi manajer tim LOL.
@@ -154,14 +154,14 @@
 38000,Kabeh
 38001,Perak
 38002,Emas
-38003,Platinum
+38003,Platina
 33040,Kabeh
 33041,Perak
 33042,Emas
 33043,Platin
 33044,Berlian
 33045,Penantang
-33046,Master
+33046,Bendaro
 33047,Rekrutmen
 33048,Pakèt
 33049,Presentasi
@@ -170,7 +170,7 @@
 33052,Tukar
 33053,Tambah
 33054,Mbusak
-33055,Total
+33055,Gunggung
 33056,Statistik
 33057,Perunggu
 33058,Nganti peningkatan peringkat sabanjuré
@@ -196,3 +196,9 @@
 33078,Info Probabilitas
 33079,Nalika nonton iklan{EXP
 33080,Nalika nonton ad{Essence
+33081,◀ kaluwihan [1] saking <b>[0]</b>
+33082,kaluwihan [1] [0] ▶
+33083,Kabisaan [0] sing padha ing kaloro tim
+33084,Tim [0] kudu snowball wiwit awal kanthi unggul ing laning. Tim [1] scaling-e luwih apik.
+33085,Kekuatane tim [0] ana ing late teamfights. Fokus ing scaling.
+33086,Rong-ronge tim duwe syarat menang sing jelas. Keputusan pertandhingan bakal nemtokake kabeh.

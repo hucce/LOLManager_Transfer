@@ -36,7 +36,7 @@
 24009,Giungla
 24010,Corsia centrale
 24011,AD
-24012,Support
+24012,Supporto
 25000,Attacco
 25001,Bilanciato
 25002,Tank
@@ -114,7 +114,7 @@
 34004,Importazione dati completata
 34005,"Problema, riprova"
 34006,Errore! Carica in modalità offline
-33007,Round
+33007,Rotondo
 33008,Corsia
 33009,Teamfight
 33010,Operazione
@@ -123,7 +123,7 @@
 33013,Bot
 33014,Grande Sconfitta
 33015,Sconfitta
-33016,Bearish
+33016,Ribassista
 33017,Contesa
 33018,Superiorità
 33019,Vittoria
@@ -160,7 +160,7 @@
 33042,Oro
 33043,Platino
 33044,Diamante
-33045,Challenger
+33045,Sfidante
 33046,Maestro
 33047,Reclutamento
 33048,Pacchetto
@@ -196,3 +196,9 @@
 33078,Info Probabilità
 33079,Quando si guarda ad{EXP
 33080,Quando guardi l’annuncio {Essenza
+33081,◀ il vantaggio [1] di <b>[0]</b>
+33082,il vantaggio [1] di [0] ▶
+33083,Uguale [0] abilità in entrambe le squadre
+33084,La squadra [0] deve snowballare presto grazie ai vantaggi in fase di lane. La squadra [1] scala meglio.
+33085,La forza del team di [0] risiede nei teamfight nel late game. Concentratevi sullo scaling.
+33086,Entrambe le squadre hanno chiare condizioni di vittoria. Le decisioni della partita decideranno tutto.

@@ -34,8 +34,8 @@
 1032,패배,Kalah
 1033,간편,Mudah
 1034,지침,Panduan
-1035,픽밴,Pick Ban
-1036,설정,Set
+1035,밴픽,BanPick
+1036,설정,Tetapkan
 1037,설명,Penjelasan
 1038,라인,Garis
 1039,타입,Jenis
@@ -95,7 +95,7 @@
 1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,Gagal memuatkan info pasukan. {Cuba lagi
 1094,이곳을 눌러 찾을 팀이름 입력,Ketuk di sini untuk memasukkan nama pasukan bagi pencarian.
 1095,밴플레이어,Larangkan pemain
-1096,전달,Relay
+1096,전달,Relai
 1097,전송,Hantar
 1098,문의하기,Hubungi Kami
 1099,버그/건의,Pepijat / Cadangan
@@ -146,13 +146,13 @@
 1144,전송 비용:,Kos transmisi:
 1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),Harga item + yuran asas 100 + 5 % daripada harga item yang dilampirkan
 1146,쪽지보내기,Hantar mesej
-1147,첼린저,Challenger
-1148,마스터,Master
-1149,다이아,Diamond
+1147,첼린저,Pencabar
+1148,마스터,Tuan
+1149,다이아,Berlian
 1150,플레티넘,Platina
 1151,골드,Emas
 1152,실버,Perak
-1153,브론즈,Bronze
+1153,브론즈,Gangsa
 1154,<시즌 보상정보>,Maklumat Ganjaran Musim
 1155,시즌 보상정보,Maklumat Ganjaran Musim
 1156,등급상승 보상,Ganjaran Peningkatan Kelas
@@ -210,7 +210,7 @@
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Ganjaran hanya boleh diterima pada Musim 10 ke atas.
 1218,언어설정,Tetapan Bahasa
 1219,리셋,Set Semula
-1220,재시작,Reboot
+1220,재시작,Mulakan semula
 1221,코치,Jurulatih
 1222,추가,Tambah
 1223,후보,Pengganti
@@ -223,3 +223,4 @@
 1230,보상선수,Ganjaran Pemain
 1231,선수명단,Senarai Pemain
 1232,시간정보 재송신,Muat semula maklumat masa
+1233,밴픽 평가,Penilaian Sekat/Pilih

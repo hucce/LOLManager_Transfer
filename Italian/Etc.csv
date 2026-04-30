@@ -11,7 +11,7 @@
 1009,저장날짜,Segna la data
 1010,결정,Decisione
 1011,경기,Partita
-1012,리그,League
+1012,리그,Lega
 1013,전략,Strategia
 1014,선수{관리,Giocatore{Gestione
 1015,영입{시장,Reclutamento{Mercato
@@ -34,12 +34,12 @@
 1032,패배,Sconfitta
 1033,간편,Semplice
 1034,지침,Linee guida
-1035,픽밴,Pick Ban
+1035,밴픽,BanPick
 1036,설정,Set
 1037,설명,Spiegazione
 1038,라인,Corsia
 1039,타입,Tipo
-1040,등급,Rating
+1040,등급,Valutazione
 1041,강화,Rinforza
 1042,재조합,Ricombinazione
 1043,팀케미,Team Chemie
@@ -128,7 +128,7 @@
 1126,정글,Giungla
 1127,미드,Mid
 1128,원딜,AD
-1129,서폿,Support
+1129,서폿,Supporto
 1130,중심,Centro
 1131,갱킹,gankare
 1132,메인오더,Ordine principale
@@ -146,8 +146,8 @@
 1144,전송 비용:,Costo di trasmissione:
 1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),Prezzo dell’oggetto + fee base 100 + 5 % del prezzo dell’oggetto collegato
 1146,쪽지보내기,Invia un messaggio
-1147,첼린저,Challenger
-1148,마스터,Master
+1147,첼린저,Sfidante
+1148,마스터,Maestro
 1149,다이아,Diamante
 1150,플레티넘,Platino
 1151,골드,Oro
@@ -209,7 +209,7 @@
 1216,추가경험치,Aggiungi XP
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Le ricompense sono disponibili solo dalla stagione 10 in poi.
 1218,언어설정,Impostazioni lingua
-1219,리셋,Reset
+1219,리셋,Reimposta
 1220,재시작,Riavvio
 1221,코치,Allenatore
 1222,추가,Aggiungi
@@ -223,3 +223,4 @@
 1230,보상선수,Premia Giocatore
 1231,선수명단,Lista Giocatori
 1232,시간정보 재송신,Ricarica info temporale
+1233,밴픽 평가,Valutazione Ban/Pick

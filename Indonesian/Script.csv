@@ -36,7 +36,7 @@
 24009,Jungle
 24010,Mid
 24011,AD
-24012,Support
+24012,Dukungan
 25000,Serang
 25001,Seimbang
 25002,Tank
@@ -136,7 +136,7 @@
 33026,Apakah kamu yakin ingin menghapus teman ini?
 33027,Strategi tersalin
 33028,Jenis
-33029,Ban
+33029,Larangan
 33030,Deklarasi
 33031,Bug / Saran
 33032,Undangan Manajer. Menjadi Manajer Tim LOL.
@@ -154,14 +154,14 @@
 38000,Semua
 38001,Perak
 38002,Emas
-38003,Platinum
+38003,Platina
 33040,Semua
 33041,Perak
 33042,Emas
 33043,Platina
-33044,Diamond
-33045,Challenger
-33046,Master
+33044,Berlian
+33045,Penantang
+33046,Tuan
 33047,Rekrutmen
 33048,Paket
 33049,Presentasi
@@ -172,7 +172,7 @@
 33054,Hapus
 33055,Total
 33056,Stat
-33057,Bronze
+33057,Perunggu
 33058,Sampai naik peringkat berikutnya
 33059,Bergerak
 33060,Terima
@@ -196,3 +196,9 @@
 33078,Info Probabilitas
 33079,Saat menonton iklan {EXP}
 33080,Saat menonton ad{Essence
+33081,◀ keunggulan [1] <b>[0]</b>
+33082,keunggulan [1] [0] ▶
+33083,Kemampuan [0] yang sama di kedua tim
+33084,Tim [0] harus melakukan snowball sejak dini dengan keunggulan laning. Tim [1] memiliki scaling yang lebih baik.
+33085,Kekuatan tim [0] terletak pada teamfight late game. Fokus pada scaling.
+33086,Kedua tim memiliki kondisi kemenangan yang jelas. Keputusan pertandingan akan menentukan segalanya.

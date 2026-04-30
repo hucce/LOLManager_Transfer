@@ -28,14 +28,14 @@
 1026,종합,Total
 1027,일정,Kalender
 1028,상대팀,Tim lawan
-1029,총합,Total
+1029,총합,Jumlah
 1030,결과,Hasil
 1031,승리,Kemenangan
 1032,패배,Kalah
 1033,간편,Sederhana
 1034,지침,Pedoman
-1035,픽밴,Pilih Ban
-1036,설정,Set
+1035,밴픽,BanPick
+1036,설정,Atur
 1037,설명,Penjelasan
 1038,라인,Jalur
 1039,타입,Tipe
@@ -59,7 +59,7 @@
 1057,골드 영입,Rekrutmen Emas
 1058,실버 선수,Pemaen Silver
 1059,시청,Tonton
-1060,플레,Platinum
+1060,플레,Platina
 1061,골드,Emas
 1062,선수명단,Daftar Pemain
 1063,가격,Regane
@@ -95,7 +95,7 @@
 1093,팀정보를 불러오지 못했습니다.{다시 시도해보세요.,Gagal memuat info tim.{Coba maneh}
 1094,이곳을 눌러 찾을 팀이름 입력,Pencet kéné kanggo ngetik jeneng tim supaya bisa digoleki.
 1095,밴플레이어,Blokir Pemain
-1096,전달,Relay
+1096,전달,Relai
 1097,전송,Kirim
 1098,문의하기,Hubungi kita
 1099,버그/건의,Bug / Saran
@@ -147,9 +147,9 @@
 1145,(아이템 가격 + 기본 수수료 100 + 첨부아이템 가격의 5%),(Regane barang + biaya dhasar 100 + 5 % saka rega barang sing dipasang)
 1146,쪽지보내기,Kirim pesen
 1147,첼린저,Penantang
-1148,마스터,Master
-1149,다이아,Diamond
-1150,플레티넘,Platinum
+1148,마스터,Bendara
+1149,다이아,Intan
+1150,플레티넘,Platina
 1151,골드,Emas
 1152,실버,Perak
 1153,브론즈,Perunggu
@@ -200,7 +200,7 @@
 1207,<시즌보상선수>,Pemain Hadiah Musim
 1208,추가경험치,Tambah Exp
 1209,경기 자동,Pertandingan Otomatis
-1210,아이템,Item
+1210,아이템,Barang
 1211,사용중인 아이템,Item sing lagi digunakake
 1212,경기 아이템,Barang Pertandingan
 1213,사용,Gunakake
@@ -209,8 +209,8 @@
 1216,추가경험치,Tambah EXP
 1217,※ 보상은 시즌 10전 이상 이여만 받을 수 있습니다.,※ Hadiah mung bisa dipikolehi wiwit mangsa kaping 10 utawa luwih.
 1218,언어설정,Setelan Basa
-1219,리셋,Reset
-1220,재시작,Reboot
+1219,리셋,Atur ulang
+1220,재시작,Miwihi maneh
 1221,코치,Pelatih
 1222,추가,Tambah
 1223,후보,Pengganti
@@ -223,3 +223,4 @@
 1230,보상선수,Hadiah Pemain
 1231,선수명단,Daftar Pemain
 1232,시간정보 재송신,Informasi wektu dimuat ulang
+1233,밴픽 평가,Evaluasi Ban/Pick

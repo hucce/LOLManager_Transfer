@@ -36,7 +36,7 @@
 24009,Jungle
 24010,mid
 24011,AD
-24012,Support
+24012,Assistance
 25000,Attaque
 25001,Équilibré
 25002,Tankeur
@@ -79,7 +79,7 @@
 30009,Le jeu n’est pas à jour. Vous devez le mettre à jour vers la dernière version pour pouvoir jouer le match. {{Appuyez sur le bouton ci‑dessous pour vérifier à nouveau la version} ou rendez‑vous sur la page de mise à jour.}
 30010,Check
 30011,Ce n’est pas la dernière version.
-30012,Minute
+30012,minute
 30013,Vous avez été signalé·e comme tricheur et vous ne pouvez plus jouer en mode multijoueur.{{Veuillez envoyer un e‑mail à {hucce@gmail.com pour toute question.
 30014,Vous êtes répertorié comme un joueur tricheur.
 30015,Vérification du serveur multijoueur. Veuillez patienter jusqu’à la fin de la vérification.
@@ -149,7 +149,7 @@
 33039,Essence insuffisante
 37000,
 37001,Essence
-37002,Pack
+37002,Emballer
 37003,Pack
 38000,Tous
 38001,Argent
@@ -160,7 +160,7 @@
 33042,Or
 33043,Platine
 33044,Diamant
-33045,Challenger
+33045,Prétendant
 33046,Maître
 33047,Recrutement
 33048,Pack
@@ -196,3 +196,9 @@
 33078,Infos de probabilité
 33079,En regardant les publicités{EXP
 33080,En regardant ad{Essence}
+33081,◀ l'avantage [1] de <b>[0]</b>
+33082,l'avantage [1] de [0] ▶
+33083,Capacité [0] égale pour les deux équipes
+33084,L'équipe [0] doit snowball tôt grâce à l'avantage en phase de lane. L'équipe [1] scale mieux.
+33085,La force de l'équipe [0] réside dans les combats d'équipe en fin de partie. Concentrez-vous sur le scaling.
+33086,Les deux équipes ont des conditions de victoire claires. Les décisions de match décideront de tout.

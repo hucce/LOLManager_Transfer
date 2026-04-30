@@ -136,7 +136,7 @@
 33026,Bu arkadaşını silmek istediğinden emin misin?
 33027,Kopyalanmış Strateji
 33028,Türler
-33029,Ban
+33029,Yasakla
 33030,Beyan
 33031,Hata / Öneri
 33032,Yönetici daveti. Bir LOL takımı yöneticisi ol!
@@ -160,7 +160,7 @@
 33042,Altın
 33043,Platin
 33044,Elmas
-33045,Challenger
+33045,Meydan okuyan
 33046,Usta
 33047,Kadro Alımı
 33048,Paket
@@ -196,3 +196,9 @@
 33078,Olasılık Bilgisi
 33079,Reklam {EXP} izlenirken
 33080,AD Özünü izlerken
+33081,◀ <b>[0]</b>'nın [1] avantajı
+33082,[0]'nın [1] avantajı ▶
+33083,Her iki takımda da eşit [0] yeteneği
+33084,[0] takımı koridor üstünlükleriyle erken safhada kartopu etkisine girmeli. [1] takımı daha iyi ölçekleniyor.
+33085,[0] takımının gücü geç aşama takım savaşlarında yatar. Güçlenmeye odaklanın.
+33086,Her iki takımın da net galibiyet koşulları var. Maç kararları her şeyi belirleyecek.

@@ -51,7 +51,7 @@
 25011,Utiliti
 25012,Serangan
 25013,Seimbang
-25014,Tanker
+25014,Kapal tangki
 26000,Tekan lawan dengan kuat di barisan. Ia juga menguasai operasi melalui pembahagian. {{▲ Statistik Operasi meningkat. {{-Mata yang diperoleh atau hilang pada barisan meningkat. {{▼ Statistik Teamfight menurun.
 26001,Tank asas
 26002,Pengaruh berkurang dalam pertarungan di lorong. Namun dia lebih kuat dalam Teamfight. {{▲ Kebolehan Teamfight meningkat. {{-Mata yang diperoleh atau hilang di lorong dikurangkan. {{▼ Stat operasi diturunkan.
@@ -136,7 +136,7 @@
 33026,Anda pasti mahu memadamkan rakan ini?
 33027,Strategi Disalin
 33028,Jenis
-33029,Ban
+33029,Sekat
 33030,Penyataan
 33031,Pepijat / Cadangan
 33032,Jemputan Pengurus. Jadi Pengurus Pasukan LOL.
@@ -160,8 +160,8 @@
 33042,Emas
 33043,Platinum
 33044,Berlian
-33045,Challenger
-33046,Master
+33045,Pencabar
+33046,Tuan
 33047,Pengambilan
 33048,Pakej
 33049,Pembentangan
@@ -196,3 +196,9 @@
 33078,Info Kebarangkalian
 33079,Apabila menonton iklan {EXP}
 33080,Apabila menonton iklan{Essence
+33081,◀ kelebihan [1] <b>[0]</b>
+33082,kelebihan [1] [0] ▶
+33083,Kebolehan [0] yang sama pada kedua-dua pasukan
+33084,Pasukan [0] mesti snowball awal dengan kelebihan laning. Pasukan [1] mempunyai scaling yang lebih baik.
+33085,Kekuatan pasukan [0] terletak pada pertarungan berpasukan fasa akhir. Fokus kepada peningkatan skala.
+33086,Kedua-dua pasukan mempunyai syarat kemenangan yang jelas. Keputusan perlawanan akan menentukan segala-galanya.
