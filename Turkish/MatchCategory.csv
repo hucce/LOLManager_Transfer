@@ -1,63 +1,67 @@
 ﻿ID,Dec
-1000000,18. sezonda tüm KR Ligi takımlarını yen.
-1000001,19 Bahar sezonunda tüm KR Ligi takımlarını mağlup et.
-1000002,19 yaz sezonunda KR Ligi takımlarının tümünü alt et.
-1000003,Multi Match 19 sezonundaki tüm Top 10 takımlarını yen.
-1000004,20 Bahar Sezonu'nda KR Ligi takımlarının tamamını yen.
-1000005,20 Bahar sezonunda tüm EU ligi takımlarını mağlup et.
-1000006,20 Bahar sezonunda tüm NA Ligi takımlarını mağlup et.
-1000007,20 Yaz Sezonu'nda tüm KR Ligi takımlarını yen.
-1000008,20 Yaz Sezonu'nda tüm EU Ligi takımlarını yen.
-1000009,20. yaz sezonunda tüm NA Ligi takımlarını mağlup et.
-1000010,Tüm Multi Match 20 Sezonu İlk 10 takımlarını yen.
-1000011,21 Bahar Sezonu'nda KR Ligi takımlarının tamamını mağlup et.
-1000012,21 Bahar Sezonu'nda tüm EU Ligi takımlarını mağlup et.
-1000013,2021 Bahar sezonunda tüm NA Ligi takımlarını yen.
-1000014,Tüm Multi Match 21‑1 Sezonu Top 10 takımlarını alt et.
-1000015,Multi Match 21‑2 sezonunun Top 10 takımlarının hepsini yen.
-1000016,21. bahar sezonunda tüm CN Ligi takımlarını mağlup et.
-1000017,2021 yaz sezonunda tüm KR League takımlarını yen.
-1000018,2021 yaz sezonunda tüm EU Ligi takımlarını yen.
-1000019,2021 Yaz Sezonu'nda tüm NA Ligi takımlarını alt edin.
-1000020,2021 Yaz Sezonu'nda tüm CN Ligi takımlarını mağlup et.
-1000021,Tüm Multi Match 21‑3 sezonunun Top 10 takımlarını yen.
-1000022,Multi Match 22‑1 sezonundaki Top 10 takımlarının tamamını alt et.
-1000023,22 bahar sezonunda tüm KR Ligi takımlarını mağlup et.
-1000024,22 Bahar sezonunda tüm EU Ligi takımlarını mağlup et.
-1000025,2022 Bahar sezonunda tüm NA Ligi takımlarını yen.
-1000026,Multi Match 22‑2 Sezonu Top 10 takımlarını yen.
-1000027,Multi Match 22‑3 sezonunun Top 10 takımlarını yen.
-1000028,Multi Match 22‑4 sezonunun Top 10 takımlarını yen.
-1000029,2022 Yaz Sezonu'nda KR Ligi’nin tüm takımlarını alt edin.
-1000030,2022 yaz sezonunda tüm EU Ligi takımlarını mağlup et.
-1000031,2022 yaz sezonunda tüm NA Ligi takımlarını alt et.
-1000032,Multi Match 23‑1 Sezonu Top 10 takımlarının tamamını yen.
-1000033,Multi Match 23‑2 Sezonu Top 10 takımlarını yen.
-1000034,23 Bahar Sezonu'nda KR Ligi'nin tüm takımlarını yen.
-1000035,23 bahar sezonunda tüm EU Ligi takımlarını yen.
-1000036,2023 bahar sezonunda tüm NA Ligi takımlarını yen.
-1000037,Multi Match 23‑3 sezonundaki Top 10 takımı yen.
-1000038,2023 yaz sezonunda KR Ligi’nin tüm takımlarını yen.
-1000039,23 yaz sezonunda tüm EU Ligi takımlarını yen.
-1000040,2023 yaz sezonunda tüm NA Ligi takımlarını yen.
-1000041,Multi Match 23‑4 Sezonu Top 10 takımlarını alt et.
-1000042,Multi Match 24‑1 sezonunun Top 10 takımlarını hepsi yen!
-1000043,Tüm Multi Match 24‑2 sezonu Top 10 takımlarını yen.
-1000044,24 Bahar sezonunda tüm KR Ligi takımlarını alt et.
-1000045,24 Bahar sezonunda tüm EU Ligi takımlarını yen.
-1000046,24 Bahar sezonunda tüm NA Ligi takımlarını alt et.
-1000047,Multi Match 24‑3 sezonunun Top 10 takımlarını yen.
-1000048,24 Yaz Sezonu'nda tüm KR Ligi takımlarını mağlup et.
-1000049,24 Yaz sezonunda EU Ligi’nin tüm takımlarını mağlup et.
-1000050,24 yaz sezonunda tüm NA Ligi takımlarını yen.
-1000051,Multi Match 24‑4 Sezonu Top 10 takımlarının hepsini yen.
-1000052,Tüm Multi Match 25‑1 Sezonu Top 10 takımlarını yen.
-1000053,Tüm Multi Match 25‑2 sezonunun Top 10 takımlarını yen!
-1000054,25. bahar sezonunda tüm KR Ligi takımlarını alt edin.
-1000055,25. bahar sezonunda tüm EU Ligi takımlarını yen.
-1000056,25. Spring sezonunda tüm NA LCS takımlarını mağlup et.
-1000057,Tüm Multi Match 25‑3 Sezonu Top 10 takımlarını alt et.
-1000058,25. Yaz sezonunda tüm KR Ligi takımlarını alt et.
-1000059,25. yaz sezonunda tüm EU Ligi takımlarını mağlup et.
-1000060,25. yaz sezonunda tüm NA Ligi takımlarını mağlup et.
-1000061,Tüm Multi Match 25‑4 Sezonu Top 10 takımlarını yen!
+1000000.0,18. sezonda tüm KR Ligi takımlarını yen.
+1000001.0,19 Bahar sezonunda tüm KR Ligi takımlarını mağlup et.
+1000002.0,19 yaz sezonunda KR Ligi takımlarının tümünü alt et.
+1000003.0,Multi Match 19 sezonundaki tüm Top 10 takımlarını yen.
+1000004.0,20 Bahar Sezonu'nda KR Ligi takımlarının tamamını yen.
+1000005.0,20 Bahar sezonunda tüm EU ligi takımlarını mağlup et.
+1000006.0,20 Bahar sezonunda tüm NA Ligi takımlarını mağlup et.
+1000007.0,20 Yaz Sezonu'nda tüm KR Ligi takımlarını yen.
+1000008.0,20 Yaz Sezonu'nda tüm EU Ligi takımlarını yen.
+1000009.0,20. yaz sezonunda tüm NA Ligi takımlarını mağlup et.
+1000010.0,Tüm Multi Match 20 Sezonu İlk 10 takımlarını yen.
+1000011.0,21 Bahar Sezonu'nda KR Ligi takımlarının tamamını mağlup et.
+1000012.0,21 Bahar Sezonu'nda tüm EU Ligi takımlarını mağlup et.
+1000013.0,2021 Bahar sezonunda tüm NA Ligi takımlarını yen.
+1000014.0,Tüm Multi Match 21‑1 Sezonu Top 10 takımlarını alt et.
+1000015.0,Multi Match 21‑2 sezonunun Top 10 takımlarının hepsini yen.
+1000016.0,21. bahar sezonunda tüm CN Ligi takımlarını mağlup et.
+1000017.0,2021 yaz sezonunda tüm KR League takımlarını yen.
+1000018.0,2021 yaz sezonunda tüm EU Ligi takımlarını yen.
+1000019.0,2021 Yaz Sezonu'nda tüm NA Ligi takımlarını alt edin.
+1000020.0,2021 Yaz Sezonu'nda tüm CN Ligi takımlarını mağlup et.
+1000021.0,Tüm Multi Match 21‑3 sezonunun Top 10 takımlarını yen.
+1000022.0,Multi Match 22‑1 sezonundaki Top 10 takımlarının tamamını alt et.
+1000023.0,22 bahar sezonunda tüm KR Ligi takımlarını mağlup et.
+1000024.0,22 Bahar sezonunda tüm EU Ligi takımlarını mağlup et.
+1000025.0,2022 Bahar sezonunda tüm NA Ligi takımlarını yen.
+1000026.0,Multi Match 22‑2 Sezonu Top 10 takımlarını yen.
+1000027.0,Multi Match 22‑3 sezonunun Top 10 takımlarını yen.
+1000028.0,Multi Match 22‑4 sezonunun Top 10 takımlarını yen.
+1000029.0,2022 Yaz Sezonu'nda KR Ligi’nin tüm takımlarını alt edin.
+1000030.0,2022 yaz sezonunda tüm EU Ligi takımlarını mağlup et.
+1000031.0,2022 yaz sezonunda tüm NA Ligi takımlarını alt et.
+1000032.0,Multi Match 23‑1 Sezonu Top 10 takımlarının tamamını yen.
+1000033.0,Multi Match 23‑2 Sezonu Top 10 takımlarını yen.
+1000034.0,23 Bahar Sezonu'nda KR Ligi'nin tüm takımlarını yen.
+1000035.0,23 bahar sezonunda tüm EU Ligi takımlarını yen.
+1000036.0,2023 bahar sezonunda tüm NA Ligi takımlarını yen.
+1000037.0,Multi Match 23‑3 sezonundaki Top 10 takımı yen.
+1000038.0,2023 yaz sezonunda KR Ligi’nin tüm takımlarını yen.
+1000039.0,23 yaz sezonunda tüm EU Ligi takımlarını yen.
+1000040.0,2023 yaz sezonunda tüm NA Ligi takımlarını yen.
+1000041.0,Multi Match 23‑4 Sezonu Top 10 takımlarını alt et.
+1000042.0,Multi Match 24‑1 sezonunun Top 10 takımlarını hepsi yen!
+1000043.0,Tüm Multi Match 24‑2 sezonu Top 10 takımlarını yen.
+1000044.0,24 Bahar sezonunda tüm KR Ligi takımlarını alt et.
+1000045.0,24 Bahar sezonunda tüm EU Ligi takımlarını yen.
+1000046.0,24 Bahar sezonunda tüm NA Ligi takımlarını alt et.
+1000047.0,Multi Match 24‑3 sezonunun Top 10 takımlarını yen.
+1000048.0,24 Yaz Sezonu'nda tüm KR Ligi takımlarını mağlup et.
+1000049.0,24 Yaz sezonunda EU Ligi’nin tüm takımlarını mağlup et.
+1000050.0,24 yaz sezonunda tüm NA Ligi takımlarını yen.
+1000051.0,Multi Match 24‑4 Sezonu Top 10 takımlarının hepsini yen.
+1000052.0,Tüm Multi Match 25‑1 Sezonu Top 10 takımlarını yen.
+1000053.0,Tüm Multi Match 25‑2 sezonunun Top 10 takımlarını yen!
+1000054.0,25. bahar sezonunda tüm KR Ligi takımlarını alt edin.
+1000055.0,25. bahar sezonunda tüm EU Ligi takımlarını yen.
+1000056.0,25. Spring sezonunda tüm NA LCS takımlarını mağlup et.
+1000057.0,Tüm Multi Match 25‑3 Sezonu Top 10 takımlarını alt et.
+1000058.0,25. Yaz sezonunda tüm KR Ligi takımlarını alt et.
+1000059.0,25. yaz sezonunda tüm EU Ligi takımlarını mağlup et.
+1000060.0,25. yaz sezonunda tüm NA Ligi takımlarını mağlup et.
+1000061.0,Tüm Multi Match 25‑4 Sezonu Top 10 takımlarını yen!
+1000062.0,26. kış sezonunda tüm KR Ligi takımlarını yen.
+1000063.0,26. kış sezonunda tüm AB Ligi takımlarını mağlup edin.
+1000064.0,26 kış sezonunda tüm NA Ligi takımlarını yen.
+1000065.0,Tüm Çoklu Maç 26-1 Sezon İlk 10 takımlarını yen.
